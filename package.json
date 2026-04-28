@@ -25,7 +25,9 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "typecheck": "tsc --noEmit",
-    "sync:library": "tsx scripts/sync-library.ts"
+    "sync": "npm run sync:openprinttag && npm run sync:hueforge",
+    "sync:openprinttag": "tsx scripts/sync-openprinttag.ts",
+    "sync:hueforge": "tsx scripts/sync-hueforge.ts"
   },
   "keywords": [
     "3d-printing",

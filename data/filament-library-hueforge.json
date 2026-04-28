@@ -1,0 +1,5634 @@
+{
+  "version": 1,
+  "source": "hueforge",
+  "sourceUrl": "https://shop.thehueforge.com/pages/affiliates",
+  "lastSynced": "2026-04-28T21:00:03.830Z",
+  "entryCount": 625,
+  "entries": [
+    {
+      "id": "3d-fuel-pctg-aquamarine",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Aquamarine",
+      "hex": "#8bd8c5",
+      "td": 3.8,
+      "searchText": "3d-fuel pctg aquamarine"
+    },
+    {
+      "id": "3d-fuel-pctg-bitcoin-orange",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Bitcoin Orange",
+      "hex": "#fc8a3b",
+      "td": 3.2,
+      "searchText": "3d-fuel pctg bitcoin orange"
+    },
+    {
+      "id": "3d-fuel-pctg-bone-white",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Bone White",
+      "hex": "#eedfc3",
+      "td": 3.2,
+      "searchText": "3d-fuel pctg bone white"
+    },
+    {
+      "id": "3d-fuel-pctg-brightest-white",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Brightest White",
+      "hex": "#e9edf0",
+      "td": 3,
+      "searchText": "3d-fuel pctg brightest white"
+    },
+    {
+      "id": "3d-fuel-pctg-caribbean-blue",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Caribbean Blue",
+      "hex": "#008da1",
+      "td": 1.3,
+      "searchText": "3d-fuel pctg caribbean blue"
+    },
+    {
+      "id": "3d-fuel-pctg-charcoal-gray",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Charcoal Gray",
+      "hex": "#45494b",
+      "td": 0.2,
+      "searchText": "3d-fuel pctg charcoal gray"
+    },
+    {
+      "id": "3d-fuel-pctg-chocolate-brown",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Chocolate Brown",
+      "hex": "#51413d",
+      "td": 0.6,
+      "searchText": "3d-fuel pctg chocolate brown"
+    },
+    {
+      "id": "3d-fuel-pctg-cobalt-blue",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Cobalt Blue",
+      "hex": "#18549b",
+      "td": 3.5,
+      "searchText": "3d-fuel pctg cobalt blue"
+    },
+    {
+      "id": "3d-fuel-pctg-daffodil-yellow",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Daffodil Yellow",
+      "hex": "#fabe3c",
+      "td": 4.5,
+      "searchText": "3d-fuel pctg daffodil yellow"
+    },
+    {
+      "id": "3d-fuel-pctg-desert-tan",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Desert Tan",
+      "hex": "#bba794",
+      "td": 1.9,
+      "searchText": "3d-fuel pctg desert tan"
+    },
+    {
+      "id": "3d-fuel-pctg-fire-engine-red",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Fire Engine Red",
+      "hex": "#c43438",
+      "td": 3,
+      "searchText": "3d-fuel pctg fire engine red"
+    },
+    {
+      "id": "3d-fuel-pctg-flat-dark-earth",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Flat Dark Earth",
+      "hex": "#8e7265",
+      "td": 0.2,
+      "searchText": "3d-fuel pctg flat dark earth"
+    },
+    {
+      "id": "3d-fuel-pctg-fluorescent-orange",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Fluorescent Orange",
+      "hex": "#e77863",
+      "td": 9.9,
+      "searchText": "3d-fuel pctg fluorescent orange"
+    },
+    {
+      "id": "3d-fuel-pctg-galaxy-black",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Galaxy Black",
+      "hex": "#3c3c3b",
+      "td": 0.5,
+      "searchText": "3d-fuel pctg galaxy black"
+    },
+    {
+      "id": "3d-fuel-pctg-grape-purple",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Grape Purple",
+      "hex": "#60538d",
+      "td": 2.8,
+      "searchText": "3d-fuel pctg grape purple"
+    },
+    {
+      "id": "3d-fuel-pctg-grass-green",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Grass Green",
+      "hex": "#469854",
+      "td": 1.8,
+      "searchText": "3d-fuel pctg grass green"
+    },
+    {
+      "id": "3d-fuel-pctg-industrial-gray",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Industrial Gray",
+      "hex": "#7d8487",
+      "td": 0.4,
+      "searchText": "3d-fuel pctg industrial gray"
+    },
+    {
+      "id": "3d-fuel-pctg-iron-red",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Iron Red",
+      "hex": "#8e3338",
+      "td": 5.5,
+      "searchText": "3d-fuel pctg iron red"
+    },
+    {
+      "id": "3d-fuel-pctg-lime-green",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Lime Green",
+      "hex": "#60a52d",
+      "td": 4.1,
+      "searchText": "3d-fuel pctg lime green"
+    },
+    {
+      "id": "3d-fuel-pctg-lulzbot-green",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "LulzBot Green",
+      "hex": "#bac21b",
+      "td": 6.1,
+      "searchText": "3d-fuel pctg lulzbot green"
+    },
+    {
+      "id": "3d-fuel-pctg-matte-black",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Matte Black",
+      "hex": "#434443",
+      "td": 0.3,
+      "searchText": "3d-fuel pctg matte black"
+    },
+    {
+      "id": "3d-fuel-pctg-metallic-copper",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Metallic Copper",
+      "hex": "#8e5244",
+      "td": 5.5,
+      "searchText": "3d-fuel pctg metallic copper"
+    },
+    {
+      "id": "3d-fuel-pctg-metallic-gold",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Metallic Gold",
+      "hex": "#b99a45",
+      "td": 5.2,
+      "searchText": "3d-fuel pctg metallic gold"
+    },
+    {
+      "id": "3d-fuel-pctg-metallic-silver",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Metallic Silver",
+      "hex": "#838787",
+      "td": 0.4,
+      "searchText": "3d-fuel pctg metallic silver"
+    },
+    {
+      "id": "3d-fuel-pctg-midnight-black",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Midnight Black",
+      "hex": "#383737",
+      "td": 0.1,
+      "searchText": "3d-fuel pctg midnight black"
+    },
+    {
+      "id": "3d-fuel-pctg-navy-blue",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Navy Blue",
+      "hex": "#353e4f",
+      "td": 0.3,
+      "searchText": "3d-fuel pctg navy blue"
+    },
+    {
+      "id": "3d-fuel-pctg-ocean-blue",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Ocean Blue",
+      "hex": "#003da4",
+      "td": 0.6,
+      "searchText": "3d-fuel pctg ocean blue"
+    },
+    {
+      "id": "3d-fuel-pctg-olive-green",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Olive Green",
+      "hex": "#4f5245",
+      "td": 1,
+      "searchText": "3d-fuel pctg olive green"
+    },
+    {
+      "id": "3d-fuel-pctg-snow-white",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Snow White",
+      "hex": "#eef2ef",
+      "td": 3,
+      "searchText": "3d-fuel pctg snow white"
+    },
+    {
+      "id": "3d-fuel-pctg-toolbox-blue",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Toolbox Blue",
+      "hex": "#364c7f",
+      "td": 1.2,
+      "searchText": "3d-fuel pctg toolbox blue"
+    },
+    {
+      "id": "3d-fuel-pctg-toolbox-green",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Toolbox Green",
+      "hex": "#cebd60",
+      "td": 1.8,
+      "searchText": "3d-fuel pctg toolbox green"
+    },
+    {
+      "id": "3d-fuel-pctg-toolbox-orange",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Toolbox Orange",
+      "hex": "#c86744",
+      "td": 2.7,
+      "searchText": "3d-fuel pctg toolbox orange"
+    },
+    {
+      "id": "3d-fuel-pctg-toolbox-red",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Toolbox Red",
+      "hex": "#a74031",
+      "td": 3.3,
+      "searchText": "3d-fuel pctg toolbox red"
+    },
+    {
+      "id": "3d-fuel-pctg-toolbox-teal",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Toolbox Teal",
+      "hex": "#367073",
+      "td": 0.2,
+      "searchText": "3d-fuel pctg toolbox teal"
+    },
+    {
+      "id": "3d-fuel-pctg-toolbox-yellow",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Toolbox Yellow",
+      "hex": "#ffb347",
+      "td": 3.1,
+      "searchText": "3d-fuel pctg toolbox yellow"
+    },
+    {
+      "id": "3d-fuel-pctg-transparent-lime-green",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Transparent Lime Green",
+      "hex": "#96a22a",
+      "td": 96.3,
+      "searchText": "3d-fuel pctg transparent lime green"
+    },
+    {
+      "id": "3d-fuel-pctg-transparent-ruby-red",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Transparent Ruby Red",
+      "hex": "#6e2c34",
+      "td": 11.9,
+      "searchText": "3d-fuel pctg transparent ruby red"
+    },
+    {
+      "id": "3d-fuel-pctg-transparent-signal-orange",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Transparent Signal Orange",
+      "hex": "#b94e2c",
+      "td": 32.2,
+      "searchText": "3d-fuel pctg transparent signal orange"
+    },
+    {
+      "id": "3d-fuel-pctg-transparent-ultramarine-blue",
+      "brand": "3D-Fuel",
+      "material": "PCTG",
+      "name": "Transparent Ultramarine Blue",
+      "hex": "#143661",
+      "td": 15.1,
+      "searchText": "3d-fuel pctg transparent ultramarine blue"
+    },
+    {
+      "id": "3d-fuel-pla-almond",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Almond",
+      "hex": "#d9cbb1",
+      "td": 1.5,
+      "searchText": "3d-fuel pla+ almond"
+    },
+    {
+      "id": "3d-fuel-pla-aquamarine",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Aquamarine",
+      "hex": "#97d5c1",
+      "td": 3.3,
+      "searchText": "3d-fuel pla+ aquamarine"
+    },
+    {
+      "id": "3d-fuel-pla-autumn-orange",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Autumn Orange",
+      "hex": "#cf5227",
+      "td": 5,
+      "searchText": "3d-fuel pla+ autumn orange"
+    },
+    {
+      "id": "3d-fuel-pla-bone-white",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Bone White",
+      "hex": "#f0e1c6",
+      "td": 3.3,
+      "searchText": "3d-fuel pla+ bone white"
+    },
+    {
+      "id": "3d-fuel-pla-brightest-white",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Brightest White",
+      "hex": "#eaebe9",
+      "td": 2.9,
+      "searchText": "3d-fuel pla+ brightest white"
+    },
+    {
+      "id": "3d-fuel-pla-bubblegum-pink",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Bubblegum Pink",
+      "hex": "#e9aab5",
+      "td": 1.9,
+      "searchText": "3d-fuel pla+ bubblegum pink"
+    },
+    {
+      "id": "3d-fuel-pla-caribbean-blue",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Caribbean Blue",
+      "hex": "#008ea6",
+      "td": 1.1,
+      "searchText": "3d-fuel pla+ caribbean blue"
+    },
+    {
+      "id": "3d-fuel-pla-castle-gray",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Castle Gray",
+      "hex": "#72787b",
+      "td": 0.3,
+      "searchText": "3d-fuel pla+ castle gray"
+    },
+    {
+      "id": "3d-fuel-pla-charcoal-gray",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Charcoal Gray",
+      "hex": "#4d565c",
+      "td": 0.4,
+      "searchText": "3d-fuel pla+ charcoal gray"
+    },
+    {
+      "id": "3d-fuel-pla-chocolate-brown",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Chocolate Brown",
+      "hex": "#543e38",
+      "td": 0.1,
+      "searchText": "3d-fuel pla+ chocolate brown"
+    },
+    {
+      "id": "3d-fuel-pla-cobalt-blue",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Cobalt Blue",
+      "hex": "#00317b",
+      "td": 5.4,
+      "searchText": "3d-fuel pla+ cobalt blue"
+    },
+    {
+      "id": "3d-fuel-pla-daffodil-yellow",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Daffodil Yellow",
+      "hex": "#ffbe25",
+      "td": 3.1,
+      "searchText": "3d-fuel pla+ daffodil yellow"
+    },
+    {
+      "id": "3d-fuel-pla-desert-tan",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Desert Tan",
+      "hex": "#c0ab97",
+      "td": 0.8,
+      "searchText": "3d-fuel pla+ desert tan"
+    },
+    {
+      "id": "3d-fuel-pla-electric-blue",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Electric Blue",
+      "hex": "#56c2d1",
+      "td": 1.4,
+      "searchText": "3d-fuel pla+ electric blue"
+    },
+    {
+      "id": "3d-fuel-pla-fire-engine-red",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Fire Engine Red",
+      "hex": "#c72e22",
+      "td": 2.6,
+      "searchText": "3d-fuel pla+ fire engine red"
+    },
+    {
+      "id": "3d-fuel-pla-fjord-blue",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Fjord Blue",
+      "hex": "#009dce",
+      "td": 0.5,
+      "searchText": "3d-fuel pla+ fjord blue"
+    },
+    {
+      "id": "3d-fuel-pla-flat-dark-earth",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Flat Dark Earth",
+      "hex": "#977a6b",
+      "td": 0.2,
+      "searchText": "3d-fuel pla+ flat dark earth"
+    },
+    {
+      "id": "3d-fuel-pla-fluorescent-green",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Fluorescent Green",
+      "hex": "#46bd69",
+      "td": 6.6,
+      "searchText": "3d-fuel pla+ fluorescent green"
+    },
+    {
+      "id": "3d-fuel-pla-fluorescent-orange",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Fluorescent Orange",
+      "hex": "#e37561",
+      "td": 8,
+      "searchText": "3d-fuel pla+ fluorescent orange"
+    },
+    {
+      "id": "3d-fuel-pla-fluorescent-yellow",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Fluorescent Yellow",
+      "hex": "#c3d453",
+      "td": 8.6,
+      "searchText": "3d-fuel pla+ fluorescent yellow"
+    },
+    {
+      "id": "3d-fuel-pla-forest-green",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Forest Green",
+      "hex": "#2c644f",
+      "td": 2.5,
+      "searchText": "3d-fuel pla+ forest green"
+    },
+    {
+      "id": "3d-fuel-pla-grape-purple",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Grape Purple",
+      "hex": "#5e518f",
+      "td": 0.5,
+      "searchText": "3d-fuel pla+ grape purple"
+    },
+    {
+      "id": "3d-fuel-pla-grass-green",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Grass Green",
+      "hex": "#4b9d59",
+      "td": 1.9,
+      "searchText": "3d-fuel pla+ grass green"
+    },
+    {
+      "id": "3d-fuel-pla-harvest-gold",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Harvest Gold",
+      "hex": "#f5b043",
+      "td": 4.9,
+      "searchText": "3d-fuel pla+ harvest gold"
+    },
+    {
+      "id": "3d-fuel-pla-industrial-gray",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Industrial Gray",
+      "hex": "#83888a",
+      "td": 0.2,
+      "searchText": "3d-fuel pla+ industrial gray"
+    },
+    {
+      "id": "3d-fuel-pla-iron-red",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Iron Red",
+      "hex": "#892324",
+      "td": 3,
+      "searchText": "3d-fuel pla+ iron red"
+    },
+    {
+      "id": "3d-fuel-pla-island-fuschia",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Island Fuschia",
+      "hex": "#b6558c",
+      "td": 2.6,
+      "searchText": "3d-fuel pla+ island fuschia"
+    },
+    {
+      "id": "3d-fuel-pla-lulzbot-green",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "LulzBot Green",
+      "hex": "#c5c912",
+      "td": 4.6,
+      "searchText": "3d-fuel pla+ lulzbot green"
+    },
+    {
+      "id": "3d-fuel-pla-metallic-copper",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Metallic Copper",
+      "hex": "#844839",
+      "td": 4.1,
+      "searchText": "3d-fuel pla+ metallic copper"
+    },
+    {
+      "id": "3d-fuel-pla-metallic-gold",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Metallic Gold",
+      "hex": "#c08c4a",
+      "td": 4.8,
+      "searchText": "3d-fuel pla+ metallic gold"
+    },
+    {
+      "id": "3d-fuel-pla-metallic-silver",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Metallic Silver",
+      "hex": "#818485",
+      "td": 0.3,
+      "searchText": "3d-fuel pla+ metallic silver"
+    },
+    {
+      "id": "3d-fuel-pla-midnight-black",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Midnight Black",
+      "hex": "#333333",
+      "td": 0.1,
+      "searchText": "3d-fuel pla+ midnight black"
+    },
+    {
+      "id": "3d-fuel-pla-ocean-blue",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Ocean Blue",
+      "hex": "#0068a4",
+      "td": 1,
+      "searchText": "3d-fuel pla+ ocean blue"
+    },
+    {
+      "id": "3d-fuel-pla-olive-green",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Olive Green",
+      "hex": "#515444",
+      "td": 1,
+      "searchText": "3d-fuel pla+ olive green"
+    },
+    {
+      "id": "3d-fuel-pla-pistachio-green",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Pistachio Green",
+      "hex": "#b2d49a",
+      "td": 1.3,
+      "searchText": "3d-fuel pla+ pistachio green"
+    },
+    {
+      "id": "3d-fuel-pla-silky-black-hills-gold",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Silky Black Hills Gold",
+      "hex": "#b8897d",
+      "td": 2.6,
+      "searchText": "3d-fuel pla+ silky black hills gold"
+    },
+    {
+      "id": "3d-fuel-pla-silky-goldenrod",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Silky Goldenrod",
+      "hex": "#d9a96c",
+      "td": 3.1,
+      "searchText": "3d-fuel pla+ silky goldenrod"
+    },
+    {
+      "id": "3d-fuel-pla-silky-royal-navy-blue",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Silky Royal Navy Blue",
+      "hex": "#2a7b95",
+      "td": 0.3,
+      "searchText": "3d-fuel pla+ silky royal navy blue"
+    },
+    {
+      "id": "3d-fuel-pla-silky-silverbell",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Silky Silverbell",
+      "hex": "#b4b8ba",
+      "td": 3.5,
+      "searchText": "3d-fuel pla+ silky silverbell"
+    },
+    {
+      "id": "3d-fuel-pla-silky-vine-leaf-green",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Silky Vine Leaf Green",
+      "hex": "#5f997e",
+      "td": 1.1,
+      "searchText": "3d-fuel pla+ silky vine leaf green"
+    },
+    {
+      "id": "3d-fuel-pla-snow-white",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Snow White",
+      "hex": "#f1f1ea",
+      "td": 3.3,
+      "searchText": "3d-fuel pla+ snow white"
+    },
+    {
+      "id": "3d-fuel-pla-warm-bisque",
+      "brand": "3D-Fuel",
+      "material": "PLA+",
+      "name": "Warm Bisque",
+      "hex": "#ddb19a",
+      "td": 2.1,
+      "searchText": "3d-fuel pla+ warm bisque"
+    },
+    {
+      "id": "3d-fuel-tough-pla-almond",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Almond",
+      "hex": "#daccb2",
+      "td": 1.3,
+      "searchText": "3d-fuel tough pla+ almond"
+    },
+    {
+      "id": "3d-fuel-tough-pla-aquamarine",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Aquamarine",
+      "hex": "#99d4c0",
+      "td": 3.3,
+      "searchText": "3d-fuel tough pla+ aquamarine"
+    },
+    {
+      "id": "3d-fuel-tough-pla-autumn-orange",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Autumn Orange",
+      "hex": "#cd4e36",
+      "td": 4,
+      "searchText": "3d-fuel tough pla+ autumn orange"
+    },
+    {
+      "id": "3d-fuel-tough-pla-bone-white",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Bone White",
+      "hex": "#f2e2c8",
+      "td": 3,
+      "searchText": "3d-fuel tough pla+ bone white"
+    },
+    {
+      "id": "3d-fuel-tough-pla-brightest-white",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Brightest White",
+      "hex": "#ececec",
+      "td": 1.2,
+      "searchText": "3d-fuel tough pla+ brightest white"
+    },
+    {
+      "id": "3d-fuel-tough-pla-bubblegum-pink",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Bubblegum Pink",
+      "hex": "#e7aab4",
+      "td": 1.6,
+      "searchText": "3d-fuel tough pla+ bubblegum pink"
+    },
+    {
+      "id": "3d-fuel-tough-pla-caribbean-blue",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Caribbean Blue",
+      "hex": "#0091a7",
+      "td": 2.1,
+      "searchText": "3d-fuel tough pla+ caribbean blue"
+    },
+    {
+      "id": "3d-fuel-tough-pla-castle-gray",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Castle Gray",
+      "hex": "#696d6f",
+      "td": 0.1,
+      "searchText": "3d-fuel tough pla+ castle gray"
+    },
+    {
+      "id": "3d-fuel-tough-pla-charcoal-gray",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Charcoal Gray",
+      "hex": "#494e52",
+      "td": 0.1,
+      "searchText": "3d-fuel tough pla+ charcoal gray"
+    },
+    {
+      "id": "3d-fuel-tough-pla-chocolate-brown",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Chocolate Brown",
+      "hex": "#563f3a",
+      "td": 0.2,
+      "searchText": "3d-fuel tough pla+ chocolate brown"
+    },
+    {
+      "id": "3d-fuel-tough-pla-cobalt-blue",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Cobalt Blue",
+      "hex": "#10357c",
+      "td": 4.3,
+      "searchText": "3d-fuel tough pla+ cobalt blue"
+    },
+    {
+      "id": "3d-fuel-tough-pla-daffodil-yellow",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Daffodil Yellow",
+      "hex": "#ffc13f",
+      "td": 2.6,
+      "searchText": "3d-fuel tough pla+ daffodil yellow"
+    },
+    {
+      "id": "3d-fuel-tough-pla-desert-tan",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Desert Tan",
+      "hex": "#c2ac99",
+      "td": 0.8,
+      "searchText": "3d-fuel tough pla+ desert tan"
+    },
+    {
+      "id": "3d-fuel-tough-pla-electric-blue",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Electric Blue",
+      "hex": "#5bc5d6",
+      "td": 1.1,
+      "searchText": "3d-fuel tough pla+ electric blue"
+    },
+    {
+      "id": "3d-fuel-tough-pla-fire-engine-red",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Fire Engine Red",
+      "hex": "#c8323a",
+      "td": 2.5,
+      "searchText": "3d-fuel tough pla+ fire engine red"
+    },
+    {
+      "id": "3d-fuel-tough-pla-fjord-blue",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Fjord Blue",
+      "hex": "#009ccc",
+      "td": 0.5,
+      "searchText": "3d-fuel tough pla+ fjord blue"
+    },
+    {
+      "id": "3d-fuel-tough-pla-flat-dark-earth",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Flat Dark Earth",
+      "hex": "#947768",
+      "td": 0.5,
+      "searchText": "3d-fuel tough pla+ flat dark earth"
+    },
+    {
+      "id": "3d-fuel-tough-pla-fluorescent-green",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Fluorescent Green",
+      "hex": "#3ec272",
+      "td": 10.8,
+      "searchText": "3d-fuel tough pla+ fluorescent green"
+    },
+    {
+      "id": "3d-fuel-tough-pla-fluorescent-orange",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Fluorescent Orange",
+      "hex": "#ec7b69",
+      "td": 8.4,
+      "searchText": "3d-fuel tough pla+ fluorescent orange"
+    },
+    {
+      "id": "3d-fuel-tough-pla-fluorescent-yellow",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Fluorescent Yellow",
+      "hex": "#c5d668",
+      "td": 4.3000000000000025,
+      "searchText": "3d-fuel tough pla+ fluorescent yellow"
+    },
+    {
+      "id": "3d-fuel-tough-pla-forest-green",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Forest Green",
+      "hex": "#30624f",
+      "td": 1.3,
+      "searchText": "3d-fuel tough pla+ forest green"
+    },
+    {
+      "id": "3d-fuel-tough-pla-grape-purple",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Grape Purple",
+      "hex": "#625592",
+      "td": 2.2,
+      "searchText": "3d-fuel tough pla+ grape purple"
+    },
+    {
+      "id": "3d-fuel-tough-pla-grass-green",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Grass Green",
+      "hex": "#4c9f5a",
+      "td": 1.4,
+      "searchText": "3d-fuel tough pla+ grass green"
+    },
+    {
+      "id": "3d-fuel-tough-pla-harvest-gold",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Harvest Gold",
+      "hex": "#f6b04d",
+      "td": 5,
+      "searchText": "3d-fuel tough pla+ harvest gold"
+    },
+    {
+      "id": "3d-fuel-tough-pla-industrial-gray",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Industrial Gray",
+      "hex": "#848786",
+      "td": 0.3,
+      "searchText": "3d-fuel tough pla+ industrial gray"
+    },
+    {
+      "id": "3d-fuel-tough-pla-iron-red",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Iron Red",
+      "hex": "#8a2f35",
+      "td": 1.8,
+      "searchText": "3d-fuel tough pla+ iron red"
+    },
+    {
+      "id": "3d-fuel-tough-pla-island-fuschia",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Island Fuschia",
+      "hex": "#b95f93",
+      "td": 2.1,
+      "searchText": "3d-fuel tough pla+ island fuschia"
+    },
+    {
+      "id": "3d-fuel-tough-pla-lulzbot-green",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "LulzBot Green",
+      "hex": "#c7c725",
+      "td": 4.2,
+      "searchText": "3d-fuel tough pla+ lulzbot green"
+    },
+    {
+      "id": "3d-fuel-tough-pla-metallic-gold",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Metallic Gold",
+      "hex": "#c6904c",
+      "td": 5.1,
+      "searchText": "3d-fuel tough pla+ metallic gold"
+    },
+    {
+      "id": "3d-fuel-tough-pla-metallic-silver",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Metallic Silver",
+      "hex": "#8e4e43",
+      "td": 4.2,
+      "searchText": "3d-fuel tough pla+ metallic silver"
+    },
+    {
+      "id": "3d-fuel-tough-pla-midnight-black",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Midnight Black",
+      "hex": "#333333",
+      "td": 0.1,
+      "searchText": "3d-fuel tough pla+ midnight black"
+    },
+    {
+      "id": "3d-fuel-tough-pla-natural",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Natural",
+      "hex": "#b7b3a3",
+      "td": 88,
+      "searchText": "3d-fuel tough pla+ natural"
+    },
+    {
+      "id": "3d-fuel-tough-pla-ocean-blue",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Ocean Blue",
+      "hex": "#006ba5",
+      "td": 0.2,
+      "searchText": "3d-fuel tough pla+ ocean blue"
+    },
+    {
+      "id": "3d-fuel-tough-pla-olive-green",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Olive Green",
+      "hex": "#545746",
+      "td": 1.2,
+      "searchText": "3d-fuel tough pla+ olive green"
+    },
+    {
+      "id": "3d-fuel-tough-pla-pistachio",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Pistachio",
+      "hex": "#b5d59e",
+      "td": 1.2,
+      "searchText": "3d-fuel tough pla+ pistachio"
+    },
+    {
+      "id": "3d-fuel-tough-pla-snow-white",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Snow White",
+      "hex": "#f0f0e8",
+      "td": 3.8,
+      "searchText": "3d-fuel tough pla+ snow white"
+    },
+    {
+      "id": "3d-fuel-tough-pla-tangerine-orange",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Tangerine Orange",
+      "hex": "#fb7747",
+      "td": 2.5,
+      "searchText": "3d-fuel tough pla+ tangerine orange"
+    },
+    {
+      "id": "3d-fuel-tough-pla-warm-bisque",
+      "brand": "3D-Fuel Tough",
+      "material": "PLA+",
+      "name": "Warm Bisque",
+      "hex": "#deb29d",
+      "td": 1.1,
+      "searchText": "3d-fuel tough pla+ warm bisque"
+    },
+    {
+      "id": "bambulab-basic-petg-blue",
+      "brand": "BambuLab Basic",
+      "material": "PETG",
+      "name": "Blue",
+      "hex": "#000e5b",
+      "td": 2.5,
+      "searchText": "bambulab basic petg blue"
+    },
+    {
+      "id": "bambulab-basic-petg-blue-gray",
+      "brand": "BambuLab Basic",
+      "material": "PETG",
+      "name": "Blue Gray",
+      "hex": "#606e81",
+      "td": 2.7,
+      "searchText": "bambulab basic petg blue gray"
+    },
+    {
+      "id": "bambulab-basic-petg-gold",
+      "brand": "BambuLab Basic",
+      "material": "PETG",
+      "name": "Gold",
+      "hex": "#b28b33",
+      "td": 1.7,
+      "searchText": "bambulab basic petg gold"
+    },
+    {
+      "id": "bambulab-basic-petg-gray",
+      "brand": "BambuLab Basic",
+      "material": "PETG",
+      "name": "Gray",
+      "hex": "#9ea2a2",
+      "td": 3,
+      "searchText": "bambulab basic petg gray"
+    },
+    {
+      "id": "bambulab-basic-petg-green",
+      "brand": "BambuLab Basic",
+      "material": "PETG",
+      "name": "Green",
+      "hex": "#009639",
+      "td": 1.7,
+      "searchText": "bambulab basic petg green"
+    },
+    {
+      "id": "bambulab-basic-petg-lake-blue",
+      "brand": "BambuLab Basic",
+      "material": "PETG",
+      "name": "Lake Blue",
+      "hex": "#0069b1",
+      "td": 4,
+      "searchText": "bambulab basic petg lake blue"
+    },
+    {
+      "id": "bambulab-basic-petg-lime-green",
+      "brand": "BambuLab Basic",
+      "material": "PETG",
+      "name": "Lime Green",
+      "hex": "#b7db57",
+      "td": 2.7,
+      "searchText": "bambulab basic petg lime green"
+    },
+    {
+      "id": "bambulab-basic-petg-nature",
+      "brand": "BambuLab Basic",
+      "material": "PETG",
+      "name": "Nature",
+      "hex": "#f2eada",
+      "td": 8,
+      "searchText": "bambulab basic petg nature"
+    },
+    {
+      "id": "bambulab-basic-petg-orange",
+      "brand": "BambuLab Basic",
+      "material": "PETG",
+      "name": "Orange",
+      "hex": "#ff671f",
+      "td": 4.5,
+      "searchText": "bambulab basic petg orange"
+    },
+    {
+      "id": "bambulab-basic-petg-purple",
+      "brand": "BambuLab Basic",
+      "material": "PETG",
+      "name": "Purple",
+      "hex": "#9e007e",
+      "td": 2.5,
+      "searchText": "bambulab basic petg purple"
+    },
+    {
+      "id": "bambulab-basic-petg-red",
+      "brand": "BambuLab Basic",
+      "material": "PETG",
+      "name": "Red",
+      "hex": "#7d1112",
+      "td": 2.5,
+      "searchText": "bambulab basic petg red"
+    },
+    {
+      "id": "bambulab-basic-petg-transparent",
+      "brand": "BambuLab Basic",
+      "material": "PETG",
+      "name": "Transparent",
+      "hex": "#ffffff",
+      "td": 50,
+      "searchText": "bambulab basic petg transparent"
+    },
+    {
+      "id": "bambulab-basic-petg-white",
+      "brand": "BambuLab Basic",
+      "material": "PETG",
+      "name": "White",
+      "hex": "#ffffff",
+      "td": 3.5,
+      "searchText": "bambulab basic petg white"
+    },
+    {
+      "id": "bambulab-basic-petg-yellow",
+      "brand": "BambuLab Basic",
+      "material": "PETG",
+      "name": "Yellow",
+      "hex": "#fce300",
+      "td": 6,
+      "searchText": "bambulab basic petg yellow"
+    },
+    {
+      "id": "bambulab-basic-pla-bambulab-green",
+      "brand": "BambuLab Basic",
+      "material": "PLA",
+      "name": "BambuLab Green",
+      "hex": "#00ae42",
+      "td": 4,
+      "searchText": "bambulab basic pla bambulab green"
+    },
+    {
+      "id": "bambulab-basic-pla-beige",
+      "brand": "BambuLab Basic",
+      "material": "PLA",
+      "name": "Beige",
+      "hex": "#e7ceb5",
+      "td": 8,
+      "searchText": "bambulab basic pla beige"
+    },
+    {
+      "id": "bambulab-basic-pla-black",
+      "brand": "BambuLab Basic",
+      "material": "PLA",
+      "name": "Black",
+      "hex": "#000000",
+      "td": 0.6,
+      "searchText": "bambulab basic pla black"
+    },
+    {
+      "id": "bambulab-basic-pla-blue",
+      "brand": "BambuLab Basic",
+      "material": "PLA",
+      "name": "Blue",
+      "hex": "#00358e",
+      "td": 4,
+      "searchText": "bambulab basic pla blue"
+    },
+    {
+      "id": "bambulab-basic-pla-blue-gray",
+      "brand": "BambuLab Basic",
+      "material": "PLA",
+      "name": "Blue Gray",
+      "hex": "#4c5f71",
+      "td": 3,
+      "searchText": "bambulab basic pla blue gray"
+    },
+    {
+      "id": "bambulab-basic-pla-brown",
+      "brand": "BambuLab Basic",
+      "material": "PLA",
+      "name": "Brown",
+      "hex": "#9d432c",
+      "td": 2,
+      "searchText": "bambulab basic pla brown"
+    },
+    {
+      "id": "bambulab-basic-pla-gray",
+      "brand": "BambuLab Basic",
+      "material": "PLA",
+      "name": "Gray",
+      "hex": "#8e9089",
+      "td": 2,
+      "searchText": "bambulab basic pla gray"
+    },
+    {
+      "id": "bambulab-basic-pla-green",
+      "brand": "BambuLab Basic",
+      "material": "PLA",
+      "name": "Green",
+      "hex": "#003b3b",
+      "td": 2,
+      "searchText": "bambulab basic pla green"
+    },
+    {
+      "id": "bambulab-basic-pla-jade-white",
+      "brand": "BambuLab Basic",
+      "material": "PLA",
+      "name": "Jade White",
+      "hex": "#ffffff",
+      "td": 5,
+      "searchText": "bambulab basic pla jade white"
+    },
+    {
+      "id": "bambulab-basic-pla-orange",
+      "brand": "BambuLab Basic",
+      "material": "PLA",
+      "name": "Orange",
+      "hex": "#ff6a13",
+      "td": 7,
+      "searchText": "bambulab basic pla orange"
+    },
+    {
+      "id": "bambulab-basic-pla-pink",
+      "brand": "BambuLab Basic",
+      "material": "PLA",
+      "name": "Pink",
+      "hex": "#ff5869",
+      "td": 8,
+      "searchText": "bambulab basic pla pink"
+    },
+    {
+      "id": "bambulab-basic-pla-red",
+      "brand": "BambuLab Basic",
+      "material": "PLA",
+      "name": "Red",
+      "hex": "#c00d1e",
+      "td": 5,
+      "searchText": "bambulab basic pla red"
+    },
+    {
+      "id": "bambulab-basic-pla-silver",
+      "brand": "BambuLab Basic",
+      "material": "PLA",
+      "name": "Silver",
+      "hex": "#a6a9aa",
+      "td": 0.5,
+      "searchText": "bambulab basic pla silver"
+    },
+    {
+      "id": "bambulab-basic-pla-yellow",
+      "brand": "BambuLab Basic",
+      "material": "PLA",
+      "name": "Yellow",
+      "hex": "#fce300",
+      "td": 6,
+      "searchText": "bambulab basic pla yellow"
+    },
+    {
+      "id": "bambulab-matte-pla-ash-gray",
+      "brand": "BambuLab Matte",
+      "material": "PLA",
+      "name": "Ash Gray",
+      "hex": "#9b9ea0",
+      "td": 1.5,
+      "searchText": "bambulab matte pla ash gray"
+    },
+    {
+      "id": "bambulab-matte-pla-charcoal",
+      "brand": "BambuLab Matte",
+      "material": "PLA",
+      "name": "Charcoal",
+      "hex": "#000000",
+      "td": 0.6,
+      "searchText": "bambulab matte pla charcoal"
+    },
+    {
+      "id": "bambulab-matte-pla-dark-blue",
+      "brand": "BambuLab Matte",
+      "material": "PLA",
+      "name": "Dark Blue",
+      "hex": "#1c254c",
+      "td": 1,
+      "searchText": "bambulab matte pla dark blue"
+    },
+    {
+      "id": "bambulab-matte-pla-dark-brown",
+      "brand": "BambuLab Matte",
+      "material": "PLA",
+      "name": "Dark Brown",
+      "hex": "#7d6556",
+      "td": 2,
+      "searchText": "bambulab matte pla dark brown"
+    },
+    {
+      "id": "bambulab-matte-pla-dark-red",
+      "brand": "BambuLab Matte",
+      "material": "PLA",
+      "name": "Dark Red",
+      "hex": "#bb3d43",
+      "td": 1.5,
+      "searchText": "bambulab matte pla dark red"
+    },
+    {
+      "id": "bambulab-matte-pla-grass-green",
+      "brand": "BambuLab Matte",
+      "material": "PLA",
+      "name": "Grass Green",
+      "hex": "#61c680",
+      "td": 2,
+      "searchText": "bambulab matte pla grass green"
+    },
+    {
+      "id": "bambulab-matte-pla-ice-blue",
+      "brand": "BambuLab Matte",
+      "material": "PLA",
+      "name": "Ice Blue",
+      "hex": "#8bd5ee",
+      "td": 3.5,
+      "searchText": "bambulab matte pla ice blue"
+    },
+    {
+      "id": "bambulab-matte-pla-ivory-white",
+      "brand": "BambuLab Matte",
+      "material": "PLA",
+      "name": "Ivory White",
+      "hex": "#ffffff",
+      "td": 4,
+      "searchText": "bambulab matte pla ivory white"
+    },
+    {
+      "id": "bambulab-matte-pla-latte-brown",
+      "brand": "BambuLab Matte",
+      "material": "PLA",
+      "name": "Latte Brown",
+      "hex": "#d3b7a7",
+      "td": 2,
+      "searchText": "bambulab matte pla latte brown"
+    },
+    {
+      "id": "bambulab-matte-pla-lemon-yellow",
+      "brand": "BambuLab Matte",
+      "material": "PLA",
+      "name": "Lemon Yellow",
+      "hex": "#ffe17f",
+      "td": 4,
+      "searchText": "bambulab matte pla lemon yellow"
+    },
+    {
+      "id": "bambulab-matte-pla-lilac-purple",
+      "brand": "BambuLab Matte",
+      "material": "PLA",
+      "name": "Lilac Purple",
+      "hex": "#ae96d4",
+      "td": 2,
+      "searchText": "bambulab matte pla lilac purple"
+    },
+    {
+      "id": "bambulab-matte-pla-mandarin-orange",
+      "brand": "BambuLab Matte",
+      "material": "PLA",
+      "name": "Mandarin Orange",
+      "hex": "#f99963",
+      "td": 3,
+      "searchText": "bambulab matte pla mandarin orange"
+    },
+    {
+      "id": "bambulab-matte-pla-marine-blue",
+      "brand": "BambuLab Matte",
+      "material": "PLA",
+      "name": "Marine Blue",
+      "hex": "#0078bf",
+      "td": 2,
+      "searchText": "bambulab matte pla marine blue"
+    },
+    {
+      "id": "bambulab-matte-pla-pine-green",
+      "brand": "BambuLab Matte",
+      "material": "PLA",
+      "name": "Pine Green",
+      "hex": "#304301",
+      "td": 1,
+      "searchText": "bambulab matte pla pine green"
+    },
+    {
+      "id": "bambulab-matte-pla-sakura-pink",
+      "brand": "BambuLab Matte",
+      "material": "PLA",
+      "name": "Sakura Pink",
+      "hex": "#e4bdd0",
+      "td": 3,
+      "searchText": "bambulab matte pla sakura pink"
+    },
+    {
+      "id": "bambulab-matte-pla-scarlet-red",
+      "brand": "BambuLab Matte",
+      "material": "PLA",
+      "name": "Scarlet Red",
+      "hex": "#de4343",
+      "td": 2,
+      "searchText": "bambulab matte pla scarlet red"
+    },
+    {
+      "id": "bambulab-tough-pla-black",
+      "brand": "BambuLab Tough",
+      "material": "PLA",
+      "name": "Black",
+      "hex": "#000000",
+      "td": 0.6,
+      "searchText": "bambulab tough pla black"
+    },
+    {
+      "id": "bambulab-tough-pla-cream-white",
+      "brand": "BambuLab Tough",
+      "material": "PLA",
+      "name": "Cream White",
+      "hex": "#dde5ed",
+      "td": 10,
+      "searchText": "bambulab tough pla cream white"
+    },
+    {
+      "id": "bambulab-tough-pla-gray",
+      "brand": "BambuLab Tough",
+      "material": "PLA",
+      "name": "Gray",
+      "hex": "#515a6c",
+      "td": 1.8,
+      "searchText": "bambulab tough pla gray"
+    },
+    {
+      "id": "bambulab-tough-pla-lavender-blue",
+      "brand": "BambuLab Tough",
+      "material": "PLA",
+      "name": "Lavender Blue",
+      "hex": "#6667ab",
+      "td": 2,
+      "searchText": "bambulab tough pla lavender blue"
+    },
+    {
+      "id": "bambulab-tough-pla-pine-green",
+      "brand": "BambuLab Tough",
+      "material": "PLA",
+      "name": "Pine Green",
+      "hex": "#053633",
+      "td": 1.5,
+      "searchText": "bambulab tough pla pine green"
+    },
+    {
+      "id": "bambulab-tough-pla-vermilion-red",
+      "brand": "BambuLab Tough",
+      "material": "PLA",
+      "name": "Vermilion Red",
+      "hex": "#b22f18",
+      "td": 3,
+      "searchText": "bambulab tough pla vermilion red"
+    },
+    {
+      "id": "iiid-max-petg-navy-blue",
+      "brand": "IIID Max",
+      "material": "PETG",
+      "name": "Navy Blue",
+      "hex": "#000074",
+      "td": 2,
+      "searchText": "iiid max petg navy blue"
+    },
+    {
+      "id": "iiid-max-pla-apple-green",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Apple Green",
+      "hex": "#60b04e",
+      "td": 4,
+      "searchText": "iiid max pla+ apple green"
+    },
+    {
+      "id": "iiid-max-pla-army-green",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Army Green",
+      "hex": "#54563f",
+      "td": 4,
+      "searchText": "iiid max pla+ army green"
+    },
+    {
+      "id": "iiid-max-pla-baby-blue",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Baby Blue",
+      "hex": "#c3dee5",
+      "td": 5,
+      "searchText": "iiid max pla+ baby blue"
+    },
+    {
+      "id": "iiid-max-pla-black",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Black",
+      "hex": "#000000",
+      "td": 0.5,
+      "searchText": "iiid max pla+ black"
+    },
+    {
+      "id": "iiid-max-pla-blue",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Blue",
+      "hex": "#005ba9",
+      "td": 2.8,
+      "searchText": "iiid max pla+ blue"
+    },
+    {
+      "id": "iiid-max-pla-brown",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Brown",
+      "hex": "#61392a",
+      "td": 1.2,
+      "searchText": "iiid max pla+ brown"
+    },
+    {
+      "id": "iiid-max-pla-burnt-orange",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Burnt Orange",
+      "hex": "#b96023",
+      "td": 3.6,
+      "searchText": "iiid max pla+ burnt orange"
+    },
+    {
+      "id": "iiid-max-pla-candy-red",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Candy Red",
+      "hex": "#a92a30",
+      "td": 5,
+      "searchText": "iiid max pla+ candy red"
+    },
+    {
+      "id": "iiid-max-pla-clear",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Clear",
+      "hex": "#cbcdcd",
+      "td": 3.6,
+      "searchText": "iiid max pla+ clear"
+    },
+    {
+      "id": "iiid-max-pla-copper",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Copper",
+      "hex": "#7d5246",
+      "td": 3,
+      "searchText": "iiid max pla+ copper"
+    },
+    {
+      "id": "iiid-max-pla-coyote-brown",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Coyote Brown",
+      "hex": "#906c3f",
+      "td": 3.6,
+      "searchText": "iiid max pla+ coyote brown"
+    },
+    {
+      "id": "iiid-max-pla-fluorescent-green",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Fluorescent Green",
+      "hex": "#00a065",
+      "td": 8,
+      "searchText": "iiid max pla+ fluorescent green"
+    },
+    {
+      "id": "iiid-max-pla-fluorescent-orange",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Fluorescent Orange",
+      "hex": "#ce712a",
+      "td": 9,
+      "searchText": "iiid max pla+ fluorescent orange"
+    },
+    {
+      "id": "iiid-max-pla-fluorescent-yellow",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Fluorescent Yellow",
+      "hex": "#a6da6d",
+      "td": 8.5,
+      "searchText": "iiid max pla+ fluorescent yellow"
+    },
+    {
+      "id": "iiid-max-pla-fuchsia",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Fuchsia",
+      "hex": "#ad578b",
+      "td": 8,
+      "searchText": "iiid max pla+ fuchsia"
+    },
+    {
+      "id": "iiid-max-pla-gold",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Gold",
+      "hex": "#a08c59",
+      "td": 8,
+      "searchText": "iiid max pla+ gold"
+    },
+    {
+      "id": "iiid-max-pla-green-forest",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Green Forest",
+      "hex": "#07592c",
+      "td": 1.8,
+      "searchText": "iiid max pla+ green forest"
+    },
+    {
+      "id": "iiid-max-pla-key-lime",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Key Lime",
+      "hex": "#bdc846",
+      "td": 7.2,
+      "searchText": "iiid max pla+ key lime"
+    },
+    {
+      "id": "iiid-max-pla-light-blue",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Light Blue",
+      "hex": "#229bd5",
+      "td": 2.6,
+      "searchText": "iiid max pla+ light blue"
+    },
+    {
+      "id": "iiid-max-pla-light-pink",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Light Pink",
+      "hex": "#dc9d9f",
+      "td": 3.6,
+      "searchText": "iiid max pla+ light pink"
+    },
+    {
+      "id": "iiid-max-pla-mystic-purple",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Mystic Purple",
+      "hex": "#734784",
+      "td": 2.8,
+      "searchText": "iiid max pla+ mystic purple"
+    },
+    {
+      "id": "iiid-max-pla-navy-blue",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Navy Blue",
+      "hex": "#002043",
+      "td": 3.6,
+      "searchText": "iiid max pla+ navy blue"
+    },
+    {
+      "id": "iiid-max-pla-night-gray",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Night Gray",
+      "hex": "#21282a",
+      "td": 0.8,
+      "searchText": "iiid max pla+ night gray"
+    },
+    {
+      "id": "iiid-max-pla-orange",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Orange",
+      "hex": "#d34c36",
+      "td": 3.2,
+      "searchText": "iiid max pla+ orange"
+    },
+    {
+      "id": "iiid-max-pla-pink",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Pink",
+      "hex": "#bf3f62",
+      "td": 4,
+      "searchText": "iiid max pla+ pink"
+    },
+    {
+      "id": "iiid-max-pla-red",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Red",
+      "hex": "#a62f36",
+      "td": 4,
+      "searchText": "iiid max pla+ red"
+    },
+    {
+      "id": "iiid-max-pla-silver",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Silver",
+      "hex": "#727571",
+      "td": 1.2,
+      "searchText": "iiid max pla+ silver"
+    },
+    {
+      "id": "iiid-max-pla-space-gray",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Space Gray",
+      "hex": "#abb4ba",
+      "td": 3.6,
+      "searchText": "iiid max pla+ space gray"
+    },
+    {
+      "id": "iiid-max-pla-tan",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Tan",
+      "hex": "#d5c2a0",
+      "td": 2.6,
+      "searchText": "iiid max pla+ tan"
+    },
+    {
+      "id": "iiid-max-pla-teal",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Teal",
+      "hex": "#0099a7",
+      "td": 4.2,
+      "searchText": "iiid max pla+ teal"
+    },
+    {
+      "id": "iiid-max-pla-vanilla-cream",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Vanilla Cream",
+      "hex": "#c4cbb1",
+      "td": 7.8,
+      "searchText": "iiid max pla+ vanilla cream"
+    },
+    {
+      "id": "iiid-max-pla-vintage-rose",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Vintage Rose",
+      "hex": "#c1b4a9",
+      "td": 7.4,
+      "searchText": "iiid max pla+ vintage rose"
+    },
+    {
+      "id": "iiid-max-pla-violet",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Violet",
+      "hex": "#6e5a95",
+      "td": 2.6,
+      "searchText": "iiid max pla+ violet"
+    },
+    {
+      "id": "iiid-max-pla-white",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "White",
+      "hex": "#e4e8e7",
+      "td": 5.6,
+      "searchText": "iiid max pla+ white"
+    },
+    {
+      "id": "iiid-max-pla-yellow",
+      "brand": "IIID Max",
+      "material": "PLA+",
+      "name": "Yellow",
+      "hex": "#eac322",
+      "td": 5,
+      "searchText": "iiid max pla+ yellow"
+    },
+    {
+      "id": "iiid-max-petg-blue",
+      "brand": "IIID MAX",
+      "material": "PETG",
+      "name": "Blue",
+      "hex": "#2974ff",
+      "td": 3,
+      "searchText": "iiid max petg blue"
+    },
+    {
+      "id": "numakers-pla-apricot-skin",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Apricot Skin",
+      "hex": "#e6baa8",
+      "td": 3,
+      "searchText": "numakers pla+ apricot skin"
+    },
+    {
+      "id": "numakers-pla-army-green",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Army Green",
+      "hex": "#50533c",
+      "td": 0.6,
+      "searchText": "numakers pla+ army green"
+    },
+    {
+      "id": "numakers-pla-atomic-pink",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Atomic Pink",
+      "hex": "#d8a0a6",
+      "td": 2.7,
+      "searchText": "numakers pla+ atomic pink"
+    },
+    {
+      "id": "numakers-pla-bahama-yellow",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Bahama Yellow",
+      "hex": "#ffea01",
+      "td": 3.8,
+      "searchText": "numakers pla+ bahama yellow"
+    },
+    {
+      "id": "numakers-pla-beige-brown",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Beige Brown",
+      "hex": "#755c48",
+      "td": 1.3,
+      "searchText": "numakers pla+ beige brown"
+    },
+    {
+      "id": "numakers-pla-chocolate-brown",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Chocolate Brown",
+      "hex": "#4c2810",
+      "td": 0.3,
+      "searchText": "numakers pla+ chocolate brown"
+    },
+    {
+      "id": "numakers-pla-cool-white",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Cool White",
+      "hex": "#ffffff",
+      "td": 2.3,
+      "searchText": "numakers pla+ cool white"
+    },
+    {
+      "id": "numakers-pla-dark-gray",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Dark Gray",
+      "hex": "#52595d",
+      "td": 0.3,
+      "searchText": "numakers pla+ dark gray"
+    },
+    {
+      "id": "numakers-pla-fluorescent-green",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Fluorescent Green",
+      "hex": "#00b51b",
+      "td": 2.4,
+      "searchText": "numakers pla+ fluorescent green"
+    },
+    {
+      "id": "numakers-pla-fluorescent-orange",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Fluorescent Orange",
+      "hex": "#ff4d08",
+      "td": 4.8,
+      "searchText": "numakers pla+ fluorescent orange"
+    },
+    {
+      "id": "numakers-pla-fluorescent-yellow",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Fluorescent Yellow",
+      "hex": "#eaff31",
+      "td": 4.4,
+      "searchText": "numakers pla+ fluorescent yellow"
+    },
+    {
+      "id": "numakers-pla-forest-green",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Forest Green",
+      "hex": "#008351",
+      "td": 0.4,
+      "searchText": "numakers pla+ forest green"
+    },
+    {
+      "id": "numakers-pla-grass-green",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Grass Green",
+      "hex": "#61993b",
+      "td": 1,
+      "searchText": "numakers pla+ grass green"
+    },
+    {
+      "id": "numakers-pla-imperial-red",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Imperial Red",
+      "hex": "#6e0b05",
+      "td": 1.2,
+      "searchText": "numakers pla+ imperial red"
+    },
+    {
+      "id": "numakers-pla-ivory-white",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Ivory White",
+      "hex": "#e6d2b5",
+      "td": 2.7,
+      "searchText": "numakers pla+ ivory white"
+    },
+    {
+      "id": "numakers-pla-lagoon-blue",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Lagoon Blue",
+      "hex": "#048b8c",
+      "td": 0.7,
+      "searchText": "numakers pla+ lagoon blue"
+    },
+    {
+      "id": "numakers-pla-lavendar-violet",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Lavendar Violet",
+      "hex": "#5c6393",
+      "td": 0.9,
+      "searchText": "numakers pla+ lavendar violet"
+    },
+    {
+      "id": "numakers-pla-lemon-yellow",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Lemon Yellow",
+      "hex": "#f9a800",
+      "td": 4.7,
+      "searchText": "numakers pla+ lemon yellow"
+    },
+    {
+      "id": "numakers-pla-light-blue",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Light Blue",
+      "hex": "#007cb0",
+      "td": 1.6,
+      "searchText": "numakers pla+ light blue"
+    },
+    {
+      "id": "numakers-pla-light-gray",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Light Gray",
+      "hex": "#8c969d",
+      "td": 0.1,
+      "searchText": "numakers pla+ light gray"
+    },
+    {
+      "id": "numakers-pla-magenta",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Magenta",
+      "hex": "#f812a0",
+      "td": 2,
+      "searchText": "numakers pla+ magenta"
+    },
+    {
+      "id": "numakers-pla-mauve-purple",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Mauve Purple",
+      "hex": "#844c82",
+      "td": 1.2,
+      "searchText": "numakers pla+ mauve purple"
+    },
+    {
+      "id": "numakers-pla-midnight-gray",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Midnight Gray",
+      "hex": "#292f2e",
+      "td": 0.4,
+      "searchText": "numakers pla+ midnight gray"
+    },
+    {
+      "id": "numakers-pla-military-khaki",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Military Khaki",
+      "hex": "#7b7260",
+      "td": 1.4,
+      "searchText": "numakers pla+ military khaki"
+    },
+    {
+      "id": "numakers-pla-nuclear-red",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Nuclear Red",
+      "hex": "#bb1e10",
+      "td": 2,
+      "searchText": "numakers pla+ nuclear red"
+    },
+    {
+      "id": "numakers-pla-outrageous-orange",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Outrageous Orange",
+      "hex": "#e25303",
+      "td": 3.7,
+      "searchText": "numakers pla+ outrageous orange"
+    },
+    {
+      "id": "numakers-pla-pitch-black",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Pitch Black",
+      "hex": "#0e0e10",
+      "td": 0.5,
+      "searchText": "numakers pla+ pitch black"
+    },
+    {
+      "id": "numakers-pla-pure-white",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Pure White",
+      "hex": "#f1ece1",
+      "td": 2.9,
+      "searchText": "numakers pla+ pure white"
+    },
+    {
+      "id": "numakers-pla-robix-green",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Robix Green",
+      "hex": "#cdfa02",
+      "td": 3.4,
+      "searchText": "numakers pla+ robix green"
+    },
+    {
+      "id": "numakers-pla-royal-blue",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Royal Blue",
+      "hex": "#00387b",
+      "td": 0.2,
+      "searchText": "numakers pla+ royal blue"
+    },
+    {
+      "id": "numakers-pla-rust-copper",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Rust Copper",
+      "hex": "#8d4931",
+      "td": 1.8,
+      "searchText": "numakers pla+ rust copper"
+    },
+    {
+      "id": "numakers-pla-simply-silver",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Simply Silver",
+      "hex": "#a0adb3",
+      "td": 0.3,
+      "searchText": "numakers pla+ simply silver"
+    },
+    {
+      "id": "numakers-pla-teal-blue",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Teal Blue",
+      "hex": "#7ebab5",
+      "td": 2,
+      "searchText": "numakers pla+ teal blue"
+    },
+    {
+      "id": "numakers-pla-thanos-purple",
+      "brand": "Numakers",
+      "material": "PLA+",
+      "name": "Thanos Purple",
+      "hex": "#471682",
+      "td": 0.9,
+      "searchText": "numakers pla+ thanos purple"
+    },
+    {
+      "id": "overture-abs-ash-grey",
+      "brand": "Overture",
+      "material": "ABS",
+      "name": "Ash Grey",
+      "hex": "#6d6d74",
+      "td": 1.2,
+      "searchText": "overture abs ash grey"
+    },
+    {
+      "id": "overture-abs-black",
+      "brand": "Overture",
+      "material": "ABS",
+      "name": "Black",
+      "hex": "#181718",
+      "td": 0.5,
+      "searchText": "overture abs black"
+    },
+    {
+      "id": "overture-abs-blue",
+      "brand": "Overture",
+      "material": "ABS",
+      "name": "Blue",
+      "hex": "#042c78",
+      "td": 2.5,
+      "searchText": "overture abs blue"
+    },
+    {
+      "id": "overture-abs-dark-blue",
+      "brand": "Overture",
+      "material": "ABS",
+      "name": "Dark Blue",
+      "hex": "#034e89",
+      "td": 1.2,
+      "searchText": "overture abs dark blue"
+    },
+    {
+      "id": "overture-abs-dark-green",
+      "brand": "Overture",
+      "material": "ABS",
+      "name": "Dark Green",
+      "hex": "#075938",
+      "td": 2.9,
+      "searchText": "overture abs dark green"
+    },
+    {
+      "id": "overture-abs-gold",
+      "brand": "Overture",
+      "material": "ABS",
+      "name": "Gold",
+      "hex": "#ce8d00",
+      "td": 6.5,
+      "searchText": "overture abs gold"
+    },
+    {
+      "id": "overture-abs-grass-green",
+      "brand": "Overture",
+      "material": "ABS",
+      "name": "Grass Green",
+      "hex": "#c4d802",
+      "td": 2,
+      "searchText": "overture abs grass green"
+    },
+    {
+      "id": "overture-abs-gray",
+      "brand": "Overture",
+      "material": "ABS",
+      "name": "Gray",
+      "hex": "#6fc0b0",
+      "td": 3.1,
+      "searchText": "overture abs gray"
+    },
+    {
+      "id": "overture-abs-green",
+      "brand": "Overture",
+      "material": "ABS",
+      "name": "Green",
+      "hex": "#3c933f",
+      "td": 2,
+      "searchText": "overture abs green"
+    },
+    {
+      "id": "overture-abs-light-blue",
+      "brand": "Overture",
+      "material": "ABS",
+      "name": "Light Blue",
+      "hex": "#5ec4ea",
+      "td": 5,
+      "searchText": "overture abs light blue"
+    },
+    {
+      "id": "overture-abs-natural",
+      "brand": "Overture",
+      "material": "ABS",
+      "name": "Natural",
+      "hex": "#f9f7ed",
+      "td": 14.9,
+      "searchText": "overture abs natural"
+    },
+    {
+      "id": "overture-abs-orange",
+      "brand": "Overture",
+      "material": "ABS",
+      "name": "Orange",
+      "hex": "#ff9b42",
+      "td": 5.5,
+      "searchText": "overture abs orange"
+    },
+    {
+      "id": "overture-abs-pink",
+      "brand": "Overture",
+      "material": "ABS",
+      "name": "Pink",
+      "hex": "#f79dbc",
+      "td": 4.2,
+      "searchText": "overture abs pink"
+    },
+    {
+      "id": "overture-abs-royal-gold",
+      "brand": "Overture",
+      "material": "ABS",
+      "name": "Royal Gold",
+      "hex": "#656910",
+      "td": 4.4,
+      "searchText": "overture abs royal gold"
+    },
+    {
+      "id": "overture-abs-white",
+      "brand": "Overture",
+      "material": "ABS",
+      "name": "White",
+      "hex": "#e9dedb",
+      "td": 4.8,
+      "searchText": "overture abs white"
+    },
+    {
+      "id": "overture-abs-yellow",
+      "brand": "Overture",
+      "material": "ABS",
+      "name": "Yellow",
+      "hex": "#ffea00",
+      "td": 7.3,
+      "searchText": "overture abs yellow"
+    },
+    {
+      "id": "overture-petg-army-green",
+      "brand": "Overture",
+      "material": "PETG",
+      "name": "Army Green",
+      "hex": "#404720",
+      "td": 0.4,
+      "searchText": "overture petg army green"
+    },
+    {
+      "id": "overture-petg-black",
+      "brand": "Overture",
+      "material": "PETG",
+      "name": "Black",
+      "hex": "#0d110e",
+      "td": 0.5,
+      "searchText": "overture petg black"
+    },
+    {
+      "id": "overture-petg-blue",
+      "brand": "Overture",
+      "material": "PETG",
+      "name": "Blue",
+      "hex": "#034e89",
+      "td": 1.5,
+      "searchText": "overture petg blue"
+    },
+    {
+      "id": "overture-petg-digital-blue",
+      "brand": "Overture",
+      "material": "PETG",
+      "name": "Digital Blue",
+      "hex": "#0378d0",
+      "td": 2.3,
+      "searchText": "overture petg digital blue"
+    },
+    {
+      "id": "overture-petg-gold",
+      "brand": "Overture",
+      "material": "PETG",
+      "name": "Gold",
+      "hex": "#ce8d00",
+      "td": 4.2,
+      "searchText": "overture petg gold"
+    },
+    {
+      "id": "overture-petg-grass-green",
+      "brand": "Overture",
+      "material": "PETG",
+      "name": "Grass Green",
+      "hex": "#c4d802",
+      "td": 3.2,
+      "searchText": "overture petg grass green"
+    },
+    {
+      "id": "overture-petg-green",
+      "brand": "Overture",
+      "material": "PETG",
+      "name": "Green",
+      "hex": "#38af69",
+      "td": 3.7,
+      "searchText": "overture petg green"
+    },
+    {
+      "id": "overture-petg-light-gray",
+      "brand": "Overture",
+      "material": "PETG",
+      "name": "Light Gray",
+      "hex": "#74777d",
+      "td": 2,
+      "searchText": "overture petg light gray"
+    },
+    {
+      "id": "overture-petg-magenta",
+      "brand": "Overture",
+      "material": "PETG",
+      "name": "Magenta",
+      "hex": "#c80181",
+      "td": 2.6,
+      "searchText": "overture petg magenta"
+    },
+    {
+      "id": "overture-petg-orange",
+      "brand": "Overture",
+      "material": "PETG",
+      "name": "Orange",
+      "hex": "#ff9b42",
+      "td": 6,
+      "searchText": "overture petg orange"
+    },
+    {
+      "id": "overture-petg-pink",
+      "brand": "Overture",
+      "material": "PETG",
+      "name": "Pink",
+      "hex": "#f79dbc",
+      "td": 3.9,
+      "searchText": "overture petg pink"
+    },
+    {
+      "id": "overture-petg-purple",
+      "brand": "Overture",
+      "material": "PETG",
+      "name": "Purple",
+      "hex": "#7142a3",
+      "td": 2.6,
+      "searchText": "overture petg purple"
+    },
+    {
+      "id": "overture-petg-rock-white",
+      "brand": "Overture",
+      "material": "PETG",
+      "name": "Rock White",
+      "hex": "#afb6be",
+      "td": 5.1,
+      "searchText": "overture petg rock white"
+    },
+    {
+      "id": "overture-petg-space-gray",
+      "brand": "Overture",
+      "material": "PETG",
+      "name": "Space Gray",
+      "hex": "#76797d",
+      "td": 0.3,
+      "searchText": "overture petg space gray"
+    },
+    {
+      "id": "overture-petg-sparkle-blue",
+      "brand": "Overture",
+      "material": "PETG",
+      "name": "Sparkle Blue",
+      "hex": "#212e3a",
+      "td": 2.2,
+      "searchText": "overture petg sparkle blue"
+    },
+    {
+      "id": "overture-petg-starry-blue",
+      "brand": "Overture",
+      "material": "PETG",
+      "name": "Starry Blue",
+      "hex": "#142b4b",
+      "td": 0.1,
+      "searchText": "overture petg starry blue"
+    },
+    {
+      "id": "overture-petg-transparent",
+      "brand": "Overture",
+      "material": "PETG",
+      "name": "Transparent",
+      "hex": "#ffffff",
+      "td": 100,
+      "searchText": "overture petg transparent"
+    },
+    {
+      "id": "overture-petg-transparent-blue",
+      "brand": "Overture",
+      "material": "PETG",
+      "name": "Transparent Blue",
+      "hex": "#09048e",
+      "td": 7.3,
+      "searchText": "overture petg transparent blue"
+    },
+    {
+      "id": "overture-petg-transparent-green",
+      "brand": "Overture",
+      "material": "PETG",
+      "name": "Transparent Green",
+      "hex": "#019a45",
+      "td": 16.2,
+      "searchText": "overture petg transparent green"
+    },
+    {
+      "id": "overture-petg-transparent-red",
+      "brand": "Overture",
+      "material": "PETG",
+      "name": "Transparent Red",
+      "hex": "#ce333e",
+      "td": 23,
+      "searchText": "overture petg transparent red"
+    },
+    {
+      "id": "overture-petg-white",
+      "brand": "Overture",
+      "material": "PETG",
+      "name": "White",
+      "hex": "#e9dedb",
+      "td": 3.5,
+      "searchText": "overture petg white"
+    },
+    {
+      "id": "overture-pla-black",
+      "brand": "Overture",
+      "material": "PLA",
+      "name": "Black",
+      "hex": "#0d110e",
+      "td": 0.7,
+      "searchText": "overture pla black"
+    },
+    {
+      "id": "overture-pla-blue",
+      "brand": "Overture",
+      "material": "PLA",
+      "name": "Blue",
+      "hex": "#033877",
+      "td": 1.6,
+      "searchText": "overture pla blue"
+    },
+    {
+      "id": "overture-pla-brown",
+      "brand": "Overture",
+      "material": "PLA",
+      "name": "Brown",
+      "hex": "#785c50",
+      "td": 1.6,
+      "searchText": "overture pla brown"
+    },
+    {
+      "id": "overture-pla-cement-gray",
+      "brand": "Overture",
+      "material": "PLA",
+      "name": "Cement Gray",
+      "hex": "#4c4e52",
+      "td": 0.6,
+      "searchText": "overture pla cement gray"
+    },
+    {
+      "id": "overture-pla-chocolate",
+      "brand": "Overture",
+      "material": "PLA",
+      "name": "Chocolate",
+      "hex": "#57361c",
+      "td": 0.2,
+      "searchText": "overture pla chocolate"
+    },
+    {
+      "id": "overture-pla-gray-blue",
+      "brand": "Overture",
+      "material": "PLA",
+      "name": "Gray Blue",
+      "hex": "#658697",
+      "td": 0.8,
+      "searchText": "overture pla gray blue"
+    },
+    {
+      "id": "overture-pla-green",
+      "brand": "Overture",
+      "material": "PLA",
+      "name": "Green",
+      "hex": "#3c933f",
+      "td": 1.1,
+      "searchText": "overture pla green"
+    },
+    {
+      "id": "overture-pla-highlight-yellow",
+      "brand": "Overture",
+      "material": "PLA",
+      "name": "Highlight Yellow",
+      "hex": "#f3d538",
+      "td": 6,
+      "searchText": "overture pla highlight yellow"
+    },
+    {
+      "id": "overture-pla-light-gray",
+      "brand": "Overture",
+      "material": "PLA",
+      "name": "Light Gray",
+      "hex": "#74777d",
+      "td": 0.7,
+      "searchText": "overture pla light gray"
+    },
+    {
+      "id": "overture-pla-light-green",
+      "brand": "Overture",
+      "material": "PLA",
+      "name": "Light Green",
+      "hex": "#bcd69b",
+      "td": 3.2,
+      "searchText": "overture pla light green"
+    },
+    {
+      "id": "overture-pla-light-yellow",
+      "brand": "Overture",
+      "material": "PLA",
+      "name": "Light Yellow",
+      "hex": "#f4d563",
+      "td": 3.1,
+      "searchText": "overture pla light yellow"
+    },
+    {
+      "id": "overture-pla-morning-blue",
+      "brand": "Overture",
+      "material": "PLA",
+      "name": "Morning Blue",
+      "hex": "#75afcd",
+      "td": 1.9,
+      "searchText": "overture pla morning blue"
+    },
+    {
+      "id": "overture-pla-olive-green",
+      "brand": "Overture",
+      "material": "PLA",
+      "name": "Olive green",
+      "hex": "#857f03",
+      "td": 0.5,
+      "searchText": "overture pla olive green"
+    },
+    {
+      "id": "overture-pla-orange",
+      "brand": "Overture",
+      "material": "PLA",
+      "name": "Orange",
+      "hex": "#c26208",
+      "td": 7.1,
+      "searchText": "overture pla orange"
+    },
+    {
+      "id": "overture-pla-pink",
+      "brand": "Overture",
+      "material": "PLA",
+      "name": "Pink",
+      "hex": "#f79dbc",
+      "td": 3.2,
+      "searchText": "overture pla pink"
+    },
+    {
+      "id": "overture-pla-purple",
+      "brand": "Overture",
+      "material": "PLA",
+      "name": "Purple",
+      "hex": "#6f4ab2",
+      "td": 1,
+      "searchText": "overture pla purple"
+    },
+    {
+      "id": "overture-pla-red",
+      "brand": "Overture",
+      "material": "PLA",
+      "name": "Red",
+      "hex": "#e9301e",
+      "td": 4.8,
+      "searchText": "overture pla red"
+    },
+    {
+      "id": "overture-pla-royal-copper",
+      "brand": "Overture",
+      "material": "PLA",
+      "name": "Royal Copper",
+      "hex": "#533426",
+      "td": 2.4,
+      "searchText": "overture pla royal copper"
+    },
+    {
+      "id": "overture-pla-space-gray",
+      "brand": "Overture",
+      "material": "PLA",
+      "name": "Space Gray",
+      "hex": "#63646b",
+      "td": 2.1,
+      "searchText": "overture pla space gray"
+    },
+    {
+      "id": "overture-pla-white",
+      "brand": "Overture",
+      "material": "PLA",
+      "name": "White",
+      "hex": "#e3e0db",
+      "td": 4.4,
+      "searchText": "overture pla white"
+    },
+    {
+      "id": "overture-pla-yellow",
+      "brand": "Overture",
+      "material": "PLA",
+      "name": "Yellow",
+      "hex": "#ffea00",
+      "td": 9.7,
+      "searchText": "overture pla yellow"
+    },
+    {
+      "id": "overture-tpu-black",
+      "brand": "Overture",
+      "material": "TPU",
+      "name": "Black",
+      "hex": "#050916",
+      "td": 0.3,
+      "searchText": "overture tpu black"
+    },
+    {
+      "id": "overture-tpu-blue",
+      "brand": "Overture",
+      "material": "TPU",
+      "name": "Blue",
+      "hex": "#052285",
+      "td": 1.3,
+      "searchText": "overture tpu blue"
+    },
+    {
+      "id": "overture-tpu-bright-pink",
+      "brand": "Overture",
+      "material": "TPU",
+      "name": "Bright Pink",
+      "hex": "#ff699b",
+      "td": 4.9,
+      "searchText": "overture tpu bright pink"
+    },
+    {
+      "id": "overture-tpu-digital-blue",
+      "brand": "Overture",
+      "material": "TPU",
+      "name": "Digital Blue",
+      "hex": "#0a92c0",
+      "td": 4.2,
+      "searchText": "overture tpu digital blue"
+    },
+    {
+      "id": "overture-tpu-gray",
+      "brand": "Overture",
+      "material": "TPU",
+      "name": "Gray",
+      "hex": "#96b4c4",
+      "td": 1.9,
+      "searchText": "overture tpu gray"
+    },
+    {
+      "id": "overture-tpu-green",
+      "brand": "Overture",
+      "material": "TPU",
+      "name": "Green",
+      "hex": "#189956",
+      "td": 3.4,
+      "searchText": "overture tpu green"
+    },
+    {
+      "id": "overture-tpu-night-gray",
+      "brand": "Overture",
+      "material": "TPU",
+      "name": "Night Gray",
+      "hex": "#738787",
+      "td": 1.3,
+      "searchText": "overture tpu night gray"
+    },
+    {
+      "id": "overture-tpu-orange",
+      "brand": "Overture",
+      "material": "TPU",
+      "name": "Orange",
+      "hex": "#e67f30",
+      "td": 6.6,
+      "searchText": "overture tpu orange"
+    },
+    {
+      "id": "overture-tpu-purple",
+      "brand": "Overture",
+      "material": "TPU",
+      "name": "Purple",
+      "hex": "#9650d4",
+      "td": 3,
+      "searchText": "overture tpu purple"
+    },
+    {
+      "id": "overture-tpu-red",
+      "brand": "Overture",
+      "material": "TPU",
+      "name": "Red",
+      "hex": "#ec1031",
+      "td": 5.4,
+      "searchText": "overture tpu red"
+    },
+    {
+      "id": "overture-tpu-white",
+      "brand": "Overture",
+      "material": "TPU",
+      "name": "White",
+      "hex": "#e6ffff",
+      "td": 5.6,
+      "searchText": "overture tpu white"
+    },
+    {
+      "id": "overture-tpu-yellow",
+      "brand": "Overture",
+      "material": "TPU",
+      "name": "Yellow",
+      "hex": "#faf75d",
+      "td": 9.3,
+      "searchText": "overture tpu yellow"
+    },
+    {
+      "id": "overture-matte-pla-army-green",
+      "brand": "Overture Matte",
+      "material": "PLA",
+      "name": "Army Green",
+      "hex": "#525234",
+      "td": 0.1,
+      "searchText": "overture matte pla army green"
+    },
+    {
+      "id": "overture-matte-pla-black",
+      "brand": "Overture Matte",
+      "material": "PLA",
+      "name": "Black",
+      "hex": "#181718",
+      "td": 0.1,
+      "searchText": "overture matte pla black"
+    },
+    {
+      "id": "overture-matte-pla-blue",
+      "brand": "Overture Matte",
+      "material": "PLA",
+      "name": "Blue",
+      "hex": "#1b6397",
+      "td": 0.5,
+      "searchText": "overture matte pla blue"
+    },
+    {
+      "id": "overture-matte-pla-carbon-fiber-black",
+      "brand": "Overture Matte",
+      "material": "PLA",
+      "name": "Carbon Fiber Black",
+      "hex": "#383939",
+      "td": 1.1,
+      "searchText": "overture matte pla carbon fiber black"
+    },
+    {
+      "id": "overture-matte-pla-green",
+      "brand": "Overture Matte",
+      "material": "PLA",
+      "name": "Green",
+      "hex": "#519f62",
+      "td": 0.4,
+      "searchText": "overture matte pla green"
+    },
+    {
+      "id": "overture-matte-pla-jeans-red",
+      "brand": "Overture Matte",
+      "material": "PLA",
+      "name": "Jeans Red",
+      "hex": "#ce4f4e",
+      "td": 0.4,
+      "searchText": "overture matte pla jeans red"
+    },
+    {
+      "id": "overture-matte-pla-light-blue",
+      "brand": "Overture Matte",
+      "material": "PLA",
+      "name": "Light Blue",
+      "hex": "#5ec4ea",
+      "td": 1.8,
+      "searchText": "overture matte pla light blue"
+    },
+    {
+      "id": "overture-matte-pla-light-brown",
+      "brand": "Overture Matte",
+      "material": "PLA",
+      "name": "Light Brown",
+      "hex": "#a6896c",
+      "td": 0.6,
+      "searchText": "overture matte pla light brown"
+    },
+    {
+      "id": "overture-matte-pla-light-gray",
+      "brand": "Overture Matte",
+      "material": "PLA",
+      "name": "Light Gray",
+      "hex": "#74777d",
+      "td": 0.3,
+      "searchText": "overture matte pla light gray"
+    },
+    {
+      "id": "overture-matte-pla-light-green",
+      "brand": "Overture Matte",
+      "material": "PLA",
+      "name": "Light Green",
+      "hex": "#bcd69b",
+      "td": 1.1,
+      "searchText": "overture matte pla light green"
+    },
+    {
+      "id": "overture-matte-pla-light-pink",
+      "brand": "Overture Matte",
+      "material": "PLA",
+      "name": "Light Pink",
+      "hex": "#dab2b6",
+      "td": 2.2,
+      "searchText": "overture matte pla light pink"
+    },
+    {
+      "id": "overture-matte-pla-olive-green",
+      "brand": "Overture Matte",
+      "material": "PLA",
+      "name": "Olive Green",
+      "hex": "#a88704",
+      "td": 0.9,
+      "searchText": "overture matte pla olive green"
+    },
+    {
+      "id": "overture-matte-pla-pink",
+      "brand": "Overture Matte",
+      "material": "PLA",
+      "name": "Pink",
+      "hex": "#f79dbc",
+      "td": 2.5,
+      "searchText": "overture matte pla pink"
+    },
+    {
+      "id": "overture-matte-pla-purple",
+      "brand": "Overture Matte",
+      "material": "PLA",
+      "name": "Purple",
+      "hex": "#8c69b5",
+      "td": 0.7,
+      "searchText": "overture matte pla purple"
+    },
+    {
+      "id": "overture-matte-pla-red",
+      "brand": "Overture Matte",
+      "material": "PLA",
+      "name": "Red",
+      "hex": "#eb3b41",
+      "td": 2.5,
+      "searchText": "overture matte pla red"
+    },
+    {
+      "id": "overture-matte-pla-skin",
+      "brand": "Overture Matte",
+      "material": "PLA",
+      "name": "Skin",
+      "hex": "#d0b5a4",
+      "td": 0.7,
+      "searchText": "overture matte pla skin"
+    },
+    {
+      "id": "overture-matte-pla-white",
+      "brand": "Overture Matte",
+      "material": "PLA",
+      "name": "White",
+      "hex": "#e6dede",
+      "td": 3.7,
+      "searchText": "overture matte pla white"
+    },
+    {
+      "id": "overture-matte-pla-wood",
+      "brand": "Overture Matte",
+      "material": "PLA",
+      "name": "Wood",
+      "hex": "#af7643",
+      "td": 0.1,
+      "searchText": "overture matte pla wood"
+    },
+    {
+      "id": "overture-matte-pla-yellow",
+      "brand": "Overture Matte",
+      "material": "PLA",
+      "name": "Yellow",
+      "hex": "#e4bb4c",
+      "td": 3.6,
+      "searchText": "overture matte pla yellow"
+    },
+    {
+      "id": "polylite-abs-black",
+      "brand": "PolyLite",
+      "material": "ABS",
+      "name": "Black",
+      "hex": "#101820",
+      "td": 0.3,
+      "searchText": "polylite abs black"
+    },
+    {
+      "id": "polylite-abs-blue",
+      "brand": "PolyLite",
+      "material": "ABS",
+      "name": "Blue",
+      "hex": "#002677",
+      "td": 0.5,
+      "searchText": "polylite abs blue"
+    },
+    {
+      "id": "polylite-abs-dark-grey",
+      "brand": "PolyLite",
+      "material": "ABS",
+      "name": "Dark Grey",
+      "hex": "#6c6d71",
+      "td": 0.8,
+      "searchText": "polylite abs dark grey"
+    },
+    {
+      "id": "polylite-abs-galaxy-dark-grey",
+      "brand": "PolyLite",
+      "material": "ABS",
+      "name": "Galaxy Dark Grey",
+      "hex": "#474648",
+      "td": 0.5,
+      "searchText": "polylite abs galaxy dark grey"
+    },
+    {
+      "id": "polylite-abs-galaxy-orange",
+      "brand": "PolyLite",
+      "material": "ABS",
+      "name": "Galaxy Orange",
+      "hex": "#d76002",
+      "td": 3,
+      "searchText": "polylite abs galaxy orange"
+    },
+    {
+      "id": "polylite-abs-galaxy-purple",
+      "brand": "PolyLite",
+      "material": "ABS",
+      "name": "Galaxy Purple",
+      "hex": "#5e4791",
+      "td": 1,
+      "searchText": "polylite abs galaxy purple"
+    },
+    {
+      "id": "polylite-abs-galaxy-teal",
+      "brand": "PolyLite",
+      "material": "ABS",
+      "name": "Galaxy Teal",
+      "hex": "#61b9c5",
+      "td": 1,
+      "searchText": "polylite abs galaxy teal"
+    },
+    {
+      "id": "polylite-abs-gold",
+      "brand": "PolyLite",
+      "material": "ABS",
+      "name": "Gold",
+      "hex": "#bd6200",
+      "td": 2,
+      "searchText": "polylite abs gold"
+    },
+    {
+      "id": "polylite-abs-green",
+      "brand": "PolyLite",
+      "material": "ABS",
+      "name": "Green",
+      "hex": "#3a913f",
+      "td": 1,
+      "searchText": "polylite abs green"
+    },
+    {
+      "id": "polylite-abs-grey",
+      "brand": "PolyLite",
+      "material": "ABS",
+      "name": "Grey",
+      "hex": "#888b8d",
+      "td": 1,
+      "searchText": "polylite abs grey"
+    },
+    {
+      "id": "polylite-abs-light-blue",
+      "brand": "PolyLite",
+      "material": "ABS",
+      "name": "Light Blue",
+      "hex": "#5bc2e7",
+      "td": 3.5,
+      "searchText": "polylite abs light blue"
+    },
+    {
+      "id": "polylite-abs-lime",
+      "brand": "PolyLite",
+      "material": "ABS",
+      "name": "Lime",
+      "hex": "#c4d600",
+      "td": 1.5,
+      "searchText": "polylite abs lime"
+    },
+    {
+      "id": "polylite-abs-orange",
+      "brand": "PolyLite",
+      "material": "ABS",
+      "name": "Orange",
+      "hex": "#ff6a13",
+      "td": 6.5,
+      "searchText": "polylite abs orange"
+    },
+    {
+      "id": "polylite-abs-pink",
+      "brand": "PolyLite",
+      "material": "ABS",
+      "name": "Pink",
+      "hex": "#f59bbb",
+      "td": 4,
+      "searchText": "polylite abs pink"
+    },
+    {
+      "id": "polylite-abs-polymaker-teal",
+      "brand": "PolyLite",
+      "material": "ABS",
+      "name": "Polymaker Teal",
+      "hex": "#2dccd3",
+      "td": 1,
+      "searchText": "polylite abs polymaker teal"
+    },
+    {
+      "id": "polylite-abs-purple",
+      "brand": "PolyLite",
+      "material": "ABS",
+      "name": "Purple",
+      "hex": "#6e3fa3",
+      "td": 1,
+      "searchText": "polylite abs purple"
+    },
+    {
+      "id": "polylite-abs-red",
+      "brand": "PolyLite",
+      "material": "ABS",
+      "name": "Red",
+      "hex": "#de4343",
+      "td": 5,
+      "searchText": "polylite abs red"
+    },
+    {
+      "id": "polylite-abs-white",
+      "brand": "PolyLite",
+      "material": "ABS",
+      "name": "White",
+      "hex": "#ffffff",
+      "td": 4.5,
+      "searchText": "polylite abs white"
+    },
+    {
+      "id": "polylite-abs-yellow",
+      "brand": "PolyLite",
+      "material": "ABS",
+      "name": "Yellow",
+      "hex": "#ffc845",
+      "td": 10.5,
+      "searchText": "polylite abs yellow"
+    },
+    {
+      "id": "polylite-asa-army-brown",
+      "brand": "PolyLite",
+      "material": "ASA",
+      "name": "Army Brown",
+      "hex": "#775c50",
+      "td": 0.3,
+      "searchText": "polylite asa army brown"
+    },
+    {
+      "id": "polylite-asa-army-green",
+      "brand": "PolyLite",
+      "material": "ASA",
+      "name": "Army Green",
+      "hex": "#68724d",
+      "td": 0.3,
+      "searchText": "polylite asa army green"
+    },
+    {
+      "id": "polylite-asa-black",
+      "brand": "PolyLite",
+      "material": "ASA",
+      "name": "Black",
+      "hex": "#101820",
+      "td": 0.3,
+      "searchText": "polylite asa black"
+    },
+    {
+      "id": "polylite-asa-blue",
+      "brand": "PolyLite",
+      "material": "ASA",
+      "name": "Blue",
+      "hex": "#002677",
+      "td": 0.3,
+      "searchText": "polylite asa blue"
+    },
+    {
+      "id": "polylite-asa-dark-grey",
+      "brand": "PolyLite",
+      "material": "ASA",
+      "name": "Dark Grey",
+      "hex": "#6c6d71",
+      "td": 0.3,
+      "searchText": "polylite asa dark grey"
+    },
+    {
+      "id": "polylite-asa-galaxy-blue",
+      "brand": "PolyLite",
+      "material": "ASA",
+      "name": "Galaxy Blue",
+      "hex": "#012c61",
+      "td": 0.3,
+      "searchText": "polylite asa galaxy blue"
+    },
+    {
+      "id": "polylite-asa-galaxy-green",
+      "brand": "PolyLite",
+      "material": "ASA",
+      "name": "Galaxy Green",
+      "hex": "#2e764c",
+      "td": 0.5,
+      "searchText": "polylite asa galaxy green"
+    },
+    {
+      "id": "polylite-asa-galaxy-red",
+      "brand": "PolyLite",
+      "material": "ASA",
+      "name": "Galaxy Red",
+      "hex": "#bf1a11",
+      "td": 1,
+      "searchText": "polylite asa galaxy red"
+    },
+    {
+      "id": "polylite-asa-green",
+      "brand": "PolyLite",
+      "material": "ASA",
+      "name": "Green",
+      "hex": "#00a95c",
+      "td": 0.5,
+      "searchText": "polylite asa green"
+    },
+    {
+      "id": "polylite-asa-grey",
+      "brand": "PolyLite",
+      "material": "ASA",
+      "name": "Grey",
+      "hex": "#888b8d",
+      "td": 0.5,
+      "searchText": "polylite asa grey"
+    },
+    {
+      "id": "polylite-asa-natural",
+      "brand": "PolyLite",
+      "material": "ASA",
+      "name": "Natural",
+      "hex": "#f1e6b2",
+      "td": 5.5,
+      "searchText": "polylite asa natural"
+    },
+    {
+      "id": "polylite-asa-orange",
+      "brand": "PolyLite",
+      "material": "ASA",
+      "name": "Orange",
+      "hex": "#ff6a13",
+      "td": 3,
+      "searchText": "polylite asa orange"
+    },
+    {
+      "id": "polylite-asa-polymaker-teal",
+      "brand": "PolyLite",
+      "material": "ASA",
+      "name": "PolyMaker Teal",
+      "hex": "#00b4bc",
+      "td": 0.5,
+      "searchText": "polylite asa polymaker teal"
+    },
+    {
+      "id": "polylite-asa-pop-blue",
+      "brand": "PolyLite",
+      "material": "ASA",
+      "name": "Pop Blue",
+      "hex": "#008dc3",
+      "td": 1,
+      "searchText": "polylite asa pop blue"
+    },
+    {
+      "id": "polylite-asa-pop-green",
+      "brand": "PolyLite",
+      "material": "ASA",
+      "name": "Pop Green",
+      "hex": "#77d730",
+      "td": 1,
+      "searchText": "polylite asa pop green"
+    },
+    {
+      "id": "polylite-asa-pop-pink",
+      "brand": "PolyLite",
+      "material": "ASA",
+      "name": "Pop Pink",
+      "hex": "#d83076",
+      "td": 1,
+      "searchText": "polylite asa pop pink"
+    },
+    {
+      "id": "polylite-asa-purple",
+      "brand": "PolyLite",
+      "material": "ASA",
+      "name": "Purple",
+      "hex": "#7758b3",
+      "td": 0.5,
+      "searchText": "polylite asa purple"
+    },
+    {
+      "id": "polylite-asa-red",
+      "brand": "PolyLite",
+      "material": "ASA",
+      "name": "Red",
+      "hex": "#af231c",
+      "td": 1.5,
+      "searchText": "polylite asa red"
+    },
+    {
+      "id": "polylite-asa-white",
+      "brand": "PolyLite",
+      "material": "ASA",
+      "name": "White",
+      "hex": "#ffffff",
+      "td": 0.5,
+      "searchText": "polylite asa white"
+    },
+    {
+      "id": "polylite-asa-yellow",
+      "brand": "PolyLite",
+      "material": "ASA",
+      "name": "Yellow",
+      "hex": "#ffe800",
+      "td": 3.5,
+      "searchText": "polylite asa yellow"
+    },
+    {
+      "id": "polylite-petg-black",
+      "brand": "PolyLite",
+      "material": "PETG",
+      "name": "Black",
+      "hex": "#000000",
+      "td": 0.3,
+      "searchText": "polylite petg black"
+    },
+    {
+      "id": "polylite-petg-blue",
+      "brand": "PolyLite",
+      "material": "PETG",
+      "name": "Blue",
+      "hex": "#004b87",
+      "td": 1,
+      "searchText": "polylite petg blue"
+    },
+    {
+      "id": "polylite-petg-clear",
+      "brand": "PolyLite",
+      "material": "PETG",
+      "name": "Clear",
+      "hex": "#f8f8f8",
+      "td": 14,
+      "searchText": "polylite petg clear"
+    },
+    {
+      "id": "polylite-petg-dark-blue",
+      "brand": "PolyLite",
+      "material": "PETG",
+      "name": "Dark Blue",
+      "hex": "#13294b",
+      "td": 0.3,
+      "searchText": "polylite petg dark blue"
+    },
+    {
+      "id": "polylite-petg-dark-green",
+      "brand": "PolyLite",
+      "material": "PETG",
+      "name": "Dark Green",
+      "hex": "#3d441e",
+      "td": 0.3,
+      "searchText": "polylite petg dark green"
+    },
+    {
+      "id": "polylite-petg-electric-blue",
+      "brand": "PolyLite",
+      "material": "PETG",
+      "name": "Electric Blue",
+      "hex": "#0076cf",
+      "td": 1.5,
+      "searchText": "polylite petg electric blue"
+    },
+    {
+      "id": "polylite-petg-gold",
+      "brand": "PolyLite",
+      "material": "PETG",
+      "name": "Gold",
+      "hex": "#cc8a00",
+      "td": 3,
+      "searchText": "polylite petg gold"
+    },
+    {
+      "id": "polylite-petg-green",
+      "brand": "PolyLite",
+      "material": "PETG",
+      "name": "Green",
+      "hex": "#37ad68",
+      "td": 1,
+      "searchText": "polylite petg green"
+    },
+    {
+      "id": "polylite-petg-grey",
+      "brand": "PolyLite",
+      "material": "PETG",
+      "name": "Grey",
+      "hex": "#888b8d",
+      "td": 1,
+      "searchText": "polylite petg grey"
+    },
+    {
+      "id": "polylite-petg-lime-green",
+      "brand": "PolyLite",
+      "material": "PETG",
+      "name": "Lime Green",
+      "hex": "#c4d600",
+      "td": 3.5,
+      "searchText": "polylite petg lime green"
+    },
+    {
+      "id": "polylite-petg-magenta",
+      "brand": "PolyLite",
+      "material": "PETG",
+      "name": "Magenta",
+      "hex": "#c6007e",
+      "td": 1.5,
+      "searchText": "polylite petg magenta"
+    },
+    {
+      "id": "polylite-petg-orange",
+      "brand": "PolyLite",
+      "material": "PETG",
+      "name": "Orange",
+      "hex": "#ff671f",
+      "td": 4,
+      "searchText": "polylite petg orange"
+    },
+    {
+      "id": "polylite-petg-pink",
+      "brand": "PolyLite",
+      "material": "PETG",
+      "name": "Pink",
+      "hex": "#f59bbb",
+      "td": 2.5,
+      "searchText": "polylite petg pink"
+    },
+    {
+      "id": "polylite-petg-polymaker-teal",
+      "brand": "PolyLite",
+      "material": "PETG",
+      "name": "PolyMaker Teal",
+      "hex": "#2dccd3",
+      "td": 1,
+      "searchText": "polylite petg polymaker teal"
+    },
+    {
+      "id": "polylite-petg-purple",
+      "brand": "PolyLite",
+      "material": "PETG",
+      "name": "Purple",
+      "hex": "#6e3fa3",
+      "td": 1,
+      "searchText": "polylite petg purple"
+    },
+    {
+      "id": "polylite-petg-red",
+      "brand": "PolyLite",
+      "material": "PETG",
+      "name": "Red",
+      "hex": "#de4343",
+      "td": 2.5,
+      "searchText": "polylite petg red"
+    },
+    {
+      "id": "polylite-petg-silver",
+      "brand": "PolyLite",
+      "material": "PETG",
+      "name": "Silver",
+      "hex": "#75787b",
+      "td": 0.3,
+      "searchText": "polylite petg silver"
+    },
+    {
+      "id": "polylite-petg-translucent-blue",
+      "brand": "PolyLite",
+      "material": "PETG",
+      "name": "Translucent Blue",
+      "hex": "#06038d",
+      "td": 2.5,
+      "searchText": "polylite petg translucent blue"
+    },
+    {
+      "id": "polylite-petg-translucent-green",
+      "brand": "PolyLite",
+      "material": "PETG",
+      "name": "Translucent Green",
+      "hex": "#009a44",
+      "td": 4.5,
+      "searchText": "polylite petg translucent green"
+    },
+    {
+      "id": "polylite-petg-translucent-red",
+      "brand": "PolyLite",
+      "material": "PETG",
+      "name": "Translucent Red",
+      "hex": "#cb333b",
+      "td": 7,
+      "searchText": "polylite petg translucent red"
+    },
+    {
+      "id": "polylite-petg-white",
+      "brand": "PolyLite",
+      "material": "PETG",
+      "name": "White",
+      "hex": "#ffffff",
+      "td": 2.5,
+      "searchText": "polylite petg white"
+    },
+    {
+      "id": "polylite-petg-yellow",
+      "brand": "PolyLite",
+      "material": "PETG",
+      "name": "Yellow",
+      "hex": "#ffc845",
+      "td": 7.5,
+      "searchText": "polylite petg yellow"
+    },
+    {
+      "id": "polylite-pla-aqua-blue",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Aqua Blue",
+      "hex": "#39b9db",
+      "td": 2.5,
+      "searchText": "polylite pla aqua blue"
+    },
+    {
+      "id": "polylite-pla-azure-blue",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Azure Blue",
+      "hex": "#0066d9",
+      "td": 3,
+      "searchText": "polylite pla azure blue"
+    },
+    {
+      "id": "polylite-pla-beige",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Beige",
+      "hex": "#c6ad74",
+      "td": 1.5,
+      "searchText": "polylite pla beige"
+    },
+    {
+      "id": "polylite-pla-black",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Black",
+      "hex": "#080a0d",
+      "td": 0.3,
+      "searchText": "polylite pla black"
+    },
+    {
+      "id": "polylite-pla-blue",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Blue",
+      "hex": "#003776",
+      "td": 1,
+      "searchText": "polylite pla blue"
+    },
+    {
+      "id": "polylite-pla-brown",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Brown",
+      "hex": "#55331a",
+      "td": 0.8,
+      "searchText": "polylite pla brown"
+    },
+    {
+      "id": "polylite-pla-cream",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Cream",
+      "hex": "#e5c8a2",
+      "td": 2,
+      "searchText": "polylite pla cream"
+    },
+    {
+      "id": "polylite-pla-dark-blue",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Dark Blue",
+      "hex": "#041b3d",
+      "td": 0.5,
+      "searchText": "polylite pla dark blue"
+    },
+    {
+      "id": "polylite-pla-gitd-blue",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "GITD Blue",
+      "hex": "#8dc8e8",
+      "td": 9,
+      "searchText": "polylite pla gitd blue"
+    },
+    {
+      "id": "polylite-pla-gitd-green",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "GITD Green",
+      "hex": "#a1d884",
+      "td": 10.5,
+      "searchText": "polylite pla gitd green"
+    },
+    {
+      "id": "polylite-pla-gitd-orange",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "GITD Orange",
+      "hex": "#fc9f56",
+      "td": 10.5,
+      "searchText": "polylite pla gitd orange"
+    },
+    {
+      "id": "polylite-pla-green",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Green",
+      "hex": "#06924d",
+      "td": 1,
+      "searchText": "polylite pla green"
+    },
+    {
+      "id": "polylite-pla-grey",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Grey",
+      "hex": "#8c9099",
+      "td": 1,
+      "searchText": "polylite pla grey"
+    },
+    {
+      "id": "polylite-pla-jungle-green",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Jungle Green",
+      "hex": "#446b20",
+      "td": 0.5,
+      "searchText": "polylite pla jungle green"
+    },
+    {
+      "id": "polylite-pla-lemon-yellow",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Lemon Yellow",
+      "hex": "#f1d335",
+      "td": 6.5,
+      "searchText": "polylite pla lemon yellow"
+    },
+    {
+      "id": "polylite-pla-lime-green",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Lime Green",
+      "hex": "#dede00",
+      "td": 3.5,
+      "searchText": "polylite pla lime green"
+    },
+    {
+      "id": "polylite-pla-magenta",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Magenta",
+      "hex": "#f2306e",
+      "td": 1,
+      "searchText": "polylite pla magenta"
+    },
+    {
+      "id": "polylite-pla-natural",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Natural",
+      "hex": "#e8e6d0",
+      "td": 21,
+      "searchText": "polylite pla natural"
+    },
+    {
+      "id": "polylite-pla-olive-green",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Olive Green",
+      "hex": "#857c00",
+      "td": 1,
+      "searchText": "polylite pla olive green"
+    },
+    {
+      "id": "polylite-pla-orange",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Orange",
+      "hex": "#f67405",
+      "td": 7.5,
+      "searchText": "polylite pla orange"
+    },
+    {
+      "id": "polylite-pla-pink",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Pink",
+      "hex": "#ee9bb5",
+      "td": 3,
+      "searchText": "polylite pla pink"
+    },
+    {
+      "id": "polylite-pla-polymaker-teal",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Polymaker Teal",
+      "hex": "#4cc0c7",
+      "td": 0.5,
+      "searchText": "polylite pla polymaker teal"
+    },
+    {
+      "id": "polylite-pla-purple",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Purple",
+      "hex": "#6c47b2",
+      "td": 0.5,
+      "searchText": "polylite pla purple"
+    },
+    {
+      "id": "polylite-pla-red",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Red",
+      "hex": "#e72f1d",
+      "td": 1.5,
+      "searchText": "polylite pla red"
+    },
+    {
+      "id": "polylite-pla-starlight-jupiter",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Starlight Jupiter",
+      "hex": "#b17137",
+      "td": 1.5,
+      "searchText": "polylite pla starlight jupiter"
+    },
+    {
+      "id": "polylite-pla-starlight-mercury",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Starlight Mercury",
+      "hex": "#c3c6e2",
+      "td": 2.5,
+      "searchText": "polylite pla starlight mercury"
+    },
+    {
+      "id": "polylite-pla-starlight-neptune",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Starlight Neptune",
+      "hex": "#1284a2",
+      "td": 1,
+      "searchText": "polylite pla starlight neptune"
+    },
+    {
+      "id": "polylite-pla-steel-grey",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Steel Grey",
+      "hex": "#616469",
+      "td": 1,
+      "searchText": "polylite pla steel grey"
+    },
+    {
+      "id": "polylite-pla-stone-blue",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Stone Blue",
+      "hex": "#40719a",
+      "td": 0.5,
+      "searchText": "polylite pla stone blue"
+    },
+    {
+      "id": "polylite-pla-temp-green-lime-cold",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Temp Green-Lime (Cold)",
+      "hex": "#7ee2a0",
+      "td": 7,
+      "searchText": "polylite pla temp green-lime (cold)"
+    },
+    {
+      "id": "polylite-pla-temp-green-lime-hot",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Temp Green-Lime (Hot)",
+      "hex": "#dbde7b",
+      "td": 8,
+      "searchText": "polylite pla temp green-lime (hot)"
+    },
+    {
+      "id": "polylite-pla-temp-purple-pink-translucent-cold",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Temp Purple-Pink-Translucent (Cold)",
+      "hex": "#4734aa",
+      "td": 4,
+      "searchText": "polylite pla temp purple-pink-translucent (cold)"
+    },
+    {
+      "id": "polylite-pla-temp-purple-pink-translucent-hot",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Temp Purple-Pink-Translucent (Hot)",
+      "hex": "#e3d4cd",
+      "td": 13,
+      "searchText": "polylite pla temp purple-pink-translucent (hot)"
+    },
+    {
+      "id": "polylite-pla-temp-purple-pink-translucent-med",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Temp Purple-Pink-Translucent (Med)",
+      "hex": "#f36fa9",
+      "td": 10,
+      "searchText": "polylite pla temp purple-pink-translucent (med)"
+    },
+    {
+      "id": "polylite-pla-uv-orange",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "UV Orange",
+      "hex": "#ffb46e",
+      "td": 14,
+      "searchText": "polylite pla uv orange"
+    },
+    {
+      "id": "polylite-pla-white",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "White",
+      "hex": "#e2dedb",
+      "td": 5,
+      "searchText": "polylite pla white"
+    },
+    {
+      "id": "polylite-pla-wine-red",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Wine Red",
+      "hex": "#e0191e",
+      "td": 1,
+      "searchText": "polylite pla wine red"
+    },
+    {
+      "id": "polylite-pla-yellow",
+      "brand": "PolyLite",
+      "material": "PLA",
+      "name": "Yellow",
+      "hex": "#f3b400",
+      "td": 10.5,
+      "searchText": "polylite pla yellow"
+    },
+    {
+      "id": "polylite-pro-pla-army-beige",
+      "brand": "PolyLite Pro",
+      "material": "PLA",
+      "name": "Army Beige",
+      "hex": "#aa6f3e",
+      "td": 1,
+      "searchText": "polylite pro pla army beige"
+    },
+    {
+      "id": "polylite-pro-pla-army-green",
+      "brand": "PolyLite Pro",
+      "material": "PLA",
+      "name": "Army Green",
+      "hex": "#665a28",
+      "td": 0.5,
+      "searchText": "polylite pro pla army green"
+    },
+    {
+      "id": "polylite-pro-pla-black",
+      "brand": "PolyLite Pro",
+      "material": "PLA",
+      "name": "Black",
+      "hex": "#0c0e0c",
+      "td": 0.3,
+      "searchText": "polylite pro pla black"
+    },
+    {
+      "id": "polylite-pro-pla-blue",
+      "brand": "PolyLite Pro",
+      "material": "PLA",
+      "name": "Blue",
+      "hex": "#00307e",
+      "td": 1,
+      "searchText": "polylite pro pla blue"
+    },
+    {
+      "id": "polylite-pro-pla-blue-green",
+      "brand": "PolyLite Pro",
+      "material": "PLA",
+      "name": "Blue-Green",
+      "hex": "#00272f",
+      "td": 0.5,
+      "searchText": "polylite pro pla blue-green"
+    },
+    {
+      "id": "polylite-pro-pla-brown",
+      "brand": "PolyLite Pro",
+      "material": "PLA",
+      "name": "Brown",
+      "hex": "#4f2e1e",
+      "td": 0.5,
+      "searchText": "polylite pro pla brown"
+    },
+    {
+      "id": "polylite-pro-pla-cold-white",
+      "brand": "PolyLite Pro",
+      "material": "PLA",
+      "name": "Cold White",
+      "hex": "#eaecf5",
+      "td": 0.5,
+      "searchText": "polylite pro pla cold white"
+    },
+    {
+      "id": "polylite-pro-pla-dark-purple",
+      "brand": "PolyLite Pro",
+      "material": "PLA",
+      "name": "Dark Purple",
+      "hex": "#292036",
+      "td": 0.3,
+      "searchText": "polylite pro pla dark purple"
+    },
+    {
+      "id": "polylite-pro-pla-green",
+      "brand": "PolyLite Pro",
+      "material": "PLA",
+      "name": "Green",
+      "hex": "#178d4a",
+      "td": 1,
+      "searchText": "polylite pro pla green"
+    },
+    {
+      "id": "polylite-pro-pla-grey",
+      "brand": "PolyLite Pro",
+      "material": "PLA",
+      "name": "Grey",
+      "hex": "#73767d",
+      "td": 0.5,
+      "searchText": "polylite pro pla grey"
+    },
+    {
+      "id": "polylite-pro-pla-light-blue",
+      "brand": "PolyLite Pro",
+      "material": "PLA",
+      "name": "Light Blue",
+      "hex": "#72aecb",
+      "td": 1,
+      "searchText": "polylite pro pla light blue"
+    },
+    {
+      "id": "polylite-pro-pla-light-green",
+      "brand": "PolyLite Pro",
+      "material": "PLA",
+      "name": "Light Green",
+      "hex": "#bbd39b",
+      "td": 2.5,
+      "searchText": "polylite pro pla light green"
+    },
+    {
+      "id": "polylite-pro-pla-light-red",
+      "brand": "PolyLite Pro",
+      "material": "PLA",
+      "name": "Light Red",
+      "hex": "#cc4c4b",
+      "td": 1,
+      "searchText": "polylite pro pla light red"
+    },
+    {
+      "id": "polylite-pro-pla-light-yellow",
+      "brand": "PolyLite Pro",
+      "material": "PLA",
+      "name": "Light Yellow",
+      "hex": "#f3d561",
+      "td": 3,
+      "searchText": "polylite pro pla light yellow"
+    },
+    {
+      "id": "polylite-pro-pla-magenta",
+      "brand": "PolyLite Pro",
+      "material": "PLA",
+      "name": "Magenta",
+      "hex": "#e42363",
+      "td": 1,
+      "searchText": "polylite pro pla magenta"
+    },
+    {
+      "id": "polylite-pro-pla-metallic-blue",
+      "brand": "PolyLite Pro",
+      "material": "PLA",
+      "name": "Metallic Blue",
+      "hex": "#2d3449",
+      "td": 0.3,
+      "searchText": "polylite pro pla metallic blue"
+    },
+    {
+      "id": "polylite-pro-pla-metallic-bronze",
+      "brand": "PolyLite Pro",
+      "material": "PLA",
+      "name": "Metallic Bronze",
+      "hex": "#8d4c2d",
+      "td": 1,
+      "searchText": "polylite pro pla metallic bronze"
+    },
+    {
+      "id": "polylite-pro-pla-metallic-gold",
+      "brand": "PolyLite Pro",
+      "material": "PLA",
+      "name": "Metallic Gold",
+      "hex": "#a66301",
+      "td": 2,
+      "searchText": "polylite pro pla metallic gold"
+    },
+    {
+      "id": "polylite-pro-pla-metallic-magenta",
+      "brand": "PolyLite Pro",
+      "material": "PLA",
+      "name": "Metallic Magenta",
+      "hex": "#b620c5",
+      "td": 1,
+      "searchText": "polylite pro pla metallic magenta"
+    },
+    {
+      "id": "polylite-pro-pla-metallic-red",
+      "brand": "PolyLite Pro",
+      "material": "PLA",
+      "name": "Metallic Red",
+      "hex": "#c53b20",
+      "td": 0.5,
+      "searchText": "polylite pro pla metallic red"
+    },
+    {
+      "id": "polylite-pro-pla-metallic-silver",
+      "brand": "PolyLite Pro",
+      "material": "PLA",
+      "name": "Metallic Silver",
+      "hex": "#8a8d95",
+      "td": 0.5,
+      "searchText": "polylite pro pla metallic silver"
+    },
+    {
+      "id": "polylite-pro-pla-orange",
+      "brand": "PolyLite Pro",
+      "material": "PLA",
+      "name": "Orange",
+      "hex": "#ec6a01",
+      "td": 7.5,
+      "searchText": "polylite pro pla orange"
+    },
+    {
+      "id": "polylite-pro-pla-pink",
+      "brand": "PolyLite Pro",
+      "material": "PLA",
+      "name": "Pink",
+      "hex": "#ed92b0",
+      "td": 3,
+      "searchText": "polylite pro pla pink"
+    },
+    {
+      "id": "polylite-pro-pla-polymaker-teal",
+      "brand": "PolyLite Pro",
+      "material": "PLA",
+      "name": "Polymaker Teal",
+      "hex": "#2fa5ae",
+      "td": 0.5,
+      "searchText": "polylite pro pla polymaker teal"
+    },
+    {
+      "id": "polylite-pro-pla-purple",
+      "brand": "PolyLite Pro",
+      "material": "PLA",
+      "name": "Purple",
+      "hex": "#6843b1",
+      "td": 1,
+      "searchText": "polylite pro pla purple"
+    },
+    {
+      "id": "polylite-pro-pla-red",
+      "brand": "PolyLite Pro",
+      "material": "PLA",
+      "name": "Red",
+      "hex": "#e62216",
+      "td": 1.5,
+      "searchText": "polylite pro pla red"
+    },
+    {
+      "id": "polylite-pro-pla-white",
+      "brand": "PolyLite Pro",
+      "material": "PLA",
+      "name": "White",
+      "hex": "#e6e1de",
+      "td": 5,
+      "searchText": "polylite pro pla white"
+    },
+    {
+      "id": "polylite-pro-pla-yellow",
+      "brand": "PolyLite Pro",
+      "material": "PLA",
+      "name": "Yellow",
+      "hex": "#f7b300",
+      "td": 10.5,
+      "searchText": "polylite pro pla yellow"
+    },
+    {
+      "id": "polyterra-pla-arctic-teal",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Arctic Teal",
+      "hex": "#5aabb1",
+      "td": 0.5,
+      "searchText": "polyterra pla arctic teal"
+    },
+    {
+      "id": "polyterra-pla-army-beige",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Army Beige",
+      "hex": "#aa6f3e",
+      "td": 0.5,
+      "searchText": "polyterra pla army beige"
+    },
+    {
+      "id": "polyterra-pla-army-blue",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Army Blue",
+      "hex": "#062b4d",
+      "td": 0.3,
+      "searchText": "polyterra pla army blue"
+    },
+    {
+      "id": "polyterra-pla-army-brown",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Army Brown",
+      "hex": "#724e3d",
+      "td": 0.3,
+      "searchText": "polyterra pla army brown"
+    },
+    {
+      "id": "polyterra-pla-army-dark-green",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Army Dark Green",
+      "hex": "#515234",
+      "td": 1.8,
+      "searchText": "polyterra pla army dark green"
+    },
+    {
+      "id": "polyterra-pla-army-light-green",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Army Light Green",
+      "hex": "#a78403",
+      "td": 0.5,
+      "searchText": "polyterra pla army light green"
+    },
+    {
+      "id": "polyterra-pla-army-red",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Army Red",
+      "hex": "#ac1a17",
+      "td": 0.3,
+      "searchText": "polyterra pla army red"
+    },
+    {
+      "id": "polyterra-pla-charcoal-black",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Charcoal Black",
+      "hex": "#1c1c1c",
+      "td": 0.3,
+      "searchText": "polyterra pla charcoal black"
+    },
+    {
+      "id": "polyterra-pla-cotton-white",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Cotton White",
+      "hex": "#e6dddb",
+      "td": 2.5,
+      "searchText": "polyterra pla cotton white"
+    },
+    {
+      "id": "polyterra-pla-earth-brown",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Earth Brown",
+      "hex": "#623e2a",
+      "td": 0.3,
+      "searchText": "polyterra pla earth brown"
+    },
+    {
+      "id": "polyterra-pla-forest-green",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Forest Green",
+      "hex": "#519f61",
+      "td": 0.5,
+      "searchText": "polyterra pla forest green"
+    },
+    {
+      "id": "polyterra-pla-fossil-grey",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Fossil Grey",
+      "hex": "#6f727e",
+      "td": 0.3,
+      "searchText": "polyterra pla fossil grey"
+    },
+    {
+      "id": "polyterra-pla-lava-red",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Lava Red",
+      "hex": "#de1619",
+      "td": 1,
+      "searchText": "polyterra pla lava red"
+    },
+    {
+      "id": "polyterra-pla-lavender-purple",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Lavender Purple",
+      "hex": "#8a68b5",
+      "td": 0.5,
+      "searchText": "polyterra pla lavender purple"
+    },
+    {
+      "id": "polyterra-pla-lime-green",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Lime Green",
+      "hex": "#d0e740",
+      "td": 1.5,
+      "searchText": "polyterra pla lime green"
+    },
+    {
+      "id": "polyterra-pla-muted-blue",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Muted Blue",
+      "hex": "#4e6a84",
+      "td": 0.3,
+      "searchText": "polyterra pla muted blue"
+    },
+    {
+      "id": "polyterra-pla-muted-green",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Muted Green",
+      "hex": "#656d60",
+      "td": 0.3,
+      "searchText": "polyterra pla muted green"
+    },
+    {
+      "id": "polyterra-pla-muted-purple",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Muted Purple",
+      "hex": "#7c5577",
+      "td": 0.3,
+      "searchText": "polyterra pla muted purple"
+    },
+    {
+      "id": "polyterra-pla-muted-red",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Muted Red",
+      "hex": "#db3e14",
+      "td": 1,
+      "searchText": "polyterra pla muted red"
+    },
+    {
+      "id": "polyterra-pla-muted-white",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Muted White",
+      "hex": "#afa198",
+      "td": 0.5,
+      "searchText": "polyterra pla muted white"
+    },
+    {
+      "id": "polyterra-pla-pastel-banana",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Pastel Banana",
+      "hex": "#f5cf6f",
+      "td": 3.5,
+      "searchText": "polyterra pla pastel banana"
+    },
+    {
+      "id": "polyterra-pla-pastel-candy",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Pastel Candy",
+      "hex": "#dabcc8",
+      "td": 2.5,
+      "searchText": "polyterra pla pastel candy"
+    },
+    {
+      "id": "polyterra-pla-pastel-ice",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Pastel Ice",
+      "hex": "#95c5d3",
+      "td": 1.5,
+      "searchText": "polyterra pla pastel ice"
+    },
+    {
+      "id": "polyterra-pla-pastel-mint",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Pastel Mint",
+      "hex": "#bec9a5",
+      "td": 2,
+      "searchText": "polyterra pla pastel mint"
+    },
+    {
+      "id": "polyterra-pla-pastel-peach",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Pastel Peach",
+      "hex": "#f2b67a",
+      "td": 3.5,
+      "searchText": "polyterra pla pastel peach"
+    },
+    {
+      "id": "polyterra-pla-pastel-peanut",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Pastel Peanut",
+      "hex": "#cca897",
+      "td": 0.5,
+      "searchText": "polyterra pla pastel peanut"
+    },
+    {
+      "id": "polyterra-pla-pastel-watermelon",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Pastel Watermelon",
+      "hex": "#e93a3f",
+      "td": 1.5,
+      "searchText": "polyterra pla pastel watermelon"
+    },
+    {
+      "id": "polyterra-pla-sakura-pink",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Sakura Pink",
+      "hex": "#e0a8bb",
+      "td": 2.8,
+      "searchText": "polyterra pla sakura pink"
+    },
+    {
+      "id": "polyterra-pla-sapphire-blue",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Sapphire Blue",
+      "hex": "#005aa2",
+      "td": 0.3,
+      "searchText": "polyterra pla sapphire blue"
+    },
+    {
+      "id": "polyterra-pla-savannah-yellow",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Savannah Yellow",
+      "hex": "#f0be02",
+      "td": 3.5,
+      "searchText": "polyterra pla savannah yellow"
+    },
+    {
+      "id": "polyterra-pla-sunrise-orange",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Sunrise Orange",
+      "hex": "#f78e0e",
+      "td": 2,
+      "searchText": "polyterra pla sunrise orange"
+    },
+    {
+      "id": "polyterra-pla-wood-brown",
+      "brand": "PolyTerra",
+      "material": "PLA",
+      "name": "Wood Brown",
+      "hex": "#ad7441",
+      "td": 0.3,
+      "searchText": "polyterra pla wood brown"
+    },
+    {
+      "id": "protopasta-pla-black",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Black",
+      "hex": "#0e0e0e",
+      "td": 0.5,
+      "searchText": "protopasta pla black"
+    },
+    {
+      "id": "protopasta-pla-blood-of-my-enemies",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Blood of My Enemies",
+      "hex": "#751825",
+      "td": 11,
+      "searchText": "protopasta pla blood of my enemies"
+    },
+    {
+      "id": "protopasta-pla-blue-wonder-glitter",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Blue Wonder Glitter",
+      "hex": "#10518d",
+      "td": 9,
+      "searchText": "protopasta pla blue wonder glitter"
+    },
+    {
+      "id": "protopasta-pla-bobbi-s-purple-iris",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Bobbi's Purple Iris",
+      "hex": "#3f2d48",
+      "td": 17,
+      "searchText": "protopasta pla bobbi's purple iris"
+    },
+    {
+      "id": "protopasta-pla-bottle-brown",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Bottle Brown",
+      "hex": "#6f4223",
+      "td": 15,
+      "searchText": "protopasta pla bottle brown"
+    },
+    {
+      "id": "protopasta-pla-cloverleaf-metallic-green",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Cloverleaf Metallic Green",
+      "hex": "#004835",
+      "td": 5,
+      "searchText": "protopasta pla cloverleaf metallic green"
+    },
+    {
+      "id": "protopasta-pla-cobalt-blue",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Cobalt Blue",
+      "hex": "#003e9a",
+      "td": 5,
+      "searchText": "protopasta pla cobalt blue"
+    },
+    {
+      "id": "protopasta-pla-cupid-s-crush-metallic-pink",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Cupid's Crush Metallic Pink",
+      "hex": "#fe7ca6",
+      "td": 20,
+      "searchText": "protopasta pla cupid's crush metallic pink"
+    },
+    {
+      "id": "protopasta-pla-double-espresso-metallic-brown",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Double Espresso Metallic Brown",
+      "hex": "#442619",
+      "td": 3,
+      "searchText": "protopasta pla double espresso metallic brown"
+    },
+    {
+      "id": "protopasta-pla-dusty-smoke",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Dusty Smoke",
+      "hex": "#737073",
+      "td": 20,
+      "searchText": "protopasta pla dusty smoke"
+    },
+    {
+      "id": "protopasta-pla-flourescent-yellow",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Flourescent Yellow",
+      "hex": "#b3d204",
+      "td": 17,
+      "searchText": "protopasta pla flourescent yellow"
+    },
+    {
+      "id": "protopasta-pla-for-the-lulz",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "For The Lulz",
+      "hex": "#c4b504",
+      "td": 8,
+      "searchText": "protopasta pla for the lulz"
+    },
+    {
+      "id": "protopasta-pla-forest-fantasy-green",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Forest Fantasy Green",
+      "hex": "#08877c",
+      "td": 18,
+      "searchText": "protopasta pla forest fantasy green"
+    },
+    {
+      "id": "protopasta-pla-glitter-flake-stardust",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Glitter Flake Stardust",
+      "hex": "#c7c9c8",
+      "td": 17,
+      "searchText": "protopasta pla glitter flake stardust"
+    },
+    {
+      "id": "protopasta-pla-gold-dust-glitter",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Gold Dust Glitter",
+      "hex": "#e7c88a",
+      "td": 17,
+      "searchText": "protopasta pla gold dust glitter"
+    },
+    {
+      "id": "protopasta-pla-good-as-gold",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Good as Gold",
+      "hex": "#bf9b30",
+      "td": 5,
+      "searchText": "protopasta pla good as gold"
+    },
+    {
+      "id": "protopasta-pla-good-old-gray",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Good Old Gray",
+      "hex": "#7c8a95",
+      "td": 1,
+      "searchText": "protopasta pla good old gray"
+    },
+    {
+      "id": "protopasta-pla-mermaid-s-tale-metallic-teal",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Mermaid's Tale Metallic Teal",
+      "hex": "#006671",
+      "td": 4.5,
+      "searchText": "protopasta pla mermaid's tale metallic teal"
+    },
+    {
+      "id": "protopasta-pla-moonstruck-white-satin",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Moonstruck White Satin",
+      "hex": "#e5ddd6",
+      "td": 10,
+      "searchText": "protopasta pla moonstruck white satin"
+    },
+    {
+      "id": "protopasta-pla-nebula-multicolor",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Nebula Multicolor",
+      "hex": "#4c4887",
+      "td": 16,
+      "searchText": "protopasta pla nebula multicolor"
+    },
+    {
+      "id": "protopasta-pla-opaque-blue",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Opaque Blue",
+      "hex": "#002376",
+      "td": 6,
+      "searchText": "protopasta pla opaque blue"
+    },
+    {
+      "id": "protopasta-pla-opaque-white",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Opaque White",
+      "hex": "#ebebeb",
+      "td": 7,
+      "searchText": "protopasta pla opaque white"
+    },
+    {
+      "id": "protopasta-pla-out-of-darts-orange",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Out of Darts Orange",
+      "hex": "#ff8025",
+      "td": 10.5,
+      "searchText": "protopasta pla out of darts orange"
+    },
+    {
+      "id": "protopasta-pla-partly-sunny-yellow",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Partly Sunny Yellow",
+      "hex": "#fdc832",
+      "td": 11.6,
+      "searchText": "protopasta pla partly sunny yellow"
+    },
+    {
+      "id": "protopasta-pla-scarlet-symphony",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Scarlet Symphony",
+      "hex": "#f06188",
+      "td": 13,
+      "searchText": "protopasta pla scarlet symphony"
+    },
+    {
+      "id": "protopasta-pla-second-to-none-silver",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Second to None Silver",
+      "hex": "#a4b1b4",
+      "td": 5.5,
+      "searchText": "protopasta pla second to none silver"
+    },
+    {
+      "id": "protopasta-pla-silver-smoke-grey",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Silver Smoke Grey",
+      "hex": "#969696",
+      "td": 20,
+      "searchText": "protopasta pla silver smoke grey"
+    },
+    {
+      "id": "protopasta-pla-soda-green",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Soda Green",
+      "hex": "#007e43",
+      "td": 15.5,
+      "searchText": "protopasta pla soda green"
+    },
+    {
+      "id": "protopasta-pla-spittin-seeds-gray",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Spittin' Seeds Gray",
+      "hex": "#8b8989",
+      "td": 16,
+      "searchText": "protopasta pla spittin' seeds gray"
+    },
+    {
+      "id": "protopasta-pla-stratocumulus-mulitcolor",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Stratocumulus Mulitcolor",
+      "hex": "#75aebd",
+      "td": 13,
+      "searchText": "protopasta pla stratocumulus mulitcolor"
+    },
+    {
+      "id": "protopasta-pla-unicorn-tears-white-glitter",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Unicorn Tears White Glitter",
+      "hex": "#eaf1f1",
+      "td": 16,
+      "searchText": "protopasta pla unicorn tears white glitter"
+    },
+    {
+      "id": "protopasta-pla-white",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "White",
+      "hex": "#fafafa",
+      "td": 3,
+      "searchText": "protopasta pla white"
+    },
+    {
+      "id": "protopasta-pla-wonder-black",
+      "brand": "Protopasta",
+      "material": "PLA",
+      "name": "Wonder Black",
+      "hex": "#282828",
+      "td": 7,
+      "searchText": "protopasta pla wonder black"
+    },
+    {
+      "id": "prusament-asa-jet-black",
+      "brand": "Prusament",
+      "material": "ASA",
+      "name": "Jet Black",
+      "hex": "#292824",
+      "td": 0.4,
+      "searchText": "prusament asa jet black"
+    },
+    {
+      "id": "prusament-asa-lipstick-red",
+      "brand": "Prusament",
+      "material": "ASA",
+      "name": "Lipstick Red",
+      "hex": "#d02f37",
+      "td": 2,
+      "searchText": "prusament asa lipstick red"
+    },
+    {
+      "id": "prusament-asa-natural",
+      "brand": "Prusament",
+      "material": "ASA",
+      "name": "Natural",
+      "hex": "#d6d6cd",
+      "td": 6.5,
+      "searchText": "prusament asa natural"
+    },
+    {
+      "id": "prusament-asa-prusa-galaxy-black",
+      "brand": "Prusament",
+      "material": "ASA",
+      "name": "Prusa Galaxy Black",
+      "hex": "#3e413f",
+      "td": 0.1,
+      "searchText": "prusament asa prusa galaxy black"
+    },
+    {
+      "id": "prusament-asa-prusa-orange",
+      "brand": "Prusament",
+      "material": "ASA",
+      "name": "Prusa Orange",
+      "hex": "#f55928",
+      "td": 4.4,
+      "searchText": "prusament asa prusa orange"
+    },
+    {
+      "id": "prusament-asa-sapphire",
+      "brand": "Prusament",
+      "material": "ASA",
+      "name": "Sapphire",
+      "hex": "#3b4468",
+      "td": 0.3,
+      "searchText": "prusament asa sapphire"
+    },
+    {
+      "id": "prusament-asa-signal-white",
+      "brand": "Prusament",
+      "material": "ASA",
+      "name": "Signal White",
+      "hex": "#e3dfd9",
+      "td": 2.4,
+      "searchText": "prusament asa signal white"
+    },
+    {
+      "id": "prusament-pc-blend-carbon-fiber-black",
+      "brand": "Prusament",
+      "material": "PC BLEND",
+      "name": "Carbon Fiber Black",
+      "hex": "#262727",
+      "td": 0.1,
+      "searchText": "prusament pc blend carbon fiber black"
+    },
+    {
+      "id": "prusament-pc-blend-jet-black",
+      "brand": "Prusament",
+      "material": "PC BLEND",
+      "name": "Jet Black",
+      "hex": "#24292a",
+      "td": 0.4,
+      "searchText": "prusament pc blend jet black"
+    },
+    {
+      "id": "prusament-pc-blend-natural",
+      "brand": "Prusament",
+      "material": "PC BLEND",
+      "name": "Natural",
+      "hex": "#dfdfd3",
+      "td": 11.3,
+      "searchText": "prusament pc blend natural"
+    },
+    {
+      "id": "prusament-pc-blend-prusa-orange",
+      "brand": "Prusament",
+      "material": "PC BLEND",
+      "name": "Prusa Orange",
+      "hex": "#ea5e1a",
+      "td": 6.4,
+      "searchText": "prusament pc blend prusa orange"
+    },
+    {
+      "id": "prusament-pc-blend-urban-grey",
+      "brand": "Prusament",
+      "material": "PC BLEND",
+      "name": "Urban Grey",
+      "hex": "#999596",
+      "td": 0.5,
+      "searchText": "prusament pc blend urban grey"
+    },
+    {
+      "id": "prusament-petg-75-tungsten",
+      "brand": "Prusament",
+      "material": "PETG",
+      "name": "75% Tungsten",
+      "hex": "#545252",
+      "td": 0.3,
+      "searchText": "prusament petg 75% tungsten"
+    },
+    {
+      "id": "prusament-petg-anthracite-grey",
+      "brand": "Prusament",
+      "material": "PETG",
+      "name": "Anthracite Grey",
+      "hex": "#3f4647",
+      "td": 0.3,
+      "searchText": "prusament petg anthracite grey"
+    },
+    {
+      "id": "prusament-petg-carbon-fiber-black",
+      "brand": "Prusament",
+      "material": "PETG",
+      "name": "Carbon Fiber Black",
+      "hex": "#3b353a",
+      "td": 0.3,
+      "searchText": "prusament petg carbon fiber black"
+    },
+    {
+      "id": "prusament-petg-carmine-red",
+      "brand": "Prusament",
+      "material": "PETG",
+      "name": "Carmine Red",
+      "hex": "#b54230",
+      "td": 6.2,
+      "searchText": "prusament petg carmine red"
+    },
+    {
+      "id": "prusament-petg-chalky-blue",
+      "brand": "Prusament",
+      "material": "PETG",
+      "name": "Chalky Blue",
+      "hex": "#6f9aaa",
+      "td": 0.6,
+      "searchText": "prusament petg chalky blue"
+    },
+    {
+      "id": "prusament-petg-clear",
+      "brand": "Prusament",
+      "material": "PETG",
+      "name": "Clear",
+      "hex": "#e4e7e5",
+      "td": 100,
+      "searchText": "prusament petg clear"
+    },
+    {
+      "id": "prusament-petg-jet",
+      "brand": "Prusament",
+      "material": "PETG",
+      "name": "Jet",
+      "hex": "#292b2b",
+      "td": 0.3,
+      "searchText": "prusament petg jet"
+    },
+    {
+      "id": "prusament-petg-jet-black-v0",
+      "brand": "Prusament",
+      "material": "PETG",
+      "name": "Jet Black V0",
+      "hex": "#363331",
+      "td": 0.3,
+      "searchText": "prusament petg jet black v0"
+    },
+    {
+      "id": "prusament-petg-jungle-green",
+      "brand": "Prusament",
+      "material": "PETG",
+      "name": "Jungle Green",
+      "hex": "#007249",
+      "td": 0.5,
+      "searchText": "prusament petg jungle green"
+    },
+    {
+      "id": "prusament-petg-lipstick-red",
+      "brand": "Prusament",
+      "material": "PETG",
+      "name": "Lipstick Red",
+      "hex": "#bb2e33",
+      "td": 2.8,
+      "searchText": "prusament petg lipstick red"
+    },
+    {
+      "id": "prusament-petg-mango-yellow",
+      "brand": "Prusament",
+      "material": "PETG",
+      "name": "Mango Yellow",
+      "hex": "#f2b70a",
+      "td": 2.6,
+      "searchText": "prusament petg mango yellow"
+    },
+    {
+      "id": "prusament-petg-matte-black",
+      "brand": "Prusament",
+      "material": "PETG",
+      "name": "Matte Black",
+      "hex": "#303635",
+      "td": 0.3,
+      "searchText": "prusament petg matte black"
+    },
+    {
+      "id": "prusament-petg-natural-v0",
+      "brand": "Prusament",
+      "material": "PETG",
+      "name": "Natural V0",
+      "hex": "#dee2da",
+      "td": 10.4,
+      "searchText": "prusament petg natural v0"
+    },
+    {
+      "id": "prusament-petg-neon-green-transparent",
+      "brand": "Prusament",
+      "material": "PETG",
+      "name": "Neon Green Transparent",
+      "hex": "#a6ec5f",
+      "td": 75,
+      "searchText": "prusament petg neon green transparent"
+    },
+    {
+      "id": "prusament-petg-ocean-blue",
+      "brand": "Prusament",
+      "material": "PETG",
+      "name": "Ocean Blue",
+      "hex": "#194c55",
+      "td": 3,
+      "searchText": "prusament petg ocean blue"
+    },
+    {
+      "id": "prusament-petg-pistachio-green",
+      "brand": "Prusament",
+      "material": "PETG",
+      "name": "Pistachio Green",
+      "hex": "#93a683",
+      "td": 0.9,
+      "searchText": "prusament petg pistachio green"
+    },
+    {
+      "id": "prusament-petg-prusa-galaxy-black",
+      "brand": "Prusament",
+      "material": "PETG",
+      "name": "Prusa Galaxy Black",
+      "hex": "#494547",
+      "td": 0.2,
+      "searchText": "prusament petg prusa galaxy black"
+    },
+    {
+      "id": "prusament-petg-prusa-orange",
+      "brand": "Prusament",
+      "material": "PETG",
+      "name": "Prusa Orange",
+      "hex": "#eb5405",
+      "td": 6.2,
+      "searchText": "prusament petg prusa orange"
+    },
+    {
+      "id": "prusament-petg-prusa-orange-transparent",
+      "brand": "Prusament",
+      "material": "PETG",
+      "name": "Prusa Orange Transparent",
+      "hex": "#f17231",
+      "td": 44.2,
+      "searchText": "prusament petg prusa orange transparent"
+    },
+    {
+      "id": "prusament-petg-signal-white",
+      "brand": "Prusament",
+      "material": "PETG",
+      "name": "Signal White",
+      "hex": "#e5e0e3",
+      "td": 3.4,
+      "searchText": "prusament petg signal white"
+    },
+    {
+      "id": "prusament-petg-terracotta-light",
+      "brand": "Prusament",
+      "material": "PETG",
+      "name": "Terracotta Light",
+      "hex": "#b87f6a",
+      "td": 1.5,
+      "searchText": "prusament petg terracotta light"
+    },
+    {
+      "id": "prusament-petg-ultramarine-blue",
+      "brand": "Prusament",
+      "material": "PETG",
+      "name": "Ultramarine Blue",
+      "hex": "#2b3b61",
+      "td": 8.2,
+      "searchText": "prusament petg ultramarine blue"
+    },
+    {
+      "id": "prusament-petg-urban-grey",
+      "brand": "Prusament",
+      "material": "PETG",
+      "name": "Urban Grey",
+      "hex": "#95908d",
+      "td": 0.5,
+      "searchText": "prusament petg urban grey"
+    },
+    {
+      "id": "prusament-petg-yellow-gold",
+      "brand": "Prusament",
+      "material": "PETG",
+      "name": "Yellow Gold",
+      "hex": "#9a8524",
+      "td": 9.2,
+      "searchText": "prusament petg yellow gold"
+    },
+    {
+      "id": "prusament-pla-algae",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Algae",
+      "hex": "#674b42",
+      "td": 4.2,
+      "searchText": "prusament pla algae"
+    },
+    {
+      "id": "prusament-pla-army-green",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Army Green",
+      "hex": "#5e6345",
+      "td": 0.4,
+      "searchText": "prusament pla army green"
+    },
+    {
+      "id": "prusament-pla-azure-blue",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Azure Blue",
+      "hex": "#0082ad",
+      "td": 5.5,
+      "searchText": "prusament pla azure blue"
+    },
+    {
+      "id": "prusament-pla-corn",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Corn",
+      "hex": "#b37b47",
+      "td": 6.2,
+      "searchText": "prusament pla corn"
+    },
+    {
+      "id": "prusament-pla-galaxy-black",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Galaxy Black",
+      "hex": "#3d3e3d",
+      "td": 0.2,
+      "searchText": "prusament pla galaxy black"
+    },
+    {
+      "id": "prusament-pla-galaxy-green",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Galaxy Green",
+      "hex": "#42663a",
+      "td": 3.2,
+      "searchText": "prusament pla galaxy green"
+    },
+    {
+      "id": "prusament-pla-galaxy-purple",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Galaxy Purple",
+      "hex": "#453a72",
+      "td": 4.7,
+      "searchText": "prusament pla galaxy purple"
+    },
+    {
+      "id": "prusament-pla-galaxy-silver",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Galaxy Silver",
+      "hex": "#999aa0",
+      "td": 6.4,
+      "searchText": "prusament pla galaxy silver"
+    },
+    {
+      "id": "prusament-pla-gentleman-s-grey",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Gentleman's Grey",
+      "hex": "#354047",
+      "td": 0.3,
+      "searchText": "prusament pla gentleman's grey"
+    },
+    {
+      "id": "prusament-pla-gravity-grey",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Gravity Grey",
+      "hex": "#9fa4a8",
+      "td": 0.7,
+      "searchText": "prusament pla gravity grey"
+    },
+    {
+      "id": "prusament-pla-jet-black",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Jet Black",
+      "hex": "#393c3c",
+      "td": 0.3,
+      "searchText": "prusament pla jet black"
+    },
+    {
+      "id": "prusament-pla-lime-green",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Lime Green",
+      "hex": "#a7b853",
+      "td": 3.5,
+      "searchText": "prusament pla lime green"
+    },
+    {
+      "id": "prusament-pla-lipstick-red",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Lipstick Red",
+      "hex": "#bf2b2b",
+      "td": 3.3,
+      "searchText": "prusament pla lipstick red"
+    },
+    {
+      "id": "prusament-pla-marble-grey",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Marble Grey",
+      "hex": "#b0b4b5",
+      "td": 3.5,
+      "searchText": "prusament pla marble grey"
+    },
+    {
+      "id": "prusament-pla-ms-pink",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Ms. Pink",
+      "hex": "#e34a94",
+      "td": 4.1,
+      "searchText": "prusament pla ms. pink"
+    },
+    {
+      "id": "prusament-pla-my-silverness",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "My Silverness",
+      "hex": "#aeb8c1",
+      "td": 1,
+      "searchText": "prusament pla my silverness"
+    },
+    {
+      "id": "prusament-pla-mystic-brown",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Mystic Brown",
+      "hex": "#482e31",
+      "td": 1.8,
+      "searchText": "prusament pla mystic brown"
+    },
+    {
+      "id": "prusament-pla-mystic-green",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Mystic Green",
+      "hex": "#555846",
+      "td": 1,
+      "searchText": "prusament pla mystic green"
+    },
+    {
+      "id": "prusament-pla-oh-my-gold",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Oh My Gold",
+      "hex": "#ce9f2e",
+      "td": 4.1,
+      "searchText": "prusament pla oh my gold"
+    },
+    {
+      "id": "prusament-pla-opal-green",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Opal Green",
+      "hex": "#065b4a",
+      "td": 4,
+      "searchText": "prusament pla opal green"
+    },
+    {
+      "id": "prusament-pla-pearl-mouse",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Pearl Mouse",
+      "hex": "#a49d8e",
+      "td": 2.3,
+      "searchText": "prusament pla pearl mouse"
+    },
+    {
+      "id": "prusament-pla-pearl-white",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Pearl White",
+      "hex": "#d0d7d8",
+      "td": 5.4,
+      "searchText": "prusament pla pearl white"
+    },
+    {
+      "id": "prusament-pla-pineapple-yellow",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Pineapple Yellow",
+      "hex": "#efd00b",
+      "td": 7.6,
+      "searchText": "prusament pla pineapple yellow"
+    },
+    {
+      "id": "prusament-pla-pristine-white",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Pristine White",
+      "hex": "#e6eaef",
+      "td": 5.1,
+      "searchText": "prusament pla pristine white"
+    },
+    {
+      "id": "prusament-pla-prusa-orange",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Prusa Orange",
+      "hex": "#fe6e32",
+      "td": 6.6,
+      "searchText": "prusament pla prusa orange"
+    },
+    {
+      "id": "prusament-pla-risotto",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Risotto",
+      "hex": "#ccc9c0",
+      "td": 11,
+      "searchText": "prusament pla risotto"
+    },
+    {
+      "id": "prusament-pla-royal-blue",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Royal Blue",
+      "hex": "#00518f",
+      "td": 0.8,
+      "searchText": "prusament pla royal blue"
+    },
+    {
+      "id": "prusament-pla-silver",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Silver",
+      "hex": "#828387",
+      "td": 3.5,
+      "searchText": "prusament pla silver"
+    },
+    {
+      "id": "prusament-pla-simply-green",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Simply Green",
+      "hex": "#70a641",
+      "td": 3,
+      "searchText": "prusament pla simply green"
+    },
+    {
+      "id": "prusament-pla-vanilla-white",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Vanilla White",
+      "hex": "#d9d4c6",
+      "td": 7.1,
+      "searchText": "prusament pla vanilla white"
+    },
+    {
+      "id": "prusament-pla-viva-la-bronze",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Viva La Bronze",
+      "hex": "#b38e3f",
+      "td": 1.9,
+      "searchText": "prusament pla viva la bronze"
+    },
+    {
+      "id": "prusament-pla-wine",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "Wine",
+      "hex": "#5e4940",
+      "td": 2.8,
+      "searchText": "prusament pla wine"
+    },
+    {
+      "id": "sunlu-petg-blue",
+      "brand": "Sunlu",
+      "material": "PETG",
+      "name": "Blue",
+      "hex": "#0000ff",
+      "td": 4,
+      "searchText": "sunlu petg blue"
+    },
+    {
+      "id": "sunlu-petg-green",
+      "brand": "Sunlu",
+      "material": "PETG",
+      "name": "Green",
+      "hex": "#00ff00",
+      "td": 4,
+      "searchText": "sunlu petg green"
+    },
+    {
+      "id": "sunlu-petg-red",
+      "brand": "Sunlu",
+      "material": "PETG",
+      "name": "Red",
+      "hex": "#ff0000",
+      "td": 7.5,
+      "searchText": "sunlu petg red"
+    },
+    {
+      "id": "sunlu-petg-white",
+      "brand": "Sunlu",
+      "material": "PETG",
+      "name": "White",
+      "hex": "#ffffff",
+      "td": 10,
+      "searchText": "sunlu petg white"
+    },
+    {
+      "id": "sunlu-pla-green",
+      "brand": "Sunlu",
+      "material": "PLA",
+      "name": "Green",
+      "hex": "#00f52c",
+      "td": 6,
+      "searchText": "sunlu pla green"
+    },
+    {
+      "id": "sunlu-pla-purple",
+      "brand": "Sunlu",
+      "material": "PLA",
+      "name": "Purple",
+      "hex": "#856fdc",
+      "td": 6,
+      "searchText": "sunlu pla purple"
+    },
+    {
+      "id": "sunlu-pla-black",
+      "brand": "Sunlu",
+      "material": "PLA+",
+      "name": "Black",
+      "hex": "#000000",
+      "td": 0.6,
+      "searchText": "sunlu pla+ black"
+    },
+    {
+      "id": "sunlu-pla-blue",
+      "brand": "Sunlu",
+      "material": "PLA+",
+      "name": "Blue",
+      "hex": "#0041cc",
+      "td": 4,
+      "searchText": "sunlu pla+ blue"
+    },
+    {
+      "id": "sunlu-pla-blue-grey",
+      "brand": "Sunlu",
+      "material": "PLA+",
+      "name": "Blue Grey",
+      "hex": "#0f52ba",
+      "td": 3,
+      "searchText": "sunlu pla+ blue grey"
+    },
+    {
+      "id": "sunlu-pla-burly-wood",
+      "brand": "Sunlu",
+      "material": "PLA+",
+      "name": "Burly Wood",
+      "hex": "#a09268",
+      "td": 2.5,
+      "searchText": "sunlu pla+ burly wood"
+    },
+    {
+      "id": "sunlu-pla-coffee",
+      "brand": "Sunlu",
+      "material": "PLA+",
+      "name": "Coffee",
+      "hex": "#977133",
+      "td": 3,
+      "searchText": "sunlu pla+ coffee"
+    },
+    {
+      "id": "sunlu-pla-fuschia",
+      "brand": "Sunlu",
+      "material": "PLA+",
+      "name": "Fuschia",
+      "hex": "#9c0087",
+      "td": 5,
+      "searchText": "sunlu pla+ fuschia"
+    },
+    {
+      "id": "sunlu-pla-gold",
+      "brand": "Sunlu",
+      "material": "PLA+",
+      "name": "Gold",
+      "hex": "#7b713a",
+      "td": 5,
+      "searchText": "sunlu pla+ gold"
+    },
+    {
+      "id": "sunlu-pla-grass-green",
+      "brand": "Sunlu",
+      "material": "PLA+",
+      "name": "Grass Green",
+      "hex": "#008684",
+      "td": 3,
+      "searchText": "sunlu pla+ grass green"
+    },
+    {
+      "id": "sunlu-pla-grey",
+      "brand": "Sunlu",
+      "material": "PLA+",
+      "name": "Grey",
+      "hex": "#565d65",
+      "td": 2,
+      "searchText": "sunlu pla+ grey"
+    },
+    {
+      "id": "sunlu-pla-light-gold",
+      "brand": "Sunlu",
+      "material": "PLA+",
+      "name": "Light Gold",
+      "hex": "#9b8b39",
+      "td": 3,
+      "searchText": "sunlu pla+ light gold"
+    },
+    {
+      "id": "sunlu-pla-orange",
+      "brand": "Sunlu",
+      "material": "PLA+",
+      "name": "Orange",
+      "hex": "#ff8000",
+      "td": 5,
+      "searchText": "sunlu pla+ orange"
+    },
+    {
+      "id": "sunlu-pla-pure-yellow",
+      "brand": "Sunlu",
+      "material": "PLA+",
+      "name": "Pure Yellow",
+      "hex": "#ffd500",
+      "td": 5,
+      "searchText": "sunlu pla+ pure yellow"
+    },
+    {
+      "id": "sunlu-pla-red",
+      "brand": "Sunlu",
+      "material": "PLA+",
+      "name": "Red",
+      "hex": "#d22332",
+      "td": 6,
+      "searchText": "sunlu pla+ red"
+    },
+    {
+      "id": "sunlu-pla-silver",
+      "brand": "Sunlu",
+      "material": "PLA+",
+      "name": "Silver",
+      "hex": "#89939c",
+      "td": 2,
+      "searchText": "sunlu pla+ silver"
+    },
+    {
+      "id": "sunlu-pla-skin",
+      "brand": "Sunlu",
+      "material": "PLA+",
+      "name": "Skin",
+      "hex": "#ffcaa6",
+      "td": 5,
+      "searchText": "sunlu pla+ skin"
+    },
+    {
+      "id": "sunlu-pla-sky-blue",
+      "brand": "Sunlu",
+      "material": "PLA+",
+      "name": "Sky Blue",
+      "hex": "#01b3ff",
+      "td": 4,
+      "searchText": "sunlu pla+ sky blue"
+    },
+    {
+      "id": "sunlu-pla-sunny-orange",
+      "brand": "Sunlu",
+      "material": "PLA+",
+      "name": "Sunny Orange",
+      "hex": "#ff7713",
+      "td": 8,
+      "searchText": "sunlu pla+ sunny orange"
+    },
+    {
+      "id": "sunlu-pla-white",
+      "brand": "Sunlu",
+      "material": "PLA+",
+      "name": "White",
+      "hex": "#ffffff",
+      "td": 5,
+      "searchText": "sunlu pla+ white"
+    },
+    {
+      "id": "sunlu-pla-yellow",
+      "brand": "Sunlu",
+      "material": "PLA+",
+      "name": "Yellow",
+      "hex": "#d5ff01",
+      "td": 10,
+      "searchText": "sunlu pla+ yellow"
+    },
+    {
+      "id": "sunlu-matte-pla-blue",
+      "brand": "Sunlu Matte",
+      "material": "PLA",
+      "name": "Blue",
+      "hex": "#006fd1",
+      "td": 3,
+      "searchText": "sunlu matte pla blue"
+    },
+    {
+      "id": "sunlu-matte-pla-green",
+      "brand": "Sunlu Matte",
+      "material": "PLA",
+      "name": "Green",
+      "hex": "#35c376",
+      "td": 3,
+      "searchText": "sunlu matte pla green"
+    },
+    {
+      "id": "sunlu-matte-pla-red",
+      "brand": "Sunlu Matte",
+      "material": "PLA",
+      "name": "Red",
+      "hex": "#ee465c",
+      "td": 3,
+      "searchText": "sunlu matte pla red"
+    },
+    {
+      "id": "sunlu-matte-pla-white",
+      "brand": "Sunlu Matte",
+      "material": "PLA",
+      "name": "White",
+      "hex": "#ffffff",
+      "td": 5,
+      "searchText": "sunlu matte pla white"
+    },
+    {
+      "id": "sunlu-meta-pla-black",
+      "brand": "Sunlu Meta",
+      "material": "PLA",
+      "name": "Black",
+      "hex": "#000000",
+      "td": 1,
+      "searchText": "sunlu meta pla black"
+    },
+    {
+      "id": "sunlu-meta-pla-green",
+      "brand": "Sunlu Meta",
+      "material": "PLA",
+      "name": "Green",
+      "hex": "#3cdac8",
+      "td": 10,
+      "searchText": "sunlu meta pla green"
+    },
+    {
+      "id": "sunlu-meta-pla-grey",
+      "brand": "Sunlu Meta",
+      "material": "PLA",
+      "name": "Grey",
+      "hex": "#777b78",
+      "td": 3.5,
+      "searchText": "sunlu meta pla grey"
+    },
+    {
+      "id": "sunlu-meta-pla-pink",
+      "brand": "Sunlu Meta",
+      "material": "PLA",
+      "name": "pink",
+      "hex": "#fd9886",
+      "td": 12,
+      "searchText": "sunlu meta pla pink"
+    },
+    {
+      "id": "sunlu-meta-pla-red",
+      "brand": "Sunlu Meta",
+      "material": "PLA",
+      "name": "red",
+      "hex": "#fd3e3e",
+      "td": 7,
+      "searchText": "sunlu meta pla red"
+    },
+    {
+      "id": "sunlu-meta-pla-white",
+      "brand": "Sunlu Meta",
+      "material": "PLA",
+      "name": "White",
+      "hex": "#ffffff",
+      "td": 8,
+      "searchText": "sunlu meta pla white"
+    },
+    {
+      "id": "sunlu-meta-pla-yellow",
+      "brand": "Sunlu Meta",
+      "material": "PLA",
+      "name": "yellow",
+      "hex": "#f8ef99",
+      "td": 10,
+      "searchText": "sunlu meta pla yellow"
+    }
+  ]
+}

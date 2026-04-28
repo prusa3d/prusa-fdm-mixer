@@ -10,11 +10,14 @@
  */
 
 import { mixFilaments, hueDegrees, type FilamentPart } from '@/index.js';
-import library from '../../data/filament-library.json';
+import openprinttagLibrary from '../../data/filament-library-openprinttag.json';
+import hueforgeLibrary from '../../data/filament-library-hueforge.json';
 
 // ---------------------------------------------------------------------------
-// Library types (mirrors scripts/sync-library.ts output)
+// Library types (mirrors scripts/sync-library.ts and scripts/sync-hueforge.ts)
 // ---------------------------------------------------------------------------
+
+type LibrarySource = 'openprinttag' | 'hueforge';
 
 interface LibraryEntry {
   id: string;
@@ -23,7 +26,9 @@ interface LibraryEntry {
   name: string;
   hex: string;
   finish?: string;
+  td?: number;
   searchText: string;
+  source: LibrarySource;
 }
 
 interface LibraryFile {
@@ -32,10 +37,37 @@ interface LibraryFile {
   sourceUrl: string;
   lastSynced: string;
   entryCount: number;
-  entries: LibraryEntry[];
+  entries: Omit<LibraryEntry, 'source'>[];
 }
 
-const LIBRARY = library as LibraryFile;
+const SOURCES: LibraryFile[] = [
+  openprinttagLibrary as LibraryFile,
+  hueforgeLibrary as LibraryFile,
+];
+
+// Merged, in-memory view of every library entry tagged with its source. The
+// modal renders from this array; the on-disk JSONs stay separate so each can
+// sync on its own cadence.
+const LIBRARY: LibraryEntry[] = SOURCES.flatMap((file) =>
+  file.entries.map((e) => ({ ...e, source: file.source as LibrarySource })),
+);
+
+const SOURCE_META: Record<LibrarySource, { label: string; short: string; sourceUrl: string; lastSynced: string; count: number }> = {
+  openprinttag: {
+    label: 'OpenPrintTag',
+    short: 'OPT',
+    sourceUrl: (openprinttagLibrary as LibraryFile).sourceUrl,
+    lastSynced: (openprinttagLibrary as LibraryFile).lastSynced,
+    count: (openprinttagLibrary as LibraryFile).entryCount,
+  },
+  hueforge: {
+    label: 'HueForge',
+    short: 'HF',
+    sourceUrl: (hueforgeLibrary as LibraryFile).sourceUrl,
+    lastSynced: (hueforgeLibrary as LibraryFile).lastSynced,
+    count: (hueforgeLibrary as LibraryFile).entryCount,
+  },
+};
 
 // ---------------------------------------------------------------------------
 // State
@@ -46,8 +78,8 @@ interface Extruder {
   hex: string;
   label: string;
   enabled: boolean;
-  /** Set when added from the OpenPrintTag library; lets the UI show a badge. */
-  libraryRef?: { brand: string; material: string; finish?: string };
+  /** Set when added from a filament library; lets the UI show a badge. */
+  libraryRef?: { brand: string; material: string; finish?: string; td?: number; source: LibrarySource };
 }
 
 const DEFAULT_EXTRUDERS: Extruder[] = [
@@ -102,8 +134,9 @@ function renderExtruders(): void {
   root.innerHTML = extruders
     .map(
       (ext) => {
-        const badge = ext.libraryRef
-          ? `<span class="ext-badge" title="From OpenPrintTag library">${escape(ext.libraryRef.material)}${ext.libraryRef.finish ? ' · ' + escape(ext.libraryRef.finish) : ''}</span>`
+        const ref = ext.libraryRef;
+        const badge = ref
+          ? `<span class="ext-badge" title="From ${SOURCE_META[ref.source].label} library">${escape(ref.material)}${ref.finish ? ' · ' + escape(ref.finish) : ''}${ref.td !== undefined ? ' · TD ' + ref.td : ''}</span>`
           : '';
         return `
       <div class="extruder" data-id="${ext.id}">
@@ -442,6 +475,7 @@ const modal = $('library-modal');
 const modalSearch = $<HTMLInputElement>('library-search');
 const modalMaterial = $<HTMLSelectElement>('library-material');
 const modalBrand = $<HTMLSelectElement>('library-brand');
+const modalSource = $<HTMLSelectElement>('library-source');
 const modalResults = $('library-results');
 const modalMeta = $('library-meta');
 
@@ -451,6 +485,7 @@ function openLibrary(): void {
   modalSearch.value = '';
   modalMaterial.value = '';
   modalBrand.value = '';
+  modalSource.value = '';
   renderLibraryResults();
   // Defer focus so the browser doesn't fight the click handler.
   setTimeout(() => modalSearch.focus(), 0);
@@ -473,7 +508,7 @@ document.addEventListener('keydown', (e) => {
 function populateFilters(): void {
   const materials = new Set<string>();
   const brands = new Set<string>();
-  for (const e of LIBRARY.entries) {
+  for (const e of LIBRARY) {
     materials.add(e.material);
     brands.add(e.brand);
   }
@@ -489,24 +524,29 @@ function populateFilters(): void {
     opt.textContent = b;
     modalBrand.appendChild(opt);
   }
+  for (const src of Object.keys(SOURCE_META) as LibrarySource[]) {
+    const opt = document.createElement('option');
+    opt.value = src;
+    opt.textContent = SOURCE_META[src].label;
+    modalSource.appendChild(opt);
+  }
 }
 populateFilters();
 
 // Library footer status: "1,247 entries · synced 14h ago" or empty-library hint.
 function renderLibraryMeta(): void {
-  if (LIBRARY.entryCount === 0) {
+  if (LIBRARY.length === 0) {
     modalMeta.innerHTML = `
-      Library is empty. The repo's daily sync workflow populates it from
-      <a href="${LIBRARY.sourceUrl}" target="_blank" rel="noopener">OpenPrintTag</a>.
+      Library is empty. The repo's daily sync workflow populates it.
       Until it runs, use <em>+ Custom hex</em> to add spools manually.
     `;
     return;
   }
-  modalMeta.innerHTML = `
-    ${LIBRARY.entryCount.toLocaleString()} entries ·
-    synced ${humanizeAge(LIBRARY.lastSynced)} ·
-    source: <a href="${LIBRARY.sourceUrl}" target="_blank" rel="noopener">OpenPrintTag</a>
-  `;
+  const parts = (Object.keys(SOURCE_META) as LibrarySource[]).map((src) => {
+    const m = SOURCE_META[src];
+    return `<a href="${m.sourceUrl}" target="_blank" rel="noopener">${m.label}</a> ${m.count.toLocaleString()} (${humanizeAge(m.lastSynced)})`;
+  });
+  modalMeta.innerHTML = `${LIBRARY.length.toLocaleString()} entries · ${parts.join(' · ')}`;
 }
 renderLibraryMeta();
 
@@ -526,8 +566,10 @@ function renderLibraryResults(): void {
   const q = modalSearch.value.trim().toLowerCase();
   const mat = modalMaterial.value;
   const brand = modalBrand.value;
+  const source = modalSource.value as LibrarySource | '';
 
-  let filtered = LIBRARY.entries;
+  let filtered = LIBRARY;
+  if (source) filtered = filtered.filter((e) => e.source === source);
   if (mat) filtered = filtered.filter((e) => e.material === mat);
   if (brand) filtered = filtered.filter((e) => e.brand === brand);
   if (q) {
@@ -538,10 +580,10 @@ function renderLibraryResults(): void {
   // Cap at 200 results so a wide-open search doesn't render thousands of nodes.
   const capped = filtered.slice(0, 200);
 
-  if (LIBRARY.entryCount === 0) {
+  if (LIBRARY.length === 0) {
     modalResults.innerHTML = `
       <p class="hint" style="padding:24px;text-align:center;">
-        The library hasn't been synced yet. Run <code>npm run sync:library</code>
+        The libraries haven't been synced yet. Run <code>npm run sync</code>
         locally or wait for the daily GitHub Action.
       </p>
     `;
@@ -555,18 +597,26 @@ function renderLibraryResults(): void {
 
   modalResults.innerHTML = capped
     .map(
-      (e) => `
-      <button class="lib-row" data-id="${e.id}">
+      (e) => {
+        const meta = SOURCE_META[e.source];
+        const sub = [
+          escape(e.brand),
+          escape(e.material),
+          e.finish ? escape(e.finish) : null,
+          e.td !== undefined ? `TD ${e.td}` : null,
+        ].filter(Boolean).join(' · ');
+        return `
+      <button class="lib-row" data-id="${e.id}" data-source="${e.source}">
         <span class="lib-swatch" style="background:${e.hex}"></span>
         <span class="lib-meta">
           <span class="lib-name">${escape(e.name)}</span>
-          <span class="lib-sub">${escape(e.brand)} · ${escape(e.material)}${
-            e.finish ? ` · ${escape(e.finish)}` : ''
-          }</span>
+          <span class="lib-sub">${sub}</span>
         </span>
+        <span class="lib-source-badge lib-source-${e.source}" title="${meta.label}">${meta.short}</span>
         <span class="lib-hex">${e.hex}</span>
       </button>
-    `
+    `;
+      },
     )
     .join('') +
     (filtered.length > capped.length
@@ -575,7 +625,7 @@ function renderLibraryResults(): void {
 
   modalResults.querySelectorAll<HTMLButtonElement>('.lib-row').forEach((row) => {
     row.addEventListener('click', () => {
-      const e = LIBRARY.entries.find((x) => x.id === row.dataset.id);
+      const e = LIBRARY.find((x) => x.id === row.dataset.id && x.source === row.dataset.source);
       if (!e) return;
       addExtruderFromLibrary(e);
       closeLibrary();
@@ -597,7 +647,13 @@ function addExtruderFromLibrary(e: LibraryEntry): void {
       hex: e.hex,
       label: `${e.brand} · ${e.name}`,
       enabled: true,
-      libraryRef: { brand: e.brand, material: e.material, ...(e.finish ? { finish: e.finish } : {}) },
+      libraryRef: {
+        brand: e.brand,
+        material: e.material,
+        source: e.source,
+        ...(e.finish ? { finish: e.finish } : {}),
+        ...(e.td !== undefined ? { td: e.td } : {}),
+      },
     });
   }
   renderExtruders();
@@ -607,6 +663,7 @@ function addExtruderFromLibrary(e: LibraryEntry): void {
 modalSearch.addEventListener('input', renderLibraryResults);
 modalMaterial.addEventListener('change', renderLibraryResults);
 modalBrand.addEventListener('change', renderLibraryResults);
+modalSource.addEventListener('change', renderLibraryResults);
 
 // ---------------------------------------------------------------------------
 // Initial render

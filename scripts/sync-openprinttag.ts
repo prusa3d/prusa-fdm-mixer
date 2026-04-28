@@ -6,14 +6,14 @@
  *   1. Download the openprinttag-database repo as a tarball from codeload.
  *   2. Extract to a temp directory.
  *   3. Walk the YAML files, parse each, normalize into a flat entry shape.
- *   4. Write data/filament-library.json with a `lastSynced` timestamp.
+ *   4. Write data/filament-library-openprinttag.json with a `lastSynced` timestamp.
  *
  * Defensive: a single bad YAML doesn't fail the sync, just gets logged. If
  * the upstream is unreachable, the existing library file is preserved (the
  * caller — typically the GitHub Action — will see the script exit non-zero
  * but the JSON on disk stays valid).
  *
- * Run with: `npm run sync:library`
+ * Run with: `npm run sync:openprinttag`
  */
 
 import {
@@ -40,7 +40,7 @@ import yaml from 'js-yaml';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const REPO_ROOT = resolve(__dirname, '..');
-const OUTPUT = join(REPO_ROOT, 'data', 'filament-library.json');
+const OUTPUT = join(REPO_ROOT, 'data', 'filament-library-openprinttag.json');
 const TMP = join(REPO_ROOT, '.sync-tmp');
 
 const TARBALL_URL =
@@ -300,6 +300,6 @@ async function main(): Promise<void> {
 
 main().catch((err) => {
   warn(`Sync failed: ${(err as Error).message}`);
-  warn('Existing data/filament-library.json (if any) is preserved.');
+  warn('Existing data/filament-library-openprinttag.json (if any) is preserved.');
   process.exit(1);
 });

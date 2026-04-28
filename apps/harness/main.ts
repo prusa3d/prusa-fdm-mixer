@@ -14,7 +14,7 @@ import {
   mixFilaments,
   mixLinearRgb,
   mixKubelkaMunk,
-  mixPolyMixer,
+  mixFilamentMixer,
   deltaE2000,
   type LAB,
   type FilamentPart,
@@ -65,20 +65,20 @@ const MODELS: ModelDef[] = [
   {
     id: 'linear',
     name: 'Linear sRGB',
-    desc: 'BambuStudio default — naive ratio average',
+    desc: 'Naive 0–255 sRGB ratio average. What BambuStudio used before 2026-04-17 and most other slicers still use',
     fn: mixLinearRgb,
+  },
+  {
+    id: 'filament-mixer',
+    name: 'filament-mixer',
+    desc: 'Polynomial Mixbox approximation by justinh-rahb (MIT). Originated in OrcaSlicer-FullSpectrum; adopted by BambuStudio on 2026-04-17',
+    fn: mixFilamentMixer,
   },
   {
     id: 'km',
     name: 'Kubelka-Munk',
-    desc: 'Textbook subtractive pigment model',
+    desc: 'Textbook subtractive pigment model — physics baseline, no calibration',
     fn: mixKubelkaMunk,
-  },
-  {
-    id: 'poly',
-    name: 'PolyMixer',
-    desc: 'YN n=2.5 approximation of FilamentMixer',
-    fn: mixPolyMixer,
   },
 ];
 
@@ -214,90 +214,162 @@ function renderSummary(scoresByModel: Record<string, Score[]>): string {
   return `<section class="summary-grid">${cards}</section>`;
 }
 
-function renderHistogram(scores: Score[], modelName: string): string {
-  const binWidth = 2;
-  const maxBin = 40;
-  const numBins = Math.ceil(maxBin / binWidth);
-  const bins = new Array<number>(numBins).fill(0);
+// ΔE-bin histogram. yMax is supplied externally so every histogram on the page
+// renders against the same scale — that's the only way to compare distribution
+// shapes across models / 2-color vs 3-color side-by-side.
+const HISTO_BIN_WIDTH = 2;
+const HISTO_MAX_BIN = 40;
+const HISTO_NUM_BINS = Math.ceil(HISTO_MAX_BIN / HISTO_BIN_WIDTH);
+
+function bucketize(scores: Score[]): number[] {
+  const bins = new Array<number>(HISTO_NUM_BINS).fill(0);
   for (const s of scores) {
-    const idx = Math.min(numBins - 1, Math.floor(s.dE / binWidth));
+    const idx = Math.min(HISTO_NUM_BINS - 1, Math.floor(s.dE / HISTO_BIN_WIDTH));
     bins[idx]!++;
   }
-  const maxCount = Math.max(...bins, 1);
+  return bins;
+}
+
+function renderHistogram(bins: number[], yMax: number, subtitle: string): string {
   const bars = bins
     .map((c, i) => {
-      const center = i * binWidth + binWidth / 2;
+      const center = i * HISTO_BIN_WIDTH + HISTO_BIN_WIDTH / 2;
       const cls = center < 5 ? 'good' : center < 10 ? 'warn' : 'bad';
-      const h = c === 0 ? 0 : Math.max(2, Math.round((c / maxCount) * 140));
+      const h = c === 0 ? 0 : Math.max(2, Math.round((c / yMax) * 140));
       return `<div class="bar ${cls}" style="height:${h}px"><span class="count">${c || ''}</span></div>`;
     })
     .join('');
   const axis = bins
-    .map((_, i) => `<span>${i * binWidth}</span>`)
-    .concat([`<span>${maxBin}</span>`])
+    .map((_, i) => `<span>${i * HISTO_BIN_WIDTH}</span>`)
+    .concat([`<span>${HISTO_MAX_BIN}</span>`])
     .join('');
+  const total = bins.reduce((s, x) => s + x, 0);
   return `
-    <div class="card">
-      <h2>${escape(modelName)} <em>· ΔE distribution</em></h2>
+    <div class="histo-cell">
+      <h4>${escape(subtitle)} <em>· n=${total}</em></h4>
       <div class="histo">${bars}</div>
       <div class="axis">${axis}</div>
-      <div class="axis-title">ΔE2000 bin</div>
     </div>
   `;
 }
 
-interface PairSummary {
-  label: string;
-  hexes: [string, string];
-  n: number;
-  median: number;
-  max: number;
+function renderModelHistograms(
+  scoresByModel: Record<string, Score[]>,
+  yMaxByKind: { two: number; three: number },
+): string {
+  const cards = MODELS.map((m) => {
+    const all = scoresByModel[m.id]!;
+    const two = all.filter((s) => s.nParts === 2);
+    const three = all.filter((s) => s.nParts === 3);
+    return `
+      <div class="card">
+        <h2>${escape(m.name)} <em>· ΔE distribution</em></h2>
+        <div class="histo-row">
+          ${renderHistogram(bucketize(two), yMaxByKind.two, '2-color')}
+          ${renderHistogram(bucketize(three), yMaxByKind.three, '3-color (1:1:1)')}
+        </div>
+        <div class="axis-title">ΔE2000 bin</div>
+      </div>
+    `;
+  }).join('');
+  return cards;
 }
-function renderPairTable(scores: Score[]): string {
-  const groups = new Map<string, Score[]>();
-  for (const s of scores.filter((s) => s.nParts === 2)) {
-    if (!groups.has(s.pairLabel)) groups.set(s.pairLabel, []);
-    groups.get(s.pairLabel)!.push(s);
-  }
-  const rows: PairSummary[] = [];
-  for (const [label, items] of groups) {
-    const dEs = items.map((s) => s.dE);
-    const hexes = items[0]!.pairKey.split('|') as [string, string];
-    rows.push({
-      label,
-      hexes,
-      n: items.length,
-      median: median(dEs),
-      max: Math.max(...dEs),
-    });
-  }
-  rows.sort((a, b) => b.median - a.median);
+
+// Per-recipe breakdown — one row per (pair/triple, ratio). For each recipe we
+// show the measured swatch and every model's predicted swatch + ΔE so you can
+// eyeball the actual color error, not just the number. Sorted by v7 ΔE
+// (descending) so v7's worst recipes float to the top.
+// Strip the leading batch-number prefix from filament notes in the data file
+// (e.g. "3 - Prusament PLA Army Green" → "Prusament PLA Army Green"). The
+// batch number is meaningful provenance in the dataset but visual noise in
+// the breakdown table.
+function cleanFilamentName(name: string): string {
+  return name.replace(/^\d+\s*-\s*/, '');
+}
+
+function renderRecipeTable(
+  mixes: DatasetEntry[],
+  scoresByModel: Record<string, Score[]>,
+): string {
+  const rows = mixes.map((m, idx) => {
+    const sorted = [...m.combinations].sort((a, b) => b.ratio - a.ratio);
+    return {
+      measuredHex: m.hex,
+      hexes: sorted.map((c) => c.hex),
+      label: m.combinations
+        .map((c) => cleanFilamentName(baseName(c.hex)))
+        .sort()
+        .join(' + '),
+      ratioStr: sorted.map((c) => Math.round(c.ratio * 100)).join(':'),
+      nParts: m.combinations.length,
+      perModel: Object.fromEntries(
+        MODELS.map((mod) => [mod.id, scoresByModel[mod.id]![idx]!]),
+      ) as Record<string, Score>,
+    };
+  });
+  rows.sort((a, b) => b.perModel['v7']!.dE - a.perModel['v7']!.dE);
+
+  const modelHeaders = MODELS.map(
+    (m) => `<th class="num">${escape(m.name)}</th>`,
+  ).join('');
+
+  // Fixed column widths so every model cell lines up cleanly across rows.
+  // Tweak these here if a model name grows longer.
+  const colgroup = `
+    <colgroup>
+      <col style="width:auto" />
+      <col style="width:64px" />
+      <col style="width:108px" />
+      ${MODELS.map(() => `<col style="width:88px" />`).join('')}
+    </colgroup>
+  `;
+
   const body = rows
-    .map(
-      (r) => `
-    <tr>
-      <td>
-        <span class="mini-swatch" style="background:${r.hexes[0]}"></span>
-        <span class="mini-swatch" style="background:${r.hexes[1]}"></span>
-        ${escape(r.label)}
-      </td>
-      <td class="num">${r.n}</td>
-      <td class="num ${deClass(r.median)}">${r.median.toFixed(2)}</td>
-      <td class="num">${r.max.toFixed(2)}</td>
-    </tr>
-  `
-    )
+    .map((r) => {
+      const swatches = r.hexes
+        .map((h) => `<span class="mini-swatch" style="background:${h}"></span>`)
+        .join('');
+      const cells = MODELS.map((mod) => {
+        const s = r.perModel[mod.id]!;
+        return `
+        <td class="model-cell">
+          <div class="cell-split">
+            <span class="mini-swatch" style="background:${s.predicted.hex}"></span>
+            <span class="${deClass(s.dE)}">${s.dE.toFixed(2)}</span>
+          </div>
+        </td>`;
+      }).join('');
+      return `
+      <tr>
+        <td class="recipe-cell">${swatches}<span class="recipe-name">${escape(r.label)}</span></td>
+        <td class="ratio-cell">${escape(r.ratioStr)}</td>
+        <td class="model-cell">
+          <div class="cell-split">
+            <span class="mini-swatch" style="background:${r.measuredHex}"></span>
+            <span class="hex-mono">${r.measuredHex}</span>
+          </div>
+        </td>
+        ${cells}
+      </tr>
+    `;
+    })
     .join('');
+
   return `
     <div class="card">
-      <h2>v7 per-pair breakdown <em>· worst-median first</em></h2>
-      <table>
+      <h2>Per-recipe breakdown <em>· sorted by v7 ΔE, worst first</em></h2>
+      <p class="meta" style="margin-bottom:10px;">
+        Each row is one measured recipe. The Measured column is the actual
+        swatch; each model column shows its predicted swatch and ΔE2000.
+      </p>
+      <table class="recipe-table">
+        ${colgroup}
         <thead>
           <tr>
-            <th>Pair</th>
-            <th class="num">n</th>
-            <th class="num">median ΔE</th>
-            <th class="num">max ΔE</th>
+            <th>Recipe</th>
+            <th class="num">Ratio</th>
+            <th class="num">Measured</th>
+            ${modelHeaders}
           </tr>
         </thead>
         <tbody>${body}</tbody>
@@ -313,16 +385,31 @@ if (!app) throw new Error('#app missing');
 const twoColor = MIXES.filter((m) => m.combinations.length === 2);
 const threeColor = MIXES.filter((m) => m.combinations.length === 3);
 
+// Concatenate once and reuse — the per-model score arrays must align
+// index-for-index with this same array, so the recipe table can look up
+// `scoresByModel[id][i]` for `allMixes[i]` without a key/lookup dance.
+const allMixes = [...twoColor, ...threeColor];
+
 const scoresByModel: Record<string, Score[]> = {};
 for (const m of MODELS) {
-  scoresByModel[m.id] = scoreModel(m, [...twoColor, ...threeColor]);
+  scoresByModel[m.id] = scoreModel(m, allMixes);
 }
 
-const v7Scores = scoresByModel['v7']!;
+// Per-kind y-axis scale: every 2-color histogram shares one ceiling, every
+// 3-color histogram shares its own. Cross-model comparison stays valid within
+// each kind, but the sparse 3-color set (n=15) doesn't get crushed by the
+// dense 2-color one (n=107).
+let yMaxTwo = 1;
+let yMaxThree = 1;
+for (const m of MODELS) {
+  const all = scoresByModel[m.id]!;
+  yMaxTwo = Math.max(yMaxTwo, ...bucketize(all.filter((s) => s.nParts === 2)));
+  yMaxThree = Math.max(yMaxThree, ...bucketize(all.filter((s) => s.nParts === 3)));
+}
 
 app.innerHTML = `
   <p class="meta">${twoColor.length} two-color samples · ${threeColor.length} three-color samples · ${BASES.size} base filaments</p>
   ${renderSummary(scoresByModel)}
-  ${MODELS.map((m) => renderHistogram(scoresByModel[m.id]!, m.name)).join('')}
-  ${renderPairTable(v7Scores)}
+  ${renderModelHistograms(scoresByModel, { two: yMaxTwo, three: yMaxThree })}
+  ${renderRecipeTable(allMixes, scoresByModel)}
 `;

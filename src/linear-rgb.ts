@@ -1,9 +1,13 @@
 /**
  * Linear sRGB mixing — naive ratio-weighted average in 0–255 sRGB space.
  *
- * This is what BambuStudio and most slicers use today. It's a useful
- * baseline because it requires no calibration, but it consistently
- * over-predicts brightness (mixes look too light/washed out vs reality).
+ * Historical baseline: this is what BambuStudio shipped until 2026-04-17,
+ * when commit bcb67bd5d replaced it with the FilamentMixer polynomial
+ * pigment-mix model (see `mixBambuStudio`). Most other slicers still use
+ * this naive approach. Useful as a no-calibration baseline, but it
+ * consistently over-predicts brightness — mixes look too light/washed
+ * out vs reality. For "linear RGB done correctly" with proper gamma
+ * decoding, see `mixGammaRgb`.
  */
 
 import {

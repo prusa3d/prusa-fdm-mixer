@@ -64,24 +64,24 @@ For the drop-in C++17 implementation and its build instructions, see
 
 The static GitHub Pages build serves all three under one URL.
 
-## Filament library
+## Filament libraries
 
-The playground browses real spools from the
-[OpenPrintTag database](https://github.com/OpenPrintTag/openprinttag-database)
-— the open NFC standard from Prusa Research that ships hex codes for every
-spool that follows the spec. A daily GitHub Action pulls the upstream repo,
-normalizes the YAML into a single JSON, and commits it back to
-`data/filament-library.json`.
+The playground browses real spools from two sources:
+
+- **[OpenPrintTag database](https://github.com/OpenPrintTag/openprinttag-database)** — the open NFC standard from Prusa Research that ships hex codes for every spool that follows the spec. Synced into [`data/filament-library-openprinttag.json`](./data/filament-library-openprinttag.json).
+- **[HueForge affiliate libraries](https://shop.thehueforge.com/pages/affiliates)** — per-vendor JSONs from HueForge's official affiliate page (Polymaker, Sunlu, BambuLab, 3D Fuel, IIIDMax, Prusament, Protopasta, Numakers, Overture). Each entry includes a Transmission Distance (TD) value. Synced into [`data/filament-library-hueforge.json`](./data/filament-library-hueforge.json).
+
+A daily GitHub Action refreshes both files and commits any changes.
 
 To trigger a sync manually:
 
 ```sh
-npm run sync:library
+npm run sync             # both libraries
+npm run sync:openprinttag # OpenPrintTag only
+npm run sync:hueforge     # HueForge only
 ```
 
-Or run the workflow from the Actions tab on GitHub. If your spool isn't in
-the library, the playground's "+ Custom hex" button still works for any
-hex you paste — the library is convenience, not a hard dependency.
+Or run the workflow from the Actions tab on GitHub. If your spool isn't in either library, the playground's "+ Custom hex" button still works for any hex you paste — the libraries are convenience, not a hard dependency.
 
 ## Library usage
 

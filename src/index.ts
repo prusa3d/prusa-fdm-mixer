@@ -5,8 +5,8 @@
  * are interleaved at the layer level. The default `mixFilaments` is the
  * v7 model calibrated against measured Prusa XL prints.
  *
- * Comparison models (`mixLinearRgb`, `mixKubelkaMunk`, `mixPolyMixer`) are
- * exported so consumers can A/B test against the same input format.
+ * Comparison models (`mixLinearRgb`, `mixKubelkaMunk`, `mixFilamentMixer`)
+ * are exported so consumers can A/B test against the same input format.
  *
  * @example
  * ```ts
@@ -28,8 +28,9 @@ export {
 } from './filament-mix.js';
 
 export { mixLinearRgb } from './linear-rgb.js';
+export { mixGammaRgb } from './gamma-rgb.js';
 export { mixKubelkaMunk } from './kubelka-munk.js';
-export { mixPolyMixer } from './poly-mixer.js';
+export { mixFilamentMixer } from './filament-mixer.js';
 
 export {
   hexToRgb,

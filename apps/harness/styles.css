@@ -49,6 +49,21 @@ main { max-width: 1100px; margin: 0 auto; }
 .de-warn { color: var(--warn); font-weight: 600; }
 .de-bad  { color: var(--bad);  font-weight: 600; }
 
+.histo-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+  align-items: end;
+}
+.histo-cell h4 {
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: 8px;
+}
+.histo-cell h4 em { font-style: normal; color: var(--muted); margin-left: 6px; font-family: 'Menlo', monospace; font-size: 11px; }
 .histo {
   display: flex;
   align-items: flex-end;
@@ -88,3 +103,34 @@ th, td { text-align: left; padding: 6px 10px; border-bottom: 1px solid var(--lin
 th { background: #f0f0ec; font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); font-weight: 500; }
 td.num, th.num { text-align: right; font-family: 'Menlo', monospace; font-size: 12px; }
 .mini-swatch { display: inline-block; width: 14px; height: 14px; border: 1px solid var(--line); vertical-align: middle; margin-right: 4px; }
+
+.recipe-table { table-layout: fixed; }
+.recipe-table td, .recipe-table th { padding: 8px 10px; vertical-align: middle; }
+.recipe-table td.recipe-cell {
+  font-size: 12px;
+  line-height: 1.4;
+  overflow-wrap: anywhere;
+}
+.recipe-table .recipe-name { vertical-align: middle; }
+.recipe-table td.recipe-cell .mini-swatch { margin-right: 4px; }
+.recipe-table td.ratio-cell, .recipe-table th.num {
+  text-align: right;
+  font-family: 'Menlo', monospace;
+  font-size: 11px;
+  color: var(--muted);
+  white-space: nowrap;
+}
+.recipe-table td.model-cell {
+  font-family: 'Menlo', monospace;
+  font-size: 12px;
+  white-space: nowrap;
+}
+/* Swatch pinned left, number pinned right — independent of number length so
+   columns stay vertically aligned across rows. */
+.cell-split {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 6px;
+}
+.hex-mono { font-family: 'Menlo', monospace; font-size: 11px; color: var(--muted); }

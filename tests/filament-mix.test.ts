@@ -3,7 +3,7 @@ import {
   mixFilaments,
   mixLinearRgb,
   mixKubelkaMunk,
-  mixPolyMixer,
+  mixFilamentMixer,
   hexToRgb,
   rgbToHex,
   hexToLab,
@@ -154,14 +154,14 @@ describe('comparison models — basic sanity', () => {
     expect(mixKubelkaMunk(parts).hex).toMatch(/^#[0-9a-f]{6}$/);
   });
 
-  it('mixPolyMixer returns a valid hex', () => {
-    expect(mixPolyMixer(parts).hex).toMatch(/^#[0-9a-f]{6}$/);
+  it('mixFilamentMixer returns a valid hex', () => {
+    expect(mixFilamentMixer(parts).hex).toMatch(/^#[0-9a-f]{6}$/);
   });
 
   it('all models return pure A when ratio is 1', () => {
     const partsA = [{ hex: '#009bc3', ratio: 1 }];
     expect(mixLinearRgb(partsA).hex).toBe('#009bc3');
     expect(mixKubelkaMunk(partsA).hex).toBe('#009bc3');
-    expect(mixPolyMixer(partsA).hex).toBe('#009bc3');
+    expect(mixFilamentMixer(partsA).hex).toBe('#009bc3');
   });
 });

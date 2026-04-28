@@ -2,6 +2,16 @@
 
 ## Files
 
+### `filament-library-openprinttag.json` (~10k entries)
+
+Synced daily from the [OpenPrintTag database](https://github.com/OpenPrintTag/openprinttag-database)
+by [`scripts/sync-openprinttag.ts`](../scripts/sync-openprinttag.ts). Each entry: `{ id, brand, material, name, hex, finish?, searchText }`. Powers the playground's library browser.
+
+### `filament-library-hueforge.json` (~600 entries)
+
+Synced from HueForge's [affiliate vendor JSONs](https://shop.thehueforge.com/pages/affiliates)
+by [`scripts/sync-hueforge.ts`](../scripts/sync-hueforge.ts). Same shape as the OpenPrintTag library plus an optional `td` (Transmission Distance) per entry.
+
 ### `fitting-set.jsonl` (146 entries)
 
 The cleaned fitting set used to calibrate the v7 model.

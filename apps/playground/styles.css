@@ -397,7 +397,7 @@ input[type='range']::-moz-range-thumb {
 }
 .lib-row {
   display: grid;
-  grid-template-columns: 36px 1fr auto;
+  grid-template-columns: 36px 1fr auto auto;
   align-items: center;
   gap: 12px;
   padding: 8px 20px;
@@ -416,7 +416,7 @@ input[type='range']::-moz-range-thumb {
   height: 32px;
   border: 1px solid var(--line);
 }
-.lib-meta { display: flex; flex-direction: column; }
+.lib-meta { display: flex; flex-direction: column; min-width: 0; }
 .lib-name { font-size: 13px; }
 .lib-sub {
   font-size: 11px;
@@ -429,6 +429,18 @@ input[type='range']::-moz-range-thumb {
   font-size: 12px;
   color: var(--muted);
 }
+.lib-source-badge {
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  padding: 2px 6px;
+  border-radius: 3px;
+  border: 1px solid var(--line);
+  color: var(--muted);
+  background: var(--bg);
+}
+.lib-source-openprinttag { color: #1f5fb4; border-color: #b3cfee; background: #ecf4fc; }
+.lib-source-hueforge   { color: #8a2c8e; border-color: #e0b9e3; background: #f8edf9; }
 
 .modal-footer {
   padding: 10px 20px;
