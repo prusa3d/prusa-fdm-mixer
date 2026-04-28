@@ -38,7 +38,7 @@
   header {
     display: flex;
     align-items: center;
-    gap: 24px;
+    gap: 18px;
     padding: 14px 22px;
     border-bottom: 1px solid var(--line);
     background: var(--panel);
@@ -46,6 +46,14 @@
     top: 0;
     z-index: 10;
   }
+  header .back {
+    font-size: 11px;
+    text-decoration: none;
+    color: var(--ink-faint);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+  header .back:hover { color: var(--ink); }
   header h1 {
     font-family: 'IBM Plex Serif', serif;
     font-size: 18px;
@@ -1141,6 +1149,7 @@
 <body>
 
 <header>
+  <a class="back" href="../../">← back</a>
   <h1>Color Mix Sample Gatherer <span class="tag">v1</span></h1>
   <nav>
     <button data-tab="entry" class="active">Data</button>

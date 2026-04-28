@@ -37,6 +37,8 @@ type ModelFn = (parts: FilamentPart[]) => MixResult;
 interface ModelDef {
   id: string;
   name: string;
+  /** Compact label for narrow table headers; falls back to `name`. */
+  shortName?: string;
   desc: string;
   fn: ModelFn;
 }
@@ -55,28 +57,37 @@ interface Score {
 }
 
 // ---- Models ---------------------------------------------------------------
+// Order: v7 (this work), filament-mixer (current BS / FullSpectrum),
+// BambuStudio (legacy), Kubelka-Munk. "BambuStudio (legacy)" is the naive
+// 0–255 sRGB ratio average — verified verbatim in commit a6ea01991
+// (`blend_colors` in MixedFilamentDialog). Since that's the same as a
+// generic textbook "linear sRGB" baseline, no separate entry for the latter.
 const MODELS: ModelDef[] = [
   {
     id: 'v7',
     name: 'v7 (this work)',
+    shortName: 'v7',
     desc: 'Yule-Nielsen + lightness + chroma + cyan-band hue',
     fn: mixFilaments,
   },
   {
-    id: 'linear',
-    name: 'Linear sRGB',
-    desc: 'Naive 0–255 sRGB ratio average. What BambuStudio used before 2026-04-17 and most other slicers still use',
-    fn: mixLinearRgb,
-  },
-  {
     id: 'filament-mixer',
     name: 'filament-mixer',
-    desc: 'Polynomial Mixbox approximation by justinh-rahb (MIT). Originated in OrcaSlicer-FullSpectrum; adopted by BambuStudio on 2026-04-17',
+    shortName: 'FM',
+    desc: 'Polynomial Mixbox approximation by justinh-rahb (MIT). Originated in OrcaSlicer-FullSpectrum; BambuStudio adopted it on 2026-04-17',
     fn: mixFilamentMixer,
+  },
+  {
+    id: 'bambu-legacy',
+    name: 'BambuStudio (legacy)',
+    shortName: 'BS legacy',
+    desc: 'Verbatim port of `blend_colors` from BS pre-2026-04-17: naive 0–255 sRGB ratio average, no gamma. Most non-BS slicers still use this',
+    fn: mixLinearRgb,
   },
   {
     id: 'km',
     name: 'Kubelka-Munk',
+    shortName: 'KM',
     desc: 'Textbook subtractive pigment model — physics baseline, no calibration',
     fn: mixKubelkaMunk,
   },
@@ -279,13 +290,102 @@ function renderModelHistograms(
 // show the measured swatch and every model's predicted swatch + ΔE so you can
 // eyeball the actual color error, not just the number. Sorted by v7 ΔE
 // (descending) so v7's worst recipes float to the top.
-// Strip the leading batch-number prefix from filament notes in the data file
-// (e.g. "3 - Prusament PLA Army Green" → "Prusament PLA Army Green"). The
-// batch number is meaningful provenance in the dataset but visual noise in
-// the breakdown table.
-function cleanFilamentName(name: string): string {
-  return name.replace(/^\d+\s*-\s*/, '');
+// Filament notes in the data file are formatted as "<batch> - <name>", e.g.
+// "3 - Prusament PLA Army Green". The batch number is meaningful provenance
+// (which print run produced the swatch), but it doesn't belong inline with
+// the name — split it out so we can show it in a dedicated column.
+function parseFilamentNote(note: string): { batch: number | null; name: string } {
+  const m = note.match(/^(\d+)\s*-\s*(.+)$/);
+  if (m) return { batch: parseInt(m[1]!, 10), name: m[2]!.trim() };
+  return { batch: null, name: note };
 }
+function cleanFilamentName(name: string): string {
+  return parseFilamentNote(name).name;
+}
+function noteBatch(note: string): number | null {
+  return parseFilamentNote(note).batch;
+}
+
+// Compact LAB pretty-printer for the small "source of truth" lines under each
+// measured hex. The column header reads "Hex / LAB", so the order (L, a, b)
+// is implied — drop the letter labels to keep the line tight in narrow cells.
+// Mid-dot separator is wider than space but visually disambiguates the
+// triple. One decimal place is enough to spot bad readings.
+function fmtLab(lab: LAB): string {
+  return `${lab.L.toFixed(1)} · ${lab.a.toFixed(1)} · ${lab.b.toFixed(1)}`;
+}
+
+function renderBasesTable(): string {
+  const rows = [...BASES.values()]
+    .map((b) => {
+      const parsed = parseFilamentNote(b.note ?? b.hex);
+      return {
+        hex: b.hex,
+        batch: parsed.batch,
+        name: parsed.name,
+        lab: b.lab,
+      };
+    })
+    // Sort by batch first, then by name within each batch — keeps rows from
+    // the same print run grouped together.
+    .sort((a, b) => {
+      const ba = a.batch ?? Infinity;
+      const bb = b.batch ?? Infinity;
+      if (ba !== bb) return ba - bb;
+      return a.name.localeCompare(b.name);
+    });
+
+  const body = rows
+    .map(
+      (r) => `
+      <tr>
+        <td class="batch-cell">${r.batch ?? ''}</td>
+        <td class="base-cell"><span class="mini-swatch" style="background:${r.hex}"></span><span>${escape(r.name)}</span></td>
+        <td class="hex-cell">${r.hex}</td>
+        <td class="num">${r.lab.L.toFixed(2)}</td>
+        <td class="num">${r.lab.a.toFixed(2)}</td>
+        <td class="num">${r.lab.b.toFixed(2)}</td>
+      </tr>
+    `,
+    )
+    .join('');
+
+  return `
+    <div class="card">
+      <h2>Base filaments <em>· measured ground truth · ${rows.length} entries</em></h2>
+      <table class="bases-table">
+        <colgroup>
+          <col style="width:64px" />
+          <col style="width:auto" />
+          <col style="width:96px" />
+          <col style="width:80px" />
+          <col style="width:80px" />
+          <col style="width:80px" />
+        </colgroup>
+        <thead>
+          <tr>
+            <th class="num">Batch</th>
+            <th>Filament</th>
+            <th class="num">Hex</th>
+            <th class="num">L*</th>
+            <th class="num">a*</th>
+            <th class="num">b*</th>
+          </tr>
+        </thead>
+        <tbody>${body}</tbody>
+      </table>
+    </div>
+  `;
+}
+
+// Inline SVG flask — used as the visual anchor for the Measured column. Stroke
+// uses currentColor so the icon inherits the surrounding text color, and
+// stays consistent with the dark monochrome aesthetic.
+const FLASK_ICON = `<svg viewBox="0 0 16 16" width="14" height="14" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+  <path d="M5.5 2v4L3 12.5A1.2 1.2 0 0 0 4.1 14.5h7.8A1.2 1.2 0 0 0 13 12.5L10.5 6V2"/>
+  <path d="M5 2h6"/>
+  <path d="M4.7 10.5h6.6"/>
+</svg>`;
 
 function renderRecipeTable(
   mixes: DatasetEntry[],
@@ -293,14 +393,29 @@ function renderRecipeTable(
 ): string {
   const rows = mixes.map((m, idx) => {
     const sorted = [...m.combinations].sort((a, b) => b.ratio - a.ratio);
+    const components = sorted.map((c) => ({
+      hex: c.hex,
+      pct: Math.round(c.ratio * 100),
+    }));
+    // Collect the unique batch numbers across all component filaments. Most
+    // recipes are within one batch; mixed-batch recipes show e.g. "1+2".
+    const batches = Array.from(
+      new Set(
+        m.combinations
+          .map((c) => noteBatch(baseName(c.hex)))
+          .filter((b): b is number => b !== null),
+      ),
+    ).sort((a, b) => a - b);
     return {
       measuredHex: m.hex,
-      hexes: sorted.map((c) => c.hex),
+      measuredLab: m.lab,
+      components,
+      batchLabel: batches.length === 0 ? '' : batches.join('+'),
       label: m.combinations
         .map((c) => cleanFilamentName(baseName(c.hex)))
         .sort()
         .join(' + '),
-      ratioStr: sorted.map((c) => Math.round(c.ratio * 100)).join(':'),
+      ratioStr: components.map((c) => c.pct).join(':'),
       nParts: m.combinations.length,
       perModel: Object.fromEntries(
         MODELS.map((mod) => [mod.id, scoresByModel[mod.id]![idx]!]),
@@ -309,47 +424,69 @@ function renderRecipeTable(
   });
   rows.sort((a, b) => b.perModel['v7']!.dE - a.perModel['v7']!.dE);
 
-  const modelHeaders = MODELS.map(
-    (m) => `<th class="num">${escape(m.name)}</th>`,
+  // Two header rows: top groups the swatches and the deltas; bottom names each
+  // model under its own swatch + delta column. The first three columns
+  // (Recipe / Ratio / Measured) span both header rows via rowspan.
+  // The FIRST cell of each new column-group carries `.boundary-left` so we
+  // draw a vertical divider between the three regions of the table.
+  const swatchHeaders = MODELS.map(
+    (m, i) => `<th class="swatch-head${i === 0 ? ' boundary-left' : ''}">${escape(m.shortName ?? m.name)}</th>`,
+  ).join('');
+  const deltaHeaders = MODELS.map(
+    (m, i) => `<th class="num${i === 0 ? ' boundary-left' : ''}">${escape(m.shortName ?? m.name)}</th>`,
   ).join('');
 
-  // Fixed column widths so every model cell lines up cleanly across rows.
-  // Tweak these here if a model name grows longer.
+  // Column order, left → right: visual signal first (measured swatch,
+  // predicted swatches, deltas), then metadata trailing (components, ratio,
+  // hex+lab, recipe name, batch). Swatch-only cells are tight (the 22px chip);
+  // delta cells hold up to ~5 chars of mono ("99.99"); recipe-name column
+  // flexes to absorb extra width.
   const colgroup = `
     <colgroup>
-      <col style="width:auto" />
+      <col style="width:40px" />
+      ${MODELS.map(() => `<col style="width:40px" />`).join('')}
+      ${MODELS.map(() => `<col style="width:64px" />`).join('')}
+      <col style="width:96px" />
       <col style="width:64px" />
-      <col style="width:108px" />
-      ${MODELS.map(() => `<col style="width:88px" />`).join('')}
+      <col style="width:148px" />
+      <col style="width:auto" />
+      <col style="width:48px" />
     </colgroup>
   `;
 
   const body = rows
     .map((r) => {
-      const swatches = r.hexes
-        .map((h) => `<span class="mini-swatch" style="background:${h}"></span>`)
+      // Width proportional to ratio percent — 75% chip is 3× as wide as 25%,
+      // 33:33:33 chips are equal thirds. Px factor chosen so total ≤ column width.
+      const recipeSwatches = r.components
+        .map(
+          (c) =>
+            `<span class="mini-swatch component-swatch" style="background:${c.hex};width:${(c.pct * 0.8).toFixed(1)}px" title="${c.pct}%"></span>`,
+        )
         .join('');
-      const cells = MODELS.map((mod) => {
+      const swatchCells = MODELS.map((mod, i) => {
         const s = r.perModel[mod.id]!;
-        return `
-        <td class="model-cell">
-          <div class="cell-split">
-            <span class="mini-swatch" style="background:${s.predicted.hex}"></span>
-            <span class="${deClass(s.dE)}">${s.dE.toFixed(2)}</span>
-          </div>
-        </td>`;
+        return `<td class="swatch-cell${i === 0 ? ' boundary-left' : ''}"><span class="mini-swatch" style="background:${s.predicted.hex}"></span></td>`;
+      }).join('');
+      const deltaCells = MODELS.map((mod, i) => {
+        const s = r.perModel[mod.id]!;
+        return `<td class="delta-cell${i === 0 ? ' boundary-left' : ''}"><span class="${deClass(s.dE)}">${s.dE.toFixed(2)}</span></td>`;
       }).join('');
       return `
       <tr>
-        <td class="recipe-cell">${swatches}<span class="recipe-name">${escape(r.label)}</span></td>
+        <td class="swatch-cell"><span class="mini-swatch" style="background:${r.measuredHex}"></span></td>
+        ${swatchCells}
+        ${deltaCells}
+        <td class="components-cell boundary-left">${recipeSwatches}</td>
         <td class="ratio-cell">${escape(r.ratioStr)}</td>
-        <td class="model-cell">
-          <div class="cell-split">
-            <span class="mini-swatch" style="background:${r.measuredHex}"></span>
+        <td class="measured-info-cell">
+          <div class="measured-meta">
             <span class="hex-mono">${r.measuredHex}</span>
+            <span class="lab-mono" title="L* a* b*">${fmtLab(r.measuredLab)}</span>
           </div>
         </td>
-        ${cells}
+        <td class="recipe-cell">${escape(r.label)}</td>
+        <td class="batch-cell">${escape(r.batchLabel)}</td>
       </tr>
     `;
     })
@@ -359,17 +496,25 @@ function renderRecipeTable(
     <div class="card">
       <h2>Per-recipe breakdown <em>· sorted by v7 ΔE, worst first</em></h2>
       <p class="meta" style="margin-bottom:10px;">
-        Each row is one measured recipe. The Measured column is the actual
-        swatch; each model column shows its predicted swatch and ΔE2000.
+        Components and measured/predicted swatches form a continuous strip on
+        the left; ΔE2000 per model on the right.
       </p>
       <table class="recipe-table">
         ${colgroup}
         <thead>
           <tr>
-            <th>Recipe</th>
-            <th class="num">Ratio</th>
-            <th class="num">Measured</th>
-            ${modelHeaders}
+            <th class="icon-head" rowspan="2" title="Measured (ground truth)">${FLASK_ICON}</th>
+            <th class="group-head" colspan="${MODELS.length}">Predicted swatch</th>
+            <th class="group-head num" colspan="${MODELS.length}">ΔE2000</th>
+            <th class="boundary-left" rowspan="2">Components</th>
+            <th class="num" rowspan="2">Ratio</th>
+            <th class="num" rowspan="2"><span class="icon-inline" title="Measured (ground truth)">${FLASK_ICON}</span> Hex / LAB</th>
+            <th rowspan="2">Recipe</th>
+            <th class="num" rowspan="2">Batch</th>
+          </tr>
+          <tr>
+            ${swatchHeaders}
+            ${deltaHeaders}
           </tr>
         </thead>
         <tbody>${body}</tbody>
@@ -412,4 +557,5 @@ app.innerHTML = `
   ${renderSummary(scoresByModel)}
   ${renderModelHistograms(scoresByModel, { two: yMaxTwo, three: yMaxThree })}
   ${renderRecipeTable(allMixes, scoresByModel)}
+  ${renderBasesTable()}
 `;

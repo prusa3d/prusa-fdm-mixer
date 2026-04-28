@@ -1,54 +1,153 @@
 :root {
-  --bg: #fafaf7;
-  --ink: #1a1a1a;
-  --muted: #6b6b6b;
-  --line: #d4d4d0;
-  --accent: #c9378c;
-  --good: #2d7a3e;
-  --warn: #b8860b;
-  --bad: #b22125;
-  --card: #ffffff;
+  --bg: #0e0f12;
+  --panel: #16181d;
+  --panel-2: #1d2026;
+  --line: #2a2e36;
+  --line-2: #3a3f4a;
+  --ink: #e7e9ee;
+  --ink-dim: #9aa0ac;
+  --ink-faint: #6a7080;
+  --accent: #ffb000;
+  --accent-2: #5dd2ff;
+  --good: #6ee7a8;
+  --warn: #ffb86b;
+  --bad: #ff6b6b;
+  --shadow: 0 1px 0 rgba(255, 255, 255, 0.04) inset,
+            0 8px 24px rgba(0, 0, 0, 0.35);
 }
 * { box-sizing: border-box; margin: 0; padding: 0; }
-body {
-  font-family: 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, serif;
+html, body {
   background: var(--bg);
   color: var(--ink);
+}
+body {
+  font-family: 'IBM Plex Sans', system-ui, sans-serif;
   font-size: 14px;
   line-height: 1.5;
-  padding: 24px;
+  min-height: 100vh;
 }
-header { max-width: 1100px; margin: 0 auto 24px; border-bottom: 2px solid var(--ink); padding-bottom: 16px; }
-.back { display:inline-block; font-size:12px; text-decoration:none; color:var(--muted); margin-bottom:12px; text-transform:uppercase; letter-spacing:0.08em; }
-.back:hover { color: var(--ink); }
-h1 { font-size: 28px; font-weight: 400; letter-spacing: -0.02em; }
-h1 em { color: var(--accent); font-style: normal; }
-.subtitle { color: var(--muted); margin-top: 6px; font-size: 13px; max-width: 760px; }
-main { max-width: 1100px; margin: 0 auto; }
-.loading { color: var(--muted); padding: 40px; text-align: center; }
-.meta { color: var(--muted); font-size: 12px; margin-bottom: 16px; }
+.mono { font-family: 'IBM Plex Mono', monospace; }
 
-.card { background: var(--card); border: 1px solid var(--line); padding: 20px; margin-bottom: 16px; }
-.card h2 { font-size: 16px; font-weight: 400; margin-bottom: 12px; }
-.card h2 em { color: var(--muted); font-style: italic; font-size: 13px; }
+header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 14px 24px;
+  padding: 18px 28px;
+  border-bottom: 1px solid var(--line);
+  background: var(--panel);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+header .back {
+  font-size: 11px;
+  text-decoration: none;
+  color: var(--ink-faint);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+header .back:hover { color: var(--ink); }
+header h1 {
+  font-family: 'IBM Plex Serif', serif;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+header h1 .tag {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px;
+  font-weight: 500;
+  color: var(--accent);
+  background: rgba(255, 176, 0, 0.12);
+  padding: 2px 6px;
+  margin-left: 8px;
+  border-radius: 2px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  vertical-align: 2px;
+}
+header .subtitle {
+  flex: 1 1 100%;
+  color: var(--ink-faint);
+  font-size: 12px;
+  margin-top: 4px;
+  max-width: 900px;
+}
 
+main {
+  /* Wide content (the recipe table has 6+ columns of swatches and numbers).
+     Pad the sides; no max-width — let it run full-bleed on big monitors. */
+  padding: 22px 28px;
+}
+.loading { color: var(--ink-faint); padding: 60px; text-align: center; }
+.meta { color: var(--ink-faint); font-size: 12px; margin-bottom: 16px; }
+
+.card {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 18px;
+  margin-bottom: 18px;
+  box-shadow: var(--shadow);
+}
+.card h2 {
+  font-family: 'IBM Plex Serif', serif;
+  font-weight: 600;
+  font-size: 15px;
+  margin-bottom: 14px;
+  letter-spacing: 0.01em;
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+}
+.card h2 em {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  color: var(--ink-faint);
+  letter-spacing: 0;
+}
+
+/* ---------- Summary cards ---------- */
 .summary-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
   gap: 12px;
-  margin-bottom: 24px;
+  margin-bottom: 18px;
 }
 .stat-card { padding: 16px; }
-.stat-card h3 { font-style: italic; font-weight: 400; font-size: 16px; color: var(--accent); }
-.model-desc { font-size: 11px; color: var(--muted); margin: 4px 0 12px; }
-.stat-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 4px 12px; font-size: 12px; }
+.stat-card h3 {
+  font-family: 'IBM Plex Serif', serif;
+  font-weight: 600;
+  font-size: 14px;
+  color: var(--accent);
+}
+.model-desc {
+  font-size: 11px;
+  color: var(--ink-faint);
+  margin: 4px 0 12px;
+}
+.stat-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4px 12px;
+  font-size: 12px;
+}
 .stat-grid div { display: flex; justify-content: space-between; }
-.stat-grid .lbl { color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; font-size: 10px; }
-.stat-grid .val { font-family: 'Menlo', monospace; }
+.stat-grid .lbl {
+  color: var(--ink-faint);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 10px;
+}
+.stat-grid .val { font-family: 'IBM Plex Mono', monospace; }
 .de-good { color: var(--good); font-weight: 600; }
 .de-warn { color: var(--warn); font-weight: 600; }
 .de-bad  { color: var(--bad);  font-weight: 600; }
 
+/* ---------- Histograms ---------- */
 .histo-row {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -56,27 +155,33 @@ main { max-width: 1100px; margin: 0 auto; }
   align-items: end;
 }
 .histo-cell h4 {
-  font-size: 12px;
+  font-size: 11px;
   font-weight: 500;
-  color: var(--muted);
+  color: var(--ink-faint);
   text-transform: uppercase;
   letter-spacing: 0.06em;
   margin-bottom: 8px;
 }
-.histo-cell h4 em { font-style: normal; color: var(--muted); margin-left: 6px; font-family: 'Menlo', monospace; font-size: 11px; }
+.histo-cell h4 em {
+  font-style: normal;
+  color: var(--ink-faint);
+  margin-left: 6px;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11px;
+}
 .histo {
   display: flex;
   align-items: flex-end;
   gap: 2px;
   height: 160px;
   padding: 12px 0 0;
-  border-left: 1px solid var(--line);
-  border-bottom: 1px solid var(--line);
+  border-left: 1px solid var(--line-2);
+  border-bottom: 1px solid var(--line-2);
   position: relative;
 }
 .bar {
   flex: 1 1 0;
-  background: var(--ink);
+  background: var(--ink-dim);
   position: relative;
   min-width: 8px;
   transition: opacity 0.15s;
@@ -91,38 +196,206 @@ main { max-width: 1100px; margin: 0 auto; }
   left: 50%;
   transform: translateX(-50%);
   font-size: 10px;
-  font-family: 'Menlo', monospace;
-  color: var(--muted);
+  font-family: 'IBM Plex Mono', monospace;
+  color: var(--ink-dim);
 }
-.axis { display:flex; gap:2px; margin-top:4px; font-size:10px; font-family:'Menlo',monospace; color:var(--muted); }
+.axis {
+  display: flex;
+  gap: 2px;
+  margin-top: 4px;
+  font-size: 10px;
+  font-family: 'IBM Plex Mono', monospace;
+  color: var(--ink-faint);
+}
 .axis span { flex: 1 1 0; text-align: center; min-width: 8px; }
-.axis-title { font-size:11px; color:var(--muted); text-align:center; margin-top:8px; text-transform:uppercase; letter-spacing:0.08em; }
+.axis-title {
+  font-size: 11px;
+  color: var(--ink-faint);
+  text-align: center;
+  margin-top: 8px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
 
+/* ---------- Tables ---------- */
 table { width: 100%; border-collapse: collapse; font-size: 13px; }
-th, td { text-align: left; padding: 6px 10px; border-bottom: 1px solid var(--line); }
-th { background: #f0f0ec; font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--muted); font-weight: 500; }
-td.num, th.num { text-align: right; font-family: 'Menlo', monospace; font-size: 12px; }
-.mini-swatch { display: inline-block; width: 14px; height: 14px; border: 1px solid var(--line); vertical-align: middle; margin-right: 4px; }
+th, td {
+  text-align: left;
+  padding: 8px 10px;
+  border-bottom: 1px solid var(--line);
+}
+th {
+  background: var(--panel-2);
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-faint);
+  font-weight: 500;
+}
+/* Single-row sticky headers (bases table). Pinned just below the page header. */
+.bases-table thead th {
+  position: sticky;
+  top: 71px;
+  z-index: 1;
+}
+/* Two-row sticky headers (recipe table). Row 1 (group heads + rowspan=2 cells)
+   pins at the page-header offset; row 2 (per-model labels) pins below row 1.
+   z-index ordering keeps row 1 above row 2 when both are pinned, so the
+   rowspan=2 cells visually own both stripes. The per-row offsets must match
+   the actual rendered height of the first row — adjust if padding/font
+   change. */
+.recipe-table thead tr:first-child th {
+  position: sticky;
+  top: 71px;
+  z-index: 3;
+}
+.recipe-table thead tr:nth-child(2) th {
+  position: sticky;
+  top: 105px; /* 71px page header + ~34px first thead row */
+  z-index: 2;
+  background: var(--panel-2);
+}
+td.num { text-align: right; font-family: 'IBM Plex Mono', monospace; font-size: 12px; }
+/* Header cells stay at the base `th` size (10px sans) — only alignment varies
+   for `th.num`. Keeping headers at one size is the visual hierarchy: any
+   "smaller" element under a header is body content, not another header. */
+th.num { text-align: right; }
 
+/* Bigger swatch — primary visual cue in the recipe table. */
+.mini-swatch {
+  display: inline-block;
+  width: 22px;
+  height: 22px;
+  border: 1px solid var(--line-2);
+  border-radius: 3px;
+  vertical-align: middle;
+  margin-right: 6px;
+}
+
+/* ---------- Recipe table ---------- */
 .recipe-table { table-layout: fixed; }
-.recipe-table td, .recipe-table th { padding: 8px 10px; vertical-align: middle; }
+.recipe-table tr:hover td { background: rgba(255, 255, 255, 0.02); }
+.recipe-table td, .recipe-table th { padding: 10px 12px; vertical-align: middle; }
 .recipe-table td.recipe-cell {
-  font-size: 12px;
+  font-size: 13px;
   line-height: 1.4;
   overflow-wrap: anywhere;
+  color: var(--ink);
 }
 .recipe-table .recipe-name { vertical-align: middle; }
-.recipe-table td.recipe-cell .mini-swatch { margin-right: 4px; }
-.recipe-table td.ratio-cell, .recipe-table th.num {
+.recipe-table td.recipe-cell .mini-swatch { margin-right: 6px; }
+/* Body cell — mono numeric. Headers stay at the base `th` size/color (no
+   override here). */
+.recipe-table td.ratio-cell {
   text-align: right;
-  font-family: 'Menlo', monospace;
+  font-family: 'IBM Plex Mono', monospace;
   font-size: 11px;
-  color: var(--muted);
+  color: var(--ink-dim);
+  white-space: nowrap;
+}
+.recipe-table th.num { white-space: nowrap; }
+/* Measured info cell: hex (top) + LAB (bottom, smaller) — the source of truth
+   text. The adjacent swatch sits in its own .swatch-cell column so the
+   measured swatch joins the continuous swatch strip. */
+.recipe-table td.measured-info-cell {
+  font-family: 'IBM Plex Mono', monospace;
+  white-space: nowrap;
+}
+.measured-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  min-width: 0;
+}
+.lab-mono {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px;
+  color: var(--ink-faint);
+  letter-spacing: -0.01em;
+}
+
+/* Swatch-only cells (predicted + measured): tight, centered chip. */
+.recipe-table td.swatch-cell {
+  padding-left: 4px;
+  padding-right: 4px;
+  text-align: center;
+}
+.recipe-table td.swatch-cell .mini-swatch { margin-right: 0; }
+.recipe-table td.delta-cell {
+  text-align: right;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 13px;
+  white-space: nowrap;
+}
+.recipe-table td.components-cell {
+  white-space: nowrap;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+.recipe-table td.components-cell .mini-swatch { margin-right: 2px; }
+/* Proportional component chip — width set inline from ratio percent. The
+   inline `width` style overrides .mini-swatch's default 22px. */
+.component-swatch { width: auto; }
+.recipe-table th.group-head {
+  text-align: center;
+  /* Same 1px var(--line) as every other internal border. */
+  border-bottom: 1px solid var(--line);
+}
+.recipe-table th.swatch-head {
+  /* Inherit base `th` size + color so the per-model labels match the group
+     heads above them — same visual weight everywhere in the header. */
+  padding-left: 2px;
+  padding-right: 2px;
+}
+/* Icon-only header (Measured / ground truth). Tinted accent to mark this as
+   the "ground truth" column the predictions are scored against. */
+.recipe-table th.icon-head {
+  text-align: center;
+  color: var(--accent);
+  padding-left: 2px;
+  padding-right: 2px;
+}
+.recipe-table th.icon-head svg { vertical-align: middle; }
+/* Same flask in the Hex/LAB header so both ground-truth columns share the
+   same visual marker. */
+.icon-inline {
+  color: var(--accent);
+  margin-right: 4px;
+}
+.icon-inline svg { vertical-align: -2px; }
+
+/* Vertical dividers separating column groups. Same 1px var(--line) used
+   throughout the table — no special color or width — so the only "structure"
+   the eye picks up is the consistent grid, not a hierarchy of border weights. */
+.recipe-table .boundary-left { border-left: 1px solid var(--line); }
+.recipe-table thead th.group-head + .group-head { border-left: 1px solid var(--line); }
+
+/* ---------- Bases table ---------- */
+.bases-table tr:hover td { background: rgba(255, 255, 255, 0.02); }
+.bases-table td, .bases-table th { padding: 8px 12px; vertical-align: middle; }
+.bases-table td.base-cell {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.bases-table td.hex-cell {
+  text-align: right;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 12px;
+  color: var(--ink-dim);
+}
+
+/* Batch column — small numeric pill, both tables share the styling. */
+.batch-cell {
+  text-align: right;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11px;
+  color: var(--ink-faint);
   white-space: nowrap;
 }
 .recipe-table td.model-cell {
-  font-family: 'Menlo', monospace;
-  font-size: 12px;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 13px;
   white-space: nowrap;
 }
 /* Swatch pinned left, number pinned right — independent of number length so
@@ -131,6 +404,10 @@ td.num, th.num { text-align: right; font-family: 'Menlo', monospace; font-size: 
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 6px;
+  gap: 8px;
 }
-.hex-mono { font-family: 'Menlo', monospace; font-size: 11px; color: var(--muted); }
+.hex-mono {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 12px;
+  color: var(--ink-dim);
+}
