@@ -113,11 +113,11 @@ main {
 /* ---------- Summary cards ---------- */
 .summary-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 12px;
   margin-bottom: 18px;
 }
-.stat-card { padding: 16px; }
+.stat-card { padding: 16px; display: flex; flex-direction: column; }
 .stat-card h3 {
   font-family: 'IBM Plex Serif', serif;
   font-weight: 600;
@@ -128,21 +128,38 @@ main {
   font-size: 11px;
   color: var(--ink-faint);
   margin: 4px 0 12px;
+  flex: 1;
 }
-.stat-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 4px 12px;
-  font-size: 12px;
+.stat-split {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 11px;
 }
-.stat-grid div { display: flex; justify-content: space-between; }
-.stat-grid .lbl {
+.stat-split thead th {
+  color: var(--ink-faint);
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-size: 9px;
+  text-align: right;
+  padding: 0 0 6px;
+}
+.stat-split thead th:first-child { text-align: left; }
+.stat-split tbody th {
   color: var(--ink-faint);
   text-transform: uppercase;
   letter-spacing: 0.06em;
   font-size: 10px;
+  font-weight: 400;
+  text-align: left;
+  padding: 2px 0;
 }
-.stat-grid .val { font-family: 'IBM Plex Mono', monospace; }
+.stat-split tbody td {
+  font-family: 'IBM Plex Mono', monospace;
+  text-align: right;
+  padding: 2px 0;
+  white-space: nowrap;
+}
 .de-good { color: var(--good); font-weight: 600; }
 .de-warn { color: var(--warn); font-weight: 600; }
 .de-bad  { color: var(--bad);  font-weight: 600; }

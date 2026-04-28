@@ -15,14 +15,18 @@ import {
   mixLinearRgb,
   mixKubelkaMunk,
   mixFilamentMixer,
+  mixHueforgeStyle,
   deltaE2000,
+  hexToLab,
   type LAB,
   type FilamentPart,
+  type HueforgeStylePart,
   type MixResult,
 } from '@/index.js';
 
 // Vite-friendly raw import. The data file lives in /data and gets bundled.
 import datasetText from '../../data/fitting-set.jsonl?raw';
+import hueforgeText from '../../data/filament-library-hueforge.json?raw';
 
 // ---- Types ----------------------------------------------------------------
 interface DatasetEntry {
@@ -78,6 +82,13 @@ const MODELS: ModelDef[] = [
     fn: mixFilamentMixer,
   },
   {
+    id: 'hueforge-style',
+    name: 'HueForge-style (TD)',
+    shortName: 'HF-style',
+    desc: 'TD-weighted linear-RGB blend. Uses HueForge transmission distance (manual TD for Fiberlogy) so opaque filaments dominate translucent ones at the same ratio. Heuristic — HueForge\'s real model targets layered prints, not extrusion mixing',
+    fn: mixHueforgeStyle,
+  },
+  {
     id: 'bambu-legacy',
     name: 'BambuStudio (legacy)',
     shortName: 'BS legacy',
@@ -121,12 +132,38 @@ function baseName(hex: string): string {
   return b?.note ?? hex;
 }
 
+// HueForge cross-reference: their library carries vendor hex + transmission
+// distance for ~625 filaments. We match each base by `{brand} {material} {name}`
+// (lowercased, alphanum-only) so the bases table can show the vendor's nominal
+// hex/td next to our measured ground truth.
+interface HueforgeEntry { brand: string; material: string; name: string; hex: string; td: number }
+interface HueforgeFile { entries: HueforgeEntry[] }
+const HF_KEY = (s: string) => s.toLowerCase().replace(/[^a-z0-9]/g, '');
+const HUEFORGE = new Map<string, { hex: string; td: number }>();
+for (const e of (JSON.parse(hueforgeText) as HueforgeFile).entries) {
+  HUEFORGE.set(HF_KEY(`${e.brand} ${e.material} ${e.name}`), { hex: e.hex, td: e.td });
+}
+
+// HueForge doesn't carry Fiberlogy. These TDs are user-supplied estimates from
+// observed opacity behaviour; the hex falls back to our measurement (set when
+// looking up — see `findHueforge`). Keyed by the same normalized name as HUEFORGE.
+const MANUAL_TD = new Map<string, number>([
+  [HF_KEY('Fiberlogy Easy PLA White'), 5.1],
+  [HF_KEY('Fiberlogy Easy PLA Cyan'), 5.5],
+  [HF_KEY('Fiberlogy Easy PLA Yellow'), 7.6],
+  [HF_KEY('Fiberlogy Easy PLA Magenta'), 4.1],
+]);
+
 // ---- Scoring --------------------------------------------------------------
 function scoreModel(model: ModelDef, mixes: DatasetEntry[]): Score[] {
   return mixes.map((m) => {
-    const parts: FilamentPart[] = m.combinations.map((c) => ({
+    // HueforgeStylePart is structurally a superset of FilamentPart (extra
+    // optional `td`). All other models ignore the `td` field; the harness
+    // attaches it once here so the HueForge-style model can read it.
+    const parts: HueforgeStylePart[] = m.combinations.map((c) => ({
       hex: c.hex,
       ratio: c.ratio,
+      td: TD_BY_HEX.get(c.hex),
     }));
     const predicted = model.fn(parts);
     const measuredLab = m.lab;
@@ -205,20 +242,38 @@ function escape(s: string): string {
 
 function renderSummary(scoresByModel: Record<string, Score[]>): string {
   const cards = MODELS.map((m) => {
-    const s = statsOf(scoresByModel[m.id]!);
+    const all = scoresByModel[m.id]!;
+    const s2 = statsOf(all.filter((s) => s.nParts === 2));
+    const s3 = statsOf(all.filter((s) => s.nParts === 3));
+    const sA = statsOf(all);
+    // Each row: label + value for 2-color, 3-color, overall. Median ΔE is
+    // the headline metric so it keeps its colored deClass; the rest stay
+    // monochrome to avoid a wall of color in a 3-column table.
+    const row = (label: string, fmt: (s: Stats) => string, color = false) => `
+      <tr>
+        <th>${label}</th>
+        <td${color ? ` class="${deClass(s2.median)}"` : ''}>${fmt(s2)}</td>
+        <td${color ? ` class="${deClass(s3.median)}"` : ''}>${fmt(s3)}</td>
+        <td${color ? ` class="${deClass(sA.median)}"` : ''}>${fmt(sA)}</td>
+      </tr>`;
     return `
       <div class="card stat-card">
         <h3>${escape(m.name)}</h3>
         <p class="model-desc">${escape(m.desc)}</p>
-        <div class="stat-grid">
-          <div><span class="lbl">median ΔE</span><span class="val ${deClass(s.median)}">${s.median.toFixed(2)}</span></div>
-          <div><span class="lbl">mean</span><span class="val">${s.mean.toFixed(2)}</span></div>
-          <div><span class="lbl">p90</span><span class="val">${s.p90.toFixed(1)}</span></div>
-          <div><span class="lbl">max</span><span class="val">${s.max.toFixed(1)}</span></div>
-          <div><span class="lbl">&lt; 5</span><span class="val">${s.under5}/${s.n}</span></div>
-          <div><span class="lbl">&lt; 8</span><span class="val">${s.under8}/${s.n}</span></div>
-          <div><span class="lbl">&lt; 10</span><span class="val">${s.under10}/${s.n}</span></div>
-        </div>
+        <table class="stat-split">
+          <thead>
+            <tr><th></th><th>2-color</th><th>3-color</th><th>all</th></tr>
+          </thead>
+          <tbody>
+            ${row('median ΔE', (s) => s.median.toFixed(2), true)}
+            ${row('mean', (s) => s.mean.toFixed(2))}
+            ${row('p90', (s) => s.p90.toFixed(1))}
+            ${row('max', (s) => s.max.toFixed(1))}
+            ${row('&lt; 5', (s) => `${s.under5}/${s.n}`)}
+            ${row('&lt; 8', (s) => `${s.under8}/${s.n}`)}
+            ${row('&lt; 10', (s) => `${s.under10}/${s.n}`)}
+          </tbody>
+        </table>
       </div>
     `;
   }).join('');
@@ -306,6 +361,33 @@ function noteBatch(note: string): number | null {
   return parseFilamentNote(note).batch;
 }
 
+// Two known mismatches between our note convention and HueForge's product
+// names: we record `Prusa Galaxy Black` (HueForge calls it just `Galaxy Black`)
+// and `Blend Viva La Bronze` (HueForge drops the `Blend` qualifier).
+// `fallbackHex` is used when the match comes from MANUAL_TD (no vendor hex
+// available) — we substitute our measured hex so the mixing model still has
+// a color to work with. `manual=true` flags those rows for the bases table.
+interface HueforgeMatch { hex: string; td: number; manual: boolean }
+function findHueforge(note: string, fallbackHex: string): HueforgeMatch | null {
+  const name = parseFilamentNote(note).name
+    .replace(/\bPrusa Galaxy\b/g, 'Galaxy')
+    .replace(/\bBlend Viva La Bronze\b/g, 'Viva La Bronze');
+  const k = HF_KEY(name);
+  const hf = HUEFORGE.get(k);
+  if (hf) return { hex: hf.hex, td: hf.td, manual: false };
+  const td = MANUAL_TD.get(k);
+  if (td !== undefined) return { hex: fallbackHex, td, manual: true };
+  return null;
+}
+
+// Lookup table for the mixing pipeline: each base hex → its TD. Built once
+// here so `scoreModel` can inject TD into FilamentPart for `mixHueforgeStyle`.
+const TD_BY_HEX = new Map<string, number>();
+for (const b of BASES.values()) {
+  const m = findHueforge(b.note ?? '', b.hex);
+  if (m) TD_BY_HEX.set(b.hex, m.td);
+}
+
 // Compact LAB pretty-printer for the small "source of truth" lines under each
 // measured hex. The column header reads "Hex / LAB", so the order (L, a, b)
 // is implied — drop the letter labels to keep the line tight in narrow cells.
@@ -324,6 +406,7 @@ function renderBasesTable(): string {
         batch: parsed.batch,
         name: parsed.name,
         lab: b.lab,
+        hf: findHueforge(b.note ?? '', b.hex),
       };
     })
     // Sort by batch first, then by name within each batch — keeps rows from
@@ -336,8 +419,24 @@ function renderBasesTable(): string {
     });
 
   const body = rows
-    .map(
-      (r) => `
+    .map((r) => {
+      // Fiberlogy bases use a manual TD with the measured hex as the HF hex —
+      // ΔE against ourselves is meaningless (always 0), so render `—` and
+      // italicize the HF Hex/TD cells to flag the manual provenance.
+      const hfHex = r.hf
+        ? r.hf.manual
+          ? `<em><span class="mini-swatch" style="background:${r.hf.hex}"></span>${r.hf.hex}</em>`
+          : `<span class="mini-swatch" style="background:${r.hf.hex}"></span>${r.hf.hex}`
+        : '—';
+      const hfTd = r.hf
+        ? (r.hf.manual ? `<em>${r.hf.td.toFixed(1)}</em>` : r.hf.td.toFixed(1))
+        : '—';
+      const hfDeRaw = r.hf && !r.hf.manual ? deltaE2000(r.lab, hexToLab(r.hf.hex)) : null;
+      const hfDe =
+        hfDeRaw !== null
+          ? `<span class="${deClass(hfDeRaw)}">${hfDeRaw.toFixed(2)}</span>`
+          : '—';
+      return `
       <tr>
         <td class="batch-cell">${r.batch ?? ''}</td>
         <td class="base-cell"><span class="mini-swatch" style="background:${r.hex}"></span><span>${escape(r.name)}</span></td>
@@ -345,14 +444,17 @@ function renderBasesTable(): string {
         <td class="num">${r.lab.L.toFixed(2)}</td>
         <td class="num">${r.lab.a.toFixed(2)}</td>
         <td class="num">${r.lab.b.toFixed(2)}</td>
+        <td class="hex-cell">${hfHex}</td>
+        <td class="num">${hfTd}</td>
+        <td class="num">${hfDe}</td>
       </tr>
-    `,
-    )
+    `;
+    })
     .join('');
 
   return `
     <div class="card">
-      <h2>Base filaments <em>· measured ground truth · ${rows.length} entries</em></h2>
+      <h2>Base filaments <em>· measured ground truth vs. HueForge nominal · ${rows.length} entries</em></h2>
       <table class="bases-table">
         <colgroup>
           <col style="width:64px" />
@@ -361,15 +463,21 @@ function renderBasesTable(): string {
           <col style="width:80px" />
           <col style="width:80px" />
           <col style="width:80px" />
+          <col style="width:120px" />
+          <col style="width:64px" />
+          <col style="width:72px" />
         </colgroup>
         <thead>
           <tr>
             <th class="num">Batch</th>
             <th>Filament</th>
             <th class="num">Hex</th>
-            <th class="num">L*</th>
+            <th class="num"><span class="icon-inline" title="Measured (ground truth)">${FLASK_ICON}</span> L*</th>
             <th class="num">a*</th>
             <th class="num">b*</th>
+            <th class="num" title="HueForge vendor-published hex">HF Hex</th>
+            <th class="num" title="HueForge transmission distance (mm)">HF TD</th>
+            <th class="num" title="ΔE2000 between measured LAB and HueForge nominal hex">ΔE</th>
           </tr>
         </thead>
         <tbody>${body}</tbody>

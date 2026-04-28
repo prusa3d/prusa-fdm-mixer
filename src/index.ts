@@ -31,6 +31,7 @@ export { mixLinearRgb } from './linear-rgb.js';
 export { mixGammaRgb } from './gamma-rgb.js';
 export { mixKubelkaMunk } from './kubelka-munk.js';
 export { mixFilamentMixer } from './filament-mixer.js';
+export { mixHueforgeStyle, type HueforgeStylePart } from './hueforge-style.js';
 
 export {
   hexToRgb,
