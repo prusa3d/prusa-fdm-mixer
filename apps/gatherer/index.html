@@ -1,0 +1,1761 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Color Mix Sample Gatherer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Serif:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0e0f12;
+    --panel: #16181d;
+    --panel-2: #1d2026;
+    --line: #2a2e36;
+    --line-2: #3a3f4a;
+    --ink: #e7e9ee;
+    --ink-dim: #9aa0ac;
+    --ink-faint: #6a7080;
+    --accent: #ffb000;
+    --accent-2: #5dd2ff;
+    --good: #6ee7a8;
+    --warn: #ffb86b;
+    --bad: #ff6b6b;
+    --shadow: 0 1px 0 rgba(255,255,255,0.04) inset, 0 8px 24px rgba(0,0,0,0.35);
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: var(--bg); color: var(--ink); }
+  body {
+    font-family: 'IBM Plex Sans', system-ui, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    min-height: 100vh;
+  }
+  .mono { font-family: 'IBM Plex Mono', monospace; }
+  .serif { font-family: 'IBM Plex Serif', serif; }
+
+  header {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    padding: 14px 22px;
+    border-bottom: 1px solid var(--line);
+    background: var(--panel);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  header h1 {
+    font-family: 'IBM Plex Serif', serif;
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0;
+    letter-spacing: -0.01em;
+  }
+  header h1 .tag {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    font-weight: 500;
+    color: var(--accent);
+    background: rgba(255,176,0,0.12);
+    padding: 2px 6px;
+    margin-left: 8px;
+    border-radius: 2px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    vertical-align: 2px;
+  }
+  nav {
+    display: flex;
+    gap: 2px;
+    background: var(--panel-2);
+    padding: 3px;
+    border-radius: 6px;
+  }
+  nav button {
+    background: transparent;
+    color: var(--ink-dim);
+    border: 0;
+    padding: 6px 14px;
+    font-family: inherit;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: all 120ms;
+  }
+  nav button:hover { color: var(--ink); }
+  nav button.active {
+    background: var(--bg);
+    color: var(--ink);
+    box-shadow: 0 1px 2px rgba(0,0,0,0.4);
+  }
+  .actions { margin-left: auto; display: flex; gap: 8px; align-items: center; }
+  .count {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--ink-faint);
+    margin-right: 10px;
+  }
+  .count b { color: var(--ink); font-weight: 500; }
+  button.btn {
+    background: transparent;
+    color: var(--ink);
+    border: 1px solid var(--line-2);
+    padding: 6px 12px;
+    font-family: inherit;
+    font-size: 12px;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: all 120ms;
+  }
+  button.btn:hover { border-color: var(--ink-dim); }
+  button.btn.primary {
+    background: var(--accent);
+    color: #0e0f12;
+    border-color: var(--accent);
+    font-weight: 600;
+  }
+  button.btn.primary:hover { background: #ffc640; border-color: #ffc640; }
+  button.btn.danger:hover { color: var(--bad); border-color: var(--bad); }
+
+  main {
+    display: none;
+    padding: 22px;
+    max-width: 1600px;
+    margin: 0 auto;
+  }
+  main.active { display: block; }
+
+  .tab-entry {
+    display: grid;
+    grid-template-columns: 1fr 1.4fr;
+    gap: 22px;
+  }
+  @media (max-width: 1100px) {
+    .tab-entry { grid-template-columns: 1fr; }
+  }
+
+  section.card {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 18px;
+    box-shadow: var(--shadow);
+  }
+  section.card h2 {
+    font-family: 'IBM Plex Serif', serif;
+    font-weight: 600;
+    font-size: 14px;
+    margin: 0 0 14px;
+    letter-spacing: 0.02em;
+    color: var(--ink);
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+  }
+  section.card h2 .hint {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+    color: var(--ink-faint);
+    letter-spacing: 0;
+  }
+
+  .form-row {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .form-row.full { grid-template-columns: 1fr; }
+  label.field {
+    display: block;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--ink-faint);
+    margin-bottom: 4px;
+    font-weight: 500;
+  }
+  input.in {
+    width: 100%;
+    background: var(--panel-2);
+    border: 1px solid var(--line);
+    color: var(--ink);
+    padding: 8px 10px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px;
+    border-radius: 4px;
+    transition: border-color 120ms;
+  }
+  input.in:focus {
+    outline: none;
+    border-color: var(--accent);
+  }
+  input.in.text { font-family: 'IBM Plex Sans', sans-serif; }
+
+  .preview-bar {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 10px 12px;
+    background: var(--panel-2);
+    border-radius: 4px;
+    border: 1px solid var(--line);
+    margin: 10px 0;
+  }
+  .swatch {
+    width: 38px;
+    height: 38px;
+    border-radius: 4px;
+    background: #222;
+    border: 1px solid rgba(255,255,255,0.08);
+    flex-shrink: 0;
+  }
+  .swatch.sm { width: 22px; height: 22px; border-radius: 3px; }
+  .swatch.xs { width: 14px; height: 14px; border-radius: 2px; }
+  .swatch.lg { width: 56px; height: 56px; }
+  .preview-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    flex: 1;
+    min-width: 0;
+  }
+  .preview-meta .hex {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 14px;
+    font-weight: 500;
+  }
+  .preview-meta .sub {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--ink-faint);
+  }
+
+  .palette {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    padding: 10px;
+    background: var(--panel-2);
+    border-radius: 4px;
+    border: 1px solid var(--line);
+    min-height: 50px;
+    margin-bottom: 10px;
+  }
+  .palette .empty {
+    color: var(--ink-faint);
+    font-size: 12px;
+    font-style: italic;
+    align-self: center;
+  }
+  .palette button.base {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--panel);
+    border: 1px solid var(--line);
+    padding: 4px 8px 4px 4px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 12px;
+    color: var(--ink);
+    transition: all 120ms;
+  }
+  .palette button.base:hover {
+    border-color: var(--accent);
+    transform: translateY(-1px);
+  }
+  .palette button.base .lbl {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--ink-dim);
+  }
+
+  .pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    padding: 10px;
+    background: var(--panel-2);
+    border-radius: 4px;
+    border: 1px dashed var(--line-2);
+    min-height: 46px;
+    margin-bottom: 10px;
+  }
+  .pills .empty {
+    color: var(--ink-faint);
+    font-size: 12px;
+    font-style: italic;
+    align-self: center;
+  }
+  .pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    background: var(--panel);
+    border: 1px solid var(--line);
+    padding: 3px 4px 3px 4px;
+    border-radius: 3px;
+    font-size: 11px;
+  }
+  .pill .lbl { font-family: 'IBM Plex Mono', monospace; color: var(--ink-dim); }
+  .pill .x {
+    cursor: pointer;
+    background: transparent;
+    border: 0;
+    color: var(--ink-faint);
+    padding: 0 2px;
+    font-size: 13px;
+    line-height: 1;
+  }
+  .pill .x:hover { color: var(--bad); }
+
+  .recipe-prediction {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 10px 12px;
+    background: var(--panel-2);
+    border-radius: 4px;
+    border: 1px solid var(--line);
+    margin: 10px 0;
+  }
+  .recipe-prediction .label {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--ink-faint);
+    font-weight: 500;
+  }
+  .de-tag {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    padding: 2px 6px;
+    border-radius: 3px;
+    background: rgba(255,255,255,0.04);
+    color: var(--ink-dim);
+  }
+  .de-tag.good { color: var(--good); background: rgba(110,231,168,0.08); }
+  .de-tag.warn { color: var(--warn); background: rgba(255,184,107,0.08); }
+  .de-tag.bad  { color: var(--bad);  background: rgba(255,107,107,0.08); }
+
+  .form-actions {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    margin-top: 12px;
+  }
+  .form-actions .msg {
+    font-size: 12px;
+    color: var(--ink-faint);
+    margin-left: auto;
+  }
+  .form-actions .msg.err { color: var(--bad); }
+
+  table.dataset {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 12px;
+  }
+  table.dataset th, table.dataset td {
+    text-align: left;
+    padding: 8px 10px;
+    border-bottom: 1px solid var(--line);
+    vertical-align: middle;
+  }
+  table.dataset th {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--ink-faint);
+    font-weight: 500;
+    background: var(--panel-2);
+    position: sticky;
+    top: 0;
+  }
+  table.dataset td.mono { font-family: 'IBM Plex Mono', monospace; }
+  table.dataset .recipe-cell {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3px;
+    align-items: center;
+  }
+  table.dataset .recipe-cell .item {
+    display: inline-flex;
+    align-items: center;
+    gap: 3px;
+    background: var(--panel-2);
+    padding: 1px 4px 1px 2px;
+    border-radius: 2px;
+    font-size: 11px;
+  }
+  table.dataset .recipe-cell .item .ratio {
+    font-family: 'IBM Plex Mono', monospace;
+    color: var(--ink-dim);
+  }
+  table.dataset tr:hover td { background: rgba(255,255,255,0.02); }
+  table.dataset .row-base td:first-child { border-left: 2px solid var(--accent-2); }
+  table.dataset .badge-base {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 9px;
+    background: rgba(93,210,255,0.15);
+    color: var(--accent-2);
+    padding: 1px 5px;
+    border-radius: 2px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    margin-left: 4px;
+    vertical-align: 1px;
+  }
+  table.dataset td .icon-btn {
+    background: transparent;
+    border: 0;
+    color: var(--ink-faint);
+    cursor: pointer;
+    padding: 2px 6px;
+    font-size: 14px;
+    border-radius: 3px;
+  }
+  table.dataset td .icon-btn:hover { color: var(--bad); background: rgba(255,107,107,0.08); }
+
+  .scroll-x { overflow-x: auto; }
+
+  /* Models tab — scrollable body with sticky header inside, footer outside */
+  .models-scroll {
+    max-height: calc(100vh - 230px);
+    overflow: auto;
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    background: var(--bg);
+  }
+
+  table.models {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 11px;
+  }
+  table.models th, table.models td {
+    padding: 6px 8px;
+    border-bottom: 1px solid var(--line);
+    border-right: 1px solid var(--line);
+    text-align: left;
+    vertical-align: middle;
+    white-space: nowrap;
+  }
+  table.models thead th {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--ink-faint);
+    font-weight: 500;
+    background: var(--panel-2);
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    box-shadow: 0 1px 0 var(--line);
+  }
+  table.models thead th.measured-col {
+    left: 0;
+    z-index: 3;
+  }
+  table.models thead th.sortable {
+    cursor: pointer;
+    user-select: none;
+    transition: color 100ms;
+  }
+  table.models thead th.sortable:hover { color: var(--ink); }
+  table.models thead th.sortable.sort-active {
+    color: var(--accent);
+    background: rgba(255,176,0,0.05);
+  }
+  table.models thead th.sortable .sort-arrow {
+    display: inline-block;
+    margin-left: 4px;
+    color: var(--accent);
+    font-size: 9px;
+  }
+  table.models thead th .desc {
+    display: block;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 9px;
+    color: var(--ink-faint);
+    text-transform: none;
+    letter-spacing: 0;
+    font-weight: 400;
+    margin-top: 2px;
+  }
+  table.models td.measured-col {
+    background: var(--panel-2);
+    position: sticky;
+    left: 0;
+    z-index: 1;
+  }
+  table.models tbody tr:hover td { background: rgba(255,255,255,0.02); }
+  table.models tbody tr:hover td.measured-col { background: var(--panel); }
+
+  /* Sticky summary footer below scrollable body */
+  .models-footer {
+    margin-top: 8px;
+    background: var(--panel-2);
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    padding: 12px 16px;
+  }
+  .models-footer .row {
+    display: grid;
+    grid-template-columns: 110px repeat(auto-fit, minmax(110px, 1fr));
+    gap: 8px;
+    align-items: center;
+    padding: 4px 0;
+    font-size: 11px;
+  }
+  .models-footer .row + .row { border-top: 1px solid var(--line); }
+  .models-footer .row .label {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--ink-faint);
+    font-weight: 500;
+  }
+  .models-footer .row .val {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    color: var(--ink);
+  }
+  .models-footer .row .val.best {
+    color: var(--good);
+    font-weight: 600;
+  }
+  .models-footer .header-row .label {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--ink-faint);
+    font-weight: 500;
+  }
+
+  /* Source tab */
+  .source-toolbar {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 12px;
+  }
+  .source-msg {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+    color: var(--ink-faint);
+  }
+  .source-msg.ok { color: var(--good); }
+  .source-pre {
+    background: var(--bg);
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    padding: 16px 18px;
+    margin: 0;
+    overflow: auto;
+    max-height: calc(100vh - 220px);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    line-height: 1.55;
+    color: var(--ink);
+    white-space: pre;
+    tab-size: 2;
+  }
+  .source-pre .kw    { color: #c792ea; }
+  .source-pre .fn    { color: #82aaff; }
+  .source-pre .num   { color: #f78c6c; }
+  .source-pre .str   { color: #c3e88d; }
+  .source-pre .com   { color: var(--ink-faint); font-style: italic; }
+  .source-pre .punc  { color: var(--ink-dim); }
+  .cell-mix {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .cell-mix .meta {
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+    font-family: 'IBM Plex Mono', monospace;
+  }
+  .cell-mix .meta .h { font-size: 11px; color: var(--ink); }
+  .cell-mix .meta .d { font-size: 10px; }
+
+  .empty-state {
+    padding: 40px 20px;
+    text-align: center;
+    color: var(--ink-faint);
+    font-size: 13px;
+  }
+  .empty-state .big { font-size: 16px; color: var(--ink-dim); margin-bottom: 6px; }
+
+  .modal-bg {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.6);
+    z-index: 100;
+    align-items: center;
+    justify-content: center;
+  }
+  .modal-bg.show { display: flex; }
+  .modal {
+    background: var(--panel);
+    border: 1px solid var(--line-2);
+    border-radius: 8px;
+    padding: 24px;
+    min-width: 360px;
+    max-width: 480px;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.6);
+  }
+  .modal h3 {
+    margin: 0 0 8px;
+    font-family: 'IBM Plex Serif', serif;
+    font-size: 16px;
+    font-weight: 600;
+  }
+  .modal p { color: var(--ink-dim); font-size: 13px; margin: 0 0 16px; }
+  .modal .modal-actions { display: flex; gap: 8px; justify-content: flex-end; flex-wrap: wrap; }
+
+  .knn-controls {
+    display: flex;
+    align-items: flex-end;
+    gap: 18px;
+    flex-wrap: wrap;
+  }
+  .knn-ctrl {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    min-width: 160px;
+  }
+  .knn-ctrl label.field {
+    margin-bottom: 0;
+    display: flex;
+    align-items: baseline;
+    gap: 6px;
+  }
+  .knn-ctrl label.field .val {
+    color: var(--accent);
+    font-size: 11px;
+    text-transform: none;
+    letter-spacing: 0;
+    font-weight: 500;
+  }
+  .knn-ctrl input[type="range"] {
+    width: 100%;
+    accent-color: var(--accent);
+    background: transparent;
+  }
+  .knn-ctrl select.in { padding: 6px 8px; font-size: 13px; }
+  .knn-ctrl button.btn { white-space: nowrap; }
+  .autofit-result {
+    font-size: 11px;
+    color: var(--ink-faint);
+    align-self: center;
+    padding-bottom: 8px;
+  }
+  .autofit-result.done { color: var(--good); }
+  .knn-col-bg { background: rgba(255,176,0,0.03) !important; }
+
+  /* === Coverage tab === */
+  .cov-summary {
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+    margin-bottom: 18px;
+    padding: 12px 14px;
+    background: var(--panel-2);
+    border: 1px solid var(--line);
+    border-radius: 4px;
+  }
+  .cov-summary .cov-stat {
+    font-size: 11px;
+    color: var(--ink-faint);
+  }
+  .cov-summary .cov-stat b {
+    font-family: 'IBM Plex Mono', monospace;
+    color: var(--ink);
+    font-weight: 600;
+    font-size: 14px;
+    margin-right: 4px;
+  }
+
+  h3.cov-section {
+    font-family: 'IBM Plex Serif', serif;
+    font-size: 13px;
+    font-weight: 600;
+    margin: 24px 0 10px;
+    color: var(--ink);
+    letter-spacing: 0.02em;
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+  }
+  h3.cov-section .hint {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+    color: var(--ink-faint);
+    letter-spacing: 0;
+  }
+
+  .cov-legend {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    margin-bottom: 12px;
+    flex-wrap: wrap;
+    font-size: 10px;
+    color: var(--ink-faint);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+  .cov-legend .item { display: flex; align-items: center; gap: 6px; }
+  .cov-legend .demo {
+    width: 32px; height: 18px; border-radius: 3px;
+    background: var(--panel-2); border: 1px solid var(--line);
+    display: inline-flex; align-items: center; justify-content: center; gap: 1px;
+  }
+  .cov-legend .demo.empty { border-style: dashed; }
+  .cov-legend .demo.partial-good { border-color: var(--good); }
+  .cov-legend .demo.partial-warn { border-color: var(--warn); }
+  .cov-legend .demo.partial-bad  { border-color: var(--bad);  }
+  .cov-legend .demo .s {
+    width: 6px; height: 12px; border-radius: 1px;
+    border: 1px solid var(--line-2);
+  }
+  .cov-legend .demo .s.f { border: 0; }
+
+  .cov-matrix-wrap {
+    overflow-x: auto;
+    padding-bottom: 8px;
+    margin-bottom: 8px;
+  }
+  table.cov-matrix {
+    border-collapse: separate;
+    border-spacing: 3px;
+    font-size: 10px;
+  }
+  table.cov-matrix th {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 500;
+    color: var(--ink-dim);
+    padding: 0;
+  }
+  table.cov-matrix th.row-label {
+    text-align: right;
+    vertical-align: middle;
+    white-space: nowrap;
+    padding-right: 8px;
+    font-size: 11px;
+  }
+  table.cov-matrix th.row-label .swatch { vertical-align: middle; margin-right: 6px; display: inline-block; }
+  table.cov-matrix th.col-label {
+    height: 110px;
+    vertical-align: bottom;
+    padding-bottom: 6px;
+  }
+  table.cov-matrix th.col-label .col-text {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    white-space: nowrap;
+    font-size: 11px;
+    color: var(--ink-dim);
+    line-height: 1.2;
+    padding: 4px 2px;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+  }
+  table.cov-matrix th.col-label .swatch { display: inline-block; }
+  table.cov-matrix td.cov-cell {
+    width: 44px;
+    height: 30px;
+    padding: 0;
+    background: var(--panel-2);
+    border-radius: 3px;
+    border: 1px solid var(--line);
+    box-sizing: border-box;
+  }
+  table.cov-matrix td.cov-cell.empty-cell {
+    background: transparent;
+    border-style: dashed;
+    border-color: var(--line);
+  }
+  table.cov-matrix td.cov-cell.has-data.err-low  { border-color: var(--good); border-width: 2px; }
+  table.cov-matrix td.cov-cell.has-data.err-med  { border-color: var(--warn); border-width: 2px; }
+  table.cov-matrix td.cov-cell.has-data.err-high { border-color: var(--bad);  border-width: 2px; }
+  .cov-slots {
+    display: flex;
+    gap: 2px;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding: 0 3px;
+  }
+  .cov-slot {
+    width: 8px;
+    height: 18px;
+    border-radius: 1px;
+    background: transparent;
+    border: 1px solid var(--line-2);
+    flex-shrink: 0;
+  }
+  .cov-slot.filled {
+    border-color: rgba(255,255,255,0.18);
+  }
+  .cov-slot.empty { opacity: 0.4; }
+
+  table.ternary-cov {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 12px;
+  }
+  table.ternary-cov th, table.ternary-cov td {
+    text-align: left;
+    padding: 8px 10px;
+    border-bottom: 1px solid var(--line);
+    vertical-align: middle;
+  }
+  table.ternary-cov th {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--ink-faint);
+    font-weight: 500;
+    background: var(--panel-2);
+  }
+  table.ternary-cov td.tern-fils {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  table.ternary-cov td.tern-fils .item {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 12px;
+  }
+  .tern-slot {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px;
+    height: 22px;
+    border-radius: 3px;
+    background: var(--panel-2);
+    border: 1px dashed var(--line);
+  }
+  .tern-slot.filled { border: 0; }
+
+  /* === Regime tab === */
+  .regime-params {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 14px;
+    margin-bottom: 14px;
+  }
+  .regime-param {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    padding: 10px;
+    background: var(--panel-2);
+    border: 1px solid var(--line);
+    border-radius: 4px;
+  }
+  .regime-param label {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--ink-faint);
+    font-weight: 500;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+  .regime-param label .val {
+    font-family: 'IBM Plex Mono', monospace;
+    color: var(--accent);
+    font-size: 11px;
+    text-transform: none;
+    letter-spacing: 0;
+  }
+  .regime-param input[type="range"] {
+    width: 100%;
+    accent-color: var(--accent);
+  }
+  .regime-param .desc {
+    font-size: 10px;
+    color: var(--ink-faint);
+    line-height: 1.3;
+  }
+  .regime-actions {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+  }
+  .regime-msg {
+    font-size: 11px;
+    color: var(--ink-faint);
+    margin-left: 8px;
+    font-family: 'IBM Plex Mono', monospace;
+  }
+
+  table.tune-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 11px;
+  }
+  table.tune-table th, table.tune-table td {
+    padding: 5px 8px;
+    border-bottom: 1px solid var(--line);
+    text-align: right;
+    vertical-align: middle;
+    white-space: nowrap;
+  }
+  table.tune-table th {
+    font-size: 9px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--ink-faint);
+    background: var(--panel-2);
+    font-weight: 500;
+    position: sticky;
+    top: 0;
+  }
+  table.tune-table th:first-child, table.tune-table td:first-child,
+  table.tune-table th:last-child, table.tune-table td:last-child {
+    text-align: left;
+  }
+  table.tune-table td.mono { font-family: 'IBM Plex Mono', monospace; }
+  table.tune-table tbody tr {
+    cursor: pointer;
+  }
+  table.tune-table tbody tr:hover td { background: rgba(255,255,255,0.03); }
+  table.tune-table tbody tr.best td {
+    background: rgba(110,231,168,0.06);
+    font-weight: 600;
+  }
+  table.tune-table tbody tr.applied td {
+    background: rgba(255,176,0,0.08);
+  }
+  table.tune-table .tag-default { color: var(--ink-faint); }
+  table.tune-table .tag-random { color: var(--accent-2); }
+  table.tune-table .tag-refine { color: var(--accent); }
+  table.tune-table .tag-manual { color: var(--good); }
+
+  .regime-summary {
+    display: flex;
+    gap: 18px;
+    flex-wrap: wrap;
+    padding: 10px 12px;
+    background: var(--panel-2);
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    margin-bottom: 12px;
+    font-size: 11px;
+    color: var(--ink-faint);
+  }
+  .regime-summary b {
+    font-family: 'IBM Plex Mono', monospace;
+    color: var(--ink);
+    font-weight: 600;
+    margin-right: 4px;
+  }
+  .regime-pill {
+    display: inline-block;
+    padding: 1px 6px;
+    border-radius: 3px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    font-weight: 500;
+  }
+  .regime-pill.allAchromatic { background: rgba(154,160,172,0.15); color: var(--ink-dim); }
+  .regime-pill.satPlusAch    { background: rgba(255,176,0,0.15); color: var(--accent); }
+  .regime-pill.satPlusSat    { background: rgba(255,107,107,0.15); color: var(--bad); }
+  .regime-pill.mixed         { background: rgba(93,210,255,0.15); color: var(--accent-2); }
+
+  table.regime-debug {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 11px;
+  }
+  table.regime-debug th, table.regime-debug td {
+    padding: 6px 8px;
+    border-bottom: 1px solid var(--line);
+    border-right: 1px solid var(--line);
+    text-align: left;
+    vertical-align: middle;
+  }
+  table.regime-debug th {
+    font-size: 9px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--ink-faint);
+    background: var(--panel-2);
+    font-weight: 500;
+    position: sticky;
+    top: 0;
+  }
+  table.regime-debug td.cell-final {
+    background: rgba(255,176,0,0.04);
+  }
+  table.regime-debug td.cell-active {
+    background: rgba(255,176,0,0.08);
+    border-left: 2px solid var(--accent);
+  }
+
+  /* === Tinted tab === */
+  table.tint-matrix {
+    border-collapse: separate;
+    border-spacing: 2px;
+    font-size: 11px;
+    margin-bottom: 14px;
+  }
+  table.tint-matrix th, table.tint-matrix td {
+    text-align: center;
+    width: 56px;
+    height: 36px;
+    padding: 0;
+    background: var(--panel-2);
+    border: 1px solid var(--line);
+    border-radius: 3px;
+    font-family: 'IBM Plex Mono', monospace;
+    color: var(--ink);
+  }
+  table.tint-matrix th {
+    color: var(--ink-faint);
+    background: transparent;
+    border: 0;
+    font-size: 11px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 500;
+  }
+  table.tint-matrix th.row-label {
+    text-align: right;
+    padding-right: 8px;
+    width: auto;
+  }
+  table.tint-matrix td.diag {
+    color: var(--ink-faint);
+    background: transparent;
+  }
+  table.tint-matrix td.editable {
+    cursor: text;
+  }
+  table.tint-matrix td.editable.derived {
+    color: var(--ink-faint);
+    font-style: italic;
+    background: rgba(255,255,255,0.02);
+  }
+  table.tint-matrix input.cell-input {
+    width: 50px;
+    height: 30px;
+    background: transparent;
+    border: 0;
+    color: inherit;
+    text-align: center;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px;
+  }
+  table.tint-matrix input.cell-input:focus {
+    outline: 1px solid var(--accent);
+    background: var(--bg);
+  }
+  .tint-extra-params {
+    display: flex;
+    gap: 18px;
+    margin-bottom: 14px;
+    flex-wrap: wrap;
+  }
+  .tint-param {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    padding: 10px;
+    background: var(--panel-2);
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    min-width: 240px;
+    flex: 1;
+  }
+  .tint-param label {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--ink-faint);
+    font-weight: 500;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+  }
+  .tint-param label .val {
+    color: var(--accent);
+    font-size: 11px;
+    text-transform: none;
+    letter-spacing: 0;
+  }
+  .tint-param input[type="range"] {
+    width: 100%;
+    accent-color: var(--accent);
+  }
+  .tint-param .desc {
+    font-size: 10px;
+    color: var(--ink-faint);
+    line-height: 1.3;
+  }
+
+  #tint-anchor-map {
+    position: relative;
+    height: 360px;
+    background: var(--panel-2);
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  #tint-anchor-map svg { width: 100%; height: 100%; display: block; }
+
+  .tint-matrix-mini {
+    display: inline-grid;
+    grid-template-columns: repeat(7, 8px);
+    grid-template-rows: repeat(7, 8px);
+    gap: 1px;
+    vertical-align: middle;
+  }
+  .tint-matrix-mini > div {
+    width: 8px;
+    height: 8px;
+    border-radius: 1px;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Color Mix Sample Gatherer <span class="tag">v1</span></h1>
+  <nav>
+    <button data-tab="entry" class="active">Data</button>
+  </nav>
+  <div class="actions">
+    <span class="count" id="hdr-count"><b>0</b> entries</span>
+    <button class="btn" id="btn-export">Export</button>
+    <button class="btn" id="btn-import">Import</button>
+    <input type="file" id="file-import" accept=".jsonl,.json,.txt" hidden>
+  </div>
+</header>
+
+<main id="tab-entry" class="active">
+  <div class="tab-entry">
+    <div>
+      <section class="card" style="margin-bottom: 22px;">
+        <h2>Add base filament <span class="hint">L*a*b* of pure-color sample</span></h2>
+        <form id="form-base" autocomplete="off">
+          <div class="form-row">
+            <div>
+              <label class="field">L*</label>
+              <input class="in" name="L" type="number" step="0.01" min="0" max="100" placeholder="0–100" required>
+            </div>
+            <div>
+              <label class="field">a*</label>
+              <input class="in" name="a" type="number" step="0.01" placeholder="−128…127" required>
+            </div>
+            <div>
+              <label class="field">b*</label>
+              <input class="in" name="b" type="number" step="0.01" placeholder="−128…127" required>
+            </div>
+          </div>
+          <div class="form-row full">
+            <div>
+              <label class="field">Note (filament name)</label>
+              <input class="in text" name="note" type="text" placeholder="e.g. Prusament Galaxy Black" required>
+            </div>
+          </div>
+          <div class="preview-bar">
+            <div class="swatch lg" id="base-preview-swatch"></div>
+            <div class="preview-meta">
+              <div class="hex" id="base-preview-hex">#000000</div>
+              <div class="sub" id="base-preview-lab">L 0.00  a 0.00  b 0.00</div>
+            </div>
+          </div>
+          <div class="form-actions">
+            <button type="submit" class="btn primary">Save base &nbsp;↵</button>
+            <span class="msg" id="form-base-msg"></span>
+          </div>
+        </form>
+      </section>
+
+      <section class="card">
+        <h2>Add mix sample <span class="hint">Measured L*a*b* of printed swatch</span></h2>
+        <form id="form-mix" autocomplete="off">
+          <div class="form-row">
+            <div>
+              <label class="field">L*</label>
+              <input class="in" name="L" type="number" step="0.01" min="0" max="100" placeholder="0–100" required>
+            </div>
+            <div>
+              <label class="field">a*</label>
+              <input class="in" name="a" type="number" step="0.01" placeholder="−128…127" required>
+            </div>
+            <div>
+              <label class="field">b*</label>
+              <input class="in" name="b" type="number" step="0.01" placeholder="−128…127" required>
+            </div>
+          </div>
+          <div class="preview-bar">
+            <div class="swatch lg" id="mix-preview-swatch"></div>
+            <div class="preview-meta">
+              <div class="hex" id="mix-preview-hex">#000000</div>
+              <div class="sub" id="mix-preview-lab">measured</div>
+            </div>
+          </div>
+
+          <label class="field" style="margin-top:6px;">Click base filaments to build recipe</label>
+          <div class="palette" id="mix-palette">
+            <span class="empty">Add base filaments first.</span>
+          </div>
+
+          <label class="field">Recipe (in click order)</label>
+          <div class="pills" id="mix-pills">
+            <span class="empty">Click a base filament above. Each click = one layer.</span>
+          </div>
+
+          <div class="form-actions">
+            <button type="submit" class="btn primary">Save mix &nbsp;↵</button>
+            <span class="msg" id="form-mix-msg"></span>
+          </div>
+        </form>
+      </section>
+    </div>
+
+    <section class="card">
+      <h2>Dataset <span class="hint" id="dataset-hint">no entries</span></h2>
+      <div class="scroll-x" id="dataset-wrap">
+        <table class="dataset" id="dataset-table">
+          <thead>
+            <tr>
+              <th></th>
+              <th>Hex</th>
+              <th>L*</th>
+              <th>a*</th>
+              <th>b*</th>
+              <th>Recipe</th>
+              <th>Note</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody id="dataset-body"></tbody>
+        </table>
+      </div>
+    </section>
+  </div>
+</main>
+
+
+<div class="modal-bg" id="modal-bg">
+  <div class="modal" id="modal">
+    <h3 id="modal-title">Title</h3>
+    <p id="modal-body">Body</p>
+    <div class="modal-actions" id="modal-actions"></div>
+  </div>
+</div>
+
+<script>
+/* ================================================================
+   COLOR MATH
+   ================================================================ */
+
+// LAB (D65, 2°) ↔ XYZ ↔ linear sRGB ↔ sRGB
+const Xn = 0.95047, Yn = 1.0, Zn = 1.08883;
+
+function labToXyz(L, a, b) {
+  const fy = (L + 16) / 116;
+  const fx = a / 500 + fy;
+  const fz = fy - b / 200;
+  const finv = t => {
+    const t3 = t * t * t;
+    return t3 > 216 / 24389 ? t3 : (t - 16 / 116) / 7.787;
+  };
+  return { X: Xn * finv(fx), Y: Yn * finv(fy), Z: Zn * finv(fz) };
+}
+
+function xyzToLinearRgb(X, Y, Z) {
+  return {
+    r:  3.2406 * X - 1.5372 * Y - 0.4986 * Z,
+    g: -0.9689 * X + 1.8758 * Y + 0.0415 * Z,
+    b:  0.0557 * X - 0.2040 * Y + 1.0570 * Z
+  };
+}
+
+function linearRgbToXyz(r, g, b) {
+  return {
+    X: 0.4124 * r + 0.3576 * g + 0.1805 * b,
+    Y: 0.2126 * r + 0.7152 * g + 0.0722 * b,
+    Z: 0.0193 * r + 0.1192 * g + 0.9505 * b
+  };
+}
+
+function linearToSrgb(c) {
+  c = Math.max(0, Math.min(1, c));
+  return c <= 0.0031308 ? 12.92 * c : 1.055 * Math.pow(c, 1 / 2.4) - 0.055;
+}
+
+function srgbToLinear(c) {
+  c = Math.max(0, Math.min(1, c));
+  return c <= 0.04045 ? c / 12.92 : Math.pow((c + 0.055) / 1.055, 2.4);
+}
+
+function xyzToLab(X, Y, Z) {
+  const f = t => t > 216 / 24389 ? Math.cbrt(t) : 7.787 * t + 16 / 116;
+  const fx = f(X / Xn), fy = f(Y / Yn), fz = f(Z / Zn);
+  return { L: 116 * fy - 16, a: 500 * (fx - fy), b: 200 * (fy - fz) };
+}
+
+function labToHex(L, a, b) {
+  const xyz = labToXyz(L, a, b);
+  const lin = xyzToLinearRgb(xyz.X, xyz.Y, xyz.Z);
+  return rgbToHex(
+    Math.round(255 * linearToSrgb(lin.r)),
+    Math.round(255 * linearToSrgb(lin.g)),
+    Math.round(255 * linearToSrgb(lin.b))
+  );
+}
+
+function rgbToHex(r, g, b) {
+  const cl = v => Math.max(0, Math.min(255, Math.round(v)));
+  const h = v => cl(v).toString(16).padStart(2, '0');
+  return '#' + h(r) + h(g) + h(b);
+}
+
+function hexToRgb(hex) {
+  const h = hex.replace('#', '');
+  return {
+    r: parseInt(h.substr(0, 2), 16),
+    g: parseInt(h.substr(2, 2), 16),
+    b: parseInt(h.substr(4, 2), 16)
+  };
+}
+
+function rgbToLab(r, g, b) {
+  const lr = srgbToLinear(r / 255), lg = srgbToLinear(g / 255), lb = srgbToLinear(b / 255);
+  const xyz = linearRgbToXyz(lr, lg, lb);
+  return xyzToLab(xyz.X, xyz.Y, xyz.Z);
+}
+
+
+/* ================================================================
+   STORAGE
+   ================================================================ */
+
+const STORAGE_KEY = 'colormix_dataset_v1';
+
+function loadDataset() {
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY);
+    if (!raw) return [];
+    const arr = JSON.parse(raw);
+    return Array.isArray(arr) ? arr : [];
+  } catch { return []; }
+}
+
+function saveDataset(data) {
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+}
+
+let DATA = loadDataset();
+
+function isBase(entry) {
+  return entry.combinations && entry.combinations.length === 1 && entry.combinations[0].hex === entry.hex;
+}
+
+function getBases() {
+  return DATA.filter(isBase);
+}
+
+function getMixes() {
+  return DATA.filter(e => !isBase(e));
+}
+
+function findBaseByHex(hex) {
+  return DATA.find(e => isBase(e) && e.hex === hex);
+}
+
+function sortCombinations(combos) {
+  return [...combos].sort((a, b) => {
+    if (b.ratio !== a.ratio) return b.ratio - a.ratio;
+    return a.hex.localeCompare(b.hex);
+  });
+}
+
+function clearLocalDataset() {
+  DATA = [];
+  saveDataset(DATA);
+}
+
+/* ================================================================
+   UI: tabs, modal, header
+   ================================================================ */
+
+document.querySelectorAll('nav button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('nav button').forEach(b => b.classList.toggle('active', b === btn));
+    document.querySelectorAll('main').forEach(m => m.classList.toggle('active', m.id === 'tab-' + btn.dataset.tab));
+  });
+});
+
+function showModal({ title, body, actions }) {
+  document.getElementById('modal-title').textContent = title;
+  document.getElementById('modal-body').textContent = body;
+  const a = document.getElementById('modal-actions');
+  a.innerHTML = '';
+  for (const act of actions) {
+    const b = document.createElement('button');
+    b.className = 'btn' + (act.primary ? ' primary' : '') + (act.danger ? ' danger' : '');
+    b.textContent = act.label;
+    b.onclick = () => { act.onClick && act.onClick(); document.getElementById('modal-bg').classList.remove('show'); };
+    a.appendChild(b);
+  }
+  document.getElementById('modal-bg').classList.add('show');
+}
+
+function updateHeaderCount() {
+  document.getElementById('hdr-count').innerHTML = `<b>${DATA.length}</b> entries · <b>${getBases().length}</b> bases · <b>${getMixes().length}</b> mixes`;
+}
+
+/* ================================================================
+   FORM: BASE COLOR
+   ================================================================ */
+
+const formBase = document.getElementById('form-base');
+const fbL = formBase.L, fbA = formBase.a, fbB = formBase.b, fbNote = formBase.note;
+const baseSwatchEl = document.getElementById('base-preview-swatch');
+const baseHexEl = document.getElementById('base-preview-hex');
+const baseLabEl = document.getElementById('base-preview-lab');
+const baseMsgEl = document.getElementById('form-base-msg');
+
+function readLab(form) {
+  const L = parseFloat(form.L.value);
+  const a = parseFloat(form.a.value);
+  const b = parseFloat(form.b.value);
+  if ([L, a, b].some(v => Number.isNaN(v))) return null;
+  return { L, a, b };
+}
+
+function updateBasePreview() {
+  const lab = readLab(formBase);
+  if (!lab) {
+    baseSwatchEl.style.background = '#222';
+    baseHexEl.textContent = '#------';
+    baseLabEl.textContent = 'L —  a —  b —';
+    return;
+  }
+  const hex = labToHex(lab.L, lab.a, lab.b);
+  baseSwatchEl.style.background = hex;
+  baseHexEl.textContent = hex;
+  baseLabEl.textContent = `L ${lab.L.toFixed(2)}  a ${lab.a.toFixed(2)}  b ${lab.b.toFixed(2)}`;
+}
+
+[fbL, fbA, fbB].forEach(el => el.addEventListener('input', updateBasePreview));
+
+formBase.addEventListener('submit', e => {
+  e.preventDefault();
+  const lab = readLab(formBase);
+  const note = fbNote.value.trim();
+  if (!lab || !note) { baseMsgEl.textContent = 'Fill L*a*b* and note.'; baseMsgEl.classList.add('err'); return; }
+  const hex = labToHex(lab.L, lab.a, lab.b);
+  const entry = {
+    hex,
+    lab,
+    note,
+    combinations: [{ hex, ratio: 1 }]
+  };
+  DATA.push(entry);
+  saveDataset(DATA);
+  formBase.reset();
+  updateBasePreview();
+  baseMsgEl.classList.remove('err');
+  baseMsgEl.textContent = `Saved ${hex}.`;
+  setTimeout(() => { baseMsgEl.textContent = ''; }, 2200);
+  refreshAll();
+});
+
+/* ================================================================
+   FORM: MIX SAMPLE
+   ================================================================ */
+
+const formMix = document.getElementById('form-mix');
+const fmL = formMix.L, fmA = formMix.a, fmB = formMix.b;
+const mixSwatchEl = document.getElementById('mix-preview-swatch');
+const mixHexEl = document.getElementById('mix-preview-hex');
+const mixLabEl = document.getElementById('mix-preview-lab');
+const mixPaletteEl = document.getElementById('mix-palette');
+const mixPillsEl = document.getElementById('mix-pills');
+const mixMsgEl = document.getElementById('form-mix-msg');
+
+let mixClicks = []; // array of base hex strings, in click order
+
+function updateMixPreview() {
+  const lab = readLab(formMix);
+  if (!lab) {
+    mixSwatchEl.style.background = '#222';
+    mixHexEl.textContent = '#------';
+    mixLabEl.textContent = 'measured';
+  } else {
+    const hex = labToHex(lab.L, lab.a, lab.b);
+    mixSwatchEl.style.background = hex;
+    mixHexEl.textContent = hex;
+    mixLabEl.textContent = `measured · L ${lab.L.toFixed(2)}  a ${lab.a.toFixed(2)}  b ${lab.b.toFixed(2)}`;
+  }
+}
+
+[fmL, fmA, fmB].forEach(el => el.addEventListener('input', updateMixPreview));
+
+function buildPartsFromClicks(clicks) {
+  // Aggregate clicks into ratios and pull rgb/lab from base colors
+  const counts = {};
+  for (const h of clicks) counts[h] = (counts[h] || 0) + 1;
+  const total = clicks.length;
+  const parts = [];
+  for (const hex in counts) {
+    const base = findBaseByHex(hex);
+    if (!base) return null;
+    parts.push({
+      hex,
+      lab: base.lab,
+      rgb: hexToRgb(hex),
+      ratio: counts[hex] / total
+    });
+  }
+  return parts;
+}
+
+function renderPalette() {
+  mixPaletteEl.innerHTML = '';
+  const bases = getBases();
+  if (bases.length === 0) {
+    mixPaletteEl.innerHTML = '<span class="empty">Add base filaments first.</span>';
+    return;
+  }
+  for (const b of bases) {
+    const btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'base';
+    btn.innerHTML = `<span class="swatch xs" style="background:${b.hex}"></span><span class="lbl">${b.hex}</span><span>${escapeHtml(b.note)}</span>`;
+    btn.onclick = () => {
+      mixClicks.push(b.hex);
+      renderPills();
+    };
+    mixPaletteEl.appendChild(btn);
+  }
+}
+
+function renderPills() {
+  mixPillsEl.innerHTML = '';
+  if (mixClicks.length === 0) {
+    mixPillsEl.innerHTML = '<span class="empty">Click a base filament above. Each click = one layer.</span>';
+    return;
+  }
+  mixClicks.forEach((hex, idx) => {
+    const base = findBaseByHex(hex);
+    const note = base ? base.note : '';
+    const pill = document.createElement('span');
+    pill.className = 'pill';
+    pill.innerHTML = `<span class="swatch xs" style="background:${hex}"></span><span class="lbl">${hex}</span><span>${escapeHtml(note)}</span><button type="button" class="x" title="Remove">×</button>`;
+    pill.querySelector('.x').onclick = () => {
+      mixClicks.splice(idx, 1);
+      renderPills();
+    };
+    mixPillsEl.appendChild(pill);
+  });
+}
+
+formMix.addEventListener('submit', e => {
+  e.preventDefault();
+  const lab = readLab(formMix);
+  if (!lab) { mixMsgEl.textContent = 'Fill L*a*b*.'; mixMsgEl.classList.add('err'); return; }
+  if (mixClicks.length < 2) { mixMsgEl.textContent = 'Recipe needs ≥2 layers.'; mixMsgEl.classList.add('err'); return; }
+  const distinct = new Set(mixClicks);
+  if (distinct.size < 2) { mixMsgEl.textContent = 'Recipe needs ≥2 different bases.'; mixMsgEl.classList.add('err'); return; }
+  const counts = {};
+  for (const h of mixClicks) counts[h] = (counts[h] || 0) + 1;
+  const total = mixClicks.length;
+  let combos = [];
+  for (const h in counts) {
+    const base = findBaseByHex(h);
+    combos.push({ hex: h, lab: base.lab, ratio: counts[h] / total });
+  }
+  combos = sortCombinations(combos);
+  const hex = labToHex(lab.L, lab.a, lab.b);
+  DATA.push({ hex, lab, combinations: combos });
+  saveDataset(DATA);
+  formMix.reset();
+  mixClicks = [];
+  updateMixPreview();
+  renderPills();
+  mixMsgEl.classList.remove('err');
+  mixMsgEl.textContent = `Saved mix ${hex}.`;
+  setTimeout(() => { mixMsgEl.textContent = ''; }, 2200);
+  refreshAll();
+});
+
+/* ================================================================
+   DATASET TABLE
+   ================================================================ */
+
+function escapeHtml(s) {
+  return String(s ?? '').replace(/[&<>"']/g, c => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+  }[c]));
+}
+
+function renderDataset() {
+  const tbody = document.getElementById('dataset-body');
+  tbody.innerHTML = '';
+  document.getElementById('dataset-hint').textContent =
+    DATA.length === 0 ? 'no entries' : `${DATA.length} total · ${getBases().length} bases · ${getMixes().length} mixes`;
+  if (DATA.length === 0) {
+    const tr = document.createElement('tr');
+    tr.innerHTML = `<td colspan="8" class="empty-state"><div class="big">Empty</div>Add base filaments to begin.</td>`;
+    tbody.appendChild(tr);
+    return;
+  }
+  // Sort: bases first, then mixes; both by hex
+  const sorted = [...DATA].sort((a, b) => {
+    const ab = isBase(a), bb = isBase(b);
+    if (ab && !bb) return -1;
+    if (!ab && bb) return 1;
+    return a.hex.localeCompare(b.hex);
+  });
+  for (let i = 0; i < sorted.length; i++) {
+    const e = sorted[i];
+    const dataIdx = DATA.indexOf(e);
+    const tr = document.createElement('tr');
+    if (isBase(e)) tr.classList.add('row-base');
+    const recipeHtml = isBase(e)
+      ? `<span class="badge-base">base</span>`
+      : e.combinations.map(c => {
+          const b = findBaseByHex(c.hex);
+          const lbl = b ? b.note : c.hex;
+          return `<span class="item"><span class="swatch xs" style="background:${c.hex}"></span><span>${escapeHtml(lbl)}</span><span class="ratio">${(c.ratio * 100).toFixed(0)}%</span></span>`;
+        }).join('');
+    tr.innerHTML = `
+      <td><span class="swatch sm" style="background:${e.hex}"></span></td>
+      <td class="mono">${e.hex}</td>
+      <td class="mono">${e.lab.L.toFixed(2)}</td>
+      <td class="mono">${e.lab.a.toFixed(2)}</td>
+      <td class="mono">${e.lab.b.toFixed(2)}</td>
+      <td><div class="recipe-cell">${recipeHtml}</div></td>
+      <td>${escapeHtml(e.note || '')}</td>
+      <td><button class="icon-btn" title="Delete" data-idx="${dataIdx}">✕</button></td>
+    `;
+    tr.querySelector('.icon-btn').onclick = () => {
+      showModal({
+        title: 'Delete entry?',
+        body: `${e.hex}${e.note ? ' — ' + e.note : ''}`,
+        actions: [
+          { label: 'Cancel' },
+          { label: 'Delete', danger: true, onClick: () => {
+            DATA.splice(dataIdx, 1);
+            saveDataset(DATA);
+            refreshAll();
+          }}
+        ]
+      });
+    };
+    tbody.appendChild(tr);
+  }
+}
+
+/* ================================================================
+   IMPORT / EXPORT
+   ================================================================ */
+
+document.getElementById('btn-export').addEventListener('click', () => {
+  if (DATA.length === 0) { alert('Nothing to export.'); return; }
+  const lines = DATA.map(e => JSON.stringify(e)).join('\n');
+  const blob = new Blob([lines], { type: 'application/jsonl' });
+  const a = document.createElement('a');
+  const ts = new Date().toISOString().replace(/[:.]/g, '-').slice(0, 19);
+  a.href = URL.createObjectURL(blob);
+  a.download = `colormix-dataset-${ts}.jsonl`;
+  a.click();
+  URL.revokeObjectURL(a.href);
+});
+
+document.getElementById('btn-import').addEventListener('click', () => {
+  document.getElementById('file-import').click();
+});
+
+document.getElementById('file-import').addEventListener('change', async e => {
+  const file = e.target.files[0];
+  if (!file) return;
+  const text = await file.text();
+  e.target.value = '';
+  let entries = [];
+  try {
+    if (text.trim().startsWith('[')) {
+      entries = JSON.parse(text);
+    } else {
+      entries = text.split('\n').map(l => l.trim()).filter(Boolean).map(l => JSON.parse(l));
+    }
+  } catch (err) {
+    alert('Could not parse file: ' + err.message);
+    return;
+  }
+  if (!Array.isArray(entries)) { alert('Imported file must be a list of entries.'); return; }
+  // Validate shape
+  for (const e of entries) {
+    if (!e.hex || !e.lab || !e.combinations) {
+      alert('Invalid entry shape (need hex, lab, combinations).');
+      return;
+    }
+  }
+  showModal({
+    title: 'Import dataset',
+    body: `${entries.length} entries in file. ${DATA.length} entries currently stored. Choose how to import.`,
+    actions: [
+      { label: 'Cancel' },
+      { label: 'Merge (dedup by hex)', onClick: () => {
+        const seen = new Set(DATA.map(e => e.hex));
+        let added = 0;
+        for (const e of entries) {
+          if (!seen.has(e.hex)) { DATA.push(e); seen.add(e.hex); added++; }
+        }
+        saveDataset(DATA);
+        refreshAll();
+        setTimeout(() => alert(`Merged ${added} new entries (skipped ${entries.length - added} duplicates).`), 50);
+      }},
+      { label: 'Replace all', primary: true, danger: true, onClick: () => {
+        DATA = entries;
+        saveDataset(DATA);
+        refreshAll();
+      }}
+    ]
+  });
+});
+
+/* ================================================================
+   GLUE
+   ================================================================ */
+
+function refreshAll() {
+  updateHeaderCount();
+  renderPalette();
+  renderDataset();
+}
+
+// initial render
+updateBasePreview();
+updateMixPreview();
+refreshAll();
+</script>
+</body>
+</html>

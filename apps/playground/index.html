@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Playground · prusa-fdm-mixer</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header>
+    <a class="back" href="../../">← back</a>
+    <h1>Playground <em>·</em> palette generator</h1>
+    <p class="subtitle">
+      Configure your extruders, pick which ones to mix, choose ratios — and
+      see every predicted shade you can print. Predictions from the v7 model;
+      see the <a href="../harness/">harness</a> for accuracy.
+    </p>
+  </header>
+
+  <main>
+    <!-- ============== EXTRUDERS ============== -->
+    <section class="card">
+      <div class="card-header">
+        <h2>Extruders</h2>
+        <div class="header-actions">
+          <button id="browse-library" class="btn-secondary">Browse library…</button>
+          <button id="add-extruder" class="btn-secondary">+ Custom hex</button>
+        </div>
+      </div>
+      <p class="hint">Check the boxes for the extruders you want in the palette. Browse the OpenPrintTag library to add real spools, or paste a custom hex.</p>
+      <div class="extruder-list" id="extruder-list"></div>
+    </section>
+
+    <!-- ============== RATIO SET ============== -->
+    <section class="card">
+      <h2>Ratios</h2>
+      <p class="hint">2-color ratios applied to every checked pair. 3-color triples always use 50:25:25 rotations.</p>
+      <div class="ratio-chips" id="ratio-chips"></div>
+
+      <div class="ratio-builder">
+        <label class="slider-label">
+          <span>Add custom ratio</span>
+          <span class="slider-readout" id="custom-readout">50% · 50%</span>
+        </label>
+        <div class="custom-row">
+          <input type="range" id="custom-slider" min="5" max="95" step="5" value="50" />
+          <button id="add-ratio" class="btn-secondary">+ Add</button>
+        </div>
+      </div>
+
+      <div class="ratio-toggles">
+        <label>
+          <input type="checkbox" id="show-3color" />
+          Include 3-color triples (50:25:25 rotations)
+        </label>
+      </div>
+    </section>
+
+    <!-- ============== PALETTE ============== -->
+    <section class="card">
+      <div class="card-header">
+        <h2>Palette <em id="palette-count"></em></h2>
+        <button id="copy-palette" class="btn-secondary">Copy hex codes</button>
+      </div>
+      <div id="palette" class="palette"></div>
+    </section>
+
+    <section class="card disclaimer">
+      <h3>About these predictions</h3>
+      <p>
+        The v7 model was fitted on 107 measured 2-color samples (Prusa XL,
+        PLA). Median error ΔE 5.7; ~45% under the JND threshold of ΔE 5.
+        3-color predictions extend the model linearly with limited
+        validation data — useful for ranking ideas, not for committing to
+        a 20-hour print.
+      </p>
+    </section>
+  </main>
+
+  <!-- ============== LIBRARY MODAL ============== -->
+  <div id="library-modal" class="modal-backdrop hidden" aria-hidden="true">
+    <div class="modal" role="dialog" aria-modal="true" aria-labelledby="library-title">
+      <div class="modal-header">
+        <h2 id="library-title">Filament library</h2>
+        <button id="library-close" class="modal-close" aria-label="Close">×</button>
+      </div>
+      <div class="modal-controls">
+        <input type="search" id="library-search" placeholder="Search brand, color, material…" />
+        <select id="library-material">
+          <option value="">All materials</option>
+        </select>
+        <select id="library-brand">
+          <option value="">All brands</option>
+        </select>
+      </div>
+      <div class="modal-body">
+        <div id="library-results" class="library-results"></div>
+      </div>
+      <div class="modal-footer">
+        <span id="library-meta" class="library-meta"></span>
+      </div>
+    </div>
+  </div>
+
+  <script type="module" src="./main.ts"></script>
+</body>
+</html>

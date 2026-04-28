@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Prusa FDM Mixer · color prediction for multi-color 3D printing</title>
+  <link rel="stylesheet" href="/apps/landing.css" />
+</head>
+<body>
+  <main class="container">
+    <header>
+      <h1>Prusa FDM Mixer <em>·</em> color prediction for multi-color 3D printing</h1>
+      <p class="subtitle">
+        A calibrated model that predicts what your interleaved filament
+        mix will actually look like on the print bed — within
+        <strong>ΔE 5.7 median</strong> on 107 measured Prusa XL samples.
+      </p>
+    </header>
+
+    <section class="apps">
+      <a class="app" href="/apps/playground/">
+        <h2>Playground</h2>
+        <p>Drag a slider, watch the predicted color update live. 2-color or 3-color triangle.</p>
+      </a>
+
+      <a class="app" href="/apps/harness/">
+        <h2>Harness</h2>
+        <p>Score the model against measured prints. Compare against linear RGB, Kubelka-Munk, and PolyMixer.</p>
+      </a>
+
+      <a class="app" href="/apps/gatherer/">
+        <h2>Gatherer</h2>
+        <p>Add your own measurements (LAB from a colorimeter or eyeball). Export JSONL.</p>
+      </a>
+    </section>
+
+    <section class="callout">
+      <h3>For slicer developers</h3>
+      <p>
+        The model is available as a TypeScript module
+        (<code>src/filament-mix.ts</code>) and as a drop-in C++17 implementation
+        (<code>cpp/filament_mix.{hpp,cpp}</code>). MIT licensed — vendor it.
+      </p>
+    </section>
+  </main>
+</body>
+</html>

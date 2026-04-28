@@ -1,0 +1,58 @@
+{
+  "name": "prusa-fdm-mixer",
+  "version": "1.0.0",
+  "description": "Color mixing model for FDM 3D printer multi-color prints, calibrated against measured filament data.",
+  "type": "module",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist",
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsc && vite build",
+    "dev": "vite",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit",
+    "sync:library": "tsx scripts/sync-library.ts"
+  },
+  "keywords": [
+    "3d-printing",
+    "fdm",
+    "color-mixing",
+    "filament",
+    "prusa",
+    "orcaslicer",
+    "prusaslicer",
+    "yule-nielsen",
+    "color-science"
+  ],
+  "author": "Ondrej Bartas (Prusa Research s.r.o.)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/<owner>/prusa-fdm-mixer.git"
+  },
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^20.12.0",
+    "@types/tar": "^6.1.13",
+    "js-yaml": "^4.1.0",
+    "tar": "^7.4.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.4.0",
+    "vite": "^5.2.0",
+    "vitest": "^1.4.0"
+  }
+}
