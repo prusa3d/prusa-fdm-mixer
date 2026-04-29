@@ -18,7 +18,7 @@ import {
 import { dirname, join, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-import { DEFAULT_V7_PARAMS, type V7Params } from '../../src/filament-mix.js';
+import { DEFAULT_V7_PARAMS, type V7Params } from '../../src/prusa-fdm-mixer.js';
 import { PARAM_KEYS } from './params.js';
 
 const __filename = fileURLToPath(import.meta.url);

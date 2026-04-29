@@ -1,18 +1,19 @@
 /*
- * filament_mix.hpp — Predicts the apparent color of FDM filament mixes.
+ * prusa_fdm_mixer.hpp — Predicts the apparent color of FDM filament mixes.
  *
- * v7 model, calibrated against measured prints. Produces predictions with a
- * median ΔE2000 of ~5.7 against real samples (Linear RGB ~14.5 for comparison).
+ * The prusa-fdm-mixer model, calibrated against measured prints. Produces
+ * predictions with a median ΔE2000 of ~5.7 against real samples
+ * (Linear RGB ~14.5 for comparison).
  *
  * Drop-in usage in PrusaSlicer / OrcaSlicer / any C++17 project:
  *
- *     #include "filament_mix.hpp"
+ *     #include "prusa_fdm_mixer.hpp"
  *
- *     std::vector<filament_mix::Part> parts = {
+ *     std::vector<prusa_fdm_mixer::Part> parts = {
  *         { "#007a9d", 0.75 },   // 75% azure blue
  *         { "#f6b921", 0.25 },   // 25% yellow
  *     };
- *     std::string mixed_hex = filament_mix::mix(parts);
+ *     std::string mixed_hex = prusa_fdm_mixer::mix(parts);
  *     // mixed_hex == "#XXXXXX" — predicted apparent color
  *
  * Properties:
@@ -22,18 +23,19 @@
  *
  * No external dependencies beyond the C++ standard library.
  *
+ * Copyright (c) Prusa Research s.r.o.
  * MIT License — see LICENSE.
  */
 
-#ifndef FILAMENT_MIX_HPP
-#define FILAMENT_MIX_HPP
+#ifndef PRUSA_FDM_MIXER_HPP
+#define PRUSA_FDM_MIXER_HPP
 
 #include <array>
 #include <cstdint>
 #include <string>
 #include <vector>
 
-namespace filament_mix {
+namespace prusa_fdm_mixer {
 
 /** A single filament component in a mix. */
 struct Part {
@@ -92,6 +94,6 @@ RGB lab_to_rgb(const LAB& lab);
 /** ΔE2000 perceptual color difference between two LAB colors. */
 double delta_e_2000(const LAB& lab1, const LAB& lab2);
 
-} // namespace filament_mix
+} // namespace prusa_fdm_mixer
 
-#endif // FILAMENT_MIX_HPP
+#endif // PRUSA_FDM_MIXER_HPP

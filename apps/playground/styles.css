@@ -63,6 +63,22 @@ h1 .tag {
   letter-spacing: 0.05em;
   vertical-align: 2px;
 }
+.vendor {
+  position: absolute;
+  top: 14px;
+  right: 28px;
+  display: inline-flex;
+  align-items: center;
+  opacity: 0.85;
+  transition: opacity 0.15s;
+}
+.vendor:hover { opacity: 1; }
+.vendor img {
+  height: 40px;
+  width: auto;
+  display: block;
+  filter: invert(1);
+}
 .subtitle {
   flex: 1 1 100%;
   color: var(--ink-faint);

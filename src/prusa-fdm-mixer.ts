@@ -1,5 +1,5 @@
 /**
- * Filament color mixing model — v7
+ * prusa-fdm-mixer — filament color mixing model (calibration v7)
  *
  * Predicts the visible color of a multi-filament FDM print where colors are
  * interleaved at the layer level, calibrated against measured prints.
@@ -63,7 +63,8 @@ export interface MixResult {
 // ---------------------------------------------------------------------------
 
 /**
- * All tunable constants of the v7 model. Bundled into a single object so the
+ * All tunable constants of the prusa-fdm-mixer model (current v7 calibration).
+ * Bundled into a single object so the
  * autotuner can sweep them without having to monkey-patch the module.
  *
  * Public consumers should not touch this — call `mixFilaments(parts)` which
@@ -94,7 +95,7 @@ export interface V7Params {
   PEAK_STRENGTH: number;
 }
 
-/** Shipped tuned constants (v7). */
+/** Shipped tuned constants (current calibration version: v7). */
 export const DEFAULT_V7_PARAMS: V7Params = {
   YN_N: 3.0,
   L_BASE_SLOPE: -0.0477,
@@ -114,7 +115,7 @@ export const DEFAULT_V7_PARAMS: V7Params = {
 // ---------------------------------------------------------------------------
 
 /**
- * Predict the color of a filament mix using the shipped v7 constants.
+ * Predict the color of a filament mix using the shipped prusa-fdm-mixer constants.
  *
  * @param parts Array of {hex, ratio}. Ratios should sum to 1.
  * @returns Predicted color as { hex, lab, rgb }.

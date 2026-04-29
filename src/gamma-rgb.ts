@@ -22,7 +22,7 @@ import {
   type LAB,
   type RGB,
 } from './color.js';
-import type { FilamentPart, MixResult } from './filament-mix.js';
+import type { FilamentPart, MixResult } from './prusa-fdm-mixer.js';
 
 export function mixGammaRgb(parts: FilamentPart[]): MixResult {
   if (parts.length === 0) throw new Error('mixGammaRgb: empty parts');

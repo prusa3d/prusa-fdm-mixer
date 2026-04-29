@@ -17,7 +17,7 @@ import {
   type LAB,
   type RGB,
 } from './color.js';
-import type { FilamentPart, MixResult } from './filament-mix.js';
+import type { FilamentPart, MixResult } from './prusa-fdm-mixer.js';
 
 export function mixLinearRgb(parts: FilamentPart[]): MixResult {
   if (parts.length === 0) throw new Error('mixLinearRgb: empty parts');

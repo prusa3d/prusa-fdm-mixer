@@ -20,7 +20,7 @@ import {
   type LAB,
   type RGB,
 } from './color.js';
-import type { FilamentPart, MixResult } from './filament-mix.js';
+import type { FilamentPart, MixResult } from './prusa-fdm-mixer.js';
 
 /**
  * Reflectance R → K/S (the "Kubelka-Munk function"). Higher means more

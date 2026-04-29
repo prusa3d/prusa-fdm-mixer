@@ -12,11 +12,17 @@
 <body>
   <header>
     <a class="back" href="../../">← back</a>
-    <h1>Playground <span class="tag">v7</span></h1>
+    <h1>Playground</h1>
+    <a class="vendor" href="https://www.prusa3d.com/" target="_blank" rel="noopener" title="Prusa Research s.r.o.">
+      <img src="/prusa-research.svg" alt="Prusa Research" />
+    </a>
     <p class="subtitle">
       Configure your extruders, pick which ones to mix, choose ratios — and
-      see every predicted shade you can print. Predictions from the v7 model;
-      see the <a href="../harness/">harness</a> for accuracy.
+      see every predicted shade you can print. Predictions from the
+      prusa-fdm-mixer model; see the <a href="../harness/">harness</a> for accuracy.
+      Filament data sourced from the
+      <a href="https://github.com/OpenPrintTag/openprinttag-database" target="_blank" rel="noopener">OpenPrintTag database</a>
+      and <a href="https://shop.thehueforge.com/pages/affiliates" target="_blank" rel="noopener">HueForge affiliate libraries</a>.
     </p>
   </header>
 
@@ -71,7 +77,7 @@
     <section class="card disclaimer">
       <h3>About these predictions</h3>
       <p>
-        The v7 model was fitted on 107 measured 2-color samples (Prusa XL,
+        The prusa-fdm-mixer model was fitted on 107 measured 2-color samples (Prusa XL,
         PLA). Median error ΔE 5.7; ~45% under the JND threshold of ΔE 5.
         3-color predictions extend the model linearly with limited
         validation data — useful for ranking ideas, not for committing to

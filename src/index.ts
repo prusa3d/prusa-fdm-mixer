@@ -3,7 +3,8 @@
  *
  * Predicts the visible color of multi-color FDM 3D prints, where filaments
  * are interleaved at the layer level. The default `mixFilaments` is the
- * v7 model calibrated against measured Prusa XL prints.
+ * prusa-fdm-mixer model (current calibration: v7) calibrated against
+ * measured Prusa XL prints.
  *
  * Comparison models (`mixLinearRgb`, `mixKubelkaMunk`, `mixFilamentMixer`)
  * are exported so consumers can A/B test against the same input format.
@@ -25,7 +26,7 @@ export {
   mixFilaments,
   type FilamentPart,
   type MixResult,
-} from './filament-mix.js';
+} from './prusa-fdm-mixer.js';
 
 export { mixLinearRgb } from './linear-rgb.js';
 export { mixGammaRgb } from './gamma-rgb.js';

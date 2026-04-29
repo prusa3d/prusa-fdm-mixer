@@ -1,13 +1,13 @@
-# filament_mix — C++ implementation
+# prusa-fdm-mixer — C++ implementation
 
 Predicts the apparent color of FDM filament mixes for use in slicer software.
 
-Calibrated against measured prints (median ΔE2000 ≈ 5.7 vs measured truth, compared to ~14.5 for naive linear-RGB mixing — the current default in BambuStudio and similar slicers).
+By **Prusa Research s.r.o.** Calibrated against measured prints (median ΔE2000 ≈ 5.7 vs measured truth, compared to ~14.5 for naive linear-RGB mixing — the current default in BambuStudio and similar slicers).
 
 ## Files
 
-- `filament_mix.hpp` — public API
-- `filament_mix.cpp` — implementation
+- `prusa_fdm_mixer.hpp` — public API
+- `prusa_fdm_mixer.cpp` — implementation
 
 ## Requirements
 
@@ -17,15 +17,15 @@ Calibrated against measured prints (median ΔE2000 ≈ 5.7 vs measured truth, co
 
 ## Integration into PrusaSlicer / OrcaSlicer
 
-1. Drop `filament_mix.hpp` and `filament_mix.cpp` into your source tree (e.g., `src/libslic3r/Color/`).
+1. Drop `prusa_fdm_mixer.hpp` and `prusa_fdm_mixer.cpp` into your source tree (e.g., `src/libslic3r/Color/`).
 
 2. Add the `.cpp` file to your CMakeLists.txt source list:
 
    ```cmake
    set(SLIC3R_SOURCES
        ...
-       Color/filament_mix.cpp
-       Color/filament_mix.hpp
+       Color/prusa_fdm_mixer.cpp
+       Color/prusa_fdm_mixer.hpp
        ...
    )
    ```
@@ -37,19 +37,19 @@ Calibrated against measured prints (median ΔE2000 ≈ 5.7 vs measured truth, co
    ColorRGB mixed = (1 - ratio) * color_a + ratio * color_b;
 
    // After:
-   #include "Color/filament_mix.hpp"
+   #include "Color/prusa_fdm_mixer.hpp"
 
-   std::vector<filament_mix::Part> parts = {
+   std::vector<prusa_fdm_mixer::Part> parts = {
        { color_a_hex, 1.0 - ratio },
        { color_b_hex, ratio },
    };
-   std::string mixed_hex = filament_mix::mix(parts);
+   std::string mixed_hex = prusa_fdm_mixer::mix(parts);
    ```
 
 ## API
 
 ```cpp
-namespace filament_mix {
+namespace prusa_fdm_mixer {
 
 struct Part { std::string hex; double ratio; };
 struct RGB { uint8_t r, g, b; };
@@ -81,10 +81,10 @@ The model is essentially a few `std::pow` calls plus a couple of color-space con
 
 ## Verification
 
-The accompanying `test_filament_mix.cpp` (in the development repo) verifies the implementation against reference predictions from the Python and TypeScript ports. Build with:
+The accompanying `test_prusa_fdm_mixer.cpp` (in the development repo) verifies the implementation against reference predictions from the Python and TypeScript ports. Build with:
 
 ```
-g++ -std=c++17 -O2 filament_mix.cpp test_filament_mix.cpp -o test
+g++ -std=c++17 -O2 prusa_fdm_mixer.cpp test_prusa_fdm_mixer.cpp -o test
 ./test
 ```
 
@@ -108,4 +108,4 @@ Coefficients were fit against 107 measured 2-color samples and 15 measured 3-col
 
 ## License
 
-MIT — free for any use, commercial or non-commercial. Attribution appreciated.
+Copyright (c) Prusa Research s.r.o. MIT — free for any use, commercial or non-commercial. Attribution appreciated.

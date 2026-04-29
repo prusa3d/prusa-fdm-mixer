@@ -34,6 +34,23 @@ header {
   border-bottom: 1px solid var(--line);
   padding-bottom: 24px;
   margin-bottom: 32px;
+  position: relative;
+}
+header .vendor {
+  position: absolute;
+  top: 0;
+  right: 0;
+  display: inline-flex;
+  align-items: center;
+  opacity: 0.85;
+  transition: opacity 0.15s;
+}
+header .vendor:hover { opacity: 1; }
+header .vendor img {
+  height: 44px;
+  width: auto;
+  display: block;
+  filter: invert(1);
 }
 h1 {
   font-family: 'IBM Plex Serif', serif;

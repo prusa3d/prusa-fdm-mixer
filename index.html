@@ -12,7 +12,10 @@
 <body>
   <main class="container">
     <header>
-      <h1>Prusa FDM Mixer <span class="tag">v7</span></h1>
+      <a class="vendor" href="https://www.prusa3d.com/" target="_blank" rel="noopener" title="Prusa Research s.r.o.">
+        <img src="/prusa-research.svg" alt="Prusa Research" />
+      </a>
+      <h1>Prusa FDM Mixer</h1>
       <p class="subtitle">
         A calibrated model that predicts what your interleaved filament
         mix will actually look like on the print bed — within
@@ -28,7 +31,7 @@
 
       <a class="app" href="/apps/harness/">
         <h2>Harness</h2>
-        <p>Score the model against measured prints. Compare v7 against legacy BambuStudio (linear sRGB), filament-mixer (current BS / FullSpectrum), and Kubelka-Munk.</p>
+        <p>Score the model against measured prints. Compare prusa-fdm-mixer against legacy BambuStudio (linear sRGB), filament-mixer (current BS / FullSpectrum), and Kubelka-Munk. Toggle between training set, held-out set, or all.</p>
       </a>
 
       <a class="app" href="/apps/gatherer/">
@@ -41,8 +44,8 @@
       <h3>For slicer developers</h3>
       <p>
         The model is available as a TypeScript module
-        (<code>src/filament-mix.ts</code>) and as a drop-in C++17 implementation
-        (<code>cpp/filament_mix.{hpp,cpp}</code>). MIT licensed — vendor it.
+        (<code>src/prusa-fdm-mixer.ts</code>) and as a drop-in C++17 implementation
+        (<code>cpp/prusa_fdm_mixer.{hpp,cpp}</code>). MIT licensed — vendor it.
       </p>
     </section>
   </main>

@@ -3,7 +3,7 @@
  * working with `V7Params` as a numeric vector inside the optimizer.
  */
 
-import { DEFAULT_V7_PARAMS, type V7Params } from '../../src/filament-mix.js';
+import { DEFAULT_V7_PARAMS, type V7Params } from '../../src/prusa-fdm-mixer.js';
 
 export type ParamKey = keyof V7Params;
 

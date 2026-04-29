@@ -1,5 +1,5 @@
 /**
- * Harness app — score the v7 model against measured prints.
+ * Harness app — score the prusa-fdm-mixer model against measured prints.
  *
  * Loads `data/fitting-set.jsonl` (vendored at build time), runs each candidate
  * model on every 2-color and 3-color sample, and renders:
@@ -66,17 +66,18 @@ interface Score {
 }
 
 // ---- Models ---------------------------------------------------------------
-// Order: v7 (this work), filament-mixer (current BS / FullSpectrum),
-// BambuStudio (legacy), Kubelka-Munk. "BambuStudio (legacy)" is the naive
-// 0–255 sRGB ratio average — verified verbatim in commit a6ea01991
-// (`blend_colors` in MixedFilamentDialog). Since that's the same as a
-// generic textbook "linear sRGB" baseline, no separate entry for the latter.
+// Order: prusa-fdm-mixer (this work), filament-mixer (current BS /
+// FullSpectrum), BambuStudio (legacy), Kubelka-Munk. "BambuStudio (legacy)"
+// is the naive 0–255 sRGB ratio average — verified verbatim in commit
+// a6ea01991 (`blend_colors` in MixedFilamentDialog). Since that's the same
+// as a generic textbook "linear sRGB" baseline, no separate entry for the
+// latter.
 const MODELS: ModelDef[] = [
   {
-    id: 'v7',
-    name: 'v7 (this work)',
-    shortName: 'v7',
-    desc: 'Yule-Nielsen + lightness + chroma + cyan-band hue',
+    id: 'prusa-fdm-mixer',
+    name: 'prusa-fdm-mixer (this work)',
+    shortName: 'PFM',
+    desc: 'Yule-Nielsen + lightness + chroma + cyan-band hue. Calibrated and shipped by Prusa Research s.r.o.',
     fn: mixFilaments,
   },
   {
@@ -369,8 +370,8 @@ function renderModelHistograms(
 
 // Per-recipe breakdown — one row per (pair/triple, ratio). For each recipe we
 // show the measured swatch and every model's predicted swatch + ΔE so you can
-// eyeball the actual color error, not just the number. Sorted by v7 ΔE
-// (descending) so v7's worst recipes float to the top.
+// eyeball the actual color error, not just the number. Sorted by
+// prusa-fdm-mixer ΔE (descending) so its worst recipes float to the top.
 // Filament notes in the data file are formatted as "<batch> - <name>", e.g.
 // "3 - Prusament PLA Army Green". The batch number is meaningful provenance
 // (which print run produced the swatch), but it doesn't belong inline with
@@ -557,7 +558,7 @@ function renderRecipeTable(
       ) as Record<string, Score>,
     };
   });
-  rows.sort((a, b) => b.perModel['v7']!.dE - a.perModel['v7']!.dE);
+  rows.sort((a, b) => b.perModel['prusa-fdm-mixer']!.dE - a.perModel['prusa-fdm-mixer']!.dE);
 
   // Two header rows: top groups the swatches and the deltas; bottom names each
   // model under its own swatch + delta column. The first three columns
@@ -629,7 +630,7 @@ function renderRecipeTable(
 
   return `
     <div class="card">
-      <h2>Per-recipe breakdown <em>· sorted by v7 ΔE, worst first</em></h2>
+      <h2>Per-recipe breakdown <em>· sorted by prusa-fdm-mixer ΔE, worst first</em></h2>
       <p class="meta" style="margin-bottom:10px;">
         Components and measured/predicted swatches form a continuous strip on
         the left; ΔE2000 per model on the right.

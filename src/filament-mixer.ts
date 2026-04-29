@@ -20,7 +20,7 @@
  */
 
 import { hexToRgb, rgbToHex, hexToLab, type LAB, type RGB } from './color.js';
-import type { FilamentPart, MixResult } from './filament-mix.js';
+import type { FilamentPart, MixResult } from './prusa-fdm-mixer.js';
 import { POWERS, COEF, INTERCEPT, N_FEATURES, N_INPUTS } from './filament-mixer-coefficients.js';
 
 function computePolyFeatures(x: number[]): Float64Array {

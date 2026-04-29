@@ -21,7 +21,7 @@ import {
   mixFilamentsWithParams,
   type V7Params,
   type FilamentPart,
-} from '../../src/filament-mix.js';
+} from '../../src/prusa-fdm-mixer.js';
 import { deltaE2000 } from '../../src/delta-e.js';
 import type { LAB } from '../../src/color.js';
 

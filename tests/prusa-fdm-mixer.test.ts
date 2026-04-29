@@ -64,7 +64,7 @@ describe('mixFilaments — pure components', () => {
 });
 
 describe('mixFilaments — known reference predictions', () => {
-  // Reference outputs captured from the calibrated v7 model. These are
+  // Reference outputs captured from the calibrated prusa-fdm-mixer model. These are
   // pinned to catch regressions in the model itself, not to compare against
   // measured colors (use the harness app for that).
   const cases: Array<{ name: string; parts: Array<[string, number]>; expected: string }> = [

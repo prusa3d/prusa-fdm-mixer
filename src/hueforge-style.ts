@@ -28,12 +28,12 @@ import {
   type LAB,
   type RGB,
 } from './color.js';
-import type { MixResult } from './filament-mix.js';
+import type { MixResult } from './prusa-fdm-mixer.js';
 
 /**
  * Recipe part with optional transmission distance. Local to this comparison
  * model — not added to the public `FilamentPart` because TD is irrelevant to
- * the v7 ship model. Structurally a superset of `FilamentPart`, so a plain
+ * the prusa-fdm-mixer ship model. Structurally a superset of `FilamentPart`, so a plain
  * `FilamentPart[]` is also a valid input (TD defaults to 1).
  */
 export interface HueforgeStylePart {

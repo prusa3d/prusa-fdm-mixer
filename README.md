@@ -43,7 +43,7 @@ Requires **Node 20+** (matches the version pinned in
 [`.github/workflows/deploy.yml`](./.github/workflows/deploy.yml)).
 
 ```sh
-git clone https://github.com/<owner>/prusa-fdm-mixer.git
+git clone https://github.com/prusa3d/prusa-fdm-mixer.git
 cd prusa-fdm-mixer
 npm install
 npm run dev      # vite dev server with hot reload
@@ -59,7 +59,7 @@ For the drop-in C++17 implementation and its build instructions, see
 | App | What it does |
 |-----|--------------|
 | [Playground](./apps/playground/) | Interactive palette generator: pick extruders, set ratios, see predicted colors sorted by hue |
-| [Harness](./apps/harness/) | Score the v7 model against measured prints; compare against linear RGB, Kubelka-Munk, PolyMixer |
+| [Harness](./apps/harness/) | Score the prusa-fdm-mixer model against measured prints; compare against linear RGB, Kubelka-Munk, PolyMixer. Toggle between the training set, the held-out set, or all measurements |
 | [Gatherer](./apps/gatherer/) | Standalone tool to enter your own LAB measurements and export JSONL |
 
 The static GitHub Pages build serves all three under one URL.
@@ -109,20 +109,20 @@ A drop-in C++17 implementation lives in [`cpp/`](./cpp). Single header +
 single source file, no external dependencies:
 
 ```cpp
-#include "filament_mix.hpp"
+#include "prusa_fdm_mixer.hpp"
 
-const std::vector<filament_mix::Part> parts = {
+const std::vector<prusa_fdm_mixer::Part> parts = {
     {"#009bc3", 0.5},
     {"#f6b921", 0.5},
 };
-const auto result = filament_mix::mix(parts);
+const auto result = prusa_fdm_mixer::mix(parts);
 // result.hex, result.lab, result.rgb
 ```
 
 See [`cpp/README.md`](./cpp/README.md) for vendoring instructions and the
 33-test suite.
 
-## How the v7 model works
+## How the prusa-fdm-mixer model works
 
 1. **Yule-Nielsen base** — gamma-decode each filament to linear-light RGB,
    raise to `1/n` (n = 3.0), ratio-average, raise back to `n`. Standard
@@ -149,12 +149,12 @@ Median ΔE2000 on the cleaned dataset (lower is better):
 
 | Model | 2-color median | <5 hits | 3-color median |
 |-------|---------------:|--------:|---------------:|
-| **v7 (this work)** | **5.7** | **48 / 107** | **9.3** |
+| **prusa-fdm-mixer (this work)** | **5.7** | **48 / 107** | **9.3** |
 | Kubelka-Munk | 7.9 | 30 / 107 | 17.3 |
 | PolyMixer (FilamentMixer port) | 9.0 | 22 / 107 | 13.7 |
 | Linear sRGB (BambuStudio default) | 14.5 | 6 / 107 | 15.9 |
 
-v7 is the only model where 3-color performance doesn't collapse vs 2-color.
+prusa-fdm-mixer is the only model where 3-color performance doesn't collapse vs 2-color.
 Linear sRGB is on the table here because it's what slicers actually use
 today, not because it's a serious physics candidate.
 
@@ -163,7 +163,7 @@ today, not because it's a serious physics candidate.
 ```
 prusa-fdm-mixer/
 ├── src/                    TypeScript model + comparison models
-├── data/                   Fitting set + planned holdout
+├── data/                   Fitting set + held-out validation set
 ├── apps/                   Three browser apps (playground, harness, gatherer)
 ├── cpp/                    Drop-in C++17 implementation + tests
 ├── tests/                  Vitest unit tests
@@ -172,9 +172,11 @@ prusa-fdm-mixer/
 
 ## Caveats
 
-- The fitting set is in-sample. A separate held-out batch of ~60 measurements
-  is being printed; once collected it will live in `data/holdout-set.jsonl`
-  and the harness will report fitting/holdout split.
+- A separate 72-mix batch (10 base + 59 two-color + 13 three-color) lives in
+  [`data/holdout-set.jsonl`](./data/holdout-set.jsonl) and was never seen
+  during calibration. The harness has a top-of-page toggle to switch between
+  the training set, the held-out set, or all measurements — out-of-sample
+  ΔE on holdout is the honest performance number.
 - Calibrated against Prusament PLA. Other brands and materials may differ.
 - 3-color predictions are extrapolated from 2-color fits with only 15
   validation samples. Treat as directional, not precise.

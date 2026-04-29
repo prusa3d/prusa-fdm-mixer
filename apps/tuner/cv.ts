@@ -20,7 +20,7 @@
 import { computeLoss, type MixSample, type DatasetEntry, type LossOptions } from './loss.js';
 import { lossScalar } from './loss.js';
 import { unpackParams } from './params.js';
-import { type V7Params, mixFilamentsWithParams } from '../../src/filament-mix.js';
+import { type V7Params, mixFilamentsWithParams } from '../../src/prusa-fdm-mixer.js';
 import { deltaE2000 } from '../../src/delta-e.js';
 
 // ---------------------------------------------------------------------------

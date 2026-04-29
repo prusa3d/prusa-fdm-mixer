@@ -14,7 +14,7 @@ by [`scripts/sync-hueforge.ts`](../scripts/sync-hueforge.ts). Same shape as the 
 
 ### `fitting-set.jsonl` (146 entries)
 
-The cleaned fitting set used to calibrate the v7 model.
+The cleaned fitting set used to calibrate the prusa-fdm-mixer model.
 
 - 24 base filaments (single-component entries)
 - 107 two-color samples
@@ -39,7 +39,7 @@ Base filaments self-reference in `combinations` with ratio 1.
 ### `holdout-set.jsonl` (82 entries)
 
 Independent held-out set, batch 5. None of these samples were used to
-calibrate v7 — the model's error against this file is genuine out-of-sample
+calibrate prusa-fdm-mixer — the model's error against this file is genuine out-of-sample
 performance.
 
 - 10 base filaments (single-component entries)

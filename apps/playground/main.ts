@@ -2,7 +2,7 @@
  * Playground · palette generator.
  *
  * Configure extruders, check which to include, manage a set of 2-color
- * ratios (preset + custom), and the v7 model predicts every resulting
+ * ratios (preset + custom), and the prusa-fdm-mixer model predicts every resulting
  * shade. Optional 3-color triples are shown at 50:25:25 rotations.
  *
  * Cells are sorted by predicted hue angle so the palette reads as a

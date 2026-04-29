@@ -40,7 +40,7 @@ import {
   type PersistedParams,
 } from '../apps/tuner/persist.js';
 import { mixFilaments, hexToLab } from '../src/index.js';
-import { DEFAULT_V7_PARAMS, mixFilamentsWithParams } from '../src/filament-mix.js';
+import { DEFAULT_V7_PARAMS, mixFilamentsWithParams } from '../src/prusa-fdm-mixer.js';
 
 // ---------------------------------------------------------------------------
 // Loss determinism + parity with default params

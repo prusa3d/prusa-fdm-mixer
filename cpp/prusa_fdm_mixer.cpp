@@ -1,17 +1,18 @@
 /*
- * filament_mix.cpp — Implementation of v7 filament color mixing model.
+ * prusa_fdm_mixer.cpp — Implementation of the prusa-fdm-mixer color mixing model.
  *
+ * Copyright (c) Prusa Research s.r.o.
  * MIT License — see LICENSE.
  */
 
-#include "filament_mix.hpp"
+#include "prusa_fdm_mixer.hpp"
 
 #include <algorithm>
 #include <cmath>
 #include <cstdio>
 #include <stdexcept>
 
-namespace filament_mix {
+namespace prusa_fdm_mixer {
 
 namespace {
 
@@ -106,7 +107,7 @@ RGB hex_to_rgb(const std::string& hex) {
     std::string s = hex;
     if (!s.empty() && s[0] == '#') s.erase(0, 1);
     if (s.size() != 6) {
-        throw std::invalid_argument("filament_mix::hex_to_rgb: expected 6 hex digits, got: " + hex);
+        throw std::invalid_argument("prusa_fdm_mixer::hex_to_rgb: expected 6 hex digits, got: " + hex);
     }
     auto parse_byte = [&](size_t off) -> std::uint8_t {
         unsigned int v = 0;
@@ -116,7 +117,7 @@ RGB hex_to_rgb(const std::string& hex) {
             if (c >= '0' && c <= '9') d = static_cast<unsigned int>(c - '0');
             else if (c >= 'a' && c <= 'f') d = 10u + static_cast<unsigned int>(c - 'a');
             else if (c >= 'A' && c <= 'F') d = 10u + static_cast<unsigned int>(c - 'A');
-            else throw std::invalid_argument("filament_mix::hex_to_rgb: invalid hex char in: " + hex);
+            else throw std::invalid_argument("prusa_fdm_mixer::hex_to_rgb: invalid hex char in: " + hex);
             v = (v << 4) | d;
         }
         return static_cast<std::uint8_t>(v);
@@ -142,7 +143,7 @@ RGB lab_to_rgb(const LAB& lab) {
 }
 
 /* ============================================================================
- * v7 mix model
+ * prusa-fdm-mixer model
  * ============================================================================ */
 
 namespace {
@@ -160,9 +161,9 @@ constexpr double HUE_PEAK_DEG         = 10.38;
 constexpr double HUE_CENTER_DEG       = 210.0;
 constexpr double HUE_HALF_WIDTH_DEG   = 30.0;
 
-LAB predict_v7(const std::vector<Part>& parts) {
+LAB predict_lab(const std::vector<Part>& parts) {
     if (parts.empty()) {
-        throw std::invalid_argument("filament_mix::mix: empty parts list");
+        throw std::invalid_argument("prusa_fdm_mixer::mix: empty parts list");
     }
 
     // ---- Gradient safety: if any single part has ratio >= ~1, return it directly. ----
@@ -268,7 +269,7 @@ LAB predict_v7(const std::vector<Part>& parts) {
 } // anonymous namespace
 
 RGB mix_rgb(const std::vector<Part>& parts) {
-    return lab_to_rgb(predict_v7(parts));
+    return lab_to_rgb(predict_lab(parts));
 }
 
 std::string mix(const std::vector<Part>& parts) {
@@ -347,4 +348,4 @@ double delta_e_2000(const LAB& lab1, const LAB& lab2) {
     );
 }
 
-} // namespace filament_mix
+} // namespace prusa_fdm_mixer

@@ -36,7 +36,7 @@ import { join } from 'node:path';
 import {
   DEFAULT_V7_PARAMS,
   type V7Params,
-} from '../../src/filament-mix.js';
+} from '../../src/prusa-fdm-mixer.js';
 import {
   computeLoss,
   loadFittingSet,

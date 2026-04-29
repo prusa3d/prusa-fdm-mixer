@@ -67,6 +67,25 @@ header h1 .tag {
   letter-spacing: 0.05em;
   vertical-align: 2px;
 }
+/* Pulled out of flex flow — keeps the back link / h1 / subtitle row from
+   fighting with the logo for horizontal space. The sticky header is itself
+   a positioning context for the absolute child. */
+header .vendor {
+  position: absolute;
+  top: 14px;
+  right: 28px;
+  display: inline-flex;
+  align-items: center;
+  opacity: 0.85;
+  transition: opacity 0.15s;
+}
+header .vendor:hover { opacity: 1; }
+header .vendor img {
+  height: 40px;
+  width: auto;
+  display: block;
+  filter: invert(1);
+}
 header .subtitle {
   flex: 1 1 100%;
   color: var(--ink-faint);
