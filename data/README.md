@@ -36,11 +36,19 @@ Each line is a JSON object:
 
 Base filaments self-reference in `combinations` with ratio 1.
 
-### `holdout-set.jsonl` (placeholder)
+### `holdout-set.jsonl` (82 entries)
 
-Reserved for an independent held-out set. Until populated, the model's
-reported error is in-sample. After +60 measurements arrive, this will hold
-the unseen samples and the harness will report fitting/holdout split.
+Independent held-out set, batch 5. None of these samples were used to
+calibrate v7 — the model's error against this file is genuine out-of-sample
+performance.
+
+- 10 base filaments (single-component entries)
+- 59 two-color samples
+- 13 three-color samples
+
+Same line schema as `fitting-set.jsonl`. The harness loads both files and
+exposes an "All / Training / Holdout" toggle at the top to switch the active
+view between them.
 
 ### `flagged.jsonl` (planned)
 

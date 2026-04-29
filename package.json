@@ -27,7 +27,12 @@
     "typecheck": "tsc --noEmit",
     "sync": "npm run sync:openprinttag && npm run sync:hueforge",
     "sync:openprinttag": "tsx scripts/sync-openprinttag.ts",
-    "sync:hueforge": "tsx scripts/sync-hueforge.ts"
+    "sync:hueforge": "tsx scripts/sync-hueforge.ts",
+    "tune": "tsx apps/tuner/main.ts",
+    "tune:score": "tsx apps/tuner/main.ts --mode=score",
+    "tune:report": "tsx apps/tuner/main.ts --mode=report",
+    "tune:lofo": "tsx apps/tuner/main.ts --mode=lofo",
+    "tune:sensitivity": "tsx apps/tuner/main.ts --mode=sensitivity"
   },
   "keywords": [
     "3d-printing",

@@ -16,5 +16,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["src/**/*", "apps/**/*", "tests/**/*"]
+  "include": ["src/**/*", "apps/**/*", "tests/**/*"],
+  "exclude": ["apps/tuner/output/**"]
 }

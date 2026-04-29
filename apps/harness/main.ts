@@ -24,16 +24,20 @@ import {
   type MixResult,
 } from '@/index.js';
 
-// Vite-friendly raw import. The data file lives in /data and gets bundled.
-import datasetText from '../../data/fitting-set.jsonl?raw';
+// Vite-friendly raw imports. Both data files live in /data and get bundled.
+import fittingText from '../../data/fitting-set.jsonl?raw';
+import holdoutText from '../../data/holdout-set.jsonl?raw';
 import hueforgeText from '../../data/filament-library-hueforge.json?raw';
 
 // ---- Types ----------------------------------------------------------------
+type SourceTag = 'fitting' | 'holdout';
+
 interface DatasetEntry {
   hex: string;
   lab: LAB;
   note?: string;
   combinations: Array<{ hex: string; ratio: number; lab?: LAB }>;
+  source: SourceTag;
 }
 
 type ModelFn = (parts: FilamentPart[]) => MixResult;
@@ -58,6 +62,7 @@ interface Score {
   pairKey: string;
   ratioStr: string;
   nParts: number;
+  source: SourceTag;
 }
 
 // ---- Models ---------------------------------------------------------------
@@ -105,17 +110,23 @@ const MODELS: ModelDef[] = [
 ];
 
 // ---- Data ------------------------------------------------------------------
-function parseDataset(text: string): DatasetEntry[] {
+function parseDataset(text: string, source: SourceTag): DatasetEntry[] {
   const lines = text.trim().split(/\r?\n/);
   const out: DatasetEntry[] = [];
   for (const line of lines) {
     if (!line.trim()) continue;
-    out.push(JSON.parse(line) as DatasetEntry);
+    const raw = JSON.parse(line) as Omit<DatasetEntry, 'source'>;
+    out.push({ ...raw, source });
   }
   return out;
 }
 
-const ENTRIES = parseDataset(datasetText);
+// Load fitting (training) and holdout sets together so the harness can
+// score both, with a top-of-page toggle to filter the active view.
+const ENTRIES = [
+  ...parseDataset(fittingText, 'fitting'),
+  ...parseDataset(holdoutText, 'holdout'),
+];
 const BASES = new Map<string, DatasetEntry>();
 const MIXES: DatasetEntry[] = [];
 for (const e of ENTRIES) {
@@ -123,8 +134,14 @@ for (const e of ENTRIES) {
     e.combinations.length === 1 &&
     e.combinations[0]!.hex === e.hex &&
     e.combinations[0]!.ratio === 1;
-  if (isBase) BASES.set(e.hex, e);
-  else MIXES.push(e);
+  // If a hex appears in both files (different LAB readings of the same product
+  // across batches), keep the first occurrence — fitting wins because we
+  // listed it first. Today's data has no collisions; this is just a safety net.
+  if (isBase) {
+    if (!BASES.has(e.hex)) BASES.set(e.hex, e);
+  } else {
+    MIXES.push(e);
+  }
 }
 
 function baseName(hex: string): string {
@@ -186,6 +203,7 @@ function scoreModel(model: ModelDef, mixes: DatasetEntry[]): Score[] {
         .join('|'),
       ratioStr: sorted.map((c) => Math.round(c.ratio * 100)).join(':'),
       nParts: m.combinations.length,
+      source: m.source,
     };
   });
 }
@@ -238,6 +256,14 @@ function escape(s: string): string {
     .replace(/</g, '&lt;')
     .replace(/>/g, '&gt;')
     .replace(/"/g, '&quot;');
+}
+
+// Tiny T/H pill rendered next to each recipe so set membership is visible
+// even when the toggle is set to "All". Matches the .set-badge styles.
+function renderSetBadge(source: SourceTag): string {
+  const letter = source === 'fitting' ? 'T' : 'H';
+  const title = source === 'fitting' ? 'Training set' : 'Holdout set';
+  return `<span class="set-badge set-badge-${letter}" title="${title}">${letter}</span>`;
 }
 
 function renderSummary(scoresByModel: Record<string, Score[]>): string {
@@ -525,6 +551,7 @@ function renderRecipeTable(
         .join(' + '),
       ratioStr: components.map((c) => c.pct).join(':'),
       nParts: m.combinations.length,
+      source: m.source,
       perModel: Object.fromEntries(
         MODELS.map((mod) => [mod.id, scoresByModel[mod.id]![idx]!]),
       ) as Record<string, Score>,
@@ -593,7 +620,7 @@ function renderRecipeTable(
             <span class="lab-mono" title="L* a* b*">${fmtLab(r.measuredLab)}</span>
           </div>
         </td>
-        <td class="recipe-cell">${escape(r.label)}</td>
+        <td class="recipe-cell">${renderSetBadge(r.source)}${escape(r.label)}</td>
         <td class="batch-cell">${escape(r.batchLabel)}</td>
       </tr>
     `;
@@ -643,27 +670,87 @@ const threeColor = MIXES.filter((m) => m.combinations.length === 3);
 // `scoresByModel[id][i]` for `allMixes[i]` without a key/lookup dance.
 const allMixes = [...twoColor, ...threeColor];
 
+// Score every mix once on the full set; toggle filtering happens at render
+// time on the resulting Score arrays (each Score carries its source tag).
+// 5 models × ~228 mixes is trivial — no need to re-score on toggle.
 const scoresByModel: Record<string, Score[]> = {};
 for (const m of MODELS) {
   scoresByModel[m.id] = scoreModel(m, allMixes);
 }
 
-// Per-kind y-axis scale: every 2-color histogram shares one ceiling, every
-// 3-color histogram shares its own. Cross-model comparison stays valid within
-// each kind, but the sparse 3-color set (n=15) doesn't get crushed by the
-// dense 2-color one (n=107).
-let yMaxTwo = 1;
-let yMaxThree = 1;
-for (const m of MODELS) {
-  const all = scoresByModel[m.id]!;
-  yMaxTwo = Math.max(yMaxTwo, ...bucketize(all.filter((s) => s.nParts === 2)));
-  yMaxThree = Math.max(yMaxThree, ...bucketize(all.filter((s) => s.nParts === 3)));
+// Counts for the toggle pills — reflect the underlying data, not the
+// currently-active filter, so the user sees what each option will yield.
+const countAll = allMixes.length;
+const countFitting = allMixes.filter((m) => m.source === 'fitting').length;
+const countHoldout = allMixes.filter((m) => m.source === 'holdout').length;
+
+type ActiveSet = 'all' | 'fitting' | 'holdout';
+let activeSet: ActiveSet = 'all';
+
+function filterByActive<T extends { source: SourceTag }>(items: T[]): T[] {
+  if (activeSet === 'all') return items;
+  return items.filter((it) => it.source === activeSet);
 }
 
-app.innerHTML = `
-  <p class="meta">${twoColor.length} two-color samples · ${threeColor.length} three-color samples · ${BASES.size} base filaments</p>
-  ${renderSummary(scoresByModel)}
-  ${renderModelHistograms(scoresByModel, { two: yMaxTwo, three: yMaxThree })}
-  ${renderRecipeTable(allMixes, scoresByModel)}
-  ${renderBasesTable()}
-`;
+function renderToggle(): string {
+  const opt = (set: ActiveSet, label: string, count: number) =>
+    `<button data-set="${set}" class="${activeSet === set ? 'active' : ''}">${label} <em>· ${count}</em></button>`;
+  return `
+    <div class="set-toggle" role="tablist" aria-label="Active dataset">
+      ${opt('all', 'All measurements', countAll)}
+      ${opt('fitting', 'Training set', countFitting)}
+      ${opt('holdout', 'Holdout set', countHoldout)}
+    </div>
+  `;
+}
+
+function activeMetaLine(activeMixes: DatasetEntry[]): string {
+  const two = activeMixes.filter((m) => m.combinations.length === 2).length;
+  const three = activeMixes.filter((m) => m.combinations.length === 3).length;
+  const setName =
+    activeSet === 'all' ? 'All measurements' :
+    activeSet === 'fitting' ? 'Training set' : 'Holdout set';
+  return `${setName} · ${two} two-color · ${three} three-color · ${BASES.size} base filaments (across all batches)`;
+}
+
+function render(): void {
+  const activeMixes = filterByActive(allMixes);
+  const activeScores: Record<string, Score[]> = {};
+  for (const m of MODELS) {
+    activeScores[m.id] = filterByActive(scoresByModel[m.id]!);
+  }
+
+  // Recompute per-kind y-axis ceilings against the active slice so a small
+  // holdout subset isn't crushed by an all-set y-max.
+  let yMaxTwo = 1;
+  let yMaxThree = 1;
+  for (const m of MODELS) {
+    const all = activeScores[m.id]!;
+    yMaxTwo = Math.max(yMaxTwo, ...bucketize(all.filter((s) => s.nParts === 2)));
+    yMaxThree = Math.max(yMaxThree, ...bucketize(all.filter((s) => s.nParts === 3)));
+  }
+
+  app!.innerHTML = `
+    ${renderToggle()}
+    <p class="meta">${activeMetaLine(activeMixes)}</p>
+    ${renderSummary(activeScores)}
+    ${renderModelHistograms(activeScores, { two: yMaxTwo, three: yMaxThree })}
+    ${renderRecipeTable(activeMixes, activeScores)}
+    ${renderBasesTable()}
+  `;
+}
+
+// Click delegation: any toggle button updates activeSet and re-renders.
+// Re-attached once here because the toggle markup is rebuilt on every
+// render — bubbling from #app catches the new buttons too.
+app.addEventListener('click', (e) => {
+  const target = e.target as HTMLElement | null;
+  const btn = target?.closest('.set-toggle button[data-set]') as HTMLButtonElement | null;
+  if (!btn) return;
+  const set = btn.dataset['set'] as ActiveSet | undefined;
+  if (!set || set === activeSet) return;
+  activeSet = set;
+  render();
+});
+
+render();

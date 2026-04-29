@@ -20,6 +20,10 @@
  * The corrections were fitted on 107 cleaned 2-color samples printed on
  * Prusa XL filaments. See data/fitting-set.jsonl.
  *
+ * All constants live in `V7Params`; `DEFAULT_V7_PARAMS` carries the shipped
+ * tuned values. `mixFilamentsWithParams` is exported for the autotuner
+ * (apps/tuner) — public consumers should keep using `mixFilaments`.
+ *
  * Inference: O(N) per prediction, no runtime dataset access.
  */
 
@@ -55,38 +59,62 @@ export interface MixResult {
 }
 
 // ---------------------------------------------------------------------------
-// Tuned constants (v7)
+// Tunable parameters
 // ---------------------------------------------------------------------------
 
-/** Yule-Nielsen exponent for the base prediction. */
-const YN_N = 3.0;
+/**
+ * All tunable constants of the v7 model. Bundled into a single object so the
+ * autotuner can sweep them without having to monkey-patch the module.
+ *
+ * Public consumers should not touch this — call `mixFilaments(parts)` which
+ * uses `DEFAULT_V7_PARAMS`.
+ */
+export interface V7Params {
+  /** Yule-Nielsen exponent for the base prediction. */
+  YN_N: number;
 
-/** Lightness correction: ΔL = L_BASE_SLOPE · L_gap + L_BASE_INTERCEPT */
-const L_BASE_SLOPE = -0.0477;
-const L_BASE_INTERCEPT = -2.112;
+  /** Lightness correction: ΔL = L_BASE_SLOPE · L_gap + L_BASE_INTERCEPT */
+  L_BASE_SLOPE: number;
+  L_BASE_INTERCEPT: number;
 
-/** Extra lightness pull when L_gap exceeds knee. */
-const L_KNEE = 15;
-const L_KNEE_SLOPE = -0.060;
+  /** Extra lightness pull when L_gap exceeds knee. */
+  L_KNEE: number;
+  L_KNEE_SLOPE: number;
 
-/** Chroma correction: ΔC = C_SLOPE · predicted_L + C_INTERCEPT */
-const C_SLOPE = 0.2780;
-const C_INTERCEPT = -15.580;
+  /** Chroma correction: ΔC = C_SLOPE · predicted_L + C_INTERCEPT */
+  C_SLOPE: number;
+  C_INTERCEPT: number;
 
-/** Cyan-band hue rotation. Peak +PEAK degrees at HUE_CENTER, linear fall-off ±FALLOFF. */
-const HUE_CENTER = 210;
-const HUE_FALLOFF = 30;
-const HUE_PEAK = 10.38;
+  /** Cyan-band hue rotation. Peak +HUE_PEAK degrees at HUE_CENTER, linear fall-off ±HUE_FALLOFF. */
+  HUE_CENTER: number;
+  HUE_FALLOFF: number;
+  HUE_PEAK: number;
 
-/** Bell-curve correction-weight peak multiplier. */
-const PEAK_STRENGTH = 1.375;
+  /** Bell-curve correction-weight peak multiplier. */
+  PEAK_STRENGTH: number;
+}
+
+/** Shipped tuned constants (v7). */
+export const DEFAULT_V7_PARAMS: V7Params = {
+  YN_N: 3.0,
+  L_BASE_SLOPE: -0.0477,
+  L_BASE_INTERCEPT: -2.112,
+  L_KNEE: 15,
+  L_KNEE_SLOPE: -0.06,
+  C_SLOPE: 0.278,
+  C_INTERCEPT: -15.58,
+  HUE_CENTER: 210,
+  HUE_FALLOFF: 30,
+  HUE_PEAK: 10.38,
+  PEAK_STRENGTH: 1.375,
+};
 
 // ---------------------------------------------------------------------------
 // Public API
 // ---------------------------------------------------------------------------
 
 /**
- * Predict the color of a filament mix.
+ * Predict the color of a filament mix using the shipped v7 constants.
  *
  * @param parts Array of {hex, ratio}. Ratios should sum to 1.
  * @returns Predicted color as { hex, lab, rgb }.
@@ -94,6 +122,14 @@ const PEAK_STRENGTH = 1.375;
  * Throws if `parts` is empty or any ratio is negative.
  */
 export function mixFilaments(parts: FilamentPart[]): MixResult {
+  return mixFilamentsWithParams(parts, DEFAULT_V7_PARAMS);
+}
+
+/**
+ * Same as `mixFilaments`, but with explicit `V7Params`. Used by the autotuner
+ * (apps/tuner) to evaluate candidate parameter sets against the fitting set.
+ */
+export function mixFilamentsWithParams(parts: FilamentPart[], params: V7Params): MixResult {
   if (parts.length === 0) {
     throw new Error('mixFilaments: parts must not be empty');
   }
@@ -121,7 +157,7 @@ export function mixFilaments(parts: FilamentPart[]): MixResult {
   }
 
   // 1. Yule-Nielsen base in linear-light RGB.
-  const baseRgb = yuleNielsenMix(normalized, YN_N);
+  const baseRgb = yuleNielsenMix(normalized, params.YN_N);
   const baseLab = hexToLab(rgbToHex(baseRgb));
 
   // 2. Compute per-mix features used by the corrections.
@@ -134,12 +170,12 @@ export function mixFilaments(parts: FilamentPart[]): MixResult {
   const N = normalized.length;
   const ratioProduct = normalized.reduce((s, p) => s * p.ratio, 1);
   const wRaw = Math.pow(N, N) * ratioProduct; // 1 at uniform, 0 at pure.
-  const w = Math.max(0, Math.min(1, wRaw)) * PEAK_STRENGTH;
+  const w = Math.max(0, Math.min(1, wRaw)) * params.PEAK_STRENGTH;
 
   // 4. Lightness correction.
-  let dL = L_BASE_SLOPE * lGap + L_BASE_INTERCEPT;
-  if (lGap > L_KNEE) {
-    dL += L_KNEE_SLOPE * (lGap - L_KNEE);
+  let dL = params.L_BASE_SLOPE * lGap + params.L_BASE_INTERCEPT;
+  if (lGap > params.L_KNEE) {
+    dL += params.L_KNEE_SLOPE * (lGap - params.L_KNEE);
   }
   const newL = baseLab.L + dL * w;
 
@@ -148,7 +184,7 @@ export function mixFilaments(parts: FilamentPart[]): MixResult {
   let aOut = baseLab.a;
   let bOut = baseLab.b;
   if (baseC >= 0.01) {
-    const targetDC = (C_SLOPE * newL + C_INTERCEPT) * w;
+    const targetDC = (params.C_SLOPE * newL + params.C_INTERCEPT) * w;
     const newC = Math.max(0, baseC + targetDC);
     const scale = newC / baseC;
     aOut = baseLab.a * scale;
@@ -159,10 +195,10 @@ export function mixFilaments(parts: FilamentPart[]): MixResult {
   const newC = Math.hypot(aOut, bOut);
   if (newC >= 1) {
     const predHue = ((Math.atan2(bOut, aOut) * 180) / Math.PI + 360) % 360;
-    const distFromCenter = Math.abs(predHue - HUE_CENTER);
-    const inBand = distFromCenter < HUE_FALLOFF;
+    const distFromCenter = Math.abs(predHue - params.HUE_CENTER);
+    const inBand = distFromCenter < params.HUE_FALLOFF;
     if (inBand) {
-      const hCorr = HUE_PEAK * (1 - distFromCenter / HUE_FALLOFF) * w;
+      const hCorr = params.HUE_PEAK * (1 - distFromCenter / params.HUE_FALLOFF) * w;
       const newHueRad = (((predHue + hCorr) % 360) * Math.PI) / 180;
       aOut = newC * Math.cos(newHueRad);
       bOut = newC * Math.sin(newHueRad);
