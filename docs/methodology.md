@@ -1,7 +1,7 @@
 # Methodology
 
 This is the longer-form companion to the README. It walks through the dataset,
-how the v7 model was derived, what alternatives were tried and rejected, and
+how the prusa-fdm-mixer model was derived, what alternatives were tried and rejected, and
 the honest limitations.
 
 ## Dataset
@@ -88,17 +88,18 @@ better than YN globally and significantly worse on saturated complementaries.
 
 ### Hybrid YN + KM (best-of)
 
-For some samples KM beats v7 (e.g., black + magenta). We investigated a
-hybrid that picks YN or KM per sample based on input features
+For some samples KM beats prusa-fdm-mixer (e.g., black + magenta). We
+investigated a hybrid that picks YN or KM per sample based on input features
 (min chroma, L gap, hue distance). Best simple rule got 42/69/79 hits at
-ΔE < 5/<8/<10 — worse than v7's 48/74/85. The features available are too
-weakly predictive to build a clean classifier.
+ΔE < 5/<8/<10 — worse than prusa-fdm-mixer's 48/74/85. The features
+available are too weakly predictive to build a clean classifier.
 
 ### kNN residual correction
 
 Treating the dataset as a lookup and predicting via kNN on the residuals
-got median ΔE ~4.5 (vs v7's 5.7), but it requires shipping the dataset at
-runtime. v7's design constraint was "closed-form, no runtime data," so kNN
+got median ΔE ~4.5 (vs prusa-fdm-mixer's 5.7), but it requires shipping the
+dataset at runtime. The prusa-fdm-mixer design constraint was "closed-form,
+no runtime data," so kNN
 is out of scope for the deliverable but useful as an upper bound on what's
 extractable from the data.
 
