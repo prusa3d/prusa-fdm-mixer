@@ -12,13 +12,13 @@ by [`scripts/sync-openprinttag.ts`](../scripts/sync-openprinttag.ts). Each entry
 Synced from HueForge's [affiliate vendor JSONs](https://shop.thehueforge.com/pages/affiliates)
 by [`scripts/sync-hueforge.ts`](../scripts/sync-hueforge.ts). Same shape as the OpenPrintTag library plus an optional `td` (Transmission Distance) per entry.
 
-### `fitting-set.jsonl` (146 entries)
+### `fitting-set.jsonl`
 
-The cleaned fitting set used to calibrate the prusa-fdm-mixer model.
-
-- 24 base filaments (single-component entries)
-- 107 two-color samples
-- 15 three-color samples
+The cleaned fitting set used to calibrate the prusa-fdm-mixer model. Each
+entry is one base filament (single component) or one mix (two or three
+components). The dataset grows over time; live counts and per-recipe ΔE are
+shown in the
+[harness](https://prusa-research.github.io/prusa-fdm-mixer/apps/harness/).
 
 Each line is a JSON object:
 
@@ -36,19 +36,14 @@ Each line is a JSON object:
 
 Base filaments self-reference in `combinations` with ratio 1.
 
-### `holdout-set.jsonl` (82 entries)
+### `holdout-set.jsonl`
 
-Independent held-out set, batch 5. None of these samples were used to
-calibrate prusa-fdm-mixer — the model's error against this file is genuine out-of-sample
-performance.
-
-- 10 base filaments (single-component entries)
-- 59 two-color samples
-- 13 three-color samples
-
-Same line schema as `fitting-set.jsonl`. The harness loads both files and
-exposes an "All / Training / Holdout" toggle at the top to switch the active
-view between them.
+Independent held-out set. None of these samples were used to calibrate
+prusa-fdm-mixer — the model's error against this file is genuine
+out-of-sample performance. Same line schema as `fitting-set.jsonl`. The
+[harness](https://prusa-research.github.io/prusa-fdm-mixer/apps/harness/) loads
+both files and exposes an "All / Training / Holdout" toggle to switch the
+active view between them.
 
 ### `flagged.jsonl` (planned)
 

@@ -2,12 +2,17 @@
 
 A calibrated color-mixing model for FDM 3D printers that interleave filaments
 at the layer level. Predicts the visible color of a multi-filament print
-from the source filament hexes and their ratios, calibrated against
-**107 measured 2-color samples** printed on a Prusa XL.
+from the source filament hexes and their ratios, calibrated against measured
+Prusa XL prints.
 
-> **Median error ΔE 5.7** on the fitting set.
-> ~45% of predictions land under the just-noticeable-difference threshold (ΔE 5).
 > No runtime dataset, ~50 lines of math, MIT-licensed — vendor it freely.
+
+**Live results, distributions, and per-recipe breakdown** are published at
+[prusa-research.github.io/prusa-fdm-mixer/apps/harness/](https://prusa-research.github.io/prusa-fdm-mixer/apps/harness/).
+The harness re-renders on every commit, so the numbers there are always
+current — toggle between the training set, the held-out set, or all
+measurements. This README intentionally avoids hard-coding sample counts and
+ΔE figures, since the dataset grows over time.
 
 ## Why this exists
 
@@ -43,7 +48,7 @@ Requires **Node 20+** (matches the version pinned in
 [`.github/workflows/deploy.yml`](./.github/workflows/deploy.yml)).
 
 ```sh
-git clone https://github.com/prusa3d/prusa-fdm-mixer.git
+git clone https://github.com/Prusa-Research/prusa-fdm-mixer.git
 cd prusa-fdm-mixer
 npm install
 npm run dev      # vite dev server with hot reload
@@ -139,24 +144,24 @@ See [`cpp/README.md`](./cpp/README.md) for vendoring instructions and the
    (peaks at uniform mixing, zero at pure components) so pure colors are
    returned unchanged and gradients stay smooth.
 
-All constants were fitted on the cleaned 107-sample 2-color set. The full
-methodology, including which alternatives were tried and rejected, is in
+All constants were fitted on the published fitting set
+([`data/fitting-set.jsonl`](./data/fitting-set.jsonl)). The full methodology,
+including which alternatives were tried and rejected, is in
 [`docs/methodology.md`](./docs/methodology.md).
 
 ## Comparison to other models
 
-Median ΔE2000 on the cleaned dataset (lower is better):
+The harness scores prusa-fdm-mixer side-by-side with Kubelka-Munk, the
+PolyMixer port (BambuStudio's current model, ex-OrcaSlicer-FullSpectrum),
+HueForge-style TD blending, and the legacy linear-sRGB blend that most
+slicers ship today. Live numbers — median ΔE2000, hit-rate at ΔE 5/8/10,
+distributions, and per-recipe breakdowns — are at
+[prusa-research.github.io/prusa-fdm-mixer/apps/harness/](https://prusa-research.github.io/prusa-fdm-mixer/apps/harness/).
 
-| Model | 2-color median | <5 hits | 3-color median |
-|-------|---------------:|--------:|---------------:|
-| **prusa-fdm-mixer (this work)** | **5.7** | **48 / 107** | **9.3** |
-| Kubelka-Munk | 7.9 | 30 / 107 | 17.3 |
-| PolyMixer (FilamentMixer port) | 9.0 | 22 / 107 | 13.7 |
-| Linear sRGB (BambuStudio default) | 14.5 | 6 / 107 | 15.9 |
-
-prusa-fdm-mixer is the only model where 3-color performance doesn't collapse vs 2-color.
-Linear sRGB is on the table here because it's what slicers actually use
-today, not because it's a serious physics candidate.
+prusa-fdm-mixer is the only model in the comparison where 3-color
+performance doesn't collapse versus 2-color. Linear sRGB is on the table
+because it's what slicers actually use today, not because it's a serious
+physics candidate.
 
 ## Repository layout
 
@@ -172,14 +177,14 @@ prusa-fdm-mixer/
 
 ## Caveats
 
-- A separate 72-mix batch (10 base + 59 two-color + 13 three-color) lives in
-  [`data/holdout-set.jsonl`](./data/holdout-set.jsonl) and was never seen
-  during calibration. The harness has a top-of-page toggle to switch between
-  the training set, the held-out set, or all measurements — out-of-sample
-  ΔE on holdout is the honest performance number.
+- A held-out batch in [`data/holdout-set.jsonl`](./data/holdout-set.jsonl)
+  was never seen during calibration; out-of-sample ΔE there is the honest
+  performance number. The
+  [harness](https://prusa-research.github.io/prusa-fdm-mixer/apps/harness/) toggles
+  between training, held-out, and all measurements.
 - Calibrated against Prusament PLA. Other brands and materials may differ.
-- 3-color predictions are extrapolated from 2-color fits with only 15
-  validation samples. Treat as directional, not precise.
+- 3-color predictions are extrapolated from 2-color fits with limited
+  validation data. Treat as directional, not precise.
 - Bronze/galaxy/glitter "special effect" filaments mix less predictably
   than solid-color ones and are slightly over-represented in the harder
   tail of the error distribution.

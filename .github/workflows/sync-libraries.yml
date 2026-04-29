@@ -1,0 +1,48 @@
+name: Sync filament libraries
+
+on:
+  schedule:
+    # Daily at 04:17 UTC. Off-peak avoids the top-of-hour cron stampede on
+    # GitHub's runners and keeps the sync from racing the deploy job.
+    - cron: '17 4 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - run: npm ci
+
+      - name: Sync OpenPrintTag library
+        run: npm run sync:openprinttag
+
+      - name: Sync HueForge library
+        run: npm run sync:hueforge
+
+      - name: Commit if changed
+        run: |
+          git config user.name 'filament-library-bot'
+          git config user.email '[email protected]'
+          OPT='data/filament-library-openprinttag.json'
+          HF='data/filament-library-hueforge.json'
+          if [[ -n "$(git status --porcelain $OPT $HF)" ]]; then
+            git add "$OPT" "$HF"
+            # Pull entry counts from each JSON for a useful commit message.
+            OPT_COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('$OPT','utf8')).entryCount)")
+            HF_COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('$HF','utf8')).entryCount)")
+            git commit -m "chore: refresh filament libraries (OpenPrintTag ${OPT_COUNT}, HueForge ${HF_COUNT}, $(date -u +%Y-%m-%d))"
+            git push
+            echo "Committed library refresh"
+          else
+            echo "No changes — libraries are already up to date"
+          fi

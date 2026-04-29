@@ -1,7 +1,7 @@
 {
   "name": "prusa-fdm-mixer",
   "version": "1.0.0",
-  "description": "Color mixing model for FDM 3D printer multi-color prints, calibrated against measured filament data.",
+  "description": "Color mixing model for FDM 3D printer multi-color prints, calibrated against measured filament data. Live harness: https://prusa-research.github.io/prusa-fdm-mixer/apps/harness/",
   "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.js",
