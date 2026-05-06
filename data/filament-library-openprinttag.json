@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-05-05T05:23:26.164Z",
-  "entryCount": 10471,
+  "lastSynced": "2026-05-06T05:29:34.154Z",
+  "entryCount": 10528,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -46038,6 +46038,134 @@
       "searchText": "kiwifil pla yellow rpla pro"
     },
     {
+      "id": "makergear-pla-black",
+      "brand": "MakerGear",
+      "material": "PLA",
+      "name": "PLA Black",
+      "hex": "#000000",
+      "searchText": "makergear pla pla black"
+    },
+    {
+      "id": "makergear-pla-construction-orange",
+      "brand": "MakerGear",
+      "material": "PLA",
+      "name": "PLA Construction Orange",
+      "hex": "#ff8b47",
+      "searchText": "makergear pla pla construction orange"
+    },
+    {
+      "id": "makergear-pla-gold",
+      "brand": "MakerGear",
+      "material": "PLA",
+      "name": "PLA Gold",
+      "hex": "#af7d00",
+      "searchText": "makergear pla pla gold"
+    },
+    {
+      "id": "makergear-pla-gray",
+      "brand": "MakerGear",
+      "material": "PLA",
+      "name": "PLA Gray",
+      "hex": "#b1b3c5",
+      "searchText": "makergear pla pla gray"
+    },
+    {
+      "id": "makergear-pla-green",
+      "brand": "MakerGear",
+      "material": "PLA",
+      "name": "PLA Green",
+      "hex": "#01feb2",
+      "searchText": "makergear pla pla green"
+    },
+    {
+      "id": "makergear-pla-light-yellow",
+      "brand": "MakerGear",
+      "material": "PLA",
+      "name": "PLA Light Yellow",
+      "hex": "#f1ff6c",
+      "searchText": "makergear pla pla light yellow"
+    },
+    {
+      "id": "makergear-pla-merlot",
+      "brand": "MakerGear",
+      "material": "PLA",
+      "name": "PLA Merlot",
+      "hex": "#bf0049",
+      "searchText": "makergear pla pla merlot"
+    },
+    {
+      "id": "makergear-pla-natural",
+      "brand": "MakerGear",
+      "material": "PLA",
+      "name": "PLA Natural",
+      "hex": "#e4e7e5",
+      "searchText": "makergear pla pla natural"
+    },
+    {
+      "id": "makergear-pla-pink",
+      "brand": "MakerGear",
+      "material": "PLA",
+      "name": "PLA Pink",
+      "hex": "#f600c7",
+      "searchText": "makergear pla pla pink"
+    },
+    {
+      "id": "makergear-pla-purple",
+      "brand": "MakerGear",
+      "material": "PLA",
+      "name": "PLA Purple",
+      "hex": "#9d00b1",
+      "searchText": "makergear pla pla purple"
+    },
+    {
+      "id": "makergear-pla-red",
+      "brand": "MakerGear",
+      "material": "PLA",
+      "name": "PLA Red",
+      "hex": "#ed1536",
+      "searchText": "makergear pla pla red"
+    },
+    {
+      "id": "makergear-pla-royal-blue",
+      "brand": "MakerGear",
+      "material": "PLA",
+      "name": "PLA Royal Blue",
+      "hex": "#0022ff",
+      "searchText": "makergear pla pla royal blue"
+    },
+    {
+      "id": "makergear-pla-silver",
+      "brand": "MakerGear",
+      "material": "PLA",
+      "name": "PLA Silver",
+      "hex": "#818184",
+      "searchText": "makergear pla pla silver"
+    },
+    {
+      "id": "makergear-pla-translucent-purple",
+      "brand": "MakerGear",
+      "material": "PLA",
+      "name": "PLA Translucent Purple",
+      "hex": "#900075",
+      "searchText": "makergear pla pla translucent purple"
+    },
+    {
+      "id": "makergear-pla-translucent-red",
+      "brand": "MakerGear",
+      "material": "PLA",
+      "name": "PLA Translucent Red",
+      "hex": "#e20010",
+      "searchText": "makergear pla pla translucent red"
+    },
+    {
+      "id": "makergear-pla-white",
+      "brand": "MakerGear",
+      "material": "PLA",
+      "name": "PLA White",
+      "hex": "#f9fdfe",
+      "searchText": "makergear pla pla white"
+    },
+    {
       "id": "matter3d-inc-performance-asa-black",
       "brand": "Matter3D Inc",
       "material": "ASA",
@@ -50292,6 +50420,334 @@
       "name": "UltraPLA Yellow",
       "hex": "#f9e352",
       "searchText": "noctuo pla ultrapla yellow"
+    },
+    {
+      "id": "numakers-abs-apple-red",
+      "brand": "Numakers",
+      "material": "ABS",
+      "name": "ABS Apple Red",
+      "hex": "#ed1536",
+      "searchText": "numakers abs abs apple red"
+    },
+    {
+      "id": "numakers-abs-burnt-orange",
+      "brand": "Numakers",
+      "material": "ABS",
+      "name": "ABS Burnt Orange",
+      "hex": "#f55928",
+      "searchText": "numakers abs abs burnt orange"
+    },
+    {
+      "id": "numakers-abs-grass-green",
+      "brand": "Numakers",
+      "material": "ABS",
+      "name": "ABS Grass Green",
+      "hex": "#05af47",
+      "searchText": "numakers abs abs grass green"
+    },
+    {
+      "id": "numakers-abs-lemon-yellow",
+      "brand": "Numakers",
+      "material": "ABS",
+      "name": "ABS Lemon Yellow",
+      "hex": "#e8ca51",
+      "searchText": "numakers abs abs lemon yellow"
+    },
+    {
+      "id": "numakers-abs-light-gray",
+      "brand": "Numakers",
+      "material": "ABS",
+      "name": "ABS Light Gray",
+      "hex": "#7a838e",
+      "searchText": "numakers abs abs light gray"
+    },
+    {
+      "id": "numakers-abs-pitch-black",
+      "brand": "Numakers",
+      "material": "ABS",
+      "name": "ABS Pitch Black",
+      "hex": "#000000",
+      "searchText": "numakers abs abs pitch black"
+    },
+    {
+      "id": "numakers-abs-pure-white",
+      "brand": "Numakers",
+      "material": "ABS",
+      "name": "ABS Pure White",
+      "hex": "#edefe1",
+      "searchText": "numakers abs abs pure white"
+    },
+    {
+      "id": "numakers-abs-royal-blue",
+      "brand": "Numakers",
+      "material": "ABS",
+      "name": "ABS Royal Blue",
+      "hex": "#3f017f",
+      "searchText": "numakers abs abs royal blue"
+    },
+    {
+      "id": "numakers-asa-apple-red",
+      "brand": "Numakers",
+      "material": "ASA",
+      "name": "ASA Apple Red",
+      "hex": "#bf1d2d",
+      "searchText": "numakers asa asa apple red"
+    },
+    {
+      "id": "numakers-asa-burnt-orange",
+      "brand": "Numakers",
+      "material": "ASA",
+      "name": "ASA Burnt Orange",
+      "hex": "#f17231",
+      "searchText": "numakers asa asa burnt orange"
+    },
+    {
+      "id": "numakers-asa-grass-green",
+      "brand": "Numakers",
+      "material": "ASA",
+      "name": "ASA Grass Green",
+      "hex": "#509f45",
+      "searchText": "numakers asa asa grass green"
+    },
+    {
+      "id": "numakers-asa-lemon-yellow",
+      "brand": "Numakers",
+      "material": "ASA",
+      "name": "ASA Lemon Yellow",
+      "hex": "#e3b145",
+      "searchText": "numakers asa asa lemon yellow"
+    },
+    {
+      "id": "numakers-asa-light-gray",
+      "brand": "Numakers",
+      "material": "ASA",
+      "name": "ASA Light Gray",
+      "hex": "#8c9099",
+      "searchText": "numakers asa asa light gray"
+    },
+    {
+      "id": "numakers-asa-pitch-black",
+      "brand": "Numakers",
+      "material": "ASA",
+      "name": "ASA Pitch Black",
+      "hex": "#000000",
+      "searchText": "numakers asa asa pitch black"
+    },
+    {
+      "id": "numakers-asa-pure-white",
+      "brand": "Numakers",
+      "material": "ASA",
+      "name": "ASA Pure White",
+      "hex": "#f8f8ee",
+      "searchText": "numakers asa asa pure white"
+    },
+    {
+      "id": "numakers-asa-royal-blue",
+      "brand": "Numakers",
+      "material": "ASA",
+      "name": "ASA Royal Blue",
+      "hex": "#30428f",
+      "searchText": "numakers asa asa royal blue"
+    },
+    {
+      "id": "numakers-petg-translucent-arctic",
+      "brand": "Numakers",
+      "material": "PETG",
+      "name": "PETG Translucent Arctic",
+      "hex": "#abd3cc",
+      "searchText": "numakers petg petg translucent arctic"
+    },
+    {
+      "id": "numakers-petg-translucent-blue",
+      "brand": "Numakers",
+      "material": "PETG",
+      "name": "PETG Translucent Blue",
+      "hex": "#003287",
+      "searchText": "numakers petg petg translucent blue"
+    },
+    {
+      "id": "numakers-petg-translucent-green",
+      "brand": "Numakers",
+      "material": "PETG",
+      "name": "PETG Translucent Green",
+      "hex": "#009639",
+      "searchText": "numakers petg petg translucent green"
+    },
+    {
+      "id": "numakers-petg-translucent-hot-pink",
+      "brand": "Numakers",
+      "material": "PETG",
+      "name": "PETG Translucent Hot Pink",
+      "hex": "#fe016d",
+      "searchText": "numakers petg petg translucent hot pink"
+    },
+    {
+      "id": "numakers-petg-translucent-ice-blue",
+      "brand": "Numakers",
+      "material": "PETG",
+      "name": "PETG Translucent Ice Blue",
+      "hex": "#0378d0",
+      "searchText": "numakers petg petg translucent ice blue"
+    },
+    {
+      "id": "numakers-petg-translucent-orange",
+      "brand": "Numakers",
+      "material": "PETG",
+      "name": "PETG Translucent Orange",
+      "hex": "#f97429",
+      "searchText": "numakers petg petg translucent orange"
+    },
+    {
+      "id": "numakers-petg-translucent-pink",
+      "brand": "Numakers",
+      "material": "PETG",
+      "name": "PETG Translucent Pink",
+      "hex": "#f04c9a",
+      "searchText": "numakers petg petg translucent pink"
+    },
+    {
+      "id": "numakers-petg-translucent-red",
+      "brand": "Numakers",
+      "material": "PETG",
+      "name": "PETG Translucent Red",
+      "hex": "#e60000",
+      "searchText": "numakers petg petg translucent red"
+    },
+    {
+      "id": "numakers-petg-translucent-yellow",
+      "brand": "Numakers",
+      "material": "PETG",
+      "name": "PETG Translucent Yellow",
+      "hex": "#f9da07",
+      "searchText": "numakers petg petg translucent yellow"
+    },
+    {
+      "id": "numakers-petg-hs-atomic-pink",
+      "brand": "Numakers",
+      "material": "PETG",
+      "name": "PETG-HS Atomic Pink",
+      "hex": "#d6a2a1",
+      "searchText": "numakers petg petg-hs atomic pink"
+    },
+    {
+      "id": "numakers-petg-hs-forest-green",
+      "brand": "Numakers",
+      "material": "PETG",
+      "name": "PETG-HS Forest Green",
+      "hex": "#00773a",
+      "searchText": "numakers petg petg-hs forest green"
+    },
+    {
+      "id": "numakers-petg-hs-grass-green",
+      "brand": "Numakers",
+      "material": "PETG",
+      "name": "PETG-HS Grass Green",
+      "hex": "#41a840",
+      "searchText": "numakers petg petg-hs grass green"
+    },
+    {
+      "id": "numakers-petg-hs-lemon-yellow",
+      "brand": "Numakers",
+      "material": "PETG",
+      "name": "PETG-HS Lemon Yellow",
+      "hex": "#ffb031",
+      "searchText": "numakers petg petg-hs lemon yellow"
+    },
+    {
+      "id": "numakers-petg-hs-light-blue",
+      "brand": "Numakers",
+      "material": "PETG",
+      "name": "PETG-HS Light Blue",
+      "hex": "#0065bd",
+      "searchText": "numakers petg petg-hs light blue"
+    },
+    {
+      "id": "numakers-petg-hs-light-gray",
+      "brand": "Numakers",
+      "material": "PETG",
+      "name": "PETG-HS Light Gray",
+      "hex": "#a3a3a0",
+      "searchText": "numakers petg petg-hs light gray"
+    },
+    {
+      "id": "numakers-petg-hs-mauve-purple",
+      "brand": "Numakers",
+      "material": "PETG",
+      "name": "PETG-HS Mauve Purple",
+      "hex": "#995b98",
+      "searchText": "numakers petg petg-hs mauve purple"
+    },
+    {
+      "id": "numakers-petg-hs-midnight-gray",
+      "brand": "Numakers",
+      "material": "PETG",
+      "name": "PETG-HS Midnight Gray",
+      "hex": "#24292a",
+      "searchText": "numakers petg petg-hs midnight gray"
+    },
+    {
+      "id": "numakers-petg-hs-nuclear-red",
+      "brand": "Numakers",
+      "material": "PETG",
+      "name": "PETG-HS Nuclear Red",
+      "hex": "#d02f37",
+      "searchText": "numakers petg petg-hs nuclear red"
+    },
+    {
+      "id": "numakers-petg-hs-outrageous-orange",
+      "brand": "Numakers",
+      "material": "PETG",
+      "name": "PETG-HS Outrageous Orange",
+      "hex": "#ff7a33",
+      "searchText": "numakers petg petg-hs outrageous orange"
+    },
+    {
+      "id": "numakers-petg-hs-pitch-black",
+      "brand": "Numakers",
+      "material": "PETG",
+      "name": "PETG-HS Pitch Black",
+      "hex": "#000000",
+      "searchText": "numakers petg petg-hs pitch black"
+    },
+    {
+      "id": "numakers-petg-hs-pure-white",
+      "brand": "Numakers",
+      "material": "PETG",
+      "name": "PETG-HS Pure White",
+      "hex": "#f5f5f5",
+      "searchText": "numakers petg petg-hs pure white"
+    },
+    {
+      "id": "numakers-petg-hs-royal-blue",
+      "brand": "Numakers",
+      "material": "PETG",
+      "name": "PETG-HS Royal Blue",
+      "hex": "#274da0",
+      "searchText": "numakers petg petg-hs royal blue"
+    },
+    {
+      "id": "numakers-petg-hs-simply-silver",
+      "brand": "Numakers",
+      "material": "PETG",
+      "name": "PETG-HS Simply Silver",
+      "hex": "#848484",
+      "searchText": "numakers petg petg-hs simply silver"
+    },
+    {
+      "id": "numakers-petg-hs-thanos-purple",
+      "brand": "Numakers",
+      "material": "PETG",
+      "name": "PETG-HS Thanos Purple",
+      "hex": "#5b3a86",
+      "searchText": "numakers petg petg-hs thanos purple"
+    },
+    {
+      "id": "numakers-petg-hs-transparent",
+      "brand": "Numakers",
+      "material": "PETG",
+      "name": "PETG-HS Transparent",
+      "hex": "#e4e7e5",
+      "searchText": "numakers petg petg-hs transparent"
     },
     {
       "id": "overture-abs-black",
