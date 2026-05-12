@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-05-11T05:41:29.271Z",
-  "entryCount": 10528,
+  "lastSynced": "2026-05-12T05:31:27.136Z",
+  "entryCount": 10646,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -14468,14 +14468,6 @@
       "name": "PLA Silk Tri Color Peacock Bloom",
       "hex": "#eeea44",
       "searchText": "azurefilm pla pla silk tri color peacock bloom"
-    },
-    {
-      "id": "azurefilm-pla-silk-tri-color-royal-fizz",
-      "brand": "AzureFilm",
-      "material": "PLA",
-      "name": "PLA Silk Tri Color Royal Fizz",
-      "hex": "#473fc9",
-      "searchText": "azurefilm pla pla silk tri color royal fizz"
     },
     {
       "id": "azurefilm-pla-silk-tri-color-sunrise-pop",
@@ -46038,6 +46030,414 @@
       "searchText": "kiwifil pla yellow rpla pro"
     },
     {
+      "id": "kvp-abs",
+      "brand": "KVP",
+      "material": "ABS",
+      "name": "ABS",
+      "hex": "#2c5234",
+      "searchText": "kvp abs abs"
+    },
+    {
+      "id": "kvp-abs-banana-yellow",
+      "brand": "KVP",
+      "material": "ABS",
+      "name": "ABS Banana Yellow",
+      "hex": "#ecea39",
+      "searchText": "kvp abs abs banana yellow"
+    },
+    {
+      "id": "kvp-abs-battleship-gray",
+      "brand": "KVP",
+      "material": "ABS",
+      "name": "ABS Battleship Gray",
+      "hex": "#9c9fa6",
+      "searchText": "kvp abs abs battleship gray"
+    },
+    {
+      "id": "kvp-abs-black",
+      "brand": "KVP",
+      "material": "ABS",
+      "name": "ABS Black",
+      "hex": "#27292b",
+      "searchText": "kvp abs abs black"
+    },
+    {
+      "id": "kvp-abs-blue",
+      "brand": "KVP",
+      "material": "ABS",
+      "name": "ABS Blue",
+      "hex": "#66a2e5",
+      "searchText": "kvp abs abs blue"
+    },
+    {
+      "id": "kvp-abs-british-racing-green",
+      "brand": "KVP",
+      "material": "ABS",
+      "name": "ABS British Racing Green",
+      "hex": "#244532",
+      "searchText": "kvp abs abs british racing green"
+    },
+    {
+      "id": "kvp-abs-crimson",
+      "brand": "KVP",
+      "material": "ABS",
+      "name": "ABS Crimson",
+      "hex": "#932721",
+      "searchText": "kvp abs abs crimson"
+    },
+    {
+      "id": "kvp-abs-dark-gray",
+      "brand": "KVP",
+      "material": "ABS",
+      "name": "ABS Dark Gray",
+      "hex": "#596068",
+      "searchText": "kvp abs abs dark gray"
+    },
+    {
+      "id": "kvp-abs-dark-teal",
+      "brand": "KVP",
+      "material": "ABS",
+      "name": "ABS Dark Teal",
+      "hex": "#3ea5ca",
+      "searchText": "kvp abs abs dark teal"
+    },
+    {
+      "id": "kvp-abs-federal-blue",
+      "brand": "KVP",
+      "material": "ABS",
+      "name": "ABS Federal Blue",
+      "hex": "#1d3b5d",
+      "searchText": "kvp abs abs federal blue"
+    },
+    {
+      "id": "kvp-abs-fluorescent-blue",
+      "brand": "KVP",
+      "material": "ABS",
+      "name": "ABS Fluorescent Blue",
+      "hex": "#2657af",
+      "searchText": "kvp abs abs fluorescent blue"
+    },
+    {
+      "id": "kvp-abs-glow-in-the-dark-blue",
+      "brand": "KVP",
+      "material": "ABS",
+      "name": "ABS Glow in the Dark Blue",
+      "hex": "#66a2e5",
+      "searchText": "kvp abs abs glow in the dark blue"
+    },
+    {
+      "id": "kvp-abs-graphite-gray",
+      "brand": "KVP",
+      "material": "ABS",
+      "name": "ABS Graphite Gray",
+      "hex": "#373d3e",
+      "searchText": "kvp abs abs graphite gray"
+    },
+    {
+      "id": "kvp-abs-hot-pink",
+      "brand": "KVP",
+      "material": "ABS",
+      "name": "ABS Hot Pink",
+      "hex": "#f2659e",
+      "searchText": "kvp abs abs hot pink"
+    },
+    {
+      "id": "kvp-abs-industrial-gray",
+      "brand": "KVP",
+      "material": "ABS",
+      "name": "ABS Industrial Gray",
+      "hex": "#87888a",
+      "searchText": "kvp abs abs industrial gray"
+    },
+    {
+      "id": "kvp-abs-lulzbot-green",
+      "brand": "KVP",
+      "material": "ABS",
+      "name": "ABS Lulzbot Green",
+      "hex": "#dce336",
+      "searchText": "kvp abs abs lulzbot green"
+    },
+    {
+      "id": "kvp-abs-metallic-gold",
+      "brand": "KVP",
+      "material": "ABS",
+      "name": "ABS Metallic Gold",
+      "hex": "#c2934b",
+      "searchText": "kvp abs abs metallic gold"
+    },
+    {
+      "id": "kvp-abs-metallic-silver",
+      "brand": "KVP",
+      "material": "ABS",
+      "name": "ABS Metallic Silver",
+      "hex": "#acabc1",
+      "searchText": "kvp abs abs metallic silver"
+    },
+    {
+      "id": "kvp-abs-natural",
+      "brand": "KVP",
+      "material": "ABS",
+      "name": "ABS Natural",
+      "hex": "#dcd8d4",
+      "searchText": "kvp abs abs natural"
+    },
+    {
+      "id": "kvp-abs-neon-orange",
+      "brand": "KVP",
+      "material": "ABS",
+      "name": "ABS Neon Orange",
+      "hex": "#e66b38",
+      "searchText": "kvp abs abs neon orange"
+    },
+    {
+      "id": "kvp-abs-polar-white",
+      "brand": "KVP",
+      "material": "ABS",
+      "name": "ABS Polar White",
+      "hex": "#e6eaef",
+      "searchText": "kvp abs abs polar white"
+    },
+    {
+      "id": "kvp-abs-proper-purple",
+      "brand": "KVP",
+      "material": "ABS",
+      "name": "ABS Proper Purple",
+      "hex": "#510076",
+      "searchText": "kvp abs abs proper purple"
+    },
+    {
+      "id": "kvp-abs-safety-orange",
+      "brand": "KVP",
+      "material": "ABS",
+      "name": "ABS Safety Orange",
+      "hex": "#ff9844",
+      "searchText": "kvp abs abs safety orange"
+    },
+    {
+      "id": "kvp-abs-stellar-black",
+      "brand": "KVP",
+      "material": "ABS",
+      "name": "ABS Stellar Black",
+      "hex": "#474747",
+      "searchText": "kvp abs abs stellar black"
+    },
+    {
+      "id": "kvp-abs-stellar-blue",
+      "brand": "KVP",
+      "material": "ABS",
+      "name": "ABS Stellar Blue",
+      "hex": "#3466cb",
+      "searchText": "kvp abs abs stellar blue"
+    },
+    {
+      "id": "kvp-abs-stellar-red",
+      "brand": "KVP",
+      "material": "ABS",
+      "name": "ABS Stellar Red",
+      "hex": "#9d2838",
+      "searchText": "kvp abs abs stellar red"
+    },
+    {
+      "id": "kvp-abs-voron-red",
+      "brand": "KVP",
+      "material": "ABS",
+      "name": "ABS Voron Red",
+      "hex": "#d3100c",
+      "searchText": "kvp abs abs voron red"
+    },
+    {
+      "id": "kvp-asa-black",
+      "brand": "KVP",
+      "material": "ASA",
+      "name": "ASA Black",
+      "hex": "#000000",
+      "searchText": "kvp asa asa black"
+    },
+    {
+      "id": "kvp-hips-natural",
+      "brand": "KVP",
+      "material": "HIPS",
+      "name": "HIPS Natural",
+      "hex": "#f2f0eb",
+      "searchText": "kvp hips hips natural"
+    },
+    {
+      "id": "kvp-petg-black",
+      "brand": "KVP",
+      "material": "PETG",
+      "name": "PETG Black",
+      "hex": "#27292b",
+      "searchText": "kvp petg petg black"
+    },
+    {
+      "id": "kvp-petg-natural",
+      "brand": "KVP",
+      "material": "PETG",
+      "name": "PETG Natural",
+      "hex": "#f5f5f5",
+      "searchText": "kvp petg petg natural"
+    },
+    {
+      "id": "kvp-petg-white",
+      "brand": "KVP",
+      "material": "PETG",
+      "name": "PETG White",
+      "hex": "#f5f5f5",
+      "searchText": "kvp petg petg white"
+    },
+    {
+      "id": "kvp-p-pla-black",
+      "brand": "KVP",
+      "material": "PLA",
+      "name": "P-PLA Black",
+      "hex": "#27292b",
+      "searchText": "kvp pla p-pla black"
+    },
+    {
+      "id": "kvp-p-pla-blue",
+      "brand": "KVP",
+      "material": "PLA",
+      "name": "P-PLA Blue",
+      "hex": "#005eb8",
+      "searchText": "kvp pla p-pla blue"
+    },
+    {
+      "id": "kvp-p-pla-dark-gray",
+      "brand": "KVP",
+      "material": "PLA",
+      "name": "P-PLA Dark Gray",
+      "hex": "#63646b",
+      "searchText": "kvp pla p-pla dark gray"
+    },
+    {
+      "id": "kvp-p-pla-white",
+      "brand": "KVP",
+      "material": "PLA",
+      "name": "P-PLA White",
+      "hex": "#f5f5f5",
+      "searchText": "kvp pla p-pla white"
+    },
+    {
+      "id": "kvp-pearl-pla-natural",
+      "brand": "KVP",
+      "material": "PLA",
+      "name": "Pearl PLA Natural",
+      "hex": "#f5f0e8",
+      "searchText": "kvp pla pearl pla natural"
+    },
+    {
+      "id": "kvp-pla-black",
+      "brand": "KVP",
+      "material": "PLA",
+      "name": "PLA Black",
+      "hex": "#27292b",
+      "searchText": "kvp pla pla black"
+    },
+    {
+      "id": "kvp-pla-dark-gray",
+      "brand": "KVP",
+      "material": "PLA",
+      "name": "PLA Dark Gray",
+      "hex": "#596068",
+      "searchText": "kvp pla pla dark gray"
+    },
+    {
+      "id": "kvp-pla-deep-translucent-red",
+      "brand": "KVP",
+      "material": "PLA",
+      "name": "PLA Deep Translucent Red",
+      "hex": "#870045",
+      "searchText": "kvp pla pla deep translucent red"
+    },
+    {
+      "id": "kvp-pla-galactic-sapphire",
+      "brand": "KVP",
+      "material": "PLA",
+      "name": "PLA Galactic Sapphire",
+      "hex": "#33007b",
+      "searchText": "kvp pla pla galactic sapphire"
+    },
+    {
+      "id": "kvp-pla-green",
+      "brand": "KVP",
+      "material": "PLA",
+      "name": "PLA Green",
+      "hex": "#14732f",
+      "searchText": "kvp pla pla green"
+    },
+    {
+      "id": "kvp-pla-natural",
+      "brand": "KVP",
+      "material": "PLA",
+      "name": "PLA Natural",
+      "hex": "#f2f0eb",
+      "searchText": "kvp pla pla natural"
+    },
+    {
+      "id": "kvp-pla-neon-orange",
+      "brand": "KVP",
+      "material": "PLA",
+      "name": "PLA Neon Orange",
+      "hex": "#f07806",
+      "searchText": "kvp pla pla neon orange"
+    },
+    {
+      "id": "kvp-pla-neon-pink",
+      "brand": "KVP",
+      "material": "PLA",
+      "name": "PLA Neon Pink",
+      "hex": "#f04c9a",
+      "searchText": "kvp pla pla neon pink"
+    },
+    {
+      "id": "kvp-pla-red",
+      "brand": "KVP",
+      "material": "PLA",
+      "name": "PLA Red",
+      "hex": "#d32e1a",
+      "searchText": "kvp pla pla red"
+    },
+    {
+      "id": "kvp-pla-white",
+      "brand": "KVP",
+      "material": "PLA",
+      "name": "PLA White",
+      "hex": "#fdfaef",
+      "searchText": "kvp pla pla white"
+    },
+    {
+      "id": "kvp-pla-yellow",
+      "brand": "KVP",
+      "material": "PLA",
+      "name": "PLA Yellow",
+      "hex": "#f2f470",
+      "searchText": "kvp pla pla yellow"
+    },
+    {
+      "id": "kvp-tpu-black",
+      "brand": "KVP",
+      "material": "TPU",
+      "name": "TPU Black",
+      "hex": "#000000",
+      "searchText": "kvp tpu tpu black"
+    },
+    {
+      "id": "kvp-tpu-natural",
+      "brand": "KVP",
+      "material": "TPU",
+      "name": "TPU Natural",
+      "hex": "#dcd8d4",
+      "searchText": "kvp tpu tpu natural"
+    },
+    {
+      "id": "kvp-tpu-white",
+      "brand": "KVP",
+      "material": "TPU",
+      "name": "TPU White",
+      "hex": "#f5f5f5",
+      "searchText": "kvp tpu tpu white"
+    },
+    {
       "id": "makergear-pla-black",
       "brand": "MakerGear",
       "material": "PLA",
@@ -63932,6 +64332,550 @@
       "name": "TPU 100A",
       "hex": "#000000",
       "searchText": "push plastic tpu tpu 100a"
+    },
+    {
+      "id": "raise3d-hyper-core-abs-cf15-black",
+      "brand": "Raise3D",
+      "material": "ABS",
+      "name": "Hyper Core ABS CF15 Black",
+      "hex": "#101820",
+      "searchText": "raise3d abs hyper core abs cf15 black"
+    },
+    {
+      "id": "raise3d-hyper-core-abs-cf15-black-rfid",
+      "brand": "Raise3D",
+      "material": "ABS",
+      "name": "Hyper Core ABS CF15 Black - RFID",
+      "hex": "#3e4342",
+      "searchText": "raise3d abs hyper core abs cf15 black - rfid"
+    },
+    {
+      "id": "raise3d-hyper-speed-abs-rfid",
+      "brand": "Raise3D",
+      "material": "ABS",
+      "name": "Hyper Speed ABS - RFID",
+      "hex": "#2f3234",
+      "searchText": "raise3d abs hyper speed abs - rfid"
+    },
+    {
+      "id": "raise3d-hyper-speed-abs-black-v2-rfid",
+      "brand": "Raise3D",
+      "material": "ABS",
+      "name": "Hyper Speed ABS Black-V2 - RFID",
+      "hex": "#2f3234",
+      "searchText": "raise3d abs hyper speed abs black-v2 - rfid"
+    },
+    {
+      "id": "raise3d-hyper-speed-abs-grey-rfid",
+      "brand": "Raise3D",
+      "material": "ABS",
+      "name": "Hyper Speed ABS Grey - RFID",
+      "hex": "#888b8d",
+      "searchText": "raise3d abs hyper speed abs grey - rfid"
+    },
+    {
+      "id": "raise3d-hyper-speed-abs-grey-v2-rfid",
+      "brand": "Raise3D",
+      "material": "ABS",
+      "name": "Hyper Speed ABS Grey-V2 - RFID",
+      "hex": "#888b8d",
+      "searchText": "raise3d abs hyper speed abs grey-v2 - rfid"
+    },
+    {
+      "id": "raise3d-hyper-speed-abs-natural-v1-rfid",
+      "brand": "Raise3D",
+      "material": "ABS",
+      "name": "Hyper Speed ABS Natural-V1 - RFID",
+      "hex": "#f1f0ea",
+      "searchText": "raise3d abs hyper speed abs natural-v1 - rfid"
+    },
+    {
+      "id": "raise3d-hyper-speed-abs-natural-v2-rfid",
+      "brand": "Raise3D",
+      "material": "ABS",
+      "name": "Hyper Speed ABS Natural-V2 - RFID",
+      "hex": "#f1f0ea",
+      "searchText": "raise3d abs hyper speed abs natural-v2 - rfid"
+    },
+    {
+      "id": "raise3d-premium-abs-black-rfid",
+      "brand": "Raise3D",
+      "material": "ABS",
+      "name": "Premium ABS Black - RFID",
+      "hex": "#30312f",
+      "searchText": "raise3d abs premium abs black - rfid"
+    },
+    {
+      "id": "raise3d-premium-abs-grey-rfid",
+      "brand": "Raise3D",
+      "material": "ABS",
+      "name": "Premium ABS Grey - RFID",
+      "hex": "#888b8d",
+      "searchText": "raise3d abs premium abs grey - rfid"
+    },
+    {
+      "id": "raise3d-premium-abs-white-rfid",
+      "brand": "Raise3D",
+      "material": "ABS",
+      "name": "Premium ABS White - RFID",
+      "hex": "#ffffff",
+      "searchText": "raise3d abs premium abs white - rfid"
+    },
+    {
+      "id": "raise3d-premium-asa-black-rfid",
+      "brand": "Raise3D",
+      "material": "ASA",
+      "name": "Premium ASA Black - RFID",
+      "hex": "#000000",
+      "searchText": "raise3d asa premium asa black - rfid"
+    },
+    {
+      "id": "raise3d-industrial-pa12-cf-support-pink-rfid",
+      "brand": "Raise3D",
+      "material": "PA12",
+      "name": "Industrial PA12 CF Support Pink - RFID",
+      "hex": "#d6a2a1",
+      "searchText": "raise3d pa12 industrial pa12 cf support pink - rfid"
+    },
+    {
+      "id": "raise3d-industrial-pa12-cf-black-rfid",
+      "brand": "Raise3D",
+      "material": "PA6",
+      "name": "Industrial PA12 CF+ Black - RFID",
+      "hex": "#2b2b2c",
+      "searchText": "raise3d pa6 industrial pa12 cf+ black - rfid"
+    },
+    {
+      "id": "raise3d-premium-pc-black-rfid",
+      "brand": "Raise3D",
+      "material": "PC",
+      "name": "Premium PC Black - RFID",
+      "hex": "#30312f",
+      "searchText": "raise3d pc premium pc black - rfid"
+    },
+    {
+      "id": "raise3d-premium-pc-transparent-rfid",
+      "brand": "Raise3D",
+      "material": "PC",
+      "name": "Premium PC Transparent - RFID",
+      "hex": "#d9d8de",
+      "searchText": "raise3d pc premium pc transparent - rfid"
+    },
+    {
+      "id": "raise3d-premium-pc-white-rfid",
+      "brand": "Raise3D",
+      "material": "PC",
+      "name": "Premium PC White - RFID",
+      "hex": "#ffffff",
+      "searchText": "raise3d pc premium pc white - rfid"
+    },
+    {
+      "id": "raise3d-hyper-speed-pet-cf-black-rfid",
+      "brand": "Raise3D",
+      "material": "PET",
+      "name": "Hyper Speed PET CF Black - RFID",
+      "hex": "#30312f",
+      "searchText": "raise3d pet hyper speed pet cf black - rfid"
+    },
+    {
+      "id": "raise3d-industrial-pet-cf-black",
+      "brand": "Raise3D",
+      "material": "PET",
+      "name": "Industrial PET CF Black",
+      "hex": "#212322",
+      "searchText": "raise3d pet industrial pet cf black"
+    },
+    {
+      "id": "raise3d-industrial-pet-cf-black-rfid",
+      "brand": "Raise3D",
+      "material": "PET",
+      "name": "Industrial PET CF Black - RFID",
+      "hex": "#2f3234",
+      "searchText": "raise3d pet industrial pet cf black - rfid"
+    },
+    {
+      "id": "raise3d-industrial-pet-gf-black",
+      "brand": "Raise3D",
+      "material": "PET",
+      "name": "Industrial PET GF Black",
+      "hex": "#3e4342",
+      "searchText": "raise3d pet industrial pet gf black"
+    },
+    {
+      "id": "raise3d-industrial-pet-gf-black-rfid",
+      "brand": "Raise3D",
+      "material": "PET",
+      "name": "Industrial PET GF Black - RFID",
+      "hex": "#2a292a",
+      "searchText": "raise3d pet industrial pet gf black - rfid"
+    },
+    {
+      "id": "raise3d-industrial-pet-gf-gray",
+      "brand": "Raise3D",
+      "material": "PET",
+      "name": "Industrial PET GF Gray",
+      "hex": "#9b9ea0",
+      "searchText": "raise3d pet industrial pet gf gray"
+    },
+    {
+      "id": "raise3d-industrial-pet-gf-gray-rfid",
+      "brand": "Raise3D",
+      "material": "PET",
+      "name": "Industrial PET GF Gray - RFID",
+      "hex": "#9b9ea0",
+      "searchText": "raise3d pet industrial pet gf gray - rfid"
+    },
+    {
+      "id": "raise3d-industrial-pet-gf-orange",
+      "brand": "Raise3D",
+      "material": "PET",
+      "name": "Industrial PET GF Orange",
+      "hex": "#fd9106",
+      "searchText": "raise3d pet industrial pet gf orange"
+    },
+    {
+      "id": "raise3d-industrial-pet-gf-orange-rfid",
+      "brand": "Raise3D",
+      "material": "PET",
+      "name": "Industrial PET GF Orange - RFID",
+      "hex": "#ffb200",
+      "searchText": "raise3d pet industrial pet gf orange - rfid"
+    },
+    {
+      "id": "raise3d-industrial-pet-gf-red",
+      "brand": "Raise3D",
+      "material": "PET",
+      "name": "Industrial PET GF Red",
+      "hex": "#ff2d21",
+      "searchText": "raise3d pet industrial pet gf red"
+    },
+    {
+      "id": "raise3d-industrial-pet-gf-red-rfid",
+      "brand": "Raise3D",
+      "material": "PET",
+      "name": "Industrial PET GF Red - RFID",
+      "hex": "#ff2d21",
+      "searchText": "raise3d pet industrial pet gf red - rfid"
+    },
+    {
+      "id": "raise3d-industrial-pet-support-natural-rfid",
+      "brand": "Raise3D",
+      "material": "PET",
+      "name": "Industrial PET Support Natural - RFID",
+      "hex": "#e5e9e3",
+      "searchText": "raise3d pet industrial pet support natural - rfid"
+    },
+    {
+      "id": "raise3d-hyper-speed-petg-cf-black-rfid",
+      "brand": "Raise3D",
+      "material": "PETG",
+      "name": "Hyper Speed PETG CF Black - RFID",
+      "hex": "#30312f",
+      "searchText": "raise3d petg hyper speed petg cf black - rfid"
+    },
+    {
+      "id": "raise3d-industrial-petg-esd-black-rfid",
+      "brand": "Raise3D",
+      "material": "PETG",
+      "name": "Industrial PETG ESD Black - RFID",
+      "hex": "#30312f",
+      "searchText": "raise3d petg industrial petg esd black - rfid"
+    },
+    {
+      "id": "raise3d-premium-petg-black-rfid",
+      "brand": "Raise3D",
+      "material": "PETG",
+      "name": "Premium PETG Black - RFID",
+      "hex": "#30312f",
+      "searchText": "raise3d petg premium petg black - rfid"
+    },
+    {
+      "id": "raise3d-premium-petg-blue-rfid",
+      "brand": "Raise3D",
+      "material": "PETG",
+      "name": "Premium PETG Blue - RFID",
+      "hex": "#003776",
+      "searchText": "raise3d petg premium petg blue - rfid"
+    },
+    {
+      "id": "raise3d-premium-petg-red-rfid",
+      "brand": "Raise3D",
+      "material": "PETG",
+      "name": "Premium PETG Red - RFID",
+      "hex": "#e9301e",
+      "searchText": "raise3d petg premium petg red - rfid"
+    },
+    {
+      "id": "raise3d-premium-petg-white-rfid",
+      "brand": "Raise3D",
+      "material": "PETG",
+      "name": "Premium PETG White - RFID",
+      "hex": "#ffffff",
+      "searchText": "raise3d petg premium petg white - rfid"
+    },
+    {
+      "id": "raise3d-hyper-speed-pla-black-rfid",
+      "brand": "Raise3D",
+      "material": "PLA",
+      "name": "Hyper Speed PLA Black - RFID",
+      "hex": "#30312f",
+      "searchText": "raise3d pla hyper speed pla black - rfid"
+    },
+    {
+      "id": "raise3d-hyper-speed-pla-blue-rfid",
+      "brand": "Raise3D",
+      "material": "PLA",
+      "name": "Hyper Speed PLA Blue - RFID",
+      "hex": "#2e4462",
+      "searchText": "raise3d pla hyper speed pla blue - rfid"
+    },
+    {
+      "id": "raise3d-hyper-speed-pla-grey-rfid",
+      "brand": "Raise3D",
+      "material": "PLA",
+      "name": "Hyper Speed PLA Grey - RFID",
+      "hex": "#888b8d",
+      "searchText": "raise3d pla hyper speed pla grey - rfid"
+    },
+    {
+      "id": "raise3d-hyper-speed-pla-orange-rfid",
+      "brand": "Raise3D",
+      "material": "PLA",
+      "name": "Hyper Speed PLA Orange - RFID",
+      "hex": "#ff9a44",
+      "searchText": "raise3d pla hyper speed pla orange - rfid"
+    },
+    {
+      "id": "raise3d-hyper-speed-pla-pro-black-rfid",
+      "brand": "Raise3D",
+      "material": "PLA",
+      "name": "Hyper Speed PLA Pro Black - RFID",
+      "hex": "#000000",
+      "searchText": "raise3d pla hyper speed pla pro black - rfid"
+    },
+    {
+      "id": "raise3d-hyper-speed-pla-pro-brick-red-rfid",
+      "brand": "Raise3D",
+      "material": "PLA",
+      "name": "Hyper Speed PLA Pro Brick Red - RFID",
+      "hex": "#6d342d",
+      "searchText": "raise3d pla hyper speed pla pro brick red - rfid"
+    },
+    {
+      "id": "raise3d-hyper-speed-pla-pro-dark-blue-rfid",
+      "brand": "Raise3D",
+      "material": "PLA",
+      "name": "Hyper Speed PLA Pro Dark Blue - RFID",
+      "hex": "#2a3756",
+      "searchText": "raise3d pla hyper speed pla pro dark blue - rfid"
+    },
+    {
+      "id": "raise3d-hyper-speed-pla-pro-dark-green-rfid",
+      "brand": "Raise3D",
+      "material": "PLA",
+      "name": "Hyper Speed PLA Pro Dark Green - RFID",
+      "hex": "#1f4e3a",
+      "searchText": "raise3d pla hyper speed pla pro dark green - rfid"
+    },
+    {
+      "id": "raise3d-hyper-speed-pla-red-rfid",
+      "brand": "Raise3D",
+      "material": "PLA",
+      "name": "Hyper Speed PLA Red - RFID",
+      "hex": "#e9301e",
+      "searchText": "raise3d pla hyper speed pla red - rfid"
+    },
+    {
+      "id": "raise3d-hyper-speed-pla-white-rfid",
+      "brand": "Raise3D",
+      "material": "PLA",
+      "name": "Hyper Speed PLA White - RFID",
+      "hex": "#ffffff",
+      "searchText": "raise3d pla hyper speed pla white - rfid"
+    },
+    {
+      "id": "raise3d-hyper-speed-pla-yellow-rfid",
+      "brand": "Raise3D",
+      "material": "PLA",
+      "name": "Hyper Speed PLA Yellow - RFID",
+      "hex": "#fce300",
+      "searchText": "raise3d pla hyper speed pla yellow - rfid"
+    },
+    {
+      "id": "raise3d-premium-pla-art-white-rfid",
+      "brand": "Raise3D",
+      "material": "PLA",
+      "name": "Premium PLA Art White - RFID",
+      "hex": "#ffffff",
+      "searchText": "raise3d pla premium pla art white - rfid"
+    },
+    {
+      "id": "raise3d-premium-pla-black-rfid",
+      "brand": "Raise3D",
+      "material": "PLA",
+      "name": "Premium PLA Black - RFID",
+      "hex": "#30312f",
+      "searchText": "raise3d pla premium pla black - rfid"
+    },
+    {
+      "id": "raise3d-premium-pla-blue-rfid",
+      "brand": "Raise3D",
+      "material": "PLA",
+      "name": "Premium PLA Blue - RFID",
+      "hex": "#005eb8",
+      "searchText": "raise3d pla premium pla blue - rfid"
+    },
+    {
+      "id": "raise3d-premium-pla-grey-rfid",
+      "brand": "Raise3D",
+      "material": "PLA",
+      "name": "Premium PLA Grey - RFID",
+      "hex": "#bebfc2",
+      "searchText": "raise3d pla premium pla grey - rfid"
+    },
+    {
+      "id": "raise3d-premium-pla-orange-rfid",
+      "brand": "Raise3D",
+      "material": "PLA",
+      "name": "Premium PLA Orange - RFID",
+      "hex": "#ff9a44",
+      "searchText": "raise3d pla premium pla orange - rfid"
+    },
+    {
+      "id": "raise3d-premium-pla-red-rfid",
+      "brand": "Raise3D",
+      "material": "PLA",
+      "name": "Premium PLA Red - RFID",
+      "hex": "#de4343",
+      "searchText": "raise3d pla premium pla red - rfid"
+    },
+    {
+      "id": "raise3d-premium-pla-white-rfid",
+      "brand": "Raise3D",
+      "material": "PLA",
+      "name": "Premium PLA White - RFID",
+      "hex": "#ffffff",
+      "searchText": "raise3d pla premium pla white - rfid"
+    },
+    {
+      "id": "raise3d-premium-pla-yellow-rfid",
+      "brand": "Raise3D",
+      "material": "PLA",
+      "name": "Premium PLA Yellow - RFID",
+      "hex": "#fedf00",
+      "searchText": "raise3d pla premium pla yellow - rfid"
+    },
+    {
+      "id": "raise3d-hyper-core-ppa-cf25-black-rfid",
+      "brand": "Raise3D",
+      "material": "PPA",
+      "name": "Hyper Core PPA CF25 Black - RFID",
+      "hex": "#27292b",
+      "searchText": "raise3d ppa hyper core ppa cf25 black - rfid"
+    },
+    {
+      "id": "raise3d-hyper-core-ppa-gf25-white",
+      "brand": "Raise3D",
+      "material": "PPA",
+      "name": "Hyper Core PPA GF25 White",
+      "hex": "#e3d9c6",
+      "searchText": "raise3d ppa hyper core ppa gf25 white"
+    },
+    {
+      "id": "raise3d-industrial-ppa-cf-black-rfid",
+      "brand": "Raise3D",
+      "material": "PPA",
+      "name": "Industrial PPA CF Black - RFID",
+      "hex": "#30312f",
+      "searchText": "raise3d ppa industrial ppa cf black - rfid"
+    },
+    {
+      "id": "raise3d-industrial-ppa-gf-natural",
+      "brand": "Raise3D",
+      "material": "PPA",
+      "name": "Industrial PPA GF Natural",
+      "hex": "#f5f0e8",
+      "searchText": "raise3d ppa industrial ppa gf natural"
+    },
+    {
+      "id": "raise3d-industrial-ppa-gf-orange",
+      "brand": "Raise3D",
+      "material": "PPA",
+      "name": "Industrial PPA GF Orange",
+      "hex": "#fd9106",
+      "searchText": "raise3d ppa industrial ppa gf orange"
+    },
+    {
+      "id": "raise3d-industrial-ppa-support-purple-rfid",
+      "brand": "Raise3D",
+      "material": "PPA",
+      "name": "Industrial PPA Support Purple - RFID",
+      "hex": "#d7a9e3",
+      "searchText": "raise3d ppa industrial ppa support purple - rfid"
+    },
+    {
+      "id": "raise3d-industrial-pps-cf-black-rfid",
+      "brand": "Raise3D",
+      "material": "PPS",
+      "name": "Industrial PPS CF Black - RFID",
+      "hex": "#30312f",
+      "searchText": "raise3d pps industrial pps cf black - rfid"
+    },
+    {
+      "id": "raise3d-premium-pva-natural",
+      "brand": "Raise3D",
+      "material": "PVA",
+      "name": "Premium PVA+ Natural",
+      "hex": "#f1f0ea",
+      "searchText": "raise3d pva premium pva+ natural"
+    },
+    {
+      "id": "raise3d-premium-tpu-95a-black",
+      "brand": "Raise3D",
+      "material": "TPU",
+      "name": "Premium TPU-95A Black",
+      "hex": "#101820",
+      "searchText": "raise3d tpu premium tpu-95a black"
+    },
+    {
+      "id": "raise3d-premium-tpu-95a-black-rfid",
+      "brand": "Raise3D",
+      "material": "TPU",
+      "name": "Premium TPU-95A Black - RFID",
+      "hex": "#30312f",
+      "searchText": "raise3d tpu premium tpu-95a black - rfid"
+    },
+    {
+      "id": "raise3d-premium-tpu-95a-natural",
+      "brand": "Raise3D",
+      "material": "TPU",
+      "name": "Premium TPU-95A Natural",
+      "hex": "#d9d8de",
+      "searchText": "raise3d tpu premium tpu-95a natural"
+    },
+    {
+      "id": "raise3d-premium-tpu-95a-natural-rfid",
+      "brand": "Raise3D",
+      "material": "TPU",
+      "name": "Premium TPU-95A Natural - RFID",
+      "hex": "#d9d8de",
+      "searchText": "raise3d tpu premium tpu-95a natural - rfid"
+    },
+    {
+      "id": "raise3d-premium-tpu-95a-white",
+      "brand": "Raise3D",
+      "material": "TPU",
+      "name": "Premium TPU-95A White",
+      "hex": "#f5f5f5",
+      "searchText": "raise3d tpu premium tpu-95a white"
+    },
+    {
+      "id": "raise3d-premium-tpu-95a-white-rfid",
+      "brand": "Raise3D",
+      "material": "TPU",
+      "name": "Premium TPU-95A White - RFID",
+      "hex": "#ffffff",
+      "searchText": "raise3d tpu premium tpu-95a white - rfid"
     },
     {
       "id": "recreus-pet-g-cf-carbon",
