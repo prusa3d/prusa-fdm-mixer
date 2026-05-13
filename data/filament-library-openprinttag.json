@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-05-12T05:31:27.136Z",
-  "entryCount": 10646,
+  "lastSynced": "2026-05-13T05:35:43.587Z",
+  "entryCount": 10928,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -22646,6 +22646,926 @@
       "searchText": "dremel tpu tpu-bla-01 black"
     },
     {
+      "id": "duramic-3d-petg-army-blue",
+      "brand": "Duramic 3D",
+      "material": "PETG",
+      "name": "PETG Army Blue",
+      "hex": "#1f2761",
+      "searchText": "duramic 3d petg petg army blue"
+    },
+    {
+      "id": "duramic-3d-petg-army-green",
+      "brand": "Duramic 3D",
+      "material": "PETG",
+      "name": "PETG Army Green",
+      "hex": "#314a31",
+      "searchText": "duramic 3d petg petg army green"
+    },
+    {
+      "id": "duramic-3d-petg-black",
+      "brand": "Duramic 3D",
+      "material": "PETG",
+      "name": "PETG Black",
+      "hex": "#000000",
+      "searchText": "duramic 3d petg petg black"
+    },
+    {
+      "id": "duramic-3d-petg-blue",
+      "brand": "Duramic 3D",
+      "material": "PETG",
+      "name": "PETG Blue",
+      "hex": "#09048e",
+      "searchText": "duramic 3d petg petg blue"
+    },
+    {
+      "id": "duramic-3d-petg-clear",
+      "brand": "Duramic 3D",
+      "material": "PETG",
+      "name": "PETG Clear",
+      "hex": "#d9d8de",
+      "searchText": "duramic 3d petg petg clear"
+    },
+    {
+      "id": "duramic-3d-petg-cyan-blue",
+      "brand": "Duramic 3D",
+      "material": "PETG",
+      "name": "PETG Cyan Blue",
+      "hex": "#00e3e2",
+      "searchText": "duramic 3d petg petg cyan blue"
+    },
+    {
+      "id": "duramic-3d-petg-electric-blue",
+      "brand": "Duramic 3D",
+      "material": "PETG",
+      "name": "PETG Electric Blue",
+      "hex": "#0378d0",
+      "searchText": "duramic 3d petg petg electric blue"
+    },
+    {
+      "id": "duramic-3d-petg-gold",
+      "brand": "Duramic 3D",
+      "material": "PETG",
+      "name": "PETG Gold",
+      "hex": "#cba613",
+      "searchText": "duramic 3d petg petg gold"
+    },
+    {
+      "id": "duramic-3d-petg-green",
+      "brand": "Duramic 3D",
+      "material": "PETG",
+      "name": "PETG Green",
+      "hex": "#26a648",
+      "searchText": "duramic 3d petg petg green"
+    },
+    {
+      "id": "duramic-3d-petg-grey",
+      "brand": "Duramic 3D",
+      "material": "PETG",
+      "name": "PETG Grey",
+      "hex": "#b2b2b2",
+      "searchText": "duramic 3d petg petg grey"
+    },
+    {
+      "id": "duramic-3d-petg-lime-green",
+      "brand": "Duramic 3D",
+      "material": "PETG",
+      "name": "PETG Lime Green",
+      "hex": "#b5ff30",
+      "searchText": "duramic 3d petg petg lime green"
+    },
+    {
+      "id": "duramic-3d-petg-magenta",
+      "brand": "Duramic 3D",
+      "material": "PETG",
+      "name": "PETG Magenta",
+      "hex": "#fe0194",
+      "searchText": "duramic 3d petg petg magenta"
+    },
+    {
+      "id": "duramic-3d-petg-marble",
+      "brand": "Duramic 3D",
+      "material": "PETG",
+      "name": "PETG Marble",
+      "hex": "#edf0f2",
+      "searchText": "duramic 3d petg petg marble"
+    },
+    {
+      "id": "duramic-3d-petg-orange",
+      "brand": "Duramic 3D",
+      "material": "PETG",
+      "name": "PETG Orange",
+      "hex": "#fe5b00",
+      "searchText": "duramic 3d petg petg orange"
+    },
+    {
+      "id": "duramic-3d-petg-pink",
+      "brand": "Duramic 3D",
+      "material": "PETG",
+      "name": "PETG Pink",
+      "hex": "#f87fb5",
+      "searchText": "duramic 3d petg petg pink"
+    },
+    {
+      "id": "duramic-3d-petg-purple",
+      "brand": "Duramic 3D",
+      "material": "PETG",
+      "name": "PETG Purple",
+      "hex": "#a000ca",
+      "searchText": "duramic 3d petg petg purple"
+    },
+    {
+      "id": "duramic-3d-petg-red",
+      "brand": "Duramic 3D",
+      "material": "PETG",
+      "name": "PETG Red",
+      "hex": "#f00c00",
+      "searchText": "duramic 3d petg petg red"
+    },
+    {
+      "id": "duramic-3d-petg-silver",
+      "brand": "Duramic 3D",
+      "material": "PETG",
+      "name": "PETG Silver",
+      "hex": "#5e6c6f",
+      "searchText": "duramic 3d petg petg silver"
+    },
+    {
+      "id": "duramic-3d-petg-translucent-blue",
+      "brand": "Duramic 3D",
+      "material": "PETG",
+      "name": "PETG Translucent Blue",
+      "hex": "#3f017f",
+      "searchText": "duramic 3d petg petg translucent blue"
+    },
+    {
+      "id": "duramic-3d-petg-translucent-green",
+      "brand": "Duramic 3D",
+      "material": "PETG",
+      "name": "PETG Translucent Green",
+      "hex": "#089a45",
+      "searchText": "duramic 3d petg petg translucent green"
+    },
+    {
+      "id": "duramic-3d-petg-translucent-red",
+      "brand": "Duramic 3D",
+      "material": "PETG",
+      "name": "PETG Translucent Red",
+      "hex": "#c00000",
+      "searchText": "duramic 3d petg petg translucent red"
+    },
+    {
+      "id": "duramic-3d-petg-white",
+      "brand": "Duramic 3D",
+      "material": "PETG",
+      "name": "PETG White",
+      "hex": "#f5f5f5",
+      "searchText": "duramic 3d petg petg white"
+    },
+    {
+      "id": "duramic-3d-petg-yellow",
+      "brand": "Duramic 3D",
+      "material": "PETG",
+      "name": "PETG Yellow",
+      "hex": "#fadb24",
+      "searchText": "duramic 3d petg petg yellow"
+    },
+    {
+      "id": "duramic-3d-matte-pla-beige",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Matte PLA Beige",
+      "hex": "#eccea7",
+      "searchText": "duramic 3d pla matte pla beige"
+    },
+    {
+      "id": "duramic-3d-matte-pla-black",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Matte PLA Black",
+      "hex": "#000000",
+      "searchText": "duramic 3d pla matte pla black"
+    },
+    {
+      "id": "duramic-3d-matte-pla-blue",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Matte PLA Blue",
+      "hex": "#0066d9",
+      "searchText": "duramic 3d pla matte pla blue"
+    },
+    {
+      "id": "duramic-3d-matte-pla-brick-red",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Matte PLA Brick Red",
+      "hex": "#fb637e",
+      "searchText": "duramic 3d pla matte pla brick red"
+    },
+    {
+      "id": "duramic-3d-matte-pla-chocolate",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Matte PLA Chocolate",
+      "hex": "#a67865",
+      "searchText": "duramic 3d pla matte pla chocolate"
+    },
+    {
+      "id": "duramic-3d-matte-pla-cyan-blue",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Matte PLA Cyan Blue",
+      "hex": "#00fede",
+      "searchText": "duramic 3d pla matte pla cyan blue"
+    },
+    {
+      "id": "duramic-3d-matte-pla-dark-blue",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Matte PLA Dark Blue",
+      "hex": "#1f2761",
+      "searchText": "duramic 3d pla matte pla dark blue"
+    },
+    {
+      "id": "duramic-3d-matte-pla-grey",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Matte PLA Grey",
+      "hex": "#9fa4a8",
+      "searchText": "duramic 3d pla matte pla grey"
+    },
+    {
+      "id": "duramic-3d-matte-pla-jeans-blue",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Matte PLA Jeans Blue",
+      "hex": "#8997c4",
+      "searchText": "duramic 3d pla matte pla jeans blue"
+    },
+    {
+      "id": "duramic-3d-matte-pla-light-blue",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Matte PLA Light Blue",
+      "hex": "#66dcf8",
+      "searchText": "duramic 3d pla matte pla light blue"
+    },
+    {
+      "id": "duramic-3d-matte-pla-light-yellow",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Matte PLA Light Yellow",
+      "hex": "#ceff5c",
+      "searchText": "duramic 3d pla matte pla light yellow"
+    },
+    {
+      "id": "duramic-3d-matte-pla-mustard-yellow",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Matte PLA Mustard Yellow",
+      "hex": "#e4e46d",
+      "searchText": "duramic 3d pla matte pla mustard yellow"
+    },
+    {
+      "id": "duramic-3d-matte-pla-olive-green",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Matte PLA Olive Green",
+      "hex": "#6c8c59",
+      "searchText": "duramic 3d pla matte pla olive green"
+    },
+    {
+      "id": "duramic-3d-matte-pla-orange",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Matte PLA Orange",
+      "hex": "#fa7f1b",
+      "searchText": "duramic 3d pla matte pla orange"
+    },
+    {
+      "id": "duramic-3d-matte-pla-pea-green",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Matte PLA Pea Green",
+      "hex": "#0ccf81",
+      "searchText": "duramic 3d pla matte pla pea green"
+    },
+    {
+      "id": "duramic-3d-matte-pla-pink",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Matte PLA Pink",
+      "hex": "#ffb2e1",
+      "searchText": "duramic 3d pla matte pla pink"
+    },
+    {
+      "id": "duramic-3d-matte-pla-purple",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Matte PLA Purple",
+      "hex": "#c075e5",
+      "searchText": "duramic 3d pla matte pla purple"
+    },
+    {
+      "id": "duramic-3d-matte-pla-red",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Matte PLA Red",
+      "hex": "#e31a1f",
+      "searchText": "duramic 3d pla matte pla red"
+    },
+    {
+      "id": "duramic-3d-matte-pla-rust-red",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Matte PLA Rust Red",
+      "hex": "#d41754",
+      "searchText": "duramic 3d pla matte pla rust red"
+    },
+    {
+      "id": "duramic-3d-matte-pla-skin",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Matte PLA Skin",
+      "hex": "#f0ddc2",
+      "searchText": "duramic 3d pla matte pla skin"
+    },
+    {
+      "id": "duramic-3d-matte-pla-white",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Matte PLA White",
+      "hex": "#f5f5f5",
+      "searchText": "duramic 3d pla matte pla white"
+    },
+    {
+      "id": "duramic-3d-matte-pla-wood",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Matte PLA Wood",
+      "hex": "#e6ba83",
+      "searchText": "duramic 3d pla matte pla wood"
+    },
+    {
+      "id": "duramic-3d-matte-pla-yellow",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Matte PLA Yellow",
+      "hex": "#f9e352",
+      "searchText": "duramic 3d pla matte pla yellow"
+    },
+    {
+      "id": "duramic-3d-pla-black",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Black",
+      "hex": "#000000",
+      "searchText": "duramic 3d pla pla black"
+    },
+    {
+      "id": "duramic-3d-pla-blue",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Blue",
+      "hex": "#005eb8",
+      "searchText": "duramic 3d pla pla blue"
+    },
+    {
+      "id": "duramic-3d-pla-bright-yellow",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Bright Yellow",
+      "hex": "#edfe00",
+      "searchText": "duramic 3d pla pla bright yellow"
+    },
+    {
+      "id": "duramic-3d-pla-brown",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Brown",
+      "hex": "#6e4325",
+      "searchText": "duramic 3d pla pla brown"
+    },
+    {
+      "id": "duramic-3d-pla-brownish-green",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Brownish Green",
+      "hex": "#9dba53",
+      "searchText": "duramic 3d pla pla brownish green"
+    },
+    {
+      "id": "duramic-3d-pla-copper",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Copper",
+      "hex": "#7e5421",
+      "searchText": "duramic 3d pla pla copper"
+    },
+    {
+      "id": "duramic-3d-pla-cyan-blue",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Cyan Blue",
+      "hex": "#40e0d0",
+      "searchText": "duramic 3d pla pla cyan blue"
+    },
+    {
+      "id": "duramic-3d-pla-denim-blue",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Denim Blue",
+      "hex": "#41658c",
+      "searchText": "duramic 3d pla pla denim blue"
+    },
+    {
+      "id": "duramic-3d-pla-electric-blue",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Electric Blue",
+      "hex": "#0099e6",
+      "searchText": "duramic 3d pla pla electric blue"
+    },
+    {
+      "id": "duramic-3d-pla-forest-green",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Forest Green",
+      "hex": "#15817b",
+      "searchText": "duramic 3d pla pla forest green"
+    },
+    {
+      "id": "duramic-3d-pla-green",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Green",
+      "hex": "#00c26b",
+      "searchText": "duramic 3d pla pla green"
+    },
+    {
+      "id": "duramic-3d-pla-grey",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Grey",
+      "hex": "#b2b2b2",
+      "searchText": "duramic 3d pla pla grey"
+    },
+    {
+      "id": "duramic-3d-pla-light-brown",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Light Brown",
+      "hex": "#da995f",
+      "searchText": "duramic 3d pla pla light brown"
+    },
+    {
+      "id": "duramic-3d-pla-light-green",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Light Green",
+      "hex": "#5aeb90",
+      "searchText": "duramic 3d pla pla light green"
+    },
+    {
+      "id": "duramic-3d-pla-lime-green",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Lime Green",
+      "hex": "#9aed51",
+      "searchText": "duramic 3d pla pla lime green"
+    },
+    {
+      "id": "duramic-3d-pla-marble",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Marble",
+      "hex": "#e8e8e6",
+      "searchText": "duramic 3d pla pla marble"
+    },
+    {
+      "id": "duramic-3d-pla-olive-green",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Olive Green",
+      "hex": "#41a840",
+      "searchText": "duramic 3d pla pla olive green"
+    },
+    {
+      "id": "duramic-3d-pla-orange",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Orange",
+      "hex": "#fa8423",
+      "searchText": "duramic 3d pla pla orange"
+    },
+    {
+      "id": "duramic-3d-pla-pink",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Pink",
+      "hex": "#f87fb5",
+      "searchText": "duramic 3d pla pla pink"
+    },
+    {
+      "id": "duramic-3d-pla-plus-black",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Plus Black",
+      "hex": "#000000",
+      "searchText": "duramic 3d pla pla plus black"
+    },
+    {
+      "id": "duramic-3d-pla-plus-blue",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Plus Blue",
+      "hex": "#005eb8",
+      "searchText": "duramic 3d pla pla plus blue"
+    },
+    {
+      "id": "duramic-3d-pla-plus-brick-red",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Plus Brick Red",
+      "hex": "#fc496d",
+      "searchText": "duramic 3d pla pla plus brick red"
+    },
+    {
+      "id": "duramic-3d-pla-plus-brown",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Plus Brown",
+      "hex": "#6e4325",
+      "searchText": "duramic 3d pla pla plus brown"
+    },
+    {
+      "id": "duramic-3d-pla-plus-brownish-green",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Plus Brownish Green",
+      "hex": "#79c000",
+      "searchText": "duramic 3d pla pla plus brownish green"
+    },
+    {
+      "id": "duramic-3d-pla-plus-cyan-blue",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Plus Cyan Blue",
+      "hex": "#6fe2d2",
+      "searchText": "duramic 3d pla pla plus cyan blue"
+    },
+    {
+      "id": "duramic-3d-pla-plus-denim-blue",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Plus Denim Blue",
+      "hex": "#538eab",
+      "searchText": "duramic 3d pla pla plus denim blue"
+    },
+    {
+      "id": "duramic-3d-pla-plus-electric-blue",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Plus Electric Blue",
+      "hex": "#0378d0",
+      "searchText": "duramic 3d pla pla plus electric blue"
+    },
+    {
+      "id": "duramic-3d-pla-plus-green",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Plus Green",
+      "hex": "#26a648",
+      "searchText": "duramic 3d pla pla plus green"
+    },
+    {
+      "id": "duramic-3d-pla-plus-grey",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Plus Grey",
+      "hex": "#9f9f9f",
+      "searchText": "duramic 3d pla pla plus grey"
+    },
+    {
+      "id": "duramic-3d-pla-plus-light-blue",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Plus Light Blue",
+      "hex": "#39b9db",
+      "searchText": "duramic 3d pla pla plus light blue"
+    },
+    {
+      "id": "duramic-3d-pla-plus-light-brown",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Plus Light Brown",
+      "hex": "#da995f",
+      "searchText": "duramic 3d pla pla plus light brown"
+    },
+    {
+      "id": "duramic-3d-pla-plus-marble",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Plus Marble",
+      "hex": "#eaecf5",
+      "searchText": "duramic 3d pla pla plus marble"
+    },
+    {
+      "id": "duramic-3d-pla-plus-orange",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Plus Orange",
+      "hex": "#ff8400",
+      "searchText": "duramic 3d pla pla plus orange"
+    },
+    {
+      "id": "duramic-3d-pla-plus-purple",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Plus Purple",
+      "hex": "#8d078c",
+      "searchText": "duramic 3d pla pla plus purple"
+    },
+    {
+      "id": "duramic-3d-pla-plus-red",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Plus Red",
+      "hex": "#e31a1f",
+      "searchText": "duramic 3d pla pla plus red"
+    },
+    {
+      "id": "duramic-3d-pla-plus-rouge-red",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Plus Rouge Red",
+      "hex": "#e31a1f",
+      "searchText": "duramic 3d pla pla plus rouge red"
+    },
+    {
+      "id": "duramic-3d-pla-plus-silver",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Plus Silver",
+      "hex": "#5e6c6f",
+      "searchText": "duramic 3d pla pla plus silver"
+    },
+    {
+      "id": "duramic-3d-pla-plus-white",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Plus White",
+      "hex": "#f5f5f5",
+      "searchText": "duramic 3d pla pla plus white"
+    },
+    {
+      "id": "duramic-3d-pla-plus-wine-red",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Plus Wine Red",
+      "hex": "#ca0230",
+      "searchText": "duramic 3d pla pla plus wine red"
+    },
+    {
+      "id": "duramic-3d-pla-plus-yellow",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Plus Yellow",
+      "hex": "#fce300",
+      "searchText": "duramic 3d pla pla plus yellow"
+    },
+    {
+      "id": "duramic-3d-pla-purple",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Purple",
+      "hex": "#9678c8",
+      "searchText": "duramic 3d pla pla purple"
+    },
+    {
+      "id": "duramic-3d-pla-red",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Red",
+      "hex": "#ec0000",
+      "searchText": "duramic 3d pla pla red"
+    },
+    {
+      "id": "duramic-3d-pla-rough-red",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Rough Red",
+      "hex": "#e31a1f",
+      "searchText": "duramic 3d pla pla rough red"
+    },
+    {
+      "id": "duramic-3d-pla-silver",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Silver",
+      "hex": "#5e6c6f",
+      "searchText": "duramic 3d pla pla silver"
+    },
+    {
+      "id": "duramic-3d-pla-smoky-gray",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Smoky Gray",
+      "hex": "#808080",
+      "searchText": "duramic 3d pla pla smoky gray"
+    },
+    {
+      "id": "duramic-3d-pla-water-blue",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA Water Blue",
+      "hex": "#8ad8ed",
+      "searchText": "duramic 3d pla pla water blue"
+    },
+    {
+      "id": "duramic-3d-pla-white",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "PLA White",
+      "hex": "#e8e8e6",
+      "searchText": "duramic 3d pla pla white"
+    },
+    {
+      "id": "duramic-3d-shiny-silk-pla-copper",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Shiny Silk PLA Copper",
+      "hex": "#cb5b4a",
+      "searchText": "duramic 3d pla shiny silk pla copper"
+    },
+    {
+      "id": "duramic-3d-silk-pla-blue",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Silk PLA Blue",
+      "hex": "#354ae1",
+      "searchText": "duramic 3d pla silk pla blue"
+    },
+    {
+      "id": "duramic-3d-silk-pla-green",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Silk PLA Green",
+      "hex": "#00b475",
+      "searchText": "duramic 3d pla silk pla green"
+    },
+    {
+      "id": "duramic-3d-silk-pla-magenta",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Silk PLA Magenta",
+      "hex": "#e80078",
+      "searchText": "duramic 3d pla silk pla magenta"
+    },
+    {
+      "id": "duramic-3d-silk-pla-neon-green",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Silk PLA Neon Green",
+      "hex": "#70fa00",
+      "searchText": "duramic 3d pla silk pla neon green"
+    },
+    {
+      "id": "duramic-3d-silk-pla-purple",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Silk PLA Purple",
+      "hex": "#7701b2",
+      "searchText": "duramic 3d pla silk pla purple"
+    },
+    {
+      "id": "duramic-3d-silk-pla-red",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Silk PLA Red",
+      "hex": "#ff0039",
+      "searchText": "duramic 3d pla silk pla red"
+    },
+    {
+      "id": "duramic-3d-silk-pla-royal-gold",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Silk PLA Royal Gold",
+      "hex": "#f3bc00",
+      "searchText": "duramic 3d pla silk pla royal gold"
+    },
+    {
+      "id": "duramic-3d-silk-pla-silver",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Silk PLA Silver",
+      "hex": "#818184",
+      "searchText": "duramic 3d pla silk pla silver"
+    },
+    {
+      "id": "duramic-3d-silk-pla-white",
+      "brand": "Duramic 3D",
+      "material": "PLA",
+      "name": "Silk PLA White",
+      "hex": "#e8e8e6",
+      "searchText": "duramic 3d pla silk pla white"
+    },
+    {
+      "id": "duramic-3d-tpu-95a-black",
+      "brand": "Duramic 3D",
+      "material": "TPU",
+      "name": "TPU 95A Black",
+      "hex": "#000000",
+      "searchText": "duramic 3d tpu tpu 95a black"
+    },
+    {
+      "id": "duramic-3d-tpu-95a-blue",
+      "brand": "Duramic 3D",
+      "material": "TPU",
+      "name": "TPU 95A Blue",
+      "hex": "#09048e",
+      "searchText": "duramic 3d tpu tpu 95a blue"
+    },
+    {
+      "id": "duramic-3d-tpu-95a-clear",
+      "brand": "Duramic 3D",
+      "material": "TPU",
+      "name": "TPU 95A Clear",
+      "hex": "#d9d8de",
+      "searchText": "duramic 3d tpu tpu 95a clear"
+    },
+    {
+      "id": "duramic-3d-tpu-95a-electric-blue",
+      "brand": "Duramic 3D",
+      "material": "TPU",
+      "name": "TPU 95A Electric Blue",
+      "hex": "#0066d9",
+      "searchText": "duramic 3d tpu tpu 95a electric blue"
+    },
+    {
+      "id": "duramic-3d-tpu-95a-green",
+      "brand": "Duramic 3D",
+      "material": "TPU",
+      "name": "TPU 95A Green",
+      "hex": "#38c04e",
+      "searchText": "duramic 3d tpu tpu 95a green"
+    },
+    {
+      "id": "duramic-3d-tpu-95a-grey",
+      "brand": "Duramic 3D",
+      "material": "TPU",
+      "name": "TPU 95A Grey",
+      "hex": "#949a9e",
+      "searchText": "duramic 3d tpu tpu 95a grey"
+    },
+    {
+      "id": "duramic-3d-tpu-95a-orange",
+      "brand": "Duramic 3D",
+      "material": "TPU",
+      "name": "TPU 95A Orange",
+      "hex": "#ff6600",
+      "searchText": "duramic 3d tpu tpu 95a orange"
+    },
+    {
+      "id": "duramic-3d-tpu-95a-purple",
+      "brand": "Duramic 3D",
+      "material": "TPU",
+      "name": "TPU 95A Purple",
+      "hex": "#992f9f",
+      "searchText": "duramic 3d tpu tpu 95a purple"
+    },
+    {
+      "id": "duramic-3d-tpu-95a-red",
+      "brand": "Duramic 3D",
+      "material": "TPU",
+      "name": "TPU 95A Red",
+      "hex": "#ff0000",
+      "searchText": "duramic 3d tpu tpu 95a red"
+    },
+    {
+      "id": "duramic-3d-tpu-95a-silver",
+      "brand": "Duramic 3D",
+      "material": "TPU",
+      "name": "TPU 95A Silver",
+      "hex": "#5e6c6f",
+      "searchText": "duramic 3d tpu tpu 95a silver"
+    },
+    {
+      "id": "duramic-3d-tpu-95a-white",
+      "brand": "Duramic 3D",
+      "material": "TPU",
+      "name": "TPU 95A White",
+      "hex": "#f5f5f5",
+      "searchText": "duramic 3d tpu tpu 95a white"
+    },
+    {
+      "id": "duramic-3d-tpu-95a-yellow",
+      "brand": "Duramic 3D",
+      "material": "TPU",
+      "name": "TPU 95A Yellow",
+      "hex": "#ffe900",
+      "searchText": "duramic 3d tpu tpu 95a yellow"
+    },
+    {
       "id": "econofil-carbon-fiber-petg-black",
       "brand": "EconoFil",
       "material": "PETG",
@@ -44948,6 +45868,1342 @@
       "name": "Yellow PLA+",
       "hex": "#fad61b",
       "searchText": "jayo pla yellow pla+"
+    },
+    {
+      "id": "kexcelled-the-k5-abs",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS",
+      "hex": "#0c0e0c",
+      "searchText": "kexcelled abs the k5™ abs"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-azure",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Azure",
+      "hex": "#4fa3de",
+      "searchText": "kexcelled abs the k5™ abs azure"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-beige",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Beige",
+      "hex": "#dac7a0",
+      "searchText": "kexcelled abs the k5™ abs beige"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-blue",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Blue",
+      "hex": "#00358e",
+      "searchText": "kexcelled abs the k5™ abs blue"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-bronze",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Bronze",
+      "hex": "#75643e",
+      "searchText": "kexcelled abs the k5™ abs bronze"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-brown",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Brown",
+      "hex": "#b85b48",
+      "searchText": "kexcelled abs the k5™ abs brown"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-chocolate",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Chocolate",
+      "hex": "#462b2e",
+      "searchText": "kexcelled abs the k5™ abs chocolate"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-coffee-gray",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Coffee Gray",
+      "hex": "#875117",
+      "searchText": "kexcelled abs the k5™ abs coffee gray"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-copper",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Copper",
+      "hex": "#7e5421",
+      "searchText": "kexcelled abs the k5™ abs copper"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-cyan",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Cyan",
+      "hex": "#67d8bc",
+      "searchText": "kexcelled abs the k5™ abs cyan"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-dark-green",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Dark Green",
+      "hex": "#065b4a",
+      "searchText": "kexcelled abs the k5™ abs dark green"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-fire-engine-red",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Fire Engine Red",
+      "hex": "#7a282e",
+      "searchText": "kexcelled abs the k5™ abs fire engine red"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-fluorescent-green",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Fluorescent Green",
+      "hex": "#57e845",
+      "searchText": "kexcelled abs the k5™ abs fluorescent green"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-gold",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Gold",
+      "hex": "#ce9f2e",
+      "searchText": "kexcelled abs the k5™ abs gold"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-gray",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Gray",
+      "hex": "#a0a0a0",
+      "searchText": "kexcelled abs the k5™ abs gray"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-gray-blue",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Gray Blue",
+      "hex": "#85898b",
+      "searchText": "kexcelled abs the k5™ abs gray blue"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-green",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Green",
+      "hex": "#06924d",
+      "searchText": "kexcelled abs the k5™ abs green"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-lake-blue",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Lake Blue",
+      "hex": "#0074bc",
+      "searchText": "kexcelled abs the k5™ abs lake blue"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-lavender",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Lavender",
+      "hex": "#a000ca",
+      "searchText": "kexcelled abs the k5™ abs lavender"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-natural",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Natural",
+      "hex": "#f1e9e0",
+      "searchText": "kexcelled abs the k5™ abs natural"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-navy",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Navy",
+      "hex": "#0d2441",
+      "searchText": "kexcelled abs the k5™ abs navy"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-olive",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Olive",
+      "hex": "#658946",
+      "searchText": "kexcelled abs the k5™ abs olive"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-orange",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Orange",
+      "hex": "#eb6232",
+      "searchText": "kexcelled abs the k5™ abs orange"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-peacock-blue",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Peacock Blue",
+      "hex": "#0097a9",
+      "searchText": "kexcelled abs the k5™ abs peacock blue"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-peak-green",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Peak Green",
+      "hex": "#b9e972",
+      "searchText": "kexcelled abs the k5™ abs peak green"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-pink",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Pink",
+      "hex": "#fb637e",
+      "searchText": "kexcelled abs the k5™ abs pink"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-purple",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Purple",
+      "hex": "#9b1983",
+      "searchText": "kexcelled abs the k5™ abs purple"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-red",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Red",
+      "hex": "#d21b31",
+      "searchText": "kexcelled abs the k5™ abs red"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-silver",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Silver",
+      "hex": "#bcbabb",
+      "searchText": "kexcelled abs the k5™ abs silver"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-skin",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Skin",
+      "hex": "#e9d1c1",
+      "searchText": "kexcelled abs the k5™ abs skin"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-sky-blue",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Sky Blue",
+      "hex": "#40b6e4",
+      "searchText": "kexcelled abs the k5™ abs sky blue"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-tangerine-yellow",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Tangerine Yellow",
+      "hex": "#f4c032",
+      "searchText": "kexcelled abs the k5™ abs tangerine yellow"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-white",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS White",
+      "hex": "#efefef",
+      "searchText": "kexcelled abs the k5™ abs white"
+    },
+    {
+      "id": "kexcelled-the-k5-abs-yellow",
+      "brand": "kexcelled",
+      "material": "ABS",
+      "name": "THE K5™ ABS Yellow",
+      "hex": "#fce300",
+      "searchText": "kexcelled abs the k5™ abs yellow"
+    },
+    {
+      "id": "kexcelled-the-k8-pa-cf-black",
+      "brand": "kexcelled",
+      "material": "PA12",
+      "name": "THE K8™ PA CF Black",
+      "hex": "#0c0e0c",
+      "searchText": "kexcelled pa12 the k8™ pa cf black"
+    },
+    {
+      "id": "kexcelled-the-k8-pc-black",
+      "brand": "kexcelled",
+      "material": "PC",
+      "name": "THE K8™ PC Black",
+      "hex": "#000000",
+      "searchText": "kexcelled pc the k8™ pc black"
+    },
+    {
+      "id": "kexcelled-the-k8-pc-transparent-black",
+      "brand": "kexcelled",
+      "material": "PC",
+      "name": "THE K8™ PC Transparent Black",
+      "hex": "#45444a",
+      "searchText": "kexcelled pc the k8™ pc transparent black"
+    },
+    {
+      "id": "kexcelled-the-k8-pc-transparent-white",
+      "brand": "kexcelled",
+      "material": "PC",
+      "name": "THE K8™ PC Transparent White",
+      "hex": "#eff0f1",
+      "searchText": "kexcelled pc the k8™ pc transparent white"
+    },
+    {
+      "id": "kexcelled-the-k8-pc-white",
+      "brand": "kexcelled",
+      "material": "PC",
+      "name": "THE K8™ PC White",
+      "hex": "#f5f5f5",
+      "searchText": "kexcelled pc the k8™ pc white"
+    },
+    {
+      "id": "kexcelled-the-k9-pc-fr-black",
+      "brand": "kexcelled",
+      "material": "PC",
+      "name": "THE K9™ PC FR Black",
+      "hex": "#000000",
+      "searchText": "kexcelled pc the k9™ pc fr black"
+    },
+    {
+      "id": "kexcelled-the-k9-pc-fr-white",
+      "brand": "kexcelled",
+      "material": "PC",
+      "name": "THE K9™ PC FR White",
+      "hex": "#e9e9e7",
+      "searchText": "kexcelled pc the k9™ pc fr white"
+    },
+    {
+      "id": "kexcelled-the-k7-pet-cf10-black",
+      "brand": "kexcelled",
+      "material": "PET",
+      "name": "THE K7™ PET CF10 Black",
+      "hex": "#000000",
+      "searchText": "kexcelled pet the k7™ pet cf10 black"
+    },
+    {
+      "id": "kexcelled-the-k5-petg",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG",
+      "hex": "#a0a0a0",
+      "searchText": "kexcelled petg the k5™ petg"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-black",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Black",
+      "hex": "#101820",
+      "searchText": "kexcelled petg the k5™ petg black"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-blue",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Blue",
+      "hex": "#00358e",
+      "searchText": "kexcelled petg the k5™ petg blue"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-blue-purple",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Blue Purple",
+      "hex": "#6c47b2",
+      "searchText": "kexcelled petg the k5™ petg blue purple"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-bosch-blue-green",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Bosch Blue Green",
+      "hex": "#244852",
+      "searchText": "kexcelled petg the k5™ petg bosch blue green"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-bronze",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Bronze",
+      "hex": "#8c7354",
+      "searchText": "kexcelled petg the k5™ petg bronze"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-brown",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Brown",
+      "hex": "#9f563e",
+      "searchText": "kexcelled petg the k5™ petg brown"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-cf-black",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG CF Black",
+      "hex": "#000000",
+      "searchText": "kexcelled petg the k5™ petg cf black"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-chocolate",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Chocolate",
+      "hex": "#462f32",
+      "searchText": "kexcelled petg the k5™ petg chocolate"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-copper",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Copper",
+      "hex": "#926e4d",
+      "searchText": "kexcelled petg the k5™ petg copper"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-cyan",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Cyan",
+      "hex": "#95d2b8",
+      "searchText": "kexcelled petg the k5™ petg cyan"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-dark-green",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Dark Green",
+      "hex": "#006272",
+      "searchText": "kexcelled petg the k5™ petg dark green"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-dark-yellow",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Dark Yellow",
+      "hex": "#ffb200",
+      "searchText": "kexcelled petg the k5™ petg dark yellow"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-dewalt-yellow",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Dewalt Yellow",
+      "hex": "#fea853",
+      "searchText": "kexcelled petg the k5™ petg dewalt yellow"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-diffuse-clear-white",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Diffuse Clear White",
+      "hex": "#d9d8de",
+      "searchText": "kexcelled petg the k5™ petg diffuse clear white"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-fluorescent-green",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Fluorescent Green",
+      "hex": "#33ff00",
+      "searchText": "kexcelled petg the k5™ petg fluorescent green"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-gf-black",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG GF Black",
+      "hex": "#000000",
+      "searchText": "kexcelled petg the k5™ petg gf black"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-gf-gray-lilac",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG GF Gray Lilac",
+      "hex": "#d5c9cd",
+      "searchText": "kexcelled petg the k5™ petg gf gray lilac"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-gf-leek-green",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG GF Leek Green",
+      "hex": "#b8b179",
+      "searchText": "kexcelled petg the k5™ petg gf leek green"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-gf-love-bird",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG GF Love Bird",
+      "hex": "#c1dc35",
+      "searchText": "kexcelled petg the k5™ petg gf love bird"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-gf-macchiato",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG GF Macchiato",
+      "hex": "#ac8266",
+      "searchText": "kexcelled petg the k5™ petg gf macchiato"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-gf-skylight",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG GF Skylight",
+      "hex": "#c5e2de",
+      "searchText": "kexcelled petg the k5™ petg gf skylight"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-gf-summer-song",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG GF Summer Song",
+      "hex": "#9ec3dd",
+      "searchText": "kexcelled petg the k5™ petg gf summer song"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-gf-vanilla-cream",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG GF Vanilla Cream",
+      "hex": "#f4d7c6",
+      "searchText": "kexcelled petg the k5™ petg gf vanilla cream"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-gf-white",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG GF White",
+      "hex": "#f5f5f5",
+      "searchText": "kexcelled petg the k5™ petg gf white"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-gold",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Gold",
+      "hex": "#ce9f2e",
+      "searchText": "kexcelled petg the k5™ petg gold"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-grass-green",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Grass Green",
+      "hex": "#43b02a",
+      "searchText": "kexcelled petg the k5™ petg grass green"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-gray-blue",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Gray Blue",
+      "hex": "#4d5e70",
+      "searchText": "kexcelled petg the k5™ petg gray blue"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-green",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Green",
+      "hex": "#636e5d",
+      "searchText": "kexcelled petg the k5™ petg green"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-lake-blue",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Lake Blue",
+      "hex": "#005eb8",
+      "searchText": "kexcelled petg the k5™ petg lake blue"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-light-brown",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Light Brown",
+      "hex": "#d18136",
+      "searchText": "kexcelled petg the k5™ petg light brown"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-light-orange",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Light Orange",
+      "hex": "#ff6a13",
+      "searchText": "kexcelled petg the k5™ petg light orange"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-light-purple",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Light Purple",
+      "hex": "#9684cb",
+      "searchText": "kexcelled petg the k5™ petg light purple"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-m-army-green",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG M Army Green",
+      "hex": "#3d553b",
+      "searchText": "kexcelled petg the k5™ petg m army green"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-m-black",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG M Black",
+      "hex": "#000000",
+      "searchText": "kexcelled petg the k5™ petg m black"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-m-butter-yellow",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG M Butter Yellow",
+      "hex": "#c3b48b",
+      "searchText": "kexcelled petg the k5™ petg m butter yellow"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-m-caramel-orange",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG M Caramel Orange",
+      "hex": "#b38f6e",
+      "searchText": "kexcelled petg the k5™ petg m caramel orange"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-m-chelsea-red",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG M Chelsea Red",
+      "hex": "#611a1f",
+      "searchText": "kexcelled petg the k5™ petg m chelsea red"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-m-chocolate",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG M Chocolate",
+      "hex": "#593729",
+      "searchText": "kexcelled petg the k5™ petg m chocolate"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-m-dark-blue",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG M Dark Blue",
+      "hex": "#282d42",
+      "searchText": "kexcelled petg the k5™ petg m dark blue"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-m-ethereal-blue",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG M Ethereal Blue",
+      "hex": "#b5bccf",
+      "searchText": "kexcelled petg the k5™ petg m ethereal blue"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-m-golden-wheat-yellow",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG M Golden Wheat Yellow",
+      "hex": "#efdc4c",
+      "searchText": "kexcelled petg the k5™ petg m golden wheat yellow"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-m-grayish-purple",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG M Grayish Purple",
+      "hex": "#70687d",
+      "searchText": "kexcelled petg the k5™ petg m grayish purple"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-m-misty-blue",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG M Misty Blue",
+      "hex": "#5e6f83",
+      "searchText": "kexcelled petg the k5™ petg m misty blue"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-m-pale-dogwood",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG M Pale Dogwood",
+      "hex": "#dcbec0",
+      "searchText": "kexcelled petg the k5™ petg m pale dogwood"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-m-sage-green",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG M Sage Green",
+      "hex": "#b3c2ab",
+      "searchText": "kexcelled petg the k5™ petg m sage green"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-m-skin",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG M Skin",
+      "hex": "#e4cfbb",
+      "searchText": "kexcelled petg the k5™ petg m skin"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-m-warm-gray",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG M Warm Gray",
+      "hex": "#c9c6bf",
+      "searchText": "kexcelled petg the k5™ petg m warm gray"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-m-white",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG M White",
+      "hex": "#efefef",
+      "searchText": "kexcelled petg the k5™ petg m white"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-natural",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Natural",
+      "hex": "#f1f0ea",
+      "searchText": "kexcelled petg the k5™ petg natural"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-orange",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Orange",
+      "hex": "#ff6600",
+      "searchText": "kexcelled petg the k5™ petg orange"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-peacock-blue",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Peacock Blue",
+      "hex": "#39b9db",
+      "searchText": "kexcelled petg the k5™ petg peacock blue"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-peak-green",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Peak Green",
+      "hex": "#b5db76",
+      "searchText": "kexcelled petg the k5™ petg peak green"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-pink",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Pink",
+      "hex": "#ff8da1",
+      "searchText": "kexcelled petg the k5™ petg pink"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-pinkish-blue",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Pinkish Blue",
+      "hex": "#77d3dd",
+      "searchText": "kexcelled petg the k5™ petg pinkish blue"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-purple",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Purple",
+      "hex": "#a51890",
+      "searchText": "kexcelled petg the k5™ petg purple"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-rapid-black",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Rapid Black",
+      "hex": "#000000",
+      "searchText": "kexcelled petg the k5™ petg rapid black"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-rapid-blue",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Rapid Blue",
+      "hex": "#183681",
+      "searchText": "kexcelled petg the k5™ petg rapid blue"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-rapid-clear-white",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Rapid Clear White",
+      "hex": "#d6d7d8",
+      "searchText": "kexcelled petg the k5™ petg rapid clear white"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-rapid-cream-green",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Rapid Cream Green",
+      "hex": "#e1ebb6",
+      "searchText": "kexcelled petg the k5™ petg rapid cream green"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-rapid-gray",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Rapid Gray",
+      "hex": "#a3a3a0",
+      "searchText": "kexcelled petg the k5™ petg rapid gray"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-rapid-mint-blue",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Rapid Mint Blue",
+      "hex": "#5fc7cf",
+      "searchText": "kexcelled petg the k5™ petg rapid mint blue"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-rapid-mist-purple",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Rapid Mist Purple",
+      "hex": "#7659b5",
+      "searchText": "kexcelled petg the k5™ petg rapid mist purple"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-rapid-mocha-brown",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Rapid Mocha Brown",
+      "hex": "#6e4325",
+      "searchText": "kexcelled petg the k5™ petg rapid mocha brown"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-rapid-moss-green",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Rapid Moss Green",
+      "hex": "#0f330d",
+      "searchText": "kexcelled petg the k5™ petg rapid moss green"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-rapid-nude-pink",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Rapid Nude Pink",
+      "hex": "#e5d4c7",
+      "searchText": "kexcelled petg the k5™ petg rapid nude pink"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-rapid-red",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Rapid Red",
+      "hex": "#bf2b2b",
+      "searchText": "kexcelled petg the k5™ petg rapid red"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-rapid-soft-pink",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Rapid Soft Pink",
+      "hex": "#e3b8ba",
+      "searchText": "kexcelled petg the k5™ petg rapid soft pink"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-rapid-sunset-orange",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Rapid Sunset Orange",
+      "hex": "#ff7338",
+      "searchText": "kexcelled petg the k5™ petg rapid sunset orange"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-rapid-white",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Rapid White",
+      "hex": "#f5f5f5",
+      "searchText": "kexcelled petg the k5™ petg rapid white"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-rapid-yellow",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Rapid Yellow",
+      "hex": "#efd00b",
+      "searchText": "kexcelled petg the k5™ petg rapid yellow"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-red",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Red",
+      "hex": "#ef3340",
+      "searchText": "kexcelled petg the k5™ petg red"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-shade-white",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Shade White",
+      "hex": "#e9e9e7",
+      "searchText": "kexcelled petg the k5™ petg shade white"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-silver",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Silver",
+      "hex": "#bcbabb",
+      "searchText": "kexcelled petg the k5™ petg silver"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-skin",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Skin",
+      "hex": "#f4e6cf",
+      "searchText": "kexcelled petg the k5™ petg skin"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-transparent-black",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Transparent Black",
+      "hex": "#5a5e60",
+      "searchText": "kexcelled petg the k5™ petg transparent black"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-transparent-brown",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Transparent Brown",
+      "hex": "#5e3834",
+      "searchText": "kexcelled petg the k5™ petg transparent brown"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-transparent-dark-green",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Transparent Dark Green",
+      "hex": "#358b49",
+      "searchText": "kexcelled petg the k5™ petg transparent dark green"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-transparent-orange",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Transparent Orange",
+      "hex": "#da893d",
+      "searchText": "kexcelled petg the k5™ petg transparent orange"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-transparent-pink",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Transparent Pink",
+      "hex": "#eaadbd",
+      "searchText": "kexcelled petg the k5™ petg transparent pink"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-transparent-red",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Transparent Red",
+      "hex": "#c01616",
+      "searchText": "kexcelled petg the k5™ petg transparent red"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-transparent-silk-blue",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Transparent Silk Blue",
+      "hex": "#8ad8ed",
+      "searchText": "kexcelled petg the k5™ petg transparent silk blue"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-transparent-white",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Transparent White",
+      "hex": "#d9dfe5",
+      "searchText": "kexcelled petg the k5™ petg transparent white"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-transparent-yellow",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Transparent Yellow",
+      "hex": "#efe165",
+      "searchText": "kexcelled petg the k5™ petg transparent yellow"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-white",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG White",
+      "hex": "#f5f5f5",
+      "searchText": "kexcelled petg the k5™ petg white"
+    },
+    {
+      "id": "kexcelled-the-k5-petg-yellow",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K5™ PETG Yellow",
+      "hex": "#fedf00",
+      "searchText": "kexcelled petg the k5™ petg yellow"
+    },
+    {
+      "id": "kexcelled-the-k6-petg-clear-white",
+      "brand": "kexcelled",
+      "material": "PETG",
+      "name": "THE K6™ PETG Clear White",
+      "hex": "#e4e7e5",
+      "searchText": "kexcelled petg the k6™ petg clear white"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-black",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Black",
+      "hex": "#000000",
+      "searchText": "kexcelled pla the k5™ pla black"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-blood-red",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Blood Red",
+      "hex": "#ad0028",
+      "searchText": "kexcelled pla the k5™ pla blood red"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-blue",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Blue",
+      "hex": "#0353ba",
+      "searchText": "kexcelled pla the k5™ pla blue"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-blue-purple",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Blue Purple",
+      "hex": "#7b49a2",
+      "searchText": "kexcelled pla the k5™ pla blue purple"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-blueish-green",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Blueish Green",
+      "hex": "#00b475",
+      "searchText": "kexcelled pla the k5™ pla blueish green"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-bronze",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Bronze",
+      "hex": "#a18d5a",
+      "searchText": "kexcelled pla the k5™ pla bronze"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-brown",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Brown",
+      "hex": "#9f563e",
+      "searchText": "kexcelled pla the k5™ pla brown"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-chocolate",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Chocolate",
+      "hex": "#5e3834",
+      "searchText": "kexcelled pla the k5™ pla chocolate"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-copper",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Copper",
+      "hex": "#af784d",
+      "searchText": "kexcelled pla the k5™ pla copper"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-cyan",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Cyan",
+      "hex": "#86cea6",
+      "searchText": "kexcelled pla the k5™ pla cyan"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-dark-green",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Dark Green",
+      "hex": "#34695a",
+      "searchText": "kexcelled pla the k5™ pla dark green"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-dark-yellow",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Dark Yellow",
+      "hex": "#ffb031",
+      "searchText": "kexcelled pla the k5™ pla dark yellow"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-fluorescent-green",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Fluorescent Green",
+      "hex": "#85f376",
+      "searchText": "kexcelled pla the k5™ pla fluorescent green"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-fluorescent-orange",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Fluorescent Orange",
+      "hex": "#ff7338",
+      "searchText": "kexcelled pla the k5™ pla fluorescent orange"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-fluorescent-yellow",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Fluorescent Yellow",
+      "hex": "#eeea44",
+      "searchText": "kexcelled pla the k5™ pla fluorescent yellow"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-forest-green",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Forest Green",
+      "hex": "#636e5d",
+      "searchText": "kexcelled pla the k5™ pla forest green"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-gold",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Gold",
+      "hex": "#e1ad60",
+      "searchText": "kexcelled pla the k5™ pla gold"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-grass-green",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Grass Green",
+      "hex": "#9ad24b",
+      "searchText": "kexcelled pla the k5™ pla grass green"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-gray",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Gray",
+      "hex": "#b6b6b6",
+      "searchText": "kexcelled pla the k5™ pla gray"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-gray-blue",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Gray Blue",
+      "hex": "#7a838e",
+      "searchText": "kexcelled pla the k5™ pla gray blue"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-green",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Green",
+      "hex": "#1daf5e",
+      "searchText": "kexcelled pla the k5™ pla green"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-lake-blue",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Lake Blue",
+      "hex": "#338cc7",
+      "searchText": "kexcelled pla the k5™ pla lake blue"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-light-brown",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Light Brown",
+      "hex": "#da893d",
+      "searchText": "kexcelled pla the k5™ pla light brown"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-light-orange",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Light Orange",
+      "hex": "#ff9a44",
+      "searchText": "kexcelled pla the k5™ pla light orange"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-light-purple",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Light Purple",
+      "hex": "#8876ba",
+      "searchText": "kexcelled pla the k5™ pla light purple"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-natural",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Natural",
+      "hex": "#d9d4c6",
+      "searchText": "kexcelled pla the k5™ pla natural"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-off-white",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Off-White",
+      "hex": "#d6d7d8",
+      "searchText": "kexcelled pla the k5™ pla off-white"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-orange",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Orange",
+      "hex": "#ff8b47",
+      "searchText": "kexcelled pla the k5™ pla orange"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-peacock-blue",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Peacock Blue",
+      "hex": "#1498a1",
+      "searchText": "kexcelled pla the k5™ pla peacock blue"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-peak-green",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Peak Green",
+      "hex": "#d0e081",
+      "searchText": "kexcelled pla the k5™ pla peak green"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-pink",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Pink",
+      "hex": "#ff7d7a",
+      "searchText": "kexcelled pla the k5™ pla pink"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-pinkish-blue",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Pinkish Blue",
+      "hex": "#60d1cc",
+      "searchText": "kexcelled pla the k5™ pla pinkish blue"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-purple",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Purple",
+      "hex": "#c63f98",
+      "searchText": "kexcelled pla the k5™ pla purple"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-silver",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Silver",
+      "hex": "#bcbabb",
+      "searchText": "kexcelled pla the k5™ pla silver"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-skin-flesh",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Skin / Flesh",
+      "hex": "#f4e6cf",
+      "searchText": "kexcelled pla the k5™ pla skin / flesh"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-sky-blue",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Sky Blue",
+      "hex": "#5fbcdd",
+      "searchText": "kexcelled pla the k5™ pla sky blue"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-white",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA White",
+      "hex": "#f5f5f5",
+      "searchText": "kexcelled pla the k5™ pla white"
+    },
+    {
+      "id": "kexcelled-the-k5-pla-yellow",
+      "brand": "kexcelled",
+      "material": "PLA",
+      "name": "THE K5™ PLA Yellow",
+      "hex": "#ffd342",
+      "searchText": "kexcelled pla the k5™ pla yellow"
     },
     {
       "id": "kimya-petg-s-white",
