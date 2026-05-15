@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-05-14T05:35:22.428Z",
-  "entryCount": 10928,
+  "lastSynced": "2026-05-15T05:39:00.682Z",
+  "entryCount": 10988,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -47206,12 +47206,492 @@
       "searchText": "kexcelled pla the k5™ pla yellow"
     },
     {
+      "id": "kimya-abs-carbon-black",
+      "brand": "Kimya",
+      "material": "ABS",
+      "name": "ABS Carbon Black",
+      "hex": "#000000",
+      "searchText": "kimya abs abs carbon black"
+    },
+    {
+      "id": "kimya-abs-kevlar-black",
+      "brand": "Kimya",
+      "material": "ABS",
+      "name": "ABS Kevlar Black",
+      "hex": "#000000",
+      "searchText": "kimya abs abs kevlar black"
+    },
+    {
+      "id": "kimya-abs-ec",
+      "brand": "Kimya",
+      "material": "ABS",
+      "name": "ABS-EC",
+      "hex": "#000000",
+      "searchText": "kimya abs abs-ec"
+    },
+    {
+      "id": "kimya-abs-esd-black",
+      "brand": "Kimya",
+      "material": "ABS",
+      "name": "ABS-ESD Black",
+      "hex": "#000000",
+      "searchText": "kimya abs abs-esd black"
+    },
+    {
+      "id": "kimya-abs-esd-natural",
+      "brand": "Kimya",
+      "material": "ABS",
+      "name": "ABS-ESD Natural",
+      "hex": "#f9f3e5",
+      "searchText": "kimya abs abs-esd natural"
+    },
+    {
+      "id": "kimya-abs-r-black",
+      "brand": "Kimya",
+      "material": "ABS",
+      "name": "ABS-R Black",
+      "hex": "#000000",
+      "searchText": "kimya abs abs-r black"
+    },
+    {
+      "id": "kimya-abs-s-black",
+      "brand": "Kimya",
+      "material": "ABS",
+      "name": "ABS-S Black",
+      "hex": "#000000",
+      "searchText": "kimya abs abs-s black"
+    },
+    {
+      "id": "kimya-abs-s-natural",
+      "brand": "Kimya",
+      "material": "ABS",
+      "name": "ABS-S Natural",
+      "hex": "#f9f3e5",
+      "searchText": "kimya abs abs-s natural"
+    },
+    {
+      "id": "kimya-asa-s-natural",
+      "brand": "Kimya",
+      "material": "ASA",
+      "name": "ASA-S Natural",
+      "hex": "#f1e6b2",
+      "searchText": "kimya asa asa-s natural"
+    },
+    {
+      "id": "kimya-hips-r-grey",
+      "brand": "Kimya",
+      "material": "HIPS",
+      "name": "HIPS-R Grey",
+      "hex": "#d1d3d4",
+      "searchText": "kimya hips hips-r grey"
+    },
+    {
+      "id": "kimya-pa-carbon-black",
+      "brand": "Kimya",
+      "material": "PA",
+      "name": "PA Carbon Black",
+      "hex": "#484a49",
+      "searchText": "kimya pa pa carbon black"
+    },
+    {
+      "id": "kimya-pa6-co-black",
+      "brand": "Kimya",
+      "material": "PA6",
+      "name": "PA6-CO Black",
+      "hex": "#484a49",
+      "searchText": "kimya pa6 pa6-co black"
+    },
+    {
+      "id": "kimya-pc-fr-grey",
+      "brand": "Kimya",
+      "material": "PC",
+      "name": "PC-FR Grey",
+      "hex": "#c9c6bf",
+      "searchText": "kimya pc pc-fr grey"
+    },
+    {
+      "id": "kimya-pc-s-translucent",
+      "brand": "Kimya",
+      "material": "PC",
+      "name": "PC-S Translucent",
+      "hex": "#efefef",
+      "searchText": "kimya pc pc-s translucent"
+    },
+    {
+      "id": "kimya-peba-s-natural",
+      "brand": "Kimya",
+      "material": "PEBA",
+      "name": "PEBA-S Natural",
+      "hex": "#f9f3e5",
+      "searchText": "kimya peba peba-s natural"
+    },
+    {
+      "id": "kimya-pei-support-natural",
+      "brand": "Kimya",
+      "material": "PEI",
+      "name": "PEI Support Natural",
+      "hex": "#d9d4c6",
+      "searchText": "kimya pei pei support natural"
+    },
+    {
+      "id": "kimya-pei-1010-amber-yellow",
+      "brand": "Kimya",
+      "material": "PEI",
+      "name": "PEI-1010 Amber Yellow",
+      "hex": "#6e4325",
+      "searchText": "kimya pei pei-1010 amber yellow"
+    },
+    {
+      "id": "kimya-pei-9085-black",
+      "brand": "Kimya",
+      "material": "PEI",
+      "name": "PEI-9085 Black",
+      "hex": "#000000",
+      "searchText": "kimya pei pei-9085 black"
+    },
+    {
+      "id": "kimya-pei-9085-natural",
+      "brand": "Kimya",
+      "material": "PEI",
+      "name": "PEI-9085 Natural",
+      "hex": "#e9cb9b",
+      "searchText": "kimya pei pei-9085 natural"
+    },
+    {
+      "id": "kimya-pekk-carbon-grey",
+      "brand": "Kimya",
+      "material": "PEKK",
+      "name": "PEKK Carbon Grey",
+      "hex": "#6a6c6e",
+      "searchText": "kimya pekk pekk carbon grey"
+    },
+    {
+      "id": "kimya-pekk-a-natural",
+      "brand": "Kimya",
+      "material": "PEKK",
+      "name": "PEKK-A Natural",
+      "hex": "#e9cb9b",
+      "searchText": "kimya pekk pekk-a natural"
+    },
+    {
+      "id": "kimya-pekk-sc-natural",
+      "brand": "Kimya",
+      "material": "PEKK",
+      "name": "PEKK-SC Natural",
+      "hex": "#caac78",
+      "searchText": "kimya pekk pekk-sc natural"
+    },
+    {
+      "id": "kimya-petg-carbon-black",
+      "brand": "Kimya",
+      "material": "PETG",
+      "name": "PETG Carbon Black",
+      "hex": "#000000",
+      "searchText": "kimya petg petg carbon black"
+    },
+    {
+      "id": "kimya-petg-r-black",
+      "brand": "Kimya",
+      "material": "PETG",
+      "name": "PETG-R Black",
+      "hex": "#000000",
+      "searchText": "kimya petg petg-r black"
+    },
+    {
+      "id": "kimya-petg-r-translucent",
+      "brand": "Kimya",
+      "material": "PETG",
+      "name": "PETG-R Translucent",
+      "hex": "#d9d8de",
+      "searchText": "kimya petg petg-r translucent"
+    },
+    {
+      "id": "kimya-petg-r-white",
+      "brand": "Kimya",
+      "material": "PETG",
+      "name": "PETG-R White",
+      "hex": "#f5f5f5",
+      "searchText": "kimya petg petg-r white"
+    },
+    {
+      "id": "kimya-petg-s-black",
+      "brand": "Kimya",
+      "material": "PETG",
+      "name": "PETG-S Black",
+      "hex": "#000000",
+      "searchText": "kimya petg petg-s black"
+    },
+    {
+      "id": "kimya-petg-s-blue-translucent",
+      "brand": "Kimya",
+      "material": "PETG",
+      "name": "PETG-S Blue Translucent",
+      "hex": "#005da4",
+      "searchText": "kimya petg petg-s blue translucent"
+    },
+    {
+      "id": "kimya-petg-s-green-translucent",
+      "brand": "Kimya",
+      "material": "PETG",
+      "name": "PETG-S Green Translucent",
+      "hex": "#26a648",
+      "searchText": "kimya petg petg-s green translucent"
+    },
+    {
+      "id": "kimya-petg-s-grey",
+      "brand": "Kimya",
+      "material": "PETG",
+      "name": "PETG-S Grey",
+      "hex": "#575757",
+      "searchText": "kimya petg petg-s grey"
+    },
+    {
+      "id": "kimya-petg-s-red-translucent",
+      "brand": "Kimya",
+      "material": "PETG",
+      "name": "PETG-S Red Translucent",
+      "hex": "#de1619",
+      "searchText": "kimya petg petg-s red translucent"
+    },
+    {
+      "id": "kimya-petg-s-translucent",
+      "brand": "Kimya",
+      "material": "PETG",
+      "name": "PETG-S Translucent",
+      "hex": "#e6eaef",
+      "searchText": "kimya petg petg-s translucent"
+    },
+    {
       "id": "kimya-petg-s-white",
       "brand": "Kimya",
       "material": "PETG",
       "name": "PETG-S White",
-      "hex": "#ffffff",
+      "hex": "#f5f5f5",
       "searchText": "kimya petg petg-s white"
+    },
+    {
+      "id": "kimya-petg-s-yellow-translucent",
+      "brand": "Kimya",
+      "material": "PETG",
+      "name": "PETG-S Yellow Translucent",
+      "hex": "#f9e352",
+      "searchText": "kimya petg petg-s yellow translucent"
+    },
+    {
+      "id": "kimya-pla-r-black",
+      "brand": "Kimya",
+      "material": "PLA",
+      "name": "PLA-R Black",
+      "hex": "#000000",
+      "searchText": "kimya pla pla-r black"
+    },
+    {
+      "id": "kimya-pla-r-blue",
+      "brand": "Kimya",
+      "material": "PLA",
+      "name": "PLA-R Blue",
+      "hex": "#1e2c73",
+      "searchText": "kimya pla pla-r blue"
+    },
+    {
+      "id": "kimya-pla-r-grey",
+      "brand": "Kimya",
+      "material": "PLA",
+      "name": "PLA-R Grey",
+      "hex": "#4b4f54",
+      "searchText": "kimya pla pla-r grey"
+    },
+    {
+      "id": "kimya-pla-r-natural",
+      "brand": "Kimya",
+      "material": "PLA",
+      "name": "PLA-R Natural",
+      "hex": "#d6d6cd",
+      "searchText": "kimya pla pla-r natural"
+    },
+    {
+      "id": "kimya-pla-r-red",
+      "brand": "Kimya",
+      "material": "PLA",
+      "name": "PLA-R Red",
+      "hex": "#d22630",
+      "searchText": "kimya pla pla-r red"
+    },
+    {
+      "id": "kimya-pla-r-white",
+      "brand": "Kimya",
+      "material": "PLA",
+      "name": "PLA-R White",
+      "hex": "#f5f5f5",
+      "searchText": "kimya pla pla-r white"
+    },
+    {
+      "id": "kimya-tough-pla-hi-black",
+      "brand": "Kimya",
+      "material": "PLA",
+      "name": "Tough PLA-HI Black",
+      "hex": "#000000",
+      "searchText": "kimya pla tough pla-hi black"
+    },
+    {
+      "id": "kimya-tough-pla-hi-blue",
+      "brand": "Kimya",
+      "material": "PLA",
+      "name": "Tough PLA-HI Blue",
+      "hex": "#0095ff",
+      "searchText": "kimya pla tough pla-hi blue"
+    },
+    {
+      "id": "kimya-tough-pla-hi-green",
+      "brand": "Kimya",
+      "material": "PLA",
+      "name": "Tough PLA-HI Green",
+      "hex": "#9fdc7c",
+      "searchText": "kimya pla tough pla-hi green"
+    },
+    {
+      "id": "kimya-tough-pla-hi-grey",
+      "brand": "Kimya",
+      "material": "PLA",
+      "name": "Tough PLA-HI Grey",
+      "hex": "#4e5055",
+      "searchText": "kimya pla tough pla-hi grey"
+    },
+    {
+      "id": "kimya-tough-pla-hi-natural",
+      "brand": "Kimya",
+      "material": "PLA",
+      "name": "Tough PLA-HI Natural",
+      "hex": "#d6d6cd",
+      "searchText": "kimya pla tough pla-hi natural"
+    },
+    {
+      "id": "kimya-tough-pla-hi-neon-green",
+      "brand": "Kimya",
+      "material": "PLA",
+      "name": "Tough PLA-HI Neon Green",
+      "hex": "#d0ff61",
+      "searchText": "kimya pla tough pla-hi neon green"
+    },
+    {
+      "id": "kimya-tough-pla-hi-orange",
+      "brand": "Kimya",
+      "material": "PLA",
+      "name": "Tough PLA-HI Orange",
+      "hex": "#eb6232",
+      "searchText": "kimya pla tough pla-hi orange"
+    },
+    {
+      "id": "kimya-tough-pla-hi-red",
+      "brand": "Kimya",
+      "material": "PLA",
+      "name": "Tough PLA-HI Red",
+      "hex": "#cf4042",
+      "searchText": "kimya pla tough pla-hi red"
+    },
+    {
+      "id": "kimya-tough-pla-hi-white",
+      "brand": "Kimya",
+      "material": "PLA",
+      "name": "Tough PLA-HI White",
+      "hex": "#f5f5f5",
+      "searchText": "kimya pla tough pla-hi white"
+    },
+    {
+      "id": "kimya-tough-pla-hi-yellow",
+      "brand": "Kimya",
+      "material": "PLA",
+      "name": "Tough PLA-HI Yellow",
+      "hex": "#fcff66",
+      "searchText": "kimya pla tough pla-hi yellow"
+    },
+    {
+      "id": "kimya-ppsu-s-natural",
+      "brand": "Kimya",
+      "material": "PPSU",
+      "name": "PPSU-S Natural",
+      "hex": "#c6aa76",
+      "searchText": "kimya ppsu ppsu-s natural"
+    },
+    {
+      "id": "kimya-tpc-91a-black",
+      "brand": "Kimya",
+      "material": "TPC",
+      "name": "TPC-91A Black",
+      "hex": "#000000",
+      "searchText": "kimya tpc tpc-91a black"
+    },
+    {
+      "id": "kimya-tpc-91a-grey",
+      "brand": "Kimya",
+      "material": "TPC",
+      "name": "TPC-91A Grey",
+      "hex": "#4b4f54",
+      "searchText": "kimya tpc tpc-91a grey"
+    },
+    {
+      "id": "kimya-tpc-91a-natural",
+      "brand": "Kimya",
+      "material": "TPC",
+      "name": "TPC-91A Natural",
+      "hex": "#f7f6ed",
+      "searchText": "kimya tpc tpc-91a natural"
+    },
+    {
+      "id": "kimya-tpc-91a-red",
+      "brand": "Kimya",
+      "material": "TPC",
+      "name": "TPC-91A Red",
+      "hex": "#d22630",
+      "searchText": "kimya tpc tpc-91a red"
+    },
+    {
+      "id": "kimya-tpc-91a-white",
+      "brand": "Kimya",
+      "material": "TPC",
+      "name": "TPC-91A White",
+      "hex": "#f5f5f5",
+      "searchText": "kimya tpc tpc-91a white"
+    },
+    {
+      "id": "kimya-tpu-92a-black",
+      "brand": "Kimya",
+      "material": "TPU",
+      "name": "TPU-92A Black",
+      "hex": "#000000",
+      "searchText": "kimya tpu tpu-92a black"
+    },
+    {
+      "id": "kimya-tpu-92a-blue",
+      "brand": "Kimya",
+      "material": "TPU",
+      "name": "TPU-92A Blue",
+      "hex": "#00378b",
+      "searchText": "kimya tpu tpu-92a blue"
+    },
+    {
+      "id": "kimya-tpu-92a-red",
+      "brand": "Kimya",
+      "material": "TPU",
+      "name": "TPU-92A Red",
+      "hex": "#e92828",
+      "searchText": "kimya tpu tpu-92a red"
+    },
+    {
+      "id": "kimya-tpu-92a-white",
+      "brand": "Kimya",
+      "material": "TPU",
+      "name": "TPU-92A White",
+      "hex": "#f5f5f5",
+      "searchText": "kimya tpu tpu-92a white"
+    },
+    {
+      "id": "kimya-tpu-r-natural",
+      "brand": "Kimya",
+      "material": "TPU",
+      "name": "TPU-R Natural",
+      "hex": "#e6eaef",
+      "searchText": "kimya tpu tpu-r natural"
     },
     {
       "id": "kingroon-abs-black",
