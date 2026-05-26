@@ -9,14 +9,15 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      # Checkout with an admin PAT so the push bypasses the "require PR"
-      # branch-protection rule (enforce_admins: false means admins can push
-      # directly to main). The default GITHUB_TOKEN is blocked by GH006.
+      # SYNC_BOT_TOKEN is an admin PAT (ondrejbartas). Used here so the PR
+      # creator and merger has the admin identity, letting `gh pr merge --admin`
+      # bypass the CODEOWNERS-approval requirement (enforce_admins: false).
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.SYNC_BOT_TOKEN }}
@@ -34,20 +35,46 @@ jobs:
       - name: Sync HueForge library
         run: npm run sync:hueforge
 
-      - name: Commit if changed
+      - name: Compute commit message
+        id: msg
         run: |
-          git config user.name 'filament-library-bot'
-          git config user.email '[email protected]'
           OPT='data/filament-library-openprinttag.json'
           HF='data/filament-library-hueforge.json'
-          if [[ -n "$(git status --porcelain $OPT $HF)" ]]; then
-            git add "$OPT" "$HF"
-            # Pull entry counts from each JSON for a useful commit message.
-            OPT_COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('$OPT','utf8')).entryCount)")
-            HF_COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('$HF','utf8')).entryCount)")
-            git commit -m "chore: refresh filament libraries (OpenPrintTag ${OPT_COUNT}, HueForge ${HF_COUNT}, $(date -u +%Y-%m-%d))"
-            git push
-            echo "Committed library refresh"
-          else
-            echo "No changes — libraries are already up to date"
-          fi
+          OPT_COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('$OPT','utf8')).entryCount)")
+          HF_COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('$HF','utf8')).entryCount)")
+          DATE=$(date -u +%Y-%m-%d)
+          echo "msg=chore: refresh filament libraries (OpenPrintTag ${OPT_COUNT}, HueForge ${HF_COUNT}, ${DATE})" >> "$GITHUB_OUTPUT"
+
+      - name: Open PR if changed
+        id: pr
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.SYNC_BOT_TOKEN }}
+          commit-message: ${{ steps.msg.outputs.msg }}
+          title: ${{ steps.msg.outputs.msg }}
+          body: |
+            Automated daily refresh of filament libraries.
+
+            - OpenPrintTag → `data/filament-library-openprinttag.json`
+            - HueForge → `data/filament-library-hueforge.json`
+
+            Source workflow: [`sync-libraries.yml`](./.github/workflows/sync-libraries.yml).
+
+            Squash-merged automatically by the workflow using the admin PAT
+            (`SYNC_BOT_TOKEN`) — `enforce_admins: false` allows this bypass.
+          branch: bot/sync-libraries
+          delete-branch: true
+          author: 'filament-library-bot <[email protected]>'
+          committer: 'filament-library-bot <[email protected]>'
+          add-paths: |
+            data/filament-library-openprinttag.json
+            data/filament-library-hueforge.json
+
+      - name: Squash-merge as admin
+        if: steps.pr.outputs.pull-request-number
+        run: |
+          gh pr merge "${{ steps.pr.outputs.pull-request-number }}" \
+            --admin --squash --delete-branch \
+            --repo "${{ github.repository }}"
+        env:
+          GH_TOKEN: ${{ secrets.SYNC_BOT_TOKEN }}
