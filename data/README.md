@@ -18,7 +18,7 @@ The cleaned fitting set used to calibrate the prusa-fdm-mixer model. Each
 entry is one base filament (single component) or one mix (two or three
 components). The dataset grows over time; live counts and per-recipe ΔE are
 shown in the
-[harness](https://prusa-research.github.io/prusa-fdm-mixer/apps/harness/).
+[harness](https://prusa3d.github.io/prusa-fdm-mixer/apps/harness/).
 
 Each line is a JSON object:
 
@@ -41,7 +41,7 @@ Base filaments self-reference in `combinations` with ratio 1.
 Independent held-out set. None of these samples were used to calibrate
 prusa-fdm-mixer — the model's error against this file is genuine
 out-of-sample performance. Same line schema as `fitting-set.jsonl`. The
-[harness](https://prusa-research.github.io/prusa-fdm-mixer/apps/harness/) loads
+[harness](https://prusa3d.github.io/prusa-fdm-mixer/apps/harness/) loads
 both files and exposes an "All / Training / Holdout" toggle to switch the
 active view between them.
 

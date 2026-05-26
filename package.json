@@ -1,7 +1,7 @@
 {
   "name": "prusa-fdm-mixer",
   "version": "1.0.0",
-  "description": "Color mixing model for FDM 3D printer multi-color prints, calibrated against measured filament data. Live harness: https://prusa-research.github.io/prusa-fdm-mixer/apps/harness/",
+  "description": "Color mixing model for FDM 3D printer multi-color prints, calibrated against measured filament data. Live harness: https://prusa3d.github.io/prusa-fdm-mixer/apps/harness/",
   "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -49,7 +49,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/<owner>/prusa-fdm-mixer.git"
+    "url": "https://github.com/prusa3d/prusa-fdm-mixer.git"
   },
   "devDependencies": {
     "@types/js-yaml": "^4.0.9",

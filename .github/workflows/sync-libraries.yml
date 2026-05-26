@@ -9,6 +9,7 @@ on:
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   sync:
@@ -29,20 +30,32 @@ jobs:
       - name: Sync HueForge library
         run: npm run sync:hueforge
 
-      - name: Commit if changed
+      - name: Compute commit message
+        id: msg
         run: |
-          git config user.name 'filament-library-bot'
-          git config user.email '[email protected]'
           OPT='data/filament-library-openprinttag.json'
           HF='data/filament-library-hueforge.json'
-          if [[ -n "$(git status --porcelain $OPT $HF)" ]]; then
-            git add "$OPT" "$HF"
-            # Pull entry counts from each JSON for a useful commit message.
-            OPT_COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('$OPT','utf8')).entryCount)")
-            HF_COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('$HF','utf8')).entryCount)")
-            git commit -m "chore: refresh filament libraries (OpenPrintTag ${OPT_COUNT}, HueForge ${HF_COUNT}, $(date -u +%Y-%m-%d))"
-            git push
-            echo "Committed library refresh"
-          else
-            echo "No changes — libraries are already up to date"
-          fi
+          OPT_COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('$OPT','utf8')).entryCount)")
+          HF_COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('$HF','utf8')).entryCount)")
+          DATE=$(date -u +%Y-%m-%d)
+          echo "msg=chore: refresh filament libraries (OpenPrintTag ${OPT_COUNT}, HueForge ${HF_COUNT}, ${DATE})" >> "$GITHUB_OUTPUT"
+
+      - name: Open PR if changed
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: ${{ steps.msg.outputs.msg }}
+          title: ${{ steps.msg.outputs.msg }}
+          body: |
+            Automated daily refresh of filament libraries.
+
+            - OpenPrintTag → `data/filament-library-openprinttag.json`
+            - HueForge → `data/filament-library-hueforge.json`
+
+            Source workflow: [`sync-libraries.yml`](./.github/workflows/sync-libraries.yml).
+          branch: bot/sync-libraries
+          delete-branch: true
+          author: 'filament-library-bot <[email protected]>'
+          committer: 'filament-library-bot <[email protected]>'
+          add-paths: |
+            data/filament-library-openprinttag.json
+            data/filament-library-hueforge.json

@@ -8,7 +8,7 @@ Prusa XL prints.
 > No runtime dataset, ~50 lines of math, MIT-licensed — vendor it freely.
 
 **Live results, distributions, and per-recipe breakdown** are published at
-[prusa-research.github.io/prusa-fdm-mixer/apps/harness/](https://prusa-research.github.io/prusa-fdm-mixer/apps/harness/).
+[prusa3d.github.io/prusa-fdm-mixer/apps/harness/](https://prusa3d.github.io/prusa-fdm-mixer/apps/harness/).
 The harness re-renders on every commit, so the numbers there are always
 current — toggle between the training set, the held-out set, or all
 measurements. This README intentionally avoids hard-coding sample counts and
@@ -48,7 +48,7 @@ Requires **Node 20+** (matches the version pinned in
 [`.github/workflows/deploy.yml`](./.github/workflows/deploy.yml)).
 
 ```sh
-git clone https://github.com/Prusa-Research/prusa-fdm-mixer.git
+git clone https://github.com/prusa3d/prusa-fdm-mixer.git
 cd prusa-fdm-mixer
 npm install
 npm run dev      # vite dev server with hot reload
@@ -63,11 +63,14 @@ For the drop-in C++17 implementation and its build instructions, see
 
 | App | What it does |
 |-----|--------------|
-| [Playground](./apps/playground/) | Interactive palette generator: pick extruders, set ratios, see predicted colors sorted by hue |
-| [Harness](./apps/harness/) | Score the prusa-fdm-mixer model against measured prints; compare against linear RGB, Kubelka-Munk, PolyMixer. Toggle between the training set, the held-out set, or all measurements |
-| [Gatherer](./apps/gatherer/) | Standalone tool to enter your own LAB measurements and export JSONL |
+| [Playground](https://prusa3d.github.io/prusa-fdm-mixer/apps/playground/) | Interactive palette generator: pick extruders, set ratios, see predicted colors sorted by hue |
+| [Harness](https://prusa3d.github.io/prusa-fdm-mixer/apps/harness/) | Score the prusa-fdm-mixer model against measured prints; compare against linear RGB, Kubelka-Munk, PolyMixer. Toggle between the training set, the held-out set, or all measurements |
+| [Gatherer](https://prusa3d.github.io/prusa-fdm-mixer/apps/gatherer/) | Standalone tool to enter your own LAB measurements and export JSONL |
+| [Calibration](https://prusa3d.github.io/prusa-fdm-mixer/apps/calibration/) | NR200 colorimeter calibration — Tier 1 (3-point neutral linear fit), Tier 2 (24-patch ColorChecker 3×3 XYZ matrix), Tier 3 (batch Lab → display hex with three rendering variants) |
 
-The static GitHub Pages build serves all three under one URL.
+All four apps are served from one static GitHub Pages build at
+[prusa3d.github.io/prusa-fdm-mixer/](https://prusa3d.github.io/prusa-fdm-mixer/);
+the [`apps/`](./apps/) source directories live under this repo.
 
 ## Filament libraries
 
@@ -156,7 +159,7 @@ PolyMixer port (BambuStudio's current model, ex-OrcaSlicer-FullSpectrum),
 HueForge-style TD blending, and the legacy linear-sRGB blend that most
 slicers ship today. Live numbers — median ΔE2000, hit-rate at ΔE 5/8/10,
 distributions, and per-recipe breakdowns — are at
-[prusa-research.github.io/prusa-fdm-mixer/apps/harness/](https://prusa-research.github.io/prusa-fdm-mixer/apps/harness/).
+[prusa3d.github.io/prusa-fdm-mixer/apps/harness/](https://prusa3d.github.io/prusa-fdm-mixer/apps/harness/).
 
 prusa-fdm-mixer is the only model in the comparison where 3-color
 performance doesn't collapse versus 2-color. Linear sRGB is on the table
@@ -180,7 +183,7 @@ prusa-fdm-mixer/
 - A held-out batch in [`data/holdout-set.jsonl`](./data/holdout-set.jsonl)
   was never seen during calibration; out-of-sample ΔE there is the honest
   performance number. The
-  [harness](https://prusa-research.github.io/prusa-fdm-mixer/apps/harness/) toggles
+  [harness](https://prusa3d.github.io/prusa-fdm-mixer/apps/harness/) toggles
   between training, held-out, and all measurements.
 - Calibrated against Prusament PLA. Other brands and materials may differ.
 - 3-color predictions are extrapolated from 2-color fits with limited
