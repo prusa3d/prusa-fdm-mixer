@@ -6,7 +6,8 @@
  * prusa-fdm-mixer model (current calibration: v7) calibrated against
  * measured Prusa XL prints.
  *
- * Comparison models (`mixLinearRgb`, `mixKubelkaMunk`, `mixFilamentMixer`)
+ * Comparison models (`mixLinearRgb`, `mixGammaRgb`, `mixKubelkaMunk`,
+ * `mixFilamentMixer`, `mixHueforgeStyle`, `mixCam16Ucs`, `mixYuleNielsen`)
  * are exported so consumers can A/B test against the same input format.
  *
  * @example
@@ -33,6 +34,8 @@ export { mixGammaRgb } from './gamma-rgb.js';
 export { mixKubelkaMunk } from './kubelka-munk.js';
 export { mixFilamentMixer } from './filament-mixer.js';
 export { mixHueforgeStyle, type HueforgeStylePart } from './hueforge-style.js';
+export { mixCam16Ucs } from './cam16-ucs.js';
+export { mixYuleNielsen } from './yule-nielsen.js';
 
 export {
   hexToRgb,

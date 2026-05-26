@@ -10,6 +10,7 @@ export default defineConfig(({ mode }) => ({
     rollupOptions: {
       input: {
         main: resolve(__dirname, 'index.html'),
+        calibration: resolve(__dirname, 'apps/calibration/index.html'),
         gatherer: resolve(__dirname, 'apps/gatherer/index.html'),
         harness: resolve(__dirname, 'apps/harness/index.html'),
         playground: resolve(__dirname, 'apps/playground/index.html'),

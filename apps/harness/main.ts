@@ -16,6 +16,8 @@ import {
   mixKubelkaMunk,
   mixFilamentMixer,
   mixHueforgeStyle,
+  mixCam16Ucs,
+  mixYuleNielsen,
   deltaE2000,
   hexToLab,
   type LAB,
@@ -49,6 +51,8 @@ interface ModelDef {
   shortName?: string;
   desc: string;
   fn: ModelFn;
+  /** If true, omit from the per-pair recipe table (still shown in summary + histograms). */
+  summaryOnly?: boolean;
 }
 
 interface Score {
@@ -67,11 +71,14 @@ interface Score {
 
 // ---- Models ---------------------------------------------------------------
 // Order: prusa-fdm-mixer (this work), filament-mixer (current BS /
-// FullSpectrum), BambuStudio (legacy), Kubelka-Munk. "BambuStudio (legacy)"
-// is the naive 0–255 sRGB ratio average — verified verbatim in commit
-// a6ea01991 (`blend_colors` in MixedFilamentDialog). Since that's the same
-// as a generic textbook "linear sRGB" baseline, no separate entry for the
-// latter.
+// FullSpectrum), HueForge-style, BambuStudio (legacy), Kubelka-Munk,
+// CAM16-UCS, Yule-Nielsen (base). "BambuStudio (legacy)" is the naive 0–255
+// sRGB ratio average — verified verbatim in commit a6ea01991 (`blend_colors`
+// in MixedFilamentDialog). Since that's the same as a generic textbook
+// "linear sRGB" baseline, no separate entry for the latter. CAM16-UCS is the
+// perceptual-appearance-model baseline (uniform color space averaging).
+// Yule-Nielsen (base) is the uncorrected ancestor of prusa-fdm-mixer —
+// summary/histogram only, omitted from the recipe table to keep it readable.
 const MODELS: ModelDef[] = [
   {
     id: 'prusa-fdm-mixer',
@@ -107,6 +114,21 @@ const MODELS: ModelDef[] = [
     shortName: 'KM',
     desc: 'Textbook subtractive pigment model — physics baseline, no calibration',
     fn: mixKubelkaMunk,
+  },
+  {
+    id: 'cam16-ucs',
+    name: 'CAM16-UCS',
+    shortName: 'CAM16',
+    desc: 'Linear average in CAM16-UCS uniform color space (D65, average surround, La=64, Yb=20). Perceptual-appearance-model baseline — like gamma RGB but with chromatic adaptation and contrast modelling. No calibration; emissive averaging, not subtractive pigment math',
+    fn: mixCam16Ucs,
+  },
+  {
+    id: 'yule-nielsen',
+    name: 'Yule-Nielsen (base)',
+    shortName: 'YN',
+    desc: 'Pure Yule-Nielsen base prediction (n = 3.0) in linear-light RGB, no empirical corrections. Step 1 of prusa-fdm-mixer in isolation — the delta vs. PFM shows what the v7 lightness/chroma/hue corrections buy',
+    fn: mixYuleNielsen,
+    summaryOnly: true,
   },
 ];
 
@@ -526,6 +548,9 @@ function renderRecipeTable(
   mixes: DatasetEntry[],
   scoresByModel: Record<string, Score[]>,
 ): string {
+  // Models that opt out (e.g. uncorrected baselines) appear in the summary +
+  // histograms only, not as columns in this already-wide table.
+  const tableModels = MODELS.filter((m) => !m.summaryOnly);
   const rows = mixes.map((m, idx) => {
     const sorted = [...m.combinations].sort((a, b) => b.ratio - a.ratio);
     const components = sorted.map((c) => ({
@@ -554,7 +579,7 @@ function renderRecipeTable(
       nParts: m.combinations.length,
       source: m.source,
       perModel: Object.fromEntries(
-        MODELS.map((mod) => [mod.id, scoresByModel[mod.id]![idx]!]),
+        tableModels.map((mod) => [mod.id, scoresByModel[mod.id]![idx]!]),
       ) as Record<string, Score>,
     };
   });
@@ -565,10 +590,10 @@ function renderRecipeTable(
   // (Recipe / Ratio / Measured) span both header rows via rowspan.
   // The FIRST cell of each new column-group carries `.boundary-left` so we
   // draw a vertical divider between the three regions of the table.
-  const swatchHeaders = MODELS.map(
+  const swatchHeaders = tableModels.map(
     (m, i) => `<th class="swatch-head${i === 0 ? ' boundary-left' : ''}">${escape(m.shortName ?? m.name)}</th>`,
   ).join('');
-  const deltaHeaders = MODELS.map(
+  const deltaHeaders = tableModels.map(
     (m, i) => `<th class="num${i === 0 ? ' boundary-left' : ''}">${escape(m.shortName ?? m.name)}</th>`,
   ).join('');
 
@@ -580,8 +605,8 @@ function renderRecipeTable(
   const colgroup = `
     <colgroup>
       <col style="width:40px" />
-      ${MODELS.map(() => `<col style="width:40px" />`).join('')}
-      ${MODELS.map(() => `<col style="width:64px" />`).join('')}
+      ${tableModels.map(() => `<col style="width:40px" />`).join('')}
+      ${tableModels.map(() => `<col style="width:64px" />`).join('')}
       <col style="width:96px" />
       <col style="width:64px" />
       <col style="width:148px" />
@@ -600,11 +625,11 @@ function renderRecipeTable(
             `<span class="mini-swatch component-swatch" style="background:${c.hex};width:${(c.pct * 0.8).toFixed(1)}px" title="${c.pct}%"></span>`,
         )
         .join('');
-      const swatchCells = MODELS.map((mod, i) => {
+      const swatchCells = tableModels.map((mod, i) => {
         const s = r.perModel[mod.id]!;
         return `<td class="swatch-cell${i === 0 ? ' boundary-left' : ''}"><span class="mini-swatch" style="background:${s.predicted.hex}"></span></td>`;
       }).join('');
-      const deltaCells = MODELS.map((mod, i) => {
+      const deltaCells = tableModels.map((mod, i) => {
         const s = r.perModel[mod.id]!;
         return `<td class="delta-cell${i === 0 ? ' boundary-left' : ''}"><span class="${deClass(s.dE)}">${s.dE.toFixed(2)}</span></td>`;
       }).join('');
@@ -640,8 +665,8 @@ function renderRecipeTable(
         <thead>
           <tr>
             <th class="icon-head" rowspan="2" title="Measured (ground truth)">${FLASK_ICON}</th>
-            <th class="group-head" colspan="${MODELS.length}">Predicted swatch</th>
-            <th class="group-head num" colspan="${MODELS.length}">ΔE2000</th>
+            <th class="group-head" colspan="${tableModels.length}">Predicted swatch</th>
+            <th class="group-head num" colspan="${tableModels.length}">ΔE2000</th>
             <th class="boundary-left" rowspan="2">Components</th>
             <th class="num" rowspan="2">Ratio</th>
             <th class="num" rowspan="2"><span class="icon-inline" title="Measured (ground truth)">${FLASK_ICON}</span> Hex / LAB</th>

@@ -386,6 +386,28 @@ function parseRgb(hex: string): { r: number; g: number; b: number } {
   };
 }
 
+function gcd(a: number, b: number): number {
+  return b === 0 ? a : gcd(b, a % b);
+}
+
+// Build a vertical stripe gradient where each filament part gets a number of
+// 1.5px lines proportional to its ratio (smallest part = 1 line). Reduces the
+// ratio set by its GCD so the repeating tile is as short as visually possible.
+// Returns null for single-part mixes (nothing meaningful to stripe).
+function buildStripeGradient(parts: FilamentPart[]): string | null {
+  if (parts.length < 2) return null;
+  const pcts = parts.map((p) => Math.max(1, Math.round(p.ratio * 100)));
+  const g = pcts.reduce((a, b) => gcd(a, b));
+  let y = 0;
+  const stops: string[] = [];
+  for (let i = 0; i < parts.length; i++) {
+    const h = (pcts[i]! / g) * 1.5;
+    stops.push(`${parts[i]!.hex} ${y}px ${y + h}px`);
+    y += h;
+  }
+  return `repeating-linear-gradient(to bottom, ${stops.join(', ')})`;
+}
+
 // ---------------------------------------------------------------------------
 // Render: palette
 // ---------------------------------------------------------------------------
@@ -416,9 +438,13 @@ function renderPalette(): void {
           }
         )
         .join('');
+      const stripeGradient = buildStripeGradient(c.parts);
+      const stripeOverlay = stripeGradient
+        ? `<div class="cell-swatch-stripes" style="background:${stripeGradient}"></div>`
+        : '';
       return `
       <div class="cell">
-        <div class="cell-swatch" style="background:${c.predHex}"></div>
+        <div class="cell-swatch" style="background:${c.predHex}">${stripeOverlay}</div>
         <div class="cell-meta">
           <div class="cell-hex">${c.predHex}</div>
           <div class="cell-ratio">${escape(c.ratioLabel)}</div>

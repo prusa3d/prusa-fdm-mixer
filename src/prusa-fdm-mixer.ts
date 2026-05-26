@@ -30,8 +30,6 @@
 import {
   hexToRgb,
   rgbToHex,
-  srgbToLinear,
-  linearToSrgb,
   hexToLab,
   labToHex,
   chroma,
@@ -39,6 +37,7 @@ import {
   type RGB,
   type LAB,
 } from './color.js';
+import { yuleNielsenMix } from './yule-nielsen.js';
 
 /** A single filament part of a recipe. Ratios across all parts should sum to 1. */
 export interface FilamentPart {
@@ -210,31 +209,6 @@ export function mixFilamentsWithParams(parts: FilamentPart[], params: V7Params):
   const hex = labToHex(lab);
   const rgb = hexToRgb(hex);
   return { hex, lab, rgb };
-}
-
-// ---------------------------------------------------------------------------
-// Internals
-// ---------------------------------------------------------------------------
-
-/**
- * Yule-Nielsen mixing in linear-light RGB.
- * Each channel: `(Σ ratio · linear^(1/n))^n`.
- */
-function yuleNielsenMix(parts: FilamentPart[], n: number): RGB {
-  let r = 0;
-  let g = 0;
-  let b = 0;
-  for (const p of parts) {
-    const rgb = hexToRgb(p.hex);
-    r += Math.pow(srgbToLinear(rgb.r), 1 / n) * p.ratio;
-    g += Math.pow(srgbToLinear(rgb.g), 1 / n) * p.ratio;
-    b += Math.pow(srgbToLinear(rgb.b), 1 / n) * p.ratio;
-  }
-  return {
-    r: linearToSrgb(Math.pow(Math.max(0, r), n)),
-    g: linearToSrgb(Math.pow(Math.max(0, g), n)),
-    b: linearToSrgb(Math.pow(Math.max(0, b), n)),
-  };
 }
 
 // Internal helpers are exported for the harness and playground apps to reuse

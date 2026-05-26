@@ -4,6 +4,7 @@ import {
   mixLinearRgb,
   mixKubelkaMunk,
   mixFilamentMixer,
+  mixCam16Ucs,
   hexToRgb,
   rgbToHex,
   hexToLab,
@@ -158,10 +159,18 @@ describe('comparison models — basic sanity', () => {
     expect(mixFilamentMixer(parts).hex).toMatch(/^#[0-9a-f]{6}$/);
   });
 
+  it('mixCam16Ucs returns a valid hex', () => {
+    expect(mixCam16Ucs(parts).hex).toMatch(/^#[0-9a-f]{6}$/);
+  });
+
   it('all models return pure A when ratio is 1', () => {
     const partsA = [{ hex: '#009bc3', ratio: 1 }];
     expect(mixLinearRgb(partsA).hex).toBe('#009bc3');
     expect(mixKubelkaMunk(partsA).hex).toBe('#009bc3');
     expect(mixFilamentMixer(partsA).hex).toBe('#009bc3');
+    // CAM16-UCS roundtrips through nonlinear math; allow ΔE<0.5 tolerance.
+    expect(
+      deltaE2000(hexToLab(mixCam16Ucs(partsA).hex), hexToLab('#009bc3')),
+    ).toBeLessThan(0.5);
   });
 });

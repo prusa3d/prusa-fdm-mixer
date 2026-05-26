@@ -1,0 +1,326 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Calibration · prusa-fdm-mixer</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Serif:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <header>
+    <a class="back" href="../../">← back</a>
+    <h1>Calibration</h1>
+    <a class="vendor" href="https://www.prusa3d.com/" target="_blank" rel="noopener" title="Prusa Research s.r.o.">
+      <img src="/prusa-research.svg" alt="Prusa Research" />
+    </a>
+    <p class="subtitle">
+      NR200 spectrocolorimeter calibration. <strong>Tier 1</strong> fits a per-channel linear
+      correction from three neutral references; <strong>Tier 2</strong> fits a 3×3 XYZ matrix
+      from a 24-patch ColorChecker. <strong>Tier 3</strong> converts many Lab measurements to
+      display hex variants in one paste.
+    </p>
+  </header>
+
+  <main>
+    <!-- ============== TABS ============== -->
+    <nav class="tabs" role="tablist">
+      <button class="tab active" role="tab" data-tab="t1">
+        <span class="tab-label">Tier 1</span>
+        <span class="tab-sub">3-Point Neutral</span>
+        <span class="tab-badge">Quick</span>
+      </button>
+      <button class="tab" role="tab" data-tab="t2">
+        <span class="tab-label">Tier 2</span>
+        <span class="tab-sub">24-Patch ColorChecker</span>
+        <span class="tab-badge">ISO-grade</span>
+      </button>
+      <button class="tab" role="tab" data-tab="t3">
+        <span class="tab-label">Tier 3</span>
+        <span class="tab-sub">Lab → HEX Batch</span>
+        <span class="tab-badge">Convert</span>
+      </button>
+    </nav>
+
+    <!-- ============== TIER 1 ============== -->
+    <div class="tab-pane active" id="pane-t1" role="tabpanel">
+      <section class="card">
+        <div class="card-header">
+          <h2>Three points along the gray axis</h2>
+        </div>
+        <p class="hint">
+          Pick a reference standard — its certified Lab values fill the <em>reference</em> rows.
+          Measure those same three targets with your NR200 and enter the readings into the
+          <em>measured</em> rows. The correction is a per-channel linear fit (slope + offset)
+          on L, a, b independently. Not ISO-certified; a defensible neutral-axis correction.
+          For full instrument characterization, use Tier 2.
+        </p>
+
+        <div class="preset-row">
+          <label for="t1-preset">Reference standard</label>
+          <select id="t1-preset">
+            <option value="munsell" selected>Munsell Neutrals (N9.5 / N5 / N2)</option>
+            <option value="munsell95">Munsell Neutrals (N9.5 / N5 / N1)</option>
+            <option value="bcra">BCRA Series II Tiles (white / mid-gray / black)</option>
+            <option value="kodak">Kodak Q-13 Gray Scale (A / M / 19)</option>
+            <option value="iso">ISO 12642 / IT8 Neutrals</option>
+            <option value="office">Office Paper (cheap white / pencil gray / printer black)</option>
+            <option value="custom">Custom — enter values manually</option>
+          </select>
+          <span class="preset-info" id="t1-preset-info">D65 / 2° observer · CIE Lab</span>
+        </div>
+
+        <div class="calib-row">
+          <!-- White -->
+          <div class="calib-card">
+            <div class="calib-card-head">
+              <span class="swatch-dot" id="t1-dot-white"></span>
+              <h3>White</h3>
+            </div>
+            <p class="calib-hint" id="t1-hint-white"></p>
+
+            <div class="lab-block-label">
+              <span>Reference (true)</span>
+              <button class="reset-btn" data-reset="t1-white-ref">reset</button>
+            </div>
+            <div class="lab-row" data-row="t1-white-ref">
+              <div class="lab-input-wrap"><label>L</label><input class="lab-input ref" type="number" step="0.01"></div>
+              <div class="lab-input-wrap"><label>a</label><input class="lab-input ref" type="number" step="0.01"></div>
+              <div class="lab-input-wrap"><label>b</label><input class="lab-input ref" type="number" step="0.01"></div>
+            </div>
+
+            <div class="lab-block-label measured">
+              <span>Measured</span>
+              <button class="reset-btn" data-reset="t1-white-meas">reset</button>
+            </div>
+            <div class="lab-row" data-row="t1-white-meas">
+              <div class="lab-input-wrap"><label>L</label><input class="lab-input meas" type="number" step="0.01"></div>
+              <div class="lab-input-wrap"><label>a</label><input class="lab-input meas" type="number" step="0.01"></div>
+              <div class="lab-input-wrap"><label>b</label><input class="lab-input meas" type="number" step="0.01"></div>
+            </div>
+          </div>
+
+          <!-- Gray -->
+          <div class="calib-card">
+            <div class="calib-card-head">
+              <span class="swatch-dot" id="t1-dot-gray"></span>
+              <h3>Mid-Gray</h3>
+            </div>
+            <p class="calib-hint" id="t1-hint-gray"></p>
+
+            <div class="lab-block-label">
+              <span>Reference (true)</span>
+              <button class="reset-btn" data-reset="t1-gray-ref">reset</button>
+            </div>
+            <div class="lab-row" data-row="t1-gray-ref">
+              <div class="lab-input-wrap"><label>L</label><input class="lab-input ref" type="number" step="0.01"></div>
+              <div class="lab-input-wrap"><label>a</label><input class="lab-input ref" type="number" step="0.01"></div>
+              <div class="lab-input-wrap"><label>b</label><input class="lab-input ref" type="number" step="0.01"></div>
+            </div>
+
+            <div class="lab-block-label measured">
+              <span>Measured</span>
+              <button class="reset-btn" data-reset="t1-gray-meas">reset</button>
+            </div>
+            <div class="lab-row" data-row="t1-gray-meas">
+              <div class="lab-input-wrap"><label>L</label><input class="lab-input meas" type="number" step="0.01"></div>
+              <div class="lab-input-wrap"><label>a</label><input class="lab-input meas" type="number" step="0.01"></div>
+              <div class="lab-input-wrap"><label>b</label><input class="lab-input meas" type="number" step="0.01"></div>
+            </div>
+          </div>
+
+          <!-- Black -->
+          <div class="calib-card">
+            <div class="calib-card-head">
+              <span class="swatch-dot" id="t1-dot-black"></span>
+              <h3>Black</h3>
+            </div>
+            <p class="calib-hint" id="t1-hint-black"></p>
+
+            <div class="lab-block-label">
+              <span>Reference (true)</span>
+              <button class="reset-btn" data-reset="t1-black-ref">reset</button>
+            </div>
+            <div class="lab-row" data-row="t1-black-ref">
+              <div class="lab-input-wrap"><label>L</label><input class="lab-input ref" type="number" step="0.01"></div>
+              <div class="lab-input-wrap"><label>a</label><input class="lab-input ref" type="number" step="0.01"></div>
+              <div class="lab-input-wrap"><label>b</label><input class="lab-input ref" type="number" step="0.01"></div>
+            </div>
+
+            <div class="lab-block-label measured">
+              <span>Measured</span>
+              <button class="reset-btn" data-reset="t1-black-meas">reset</button>
+            </div>
+            <div class="lab-row" data-row="t1-black-meas">
+              <div class="lab-input-wrap"><label>L</label><input class="lab-input meas" type="number" step="0.01"></div>
+              <div class="lab-input-wrap"><label>a</label><input class="lab-input meas" type="number" step="0.01"></div>
+              <div class="lab-input-wrap"><label>b</label><input class="lab-input meas" type="number" step="0.01"></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="correction-status">
+          <div class="correction-cell"><span class="clab">L-channel correction</span><span class="cval" id="t1-corr-L">no shift</span></div>
+          <div class="correction-cell"><span class="clab">a-channel correction</span><span class="cval" id="t1-corr-a">no shift</span></div>
+          <div class="correction-cell"><span class="clab">b-channel correction</span><span class="cval" id="t1-corr-b">no shift</span></div>
+        </div>
+      </section>
+    </div>
+
+    <!-- ============== TIER 2 ============== -->
+    <div class="tab-pane" id="pane-t2" role="tabpanel">
+      <section class="card">
+        <div class="card-header">
+          <h2>24 patches · 3×3 matrix in XYZ</h2>
+        </div>
+        <p class="hint">
+          Measure all 24 patches of an X-Rite ColorChecker Classic with your NR200. The tool
+          fits a 3×3 correction matrix in XYZ space using least-squares regression — the same
+          approach professional ICC profile builders use. References are the certified
+          post-November-2014 ColorChecker Classic targets (D65 / 2°). You don't need all 24:
+          the fit works with 8+ patches; accuracy improves with more.
+        </p>
+
+        <div class="preset-row">
+          <label for="t2-preset">Reference set</label>
+          <select id="t2-preset">
+            <option value="cc2014">X-Rite ColorChecker Classic (post-Nov 2014)</option>
+            <option value="cc-orig">X-Rite ColorChecker Classic (original / pre-2014)</option>
+          </select>
+          <span class="preset-info">D65 / 2° observer · ISO 13655 conditions</span>
+        </div>
+
+        <div class="patches-grid" id="t2-patches"></div>
+
+        <div class="patches-actions">
+          <span class="info" id="t2-info"><strong>0</strong> of 24 patches measured · need <strong>≥ 8</strong> for fit</span>
+          <button class="btn-secondary" id="t2-load-demo">Load demo data</button>
+          <button class="btn-secondary" id="t2-clear">Clear all</button>
+        </div>
+
+        <div class="correction-status">
+          <div class="correction-cell"><span class="clab">Mean ΔE76 of fit</span><span class="cval" id="t2-fit-de">—</span></div>
+          <div class="correction-cell"><span class="clab">Max ΔE76 of fit</span><span class="cval" id="t2-fit-max">—</span></div>
+          <div class="correction-cell"><span class="clab">Patches used</span><span class="cval" id="t2-fit-n">—</span></div>
+        </div>
+      </section>
+    </div>
+
+    <!-- ============== TIER 3 ============== -->
+    <div class="tab-pane" id="pane-t3" role="tabpanel">
+      <section class="card">
+        <div class="card-header">
+          <h2>Lab → HEX in batch</h2>
+        </div>
+        <p class="hint">
+          Paste many Lab measurements at once. Each row converts using the selected
+          calibration tier and three hex renderings: <em>Lab native</em> (CSS lab()),
+          <em>MINDE</em> (minimum-ΔE gamut map to sRGB), and <em>Vivid</em> (oklch
+          chroma + lightness boost). Format: <code>name, L, a, b</code> or
+          <code>L, a, b</code> · one per line · lines starting with <code>#</code> are comments.
+        </p>
+
+        <div class="t3-controls">
+          <div class="method-toggle" id="t3-method-toggle">
+            <button class="active" data-method="t1">Tier 1 · 3-Point</button>
+            <button data-method="t2">Tier 2 · 24-Patch</button>
+            <button data-method="none">No correction</button>
+          </div>
+        </div>
+
+        <div class="t3-status" id="t3-status"></div>
+
+        <textarea
+          id="t3-input"
+          class="batch-textarea"
+          placeholder="# example
+PLA Galaxy Green, 38.1, -8.4, 9.6
+PLA Lipstick Red, 45.2, 56.7, 32.1
+72.4, 5.1, 76.9
+# anything after # is ignored"
+        ></textarea>
+
+        <div class="t3-actions">
+          <button class="btn-primary" id="t3-convert">Convert</button>
+          <button class="btn-secondary" id="t3-clear">Clear</button>
+          <button class="btn-secondary" id="t3-demo">Load demo</button>
+        </div>
+
+        <div id="t3-results-wrap" class="hidden">
+          <div class="t3-summary" id="t3-summary"></div>
+          <div class="table-scroll">
+            <table class="t3-results-table" id="t3-results-table"></table>
+          </div>
+          <div class="t3-export-actions">
+            <button class="btn-secondary" id="t3-copy-csv">Copy CSV</button>
+            <button class="btn-secondary" id="t3-copy-jsonl">Copy JSONL</button>
+            <button class="btn-secondary" id="t3-export-csv">Export CSV</button>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <!-- ============== SAMPLE (shared) ============== -->
+    <section class="card sample-card">
+      <div class="card-header">
+        <h2>Measure a single sample</h2>
+      </div>
+      <p class="hint">
+        Enter the raw NR200 reading for a filament sample. Choose which calibration tier to
+        apply — corrected Lab and three rendering variants update live.
+      </p>
+
+      <div class="sample-grid">
+        <div class="sample-input-block">
+          <div class="method-toggle" id="method-toggle">
+            <button class="active" data-method="t1">Tier 1 · 3-Point</button>
+            <button data-method="t2">Tier 2 · 24-Patch</button>
+            <button data-method="none">No correction</button>
+          </div>
+          <input class="name-input" id="sample-name" placeholder="Sample name (e.g. PLA Galaxy Green)">
+
+          <div class="lab-block-label measured"><span>Raw measurement</span></div>
+          <div class="lab-row">
+            <div class="lab-input-wrap"><label>L</label><input class="lab-input" id="sample-L" type="number" step="0.01" placeholder="0"></div>
+            <div class="lab-input-wrap"><label>a</label><input class="lab-input" id="sample-a" type="number" step="0.01" placeholder="0"></div>
+            <div class="lab-input-wrap"><label>b</label><input class="lab-input" id="sample-b" type="number" step="0.01" placeholder="0"></div>
+          </div>
+
+          <button class="btn-primary add-btn" id="add-btn" disabled>+ Save to results table</button>
+        </div>
+
+        <div class="result-block">
+          <div class="result-swatches" id="result-swatches">
+            <div class="swatch-cell placeholder"><span class="swatch-tag">enter Lab to preview</span></div>
+          </div>
+          <div class="result-meta" id="result-meta">
+            <div class="row"><span class="label-k">Corrected Lab</span><span class="v" id="m-clab">—</span></div>
+            <div class="row"><span class="label-k">Applied shift</span><span class="v" id="m-shift">—</span></div>
+            <div class="row"><span class="label-k">In sRGB gamut?</span><span class="v" id="m-gamut">—</span></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============== SAVED RESULTS ============== -->
+    <section class="card results-card">
+      <div class="card-header">
+        <h2>Saved results</h2>
+        <div class="header-actions">
+          <button class="btn-secondary" id="export-btn" disabled>Export JSONL</button>
+          <button class="btn-secondary" id="export-csv-btn" disabled>Export CSV</button>
+          <button class="btn-secondary" id="copy-btn" disabled>Copy JSONL</button>
+          <button class="btn-secondary" id="clear-btn" disabled>Clear all</button>
+        </div>
+      </div>
+      <div class="table-scroll" id="results-table-wrap">
+        <div class="empty-state">No samples saved yet — measure a filament above and save it here.</div>
+      </div>
+    </section>
+  </main>
+
+  <script type="module" src="./main.ts"></script>
+</body>
+</html>

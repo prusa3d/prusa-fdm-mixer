@@ -332,9 +332,18 @@ input[type='range']::-moz-range-thumb {
   overflow: hidden;
 }
 .cell-swatch {
+  position: relative;
   width: 100%;
   height: 110px;
   border-bottom: 1px solid var(--line);
+}
+.cell-swatch-stripes {
+  position: absolute;
+  inset: 0;
+  clip-path: polygon(100% 0, 100% 100%, 0 100%);
+  pointer-events: none;
+  opacity: 0.7;
+  filter: blur(1px);
 }
 .cell-meta {
   display: flex;
