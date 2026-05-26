@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-05-26T05:43:40.856Z",
-  "entryCount": 10988,
+  "lastSynced": "2026-05-26T08:49:57.247Z",
+  "entryCount": 11030,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -42740,6 +42740,342 @@
       "name": "Flexible TPU Yellow",
       "hex": "#fbe200",
       "searchText": "gizmo dorks tpu flexible tpu yellow"
+    },
+    {
+      "id": "gratkit-petg-black",
+      "brand": "GratKit",
+      "material": "PETG",
+      "name": "PETG Black",
+      "hex": "#000000",
+      "searchText": "gratkit petg petg black"
+    },
+    {
+      "id": "gratkit-petg-blue",
+      "brand": "GratKit",
+      "material": "PETG",
+      "name": "PETG Blue",
+      "hex": "#2e56f1",
+      "searchText": "gratkit petg petg blue"
+    },
+    {
+      "id": "gratkit-petg-clear",
+      "brand": "GratKit",
+      "material": "PETG",
+      "name": "PETG Clear",
+      "hex": "#e4e7e5",
+      "searchText": "gratkit petg petg clear"
+    },
+    {
+      "id": "gratkit-petg-green",
+      "brand": "GratKit",
+      "material": "PETG",
+      "name": "PETG Green",
+      "hex": "#00af66",
+      "searchText": "gratkit petg petg green"
+    },
+    {
+      "id": "gratkit-petg-grey",
+      "brand": "GratKit",
+      "material": "PETG",
+      "name": "PETG Grey",
+      "hex": "#697272",
+      "searchText": "gratkit petg petg grey"
+    },
+    {
+      "id": "gratkit-petg-red",
+      "brand": "GratKit",
+      "material": "PETG",
+      "name": "PETG Red",
+      "hex": "#ff0006",
+      "searchText": "gratkit petg petg red"
+    },
+    {
+      "id": "gratkit-petg-transparent-blue",
+      "brand": "GratKit",
+      "material": "PETG",
+      "name": "PETG Transparent Blue",
+      "hex": "#6711f2",
+      "searchText": "gratkit petg petg transparent blue"
+    },
+    {
+      "id": "gratkit-petg-transparent-yellow",
+      "brand": "GratKit",
+      "material": "PETG",
+      "name": "PETG Transparent Yellow",
+      "hex": "#ffff00",
+      "searchText": "gratkit petg petg transparent yellow"
+    },
+    {
+      "id": "gratkit-petg-white",
+      "brand": "GratKit",
+      "material": "PETG",
+      "name": "PETG White",
+      "hex": "#f5f5f5",
+      "searchText": "gratkit petg petg white"
+    },
+    {
+      "id": "gratkit-petg-yellow",
+      "brand": "GratKit",
+      "material": "PETG",
+      "name": "PETG Yellow",
+      "hex": "#fadb24",
+      "searchText": "gratkit petg petg yellow"
+    },
+    {
+      "id": "gratkit-high-speed-pla-black",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "High Speed PLA Black",
+      "hex": "#000000",
+      "searchText": "gratkit pla high speed pla black"
+    },
+    {
+      "id": "gratkit-high-speed-pla-green",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "High Speed PLA Green",
+      "hex": "#31feb5",
+      "searchText": "gratkit pla high speed pla green"
+    },
+    {
+      "id": "gratkit-high-speed-pla-grey",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "High Speed PLA Grey",
+      "hex": "#9fa4a8",
+      "searchText": "gratkit pla high speed pla grey"
+    },
+    {
+      "id": "gratkit-high-speed-pla-orange",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "High Speed PLA Orange",
+      "hex": "#ff7d7a",
+      "searchText": "gratkit pla high speed pla orange"
+    },
+    {
+      "id": "gratkit-high-speed-pla-red",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "High Speed PLA Red",
+      "hex": "#fb0046",
+      "searchText": "gratkit pla high speed pla red"
+    },
+    {
+      "id": "gratkit-high-speed-pla-white",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "High Speed PLA White",
+      "hex": "#f5f5f5",
+      "searchText": "gratkit pla high speed pla white"
+    },
+    {
+      "id": "gratkit-matte-pla-black",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "Matte PLA Black",
+      "hex": "#303635",
+      "searchText": "gratkit pla matte pla black"
+    },
+    {
+      "id": "gratkit-matte-pla-macaron-light-blue",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "Matte PLA Macaron Light Blue",
+      "hex": "#b2d6d0",
+      "searchText": "gratkit pla matte pla macaron light blue"
+    },
+    {
+      "id": "gratkit-matte-pla-macaron-light-green",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "Matte PLA Macaron Light Green",
+      "hex": "#ccffdd",
+      "searchText": "gratkit pla matte pla macaron light green"
+    },
+    {
+      "id": "gratkit-matte-pla-macaron-light-pink",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "Matte PLA Macaron Light Pink",
+      "hex": "#ffc0cb",
+      "searchText": "gratkit pla matte pla macaron light pink"
+    },
+    {
+      "id": "gratkit-matte-pla-macaron-light-yellow",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "Matte PLA Macaron Light Yellow",
+      "hex": "#f8ffcf",
+      "searchText": "gratkit pla matte pla macaron light yellow"
+    },
+    {
+      "id": "gratkit-matte-pla-navy-blue",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "Matte PLA Navy Blue",
+      "hex": "#4c5975",
+      "searchText": "gratkit pla matte pla navy blue"
+    },
+    {
+      "id": "gratkit-matte-pla-olive-green",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "Matte PLA Olive Green",
+      "hex": "#5b805f",
+      "searchText": "gratkit pla matte pla olive green"
+    },
+    {
+      "id": "gratkit-pla-blue",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "PLA Blue",
+      "hex": "#0696ef",
+      "searchText": "gratkit pla pla blue"
+    },
+    {
+      "id": "gratkit-pla-green",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "PLA Green",
+      "hex": "#08d461",
+      "searchText": "gratkit pla pla green"
+    },
+    {
+      "id": "gratkit-pla-marble",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "PLA Marble",
+      "hex": "#efefef",
+      "searchText": "gratkit pla pla marble"
+    },
+    {
+      "id": "gratkit-pla-orange",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "PLA Orange",
+      "hex": "#ff5f2e",
+      "searchText": "gratkit pla pla orange"
+    },
+    {
+      "id": "gratkit-pla-proccess-magenta",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "PLA Proccess Magenta",
+      "hex": "#fd3db5",
+      "searchText": "gratkit pla pla proccess magenta"
+    },
+    {
+      "id": "gratkit-pla-purple",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "PLA Purple",
+      "hex": "#7d00a2",
+      "searchText": "gratkit pla pla purple"
+    },
+    {
+      "id": "gratkit-pla-red",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "PLA Red",
+      "hex": "#d21b31",
+      "searchText": "gratkit pla pla red"
+    },
+    {
+      "id": "gratkit-pla-yellow",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "PLA Yellow",
+      "hex": "#e4ff33",
+      "searchText": "gratkit pla pla yellow"
+    },
+    {
+      "id": "gratkit-pla-black",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "PLA+ Black",
+      "hex": "#000000",
+      "searchText": "gratkit pla pla+ black"
+    },
+    {
+      "id": "gratkit-pla-gray",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "PLA+ Gray",
+      "hex": "#b4bab0",
+      "searchText": "gratkit pla pla+ gray"
+    },
+    {
+      "id": "gratkit-pla-white",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "PLA+ White",
+      "hex": "#f0f1ea",
+      "searchText": "gratkit pla pla+ white"
+    },
+    {
+      "id": "gratkit-starry-sky-pla-blue",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "Starry Sky PLA Blue",
+      "hex": "#00688d",
+      "searchText": "gratkit pla starry sky pla blue"
+    },
+    {
+      "id": "gratkit-starry-sky-pla-green",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "Starry Sky PLA Green",
+      "hex": "#3b665e",
+      "searchText": "gratkit pla starry sky pla green"
+    },
+    {
+      "id": "gratkit-starry-sky-pla-purple",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "Starry Sky PLA Purple",
+      "hex": "#583061",
+      "searchText": "gratkit pla starry sky pla purple"
+    },
+    {
+      "id": "gratkit-wood-pla-rose",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "Wood PLA Rose",
+      "hex": "#5d4546",
+      "searchText": "gratkit pla wood pla rose"
+    },
+    {
+      "id": "gratkit-wood-pla-teak",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "Wood PLA Teak",
+      "hex": "#a96d49",
+      "searchText": "gratkit pla wood pla teak"
+    },
+    {
+      "id": "gratkit-wood-pla-walnut",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "Wood PLA Walnut",
+      "hex": "#7c4d48",
+      "searchText": "gratkit pla wood pla walnut"
+    },
+    {
+      "id": "gratkit-wood-pla-white-oak",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "Wood PLA White Oak",
+      "hex": "#ccc495",
+      "searchText": "gratkit pla wood pla white oak"
+    },
+    {
+      "id": "gratkit-wood-pla-white-wax",
+      "brand": "GratKit",
+      "material": "PLA",
+      "name": "Wood PLA White Wax",
+      "hex": "#b59c7d",
+      "searchText": "gratkit pla wood pla white wax"
     },
     {
       "id": "greengate3d-black-abs-virgin",
