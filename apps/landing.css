@@ -80,6 +80,16 @@ h1 .tag {
   color: var(--ink);
   font-weight: 600;
 }
+.subtitle a {
+  color: var(--accent-2);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(93, 210, 255, 0.3);
+  transition: color 120ms, border-color 120ms;
+}
+.subtitle a:hover {
+  color: var(--accent);
+  border-bottom-color: rgba(255, 176, 0, 0.5);
+}
 
 .apps {
   display: grid;
