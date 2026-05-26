@@ -2,7 +2,7 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-05-25T05:50:26.045Z",
+  "lastSynced": "2026-05-26T05:43:40.856Z",
   "entryCount": 10988,
   "entries": [
     {
@@ -65946,7 +65946,7 @@
       "brand": "Prusament",
       "material": "PETG",
       "name": "PLA Emerald Green",
-      "hex": "#115740",
+      "hex": "#006441",
       "searchText": "prusament petg pla emerald green"
     },
     {
@@ -65954,7 +65954,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Anthracite Grey",
-      "hex": "#3f4647",
+      "hex": "#3c474a",
       "searchText": "prusament pla pla anthracite grey"
     },
     {
@@ -65962,7 +65962,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Army Green",
-      "hex": "#5e6345",
+      "hex": "#524f2f",
       "searchText": "prusament pla pla army green"
     },
     {
@@ -65970,7 +65970,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Azure Blue",
-      "hex": "#0082ad",
+      "hex": "#008fbe",
       "searchText": "prusament pla pla azure blue"
     },
     {
@@ -65978,7 +65978,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Blend Lime Green",
-      "hex": "#a7b853",
+      "hex": "#9eb426",
       "searchText": "prusament pla pla blend lime green"
     },
     {
@@ -65986,7 +65986,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Blend Ms. Pink",
-      "hex": "#e34a94",
+      "hex": "#ff36ac",
       "searchText": "prusament pla pla blend ms. pink"
     },
     {
@@ -65994,7 +65994,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Blend My Silverness",
-      "hex": "#aeb8c1",
+      "hex": "#8894a3",
       "searchText": "prusament pla pla blend my silverness"
     },
     {
@@ -66002,7 +66002,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Blend Oh My Gold",
-      "hex": "#ce9f2e",
+      "hex": "#daa900",
       "searchText": "prusament pla pla blend oh my gold"
     },
     {
@@ -66010,7 +66010,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Blend Pearl White",
-      "hex": "#d0d7d8",
+      "hex": "#d1d8df",
       "searchText": "prusament pla pla blend pearl white"
     },
     {
@@ -66018,7 +66018,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Blend Royal Blue",
-      "hex": "#00518f",
+      "hex": "#0065aa",
       "searchText": "prusament pla pla blend royal blue"
     },
     {
@@ -66026,7 +66026,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Blend Viva La Bronze",
-      "hex": "#b38e3f",
+      "hex": "#bc8624",
       "searchText": "prusament pla pla blend viva la bronze"
     },
     {
@@ -66034,7 +66034,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Blood Red",
-      "hex": "#990303",
+      "hex": "#83242e",
       "searchText": "prusament pla pla blood red"
     },
     {
@@ -66042,7 +66042,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Chalky Blue",
-      "hex": "#6f9aaa",
+      "hex": "#729eba",
       "searchText": "prusament pla pla chalky blue"
     },
     {
@@ -66050,7 +66050,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Electric Green",
-      "hex": "#9be3bf",
+      "hex": "#a1f0b9",
       "searchText": "prusament pla pla electric green"
     },
     {
@@ -66058,7 +66058,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Galaxy Green",
-      "hex": "#42663a",
+      "hex": "#334728",
       "searchText": "prusament pla pla galaxy green"
     },
     {
@@ -66066,7 +66066,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Galaxy Purple",
-      "hex": "#453a72",
+      "hex": "#563b7c",
       "searchText": "prusament pla pla galaxy purple"
     },
     {
@@ -66074,7 +66074,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Galaxy Red",
-      "hex": "#bf1d2d",
+      "hex": "#8d2129",
       "searchText": "prusament pla pla galaxy red"
     },
     {
@@ -66082,7 +66082,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Galaxy Silver",
-      "hex": "#999aa0",
+      "hex": "#a4a0a3",
       "searchText": "prusament pla pla galaxy silver"
     },
     {
@@ -66090,7 +66090,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Gentleman's Grey",
-      "hex": "#354047",
+      "hex": "#294748",
       "searchText": "prusament pla pla gentleman's grey"
     },
     {
@@ -66098,7 +66098,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Gravity Grey",
-      "hex": "#9fa4a8",
+      "hex": "#a9a9b0",
       "searchText": "prusament pla pla gravity grey"
     },
     {
@@ -66106,7 +66106,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Jet Black",
-      "hex": "#393c3c",
+      "hex": "#222f2e",
       "searchText": "prusament pla pla jet black"
     },
     {
@@ -66114,7 +66114,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Lipstick Red",
-      "hex": "#bf2b2b",
+      "hex": "#c20019",
       "searchText": "prusament pla pla lipstick red"
     },
     {
@@ -66122,7 +66122,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Marble Grey",
-      "hex": "#b0b4b5",
+      "hex": "#c2c2c5",
       "searchText": "prusament pla pla marble grey"
     },
     {
@@ -66130,7 +66130,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Mystic Brown",
-      "hex": "#482e31",
+      "hex": "#582c2f",
       "searchText": "prusament pla pla mystic brown"
     },
     {
@@ -66138,7 +66138,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Mystic Green",
-      "hex": "#555846",
+      "hex": "#5f5d3d",
       "searchText": "prusament pla pla mystic green"
     },
     {
@@ -66146,7 +66146,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Natural",
-      "hex": "#dfdfd3",
+      "hex": "#bda096",
       "searchText": "prusament pla pla natural"
     },
     {
@@ -66154,7 +66154,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Noctua Beige",
-      "hex": "#e7ceb4",
+      "hex": "#f0d6bf",
       "searchText": "prusament pla pla noctua beige"
     },
     {
@@ -66162,7 +66162,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Noctua Brown",
-      "hex": "#653525",
+      "hex": "#75483d",
       "searchText": "prusament pla pla noctua brown"
     },
     {
@@ -66170,7 +66170,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Opal Green",
-      "hex": "#065b4a",
+      "hex": "#005d48",
       "searchText": "prusament pla pla opal green"
     },
     {
@@ -66178,7 +66178,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Pearl Mouse",
-      "hex": "#a49d8e",
+      "hex": "#968d80",
       "searchText": "prusament pla pla pearl mouse"
     },
     {
@@ -66186,7 +66186,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Pineapple Yellow",
-      "hex": "#efd00b",
+      "hex": "#eabd00",
       "searchText": "prusament pla pla pineapple yellow"
     },
     {
@@ -66194,7 +66194,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Pistachio Green",
-      "hex": "#93a683",
+      "hex": "#9bb085",
       "searchText": "prusament pla pla pistachio green"
     },
     {
@@ -66202,7 +66202,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Pristine White",
-      "hex": "#e6eaef",
+      "hex": "#e9e7e4",
       "searchText": "prusament pla pla pristine white"
     },
     {
@@ -66210,7 +66210,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Prusa Galaxy Black",
-      "hex": "#3d3e3d",
+      "hex": "#4b4545",
       "searchText": "prusament pla pla prusa galaxy black"
     },
     {
@@ -66218,7 +66218,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Prusa Orange",
-      "hex": "#fe6e32",
+      "hex": "#ff7041",
       "searchText": "prusament pla pla prusa orange"
     },
     {
@@ -66226,7 +66226,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Prusa Pro Green",
-      "hex": "#00c389",
+      "hex": "#00cc8c",
       "searchText": "prusament pla pla prusa pro green"
     },
     {
@@ -66242,7 +66242,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Simply Green",
-      "hex": "#70a641",
+      "hex": "#6fa02d",
       "searchText": "prusament pla pla simply green"
     },
     {
@@ -66250,7 +66250,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Vanilla White",
-      "hex": "#d9d4c6",
+      "hex": "#e1d3c3",
       "searchText": "prusament pla pla vanilla white"
     },
     {
