@@ -126,6 +126,67 @@ h1 .tag {
   line-height: 1.55;
 }
 
+.swatch-source {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 20px 22px;
+  box-shadow: var(--shadow);
+  margin-bottom: 14px;
+}
+.swatch-source h3 {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-faint);
+  font-weight: 500;
+  margin-bottom: 8px;
+}
+.swatch-source p {
+  font-size: 14px;
+  color: var(--ink);
+  margin-bottom: 14px;
+}
+.swatch-source p a {
+  color: var(--accent-2);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(93, 210, 255, 0.3);
+}
+.swatch-source p a:hover {
+  color: var(--accent);
+  border-bottom-color: rgba(255, 176, 0, 0.5);
+}
+.swatch-embed {
+  background: var(--panel-2);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 0;
+  overflow: hidden;
+  max-width: 640px;
+  /* Container queries below switch aspect ratio based on rendered iframe
+     width — wrapper is capped at 640px so its width tracks the iframe's. */
+  container-type: inline-size;
+}
+.swatch-embed iframe {
+  display: block;
+  width: 100%;
+  height: 190px;
+  border: 0;
+}
+/* < 640px: Printables collapses its layout to a stacked view, square fits. */
+@container (max-width: 639px) {
+  .swatch-embed iframe {
+    height: auto;
+    aspect-ratio: 1 / 1;
+  }
+}
+/* < 400px: Printables switches to a portrait card; match 400×445. */
+@container (max-width: 399px) {
+  .swatch-embed iframe {
+    aspect-ratio: 400 / 445;
+  }
+}
+
 .callout {
   background: var(--panel);
   border: 1px solid var(--line);
