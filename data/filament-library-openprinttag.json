@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-05-28T05:45:23.937Z",
-  "entryCount": 11030,
+  "lastSynced": "2026-05-29T05:45:35.120Z",
+  "entryCount": 11074,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -26654,60 +26654,68 @@
       "searchText": "esun pet pet transparent natural"
     },
     {
-      "id": "esun-carbon-fiber-petg-dark-grey",
+      "id": "esun-high-speed-petg-fire-engine-red",
       "brand": "eSUN",
       "material": "PETG",
-      "name": "Carbon Fiber PETG Dark Grey",
-      "hex": "#6a6c6e",
-      "searchText": "esun petg carbon fiber petg dark grey"
-    },
-    {
-      "id": "esun-high-speed-upgraded-petg-solid-black",
-      "brand": "eSUN",
-      "material": "PETG",
-      "name": "High Speed Upgraded PETG Solid Black",
-      "hex": "#000000",
-      "searchText": "esun petg high speed upgraded petg solid black"
-    },
-    {
-      "id": "esun-high-speed-upgraded-petg-solid-blue",
-      "brand": "eSUN",
-      "material": "PETG",
-      "name": "High Speed Upgraded PETG Solid Blue",
-      "hex": "#2e56f1",
-      "searchText": "esun petg high speed upgraded petg solid blue"
-    },
-    {
-      "id": "esun-high-speed-upgraded-petg-solid-fire-engine-red",
-      "brand": "eSUN",
-      "material": "PETG",
-      "name": "High Speed Upgraded PETG Solid Fire Engine Red",
+      "name": "High Speed PETG Fire Engine Red",
       "hex": "#e20010",
-      "searchText": "esun petg high speed upgraded petg solid fire engine red"
+      "searchText": "esun petg high speed petg fire engine red"
     },
     {
-      "id": "esun-high-speed-upgraded-petg-solid-green",
+      "id": "esun-high-speed-petg-solid-black",
       "brand": "eSUN",
       "material": "PETG",
-      "name": "High Speed Upgraded PETG Solid Green",
+      "name": "High Speed PETG Solid Black",
+      "hex": "#000000",
+      "searchText": "esun petg high speed petg solid black"
+    },
+    {
+      "id": "esun-high-speed-petg-solid-blue",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "High Speed PETG Solid Blue",
+      "hex": "#2e56f1",
+      "searchText": "esun petg high speed petg solid blue"
+    },
+    {
+      "id": "esun-high-speed-petg-solid-green",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "High Speed PETG Solid Green",
       "hex": "#018e63",
-      "searchText": "esun petg high speed upgraded petg solid green"
+      "searchText": "esun petg high speed petg solid green"
     },
     {
-      "id": "esun-high-speed-upgraded-petg-solid-grey",
+      "id": "esun-high-speed-petg-solid-grey",
       "brand": "eSUN",
       "material": "PETG",
-      "name": "High Speed Upgraded PETG Solid Grey",
+      "name": "High Speed PETG Solid Grey",
       "hex": "#55657c",
-      "searchText": "esun petg high speed upgraded petg solid grey"
+      "searchText": "esun petg high speed petg solid grey"
     },
     {
-      "id": "esun-high-speed-upgraded-petg-solid-orange",
+      "id": "esun-high-speed-petg-solid-orange",
       "brand": "eSUN",
       "material": "PETG",
-      "name": "High Speed Upgraded PETG Solid Orange",
+      "name": "High Speed PETG Solid Orange",
       "hex": "#ff8133",
-      "searchText": "esun petg high speed upgraded petg solid orange"
+      "searchText": "esun petg high speed petg solid orange"
+    },
+    {
+      "id": "esun-high-speed-petg-solid-silver",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "High Speed PETG Solid Silver",
+      "hex": "#abacb0",
+      "searchText": "esun petg high speed petg solid silver"
+    },
+    {
+      "id": "esun-high-speed-petg-solid-yellow",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "High Speed PETG Solid Yellow",
+      "hex": "#fbe200",
+      "searchText": "esun petg high speed petg solid yellow"
     },
     {
       "id": "esun-high-speed-upgraded-petg-solid-red",
@@ -26718,28 +26726,12 @@
       "searchText": "esun petg high speed upgraded petg solid red"
     },
     {
-      "id": "esun-high-speed-upgraded-petg-solid-silver",
-      "brand": "eSUN",
-      "material": "PETG",
-      "name": "High Speed Upgraded PETG Solid Silver",
-      "hex": "#abacb0",
-      "searchText": "esun petg high speed upgraded petg solid silver"
-    },
-    {
       "id": "esun-high-speed-upgraded-petg-solid-white",
       "brand": "eSUN",
       "material": "PETG",
       "name": "High Speed Upgraded PETG Solid White",
       "hex": "#ffffff",
       "searchText": "esun petg high speed upgraded petg solid white"
-    },
-    {
-      "id": "esun-high-speed-upgraded-petg-solid-yellow",
-      "brand": "eSUN",
-      "material": "PETG",
-      "name": "High Speed Upgraded PETG Solid Yellow",
-      "hex": "#fbe200",
-      "searchText": "esun petg high speed upgraded petg solid yellow"
     },
     {
       "id": "esun-petg",
@@ -26750,12 +26742,76 @@
       "searchText": "esun petg petg"
     },
     {
-      "id": "esun-petg-black",
+      "id": "esun-petg-basic-black",
       "brand": "eSUN",
       "material": "PETG",
-      "name": "PETG Black",
+      "name": "PETG Basic Black",
       "hex": "#000000",
-      "searchText": "esun petg petg black"
+      "searchText": "esun petg petg basic black"
+    },
+    {
+      "id": "esun-petg-basic-blue",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Basic Blue",
+      "hex": "#00358e",
+      "searchText": "esun petg petg basic blue"
+    },
+    {
+      "id": "esun-petg-basic-clear",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Basic Clear",
+      "hex": "#ffffff",
+      "searchText": "esun petg petg basic clear"
+    },
+    {
+      "id": "esun-petg-basic-grey",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Basic Grey",
+      "hex": "#55657c",
+      "searchText": "esun petg petg basic grey"
+    },
+    {
+      "id": "esun-petg-basic-red",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Basic Red",
+      "hex": "#e72f1d",
+      "searchText": "esun petg petg basic red"
+    },
+    {
+      "id": "esun-petg-basic-translucent-blue",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Basic Translucent Blue",
+      "hex": "#00239c",
+      "searchText": "esun petg petg basic translucent blue"
+    },
+    {
+      "id": "esun-petg-basic-translucent-green",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Basic Translucent Green",
+      "hex": "#06924d",
+      "searchText": "esun petg petg basic translucent green"
+    },
+    {
+      "id": "esun-petg-basic-translucent-orange",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Basic Translucent Orange",
+      "hex": "#f67405",
+      "searchText": "esun petg petg basic translucent orange"
+    },
+    {
+      "id": "esun-petg-basic-white",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Basic White",
+      "hex": "#f5f5f5",
+      "searchText": "esun petg petg basic white"
     },
     {
       "id": "esun-petg-blue",
@@ -26766,12 +26822,100 @@
       "searchText": "esun petg petg blue"
     },
     {
+      "id": "esun-petg-fire-engine-red",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Fire Engine Red",
+      "hex": "#d21b31",
+      "searchText": "esun petg petg fire engine red"
+    },
+    {
       "id": "esun-petg-green",
       "brand": "eSUN",
       "material": "PETG",
       "name": "PETG Green",
       "hex": "#206233",
       "searchText": "esun petg petg green"
+    },
+    {
+      "id": "esun-petg-matte-almond-yellow",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Matte Almond Yellow",
+      "hex": "#fff5b5",
+      "searchText": "esun petg petg matte almond yellow"
+    },
+    {
+      "id": "esun-petg-matte-apricot",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Matte Apricot",
+      "hex": "#ffbd7f",
+      "searchText": "esun petg petg matte apricot"
+    },
+    {
+      "id": "esun-petg-matte-dark-grey",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Matte Dark Grey",
+      "hex": "#818fa0",
+      "searchText": "esun petg petg matte dark grey"
+    },
+    {
+      "id": "esun-petg-matte-light-blue",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Matte Light Blue",
+      "hex": "#8ad8ed",
+      "searchText": "esun petg petg matte light blue"
+    },
+    {
+      "id": "esun-petg-matte-light-khaki",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Matte Light Khaki",
+      "hex": "#eadac2",
+      "searchText": "esun petg petg matte light khaki"
+    },
+    {
+      "id": "esun-petg-matte-lilac",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Matte Lilac",
+      "hex": "#e5badf",
+      "searchText": "esun petg petg matte lilac"
+    },
+    {
+      "id": "esun-petg-matte-matcha-green",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Matte Matcha Green",
+      "hex": "#cbd098",
+      "searchText": "esun petg petg matte matcha green"
+    },
+    {
+      "id": "esun-petg-matte-mint-green",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Matte Mint Green",
+      "hex": "#bbe1c6",
+      "searchText": "esun petg petg matte mint green"
+    },
+    {
+      "id": "esun-petg-matte-peach-pink",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Matte Peach Pink",
+      "hex": "#ffc8c9",
+      "searchText": "esun petg petg matte peach pink"
+    },
+    {
+      "id": "esun-petg-matte-white",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Matte White",
+      "hex": "#f5f5f5",
+      "searchText": "esun petg petg matte white"
     },
     {
       "id": "esun-petg-natural",
@@ -26804,6 +26948,22 @@
       "name": "PETG Solid Blue",
       "hex": "#0e21ae",
       "searchText": "esun petg petg solid blue"
+    },
+    {
+      "id": "esun-petg-solid-gold",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Solid Gold",
+      "hex": "#ffcb47",
+      "searchText": "esun petg petg solid gold"
+    },
+    {
+      "id": "esun-petg-solid-green",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Solid Green",
+      "hex": "#32a584",
+      "searchText": "esun petg petg solid green"
     },
     {
       "id": "esun-petg-solid-grey",
@@ -26854,6 +27014,14 @@
       "searchText": "esun petg petg solid purple"
     },
     {
+      "id": "esun-petg-solid-red",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Solid Red",
+      "hex": "#ee2737",
+      "searchText": "esun petg petg solid red"
+    },
+    {
       "id": "esun-petg-solid-silver",
       "brand": "eSUN",
       "material": "PETG",
@@ -26878,12 +27046,92 @@
       "searchText": "esun petg petg solid yellow"
     },
     {
+      "id": "esun-petg-translucent-blue",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Translucent Blue",
+      "hex": "#0353ba",
+      "searchText": "esun petg petg translucent blue"
+    },
+    {
+      "id": "esun-petg-translucent-green",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Translucent Green",
+      "hex": "#41a840",
+      "searchText": "esun petg petg translucent green"
+    },
+    {
+      "id": "esun-petg-translucent-magenta",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Translucent Magenta",
+      "hex": "#d85165",
+      "searchText": "esun petg petg translucent magenta"
+    },
+    {
+      "id": "esun-petg-translucent-orange",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Translucent Orange",
+      "hex": "#fe5000",
+      "searchText": "esun petg petg translucent orange"
+    },
+    {
+      "id": "esun-petg-translucent-yellow",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Translucent Yellow",
+      "hex": "#fbe200",
+      "searchText": "esun petg petg translucent yellow"
+    },
+    {
       "id": "esun-petg-transparent-natural",
       "brand": "eSUN",
       "material": "PETG",
       "name": "PETG Transparent Natural",
       "hex": "#d9d8de",
       "searchText": "esun petg petg transparent natural"
+    },
+    {
+      "id": "esun-petg-cf-antique-brass",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG-CF Antique Brass",
+      "hex": "#876857",
+      "searchText": "esun petg petg-cf antique brass"
+    },
+    {
+      "id": "esun-petg-cf-black-red",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG-CF Black Red",
+      "hex": "#5d4546",
+      "searchText": "esun petg petg-cf black red"
+    },
+    {
+      "id": "esun-petg-cf-blackish-green",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG-CF Blackish Green",
+      "hex": "#575b54",
+      "searchText": "esun petg petg-cf blackish green"
+    },
+    {
+      "id": "esun-petg-cf-dark-grey",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG-CF Dark Grey",
+      "hex": "#6a6c6e",
+      "searchText": "esun petg petg-cf dark grey"
+    },
+    {
+      "id": "esun-petg-cf-deep-blue",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG-CF Deep Blue",
+      "hex": "#444a62",
+      "searchText": "esun petg petg-cf deep blue"
     },
     {
       "id": "esun-carbon-fiber-pla-black",
@@ -27162,7 +27410,7 @@
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA Basic Grape Purple",
-      "hex": "#b070d1",
+      "hex": "#7f347c",
       "searchText": "esun pla pla basic grape purple"
     },
     {
@@ -27226,7 +27474,7 @@
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA Basic Peak Green",
-      "hex": "#b2e084",
+      "hex": "#d0e081",
       "searchText": "esun pla pla basic peak green"
     },
     {
@@ -27266,7 +27514,7 @@
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA Basic Sky Blue",
-      "hex": "#54bee1",
+      "hex": "#9bcbeb",
       "searchText": "esun pla pla basic sky blue"
     },
     {
@@ -27282,7 +27530,7 @@
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA Basic Yellow",
-      "hex": "#ffed29",
+      "hex": "#fce300",
       "searchText": "esun pla pla basic yellow"
     },
     {
@@ -27458,7 +27706,7 @@
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA Metal Bronze",
-      "hex": "#ae9076",
+      "hex": "#b58660",
       "searchText": "esun pla pla metal bronze"
     },
     {
@@ -27586,7 +27834,7 @@
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA Wood Walnut",
-      "hex": "#a38e80",
+      "hex": "#a67f6b",
       "searchText": "esun pla pla wood walnut"
     },
     {
@@ -27674,7 +27922,7 @@
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Coral Orange",
-      "hex": "#ff7f32",
+      "hex": "#ff6a13",
       "searchText": "esun pla pla+ coral orange"
     },
     {
@@ -27818,7 +28066,7 @@
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Mustard Green",
-      "hex": "#f0e6a3",
+      "hex": "#a59f4d",
       "searchText": "esun pla pla+ mustard green"
     },
     {
@@ -27842,7 +28090,7 @@
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Peach Pink",
-      "hex": "#f3cdcb",
+      "hex": "#f5d3d6",
       "searchText": "esun pla pla+ peach pink"
     },
     {
@@ -27986,7 +28234,7 @@
       "brand": "eSUN",
       "material": "PLA",
       "name": "Silk Metal PLA Rose Gold",
-      "hex": "#fea096",
+      "hex": "#a57973",
       "searchText": "esun pla silk metal pla rose gold"
     },
     {
@@ -59462,6 +59710,14 @@
       "searchText": "polymaker pla panchroma™ matte pla electric indigo"
     },
     {
+      "id": "polymaker-panchroma-matte-pla-emerald-green",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Matte PLA Emerald Green",
+      "hex": "#22624f",
+      "searchText": "polymaker pla panchroma™ matte pla emerald green"
+    },
+    {
       "id": "polymaker-panchroma-matte-pla-forest-green",
       "brand": "Polymaker",
       "material": "PLA",
@@ -59476,6 +59732,14 @@
       "name": "Panchroma™ Matte PLA Fossil Grey",
       "hex": "#6f727e",
       "searchText": "polymaker pla panchroma™ matte pla fossil grey"
+    },
+    {
+      "id": "polymaker-panchroma-matte-pla-grass-green",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Matte PLA Grass Green",
+      "hex": "#32bc46",
+      "searchText": "polymaker pla panchroma™ matte pla grass green"
     },
     {
       "id": "polymaker-panchroma-matte-pla-lava-red",
@@ -59526,6 +59790,22 @@
       "searchText": "polymaker pla panchroma™ matte pla muted green"
     },
     {
+      "id": "polymaker-panchroma-matte-pla-muted-mauve",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Matte PLA Muted Mauve",
+      "hex": "#a36d82",
+      "searchText": "polymaker pla panchroma™ matte pla muted mauve"
+    },
+    {
+      "id": "polymaker-panchroma-matte-pla-muted-moss",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Matte PLA Muted Moss",
+      "hex": "#92864f",
+      "searchText": "polymaker pla panchroma™ matte pla muted moss"
+    },
+    {
       "id": "polymaker-panchroma-matte-pla-muted-purple",
       "brand": "Polymaker",
       "material": "PLA",
@@ -59540,6 +59820,22 @@
       "name": "Panchroma™ Matte PLA Muted Red",
       "hex": "#db3e14",
       "searchText": "polymaker pla panchroma™ matte pla muted red"
+    },
+    {
+      "id": "polymaker-panchroma-matte-pla-muted-teal",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Matte PLA Muted Teal",
+      "hex": "#5d989e",
+      "searchText": "polymaker pla panchroma™ matte pla muted teal"
+    },
+    {
+      "id": "polymaker-panchroma-matte-pla-muted-terracotta",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Matte PLA Muted Terracotta",
+      "hex": "#c06443",
+      "searchText": "polymaker pla panchroma™ matte pla muted terracotta"
     },
     {
       "id": "polymaker-panchroma-matte-pla-muted-white",
@@ -59558,12 +59854,28 @@
       "searchText": "polymaker pla panchroma™ matte pla pastel banana"
     },
     {
+      "id": "polymaker-panchroma-matte-pla-pastel-beige",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Matte PLA Pastel Beige",
+      "hex": "#e4d0b0",
+      "searchText": "polymaker pla panchroma™ matte pla pastel beige"
+    },
+    {
       "id": "polymaker-panchroma-matte-pla-pastel-candy",
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Pastel Candy",
       "hex": "#dabcc8",
       "searchText": "polymaker pla panchroma™ matte pla pastel candy"
+    },
+    {
+      "id": "polymaker-panchroma-matte-pla-pastel-coral",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Matte PLA Pastel Coral",
+      "hex": "#f09a7e",
+      "searchText": "polymaker pla panchroma™ matte pla pastel coral"
     },
     {
       "id": "polymaker-panchroma-matte-pla-pastel-ice",
@@ -59601,9 +59913,9 @@
       "id": "polymaker-panchroma-matte-pla-pastel-pezriwinkle",
       "brand": "Polymaker",
       "material": "PLA",
-      "name": "Panchroma™ Matte PLA Pastel Pezriwinkle",
+      "name": "Panchroma™ Matte PLA Pastel Periwinkle",
       "hex": "#d3c6ff",
-      "searchText": "polymaker pla panchroma™ matte pla pastel pezriwinkle"
+      "searchText": "polymaker pla panchroma™ matte pla pastel periwinkle"
     },
     {
       "id": "polymaker-panchroma-matte-pla-pastel-watermelon",
@@ -59612,6 +59924,14 @@
       "name": "Panchroma™ Matte PLA Pastel Watermelon",
       "hex": "#ee366a",
       "searchText": "polymaker pla panchroma™ matte pla pastel watermelon"
+    },
+    {
+      "id": "polymaker-panchroma-matte-pla-raspberry-blue",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Matte PLA Raspberry Blue",
+      "hex": "#5472d0",
+      "searchText": "polymaker pla panchroma™ matte pla raspberry blue"
     },
     {
       "id": "polymaker-panchroma-matte-pla-sakura-pink",
@@ -59638,6 +59958,14 @@
       "searchText": "polymaker pla panchroma™ matte pla savannah yellow"
     },
     {
+      "id": "polymaker-panchroma-matte-pla-seafoam-green",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Matte PLA Seafoam Green",
+      "hex": "#7dd4be",
+      "searchText": "polymaker pla panchroma™ matte pla seafoam green"
+    },
+    {
       "id": "polymaker-panchroma-matte-pla-sky-blue",
       "brand": "Polymaker",
       "material": "PLA",
@@ -59652,6 +59980,22 @@
       "name": "Panchroma™ Matte PLA Sunrise Orange",
       "hex": "#f78e0e",
       "searchText": "polymaker pla panchroma™ matte pla sunrise orange"
+    },
+    {
+      "id": "polymaker-panchroma-matte-pla-sunshine-yellow",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Matte PLA Sunshine Yellow",
+      "hex": "#f9da07",
+      "searchText": "polymaker pla panchroma™ matte pla sunshine yellow"
+    },
+    {
+      "id": "polymaker-panchroma-matte-pla-wine-burgundy",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Matte PLA Wine Burgundy",
+      "hex": "#753e4c",
+      "searchText": "polymaker pla panchroma™ matte pla wine burgundy"
     },
     {
       "id": "polymaker-panchroma-matte-pla-wood-brown",
@@ -66278,12 +66622,12 @@
       "searchText": "prusament petg petg yellow gold"
     },
     {
-      "id": "prusament-pla-emerald-green",
+      "id": "prusament-pla-anniversary-le-2025",
       "brand": "Prusament",
-      "material": "PETG",
-      "name": "PLA Emerald Green",
-      "hex": "#006441",
-      "searchText": "prusament petg pla emerald green"
+      "material": "PLA",
+      "name": "PLA Anniversary LE 2025",
+      "hex": "#e35102",
+      "searchText": "prusament pla pla anniversary le 2025"
     },
     {
       "id": "prusament-pla-anthracite-grey",
@@ -66388,6 +66732,14 @@
       "name": "PLA Electric Green",
       "hex": "#a1f0b9",
       "searchText": "prusament pla pla electric green"
+    },
+    {
+      "id": "prusament-pla-emerald-green",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "PLA Emerald Green",
+      "hex": "#006441",
+      "searchText": "prusament pla pla emerald green"
     },
     {
       "id": "prusament-pla-galaxy-green",
@@ -66570,7 +66922,7 @@
       "brand": "Prusament",
       "material": "PLA",
       "name": "PLA Recycled",
-      "hex": "#000000",
+      "hex": "#556d5a",
       "searchText": "prusament pla pla recycled"
     },
     {
