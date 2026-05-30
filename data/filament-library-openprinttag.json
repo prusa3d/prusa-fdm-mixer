@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-05-29T05:45:35.120Z",
-  "entryCount": 11074,
+  "lastSynced": "2026-05-30T05:35:39.874Z",
+  "entryCount": 11098,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -26470,12 +26470,44 @@
       "searchText": "esun abs abs+ black"
     },
     {
+      "id": "esun-abs-blue",
+      "brand": "eSUN",
+      "material": "ABS",
+      "name": "ABS+ Blue",
+      "hex": "#084989",
+      "searchText": "esun abs abs+ blue"
+    },
+    {
       "id": "esun-abs-cold-white",
       "brand": "eSUN",
       "material": "ABS",
       "name": "ABS+ Cold White",
       "hex": "#eaecf5",
       "searchText": "esun abs abs+ cold white"
+    },
+    {
+      "id": "esun-abs-fire-engine-red",
+      "brand": "eSUN",
+      "material": "ABS",
+      "name": "ABS+ Fire Engine Red",
+      "hex": "#d02f37",
+      "searchText": "esun abs abs+ fire engine red"
+    },
+    {
+      "id": "esun-abs-green",
+      "brand": "eSUN",
+      "material": "ABS",
+      "name": "ABS+ Green",
+      "hex": "#00a594",
+      "searchText": "esun abs abs+ green"
+    },
+    {
+      "id": "esun-abs-grey",
+      "brand": "eSUN",
+      "material": "ABS",
+      "name": "ABS+ Grey",
+      "hex": "#7d8eaa",
+      "searchText": "esun abs abs+ grey"
     },
     {
       "id": "esun-abs-light-blue",
@@ -26486,11 +26518,19 @@
       "searchText": "esun abs abs+ light blue"
     },
     {
+      "id": "esun-abs-orange",
+      "brand": "eSUN",
+      "material": "ABS",
+      "name": "ABS+ Orange",
+      "hex": "#f59144",
+      "searchText": "esun abs abs+ orange"
+    },
+    {
       "id": "esun-abs-peak-green",
       "brand": "eSUN",
       "material": "ABS",
       "name": "ABS+ Peak Green",
-      "hex": "#00cc00",
+      "hex": "#58c91b",
       "searchText": "esun abs abs+ peak green"
     },
     {
@@ -26502,6 +26542,14 @@
       "searchText": "esun abs abs+ purple"
     },
     {
+      "id": "esun-abs-red",
+      "brand": "eSUN",
+      "material": "ABS",
+      "name": "ABS+ Red",
+      "hex": "#ef3340",
+      "searchText": "esun abs abs+ red"
+    },
+    {
       "id": "esun-abs-silver",
       "brand": "eSUN",
       "material": "ABS",
@@ -26510,12 +26558,52 @@
       "searchText": "esun abs abs+ silver"
     },
     {
+      "id": "esun-abs-yellow",
+      "brand": "eSUN",
+      "material": "ABS",
+      "name": "ABS+ Yellow",
+      "hex": "#f6fb38",
+      "searchText": "esun abs abs+ yellow"
+    },
+    {
       "id": "esun-carbon-fiber-abs-black",
       "brand": "eSUN",
       "material": "ABS",
       "name": "Carbon Fiber ABS Black",
       "hex": "#000000",
       "searchText": "esun abs carbon fiber abs black"
+    },
+    {
+      "id": "esun-carbon-fiber-abs-dark-blue",
+      "brand": "eSUN",
+      "material": "ABS",
+      "name": "Carbon Fiber ABS Dark Blue",
+      "hex": "#2e4462",
+      "searchText": "esun abs carbon fiber abs dark blue"
+    },
+    {
+      "id": "esun-carbon-fiber-abs-dark-green",
+      "brand": "eSUN",
+      "material": "ABS",
+      "name": "Carbon Fiber ABS Dark Green",
+      "hex": "#1e5a4f",
+      "searchText": "esun abs carbon fiber abs dark green"
+    },
+    {
+      "id": "esun-carbon-fiber-abs-dark-purple",
+      "brand": "eSUN",
+      "material": "ABS",
+      "name": "Carbon Fiber ABS Dark Purple",
+      "hex": "#444a62",
+      "searchText": "esun abs carbon fiber abs dark purple"
+    },
+    {
+      "id": "esun-carbon-fiber-abs-dark-red",
+      "brand": "eSUN",
+      "material": "ABS",
+      "name": "Carbon Fiber ABS Dark Red",
+      "hex": "#462b2e",
+      "searchText": "esun abs carbon fiber abs dark red"
     },
     {
       "id": "esun-high-speed-abs-black",
@@ -26570,7 +26658,7 @@
       "brand": "eSUN",
       "material": "ABS",
       "name": "High Speed ABS+ Natural",
-      "hex": "#eadac2",
+      "hex": "#f5f0e8",
       "searchText": "esun abs high speed abs+ natural"
     },
     {
@@ -26594,7 +26682,7 @@
       "brand": "eSUN",
       "material": "ABS",
       "name": "High Speed ABS+ Silver",
-      "hex": "#6f727e",
+      "hex": "#8a8d8f",
       "searchText": "esun abs high speed abs+ silver"
     },
     {
@@ -26620,6 +26708,70 @@
       "name": "ASA Black",
       "hex": "#000000",
       "searchText": "esun asa asa black"
+    },
+    {
+      "id": "esun-asa-blue",
+      "brand": "eSUN",
+      "material": "ASA",
+      "name": "ASA+ Blue",
+      "hex": "#2941bd",
+      "searchText": "esun asa asa+ blue"
+    },
+    {
+      "id": "esun-asa-cold-white",
+      "brand": "eSUN",
+      "material": "ASA",
+      "name": "ASA+ Cold White",
+      "hex": "#fafafa",
+      "searchText": "esun asa asa+ cold white"
+    },
+    {
+      "id": "esun-asa-green",
+      "brand": "eSUN",
+      "material": "ASA",
+      "name": "ASA+ Green",
+      "hex": "#32a584",
+      "searchText": "esun asa asa+ green"
+    },
+    {
+      "id": "esun-asa-grey",
+      "brand": "eSUN",
+      "material": "ASA",
+      "name": "ASA+ Grey",
+      "hex": "#7d8eaa",
+      "searchText": "esun asa asa+ grey"
+    },
+    {
+      "id": "esun-asa-red",
+      "brand": "eSUN",
+      "material": "ASA",
+      "name": "ASA+ Red",
+      "hex": "#ff351e",
+      "searchText": "esun asa asa+ red"
+    },
+    {
+      "id": "esun-asa-silver",
+      "brand": "eSUN",
+      "material": "ASA",
+      "name": "ASA+ Silver",
+      "hex": "#949597",
+      "searchText": "esun asa asa+ silver"
+    },
+    {
+      "id": "esun-asa-warm-white",
+      "brand": "eSUN",
+      "material": "ASA",
+      "name": "ASA+ Warm White",
+      "hex": "#e9e9e7",
+      "searchText": "esun asa asa+ warm white"
+    },
+    {
+      "id": "esun-asa-yellow",
+      "brand": "eSUN",
+      "material": "ASA",
+      "name": "ASA+ Yellow",
+      "hex": "#fffb00",
+      "searchText": "esun asa asa+ yellow"
     },
     {
       "id": "esun-pet-solid-black",
@@ -28294,38 +28446,6 @@
       "searchText": "esun tpu tpu 95a black"
     },
     {
-      "id": "esun-tpu-95a-glass-blue",
-      "brand": "eSUN",
-      "material": "TPU",
-      "name": "TPU 95A Glass Blue",
-      "hex": "#2e56f1",
-      "searchText": "esun tpu tpu 95a glass blue"
-    },
-    {
-      "id": "esun-tpu-95a-glass-green",
-      "brand": "eSUN",
-      "material": "TPU",
-      "name": "TPU 95A Glass Green",
-      "hex": "#00cc00",
-      "searchText": "esun tpu tpu 95a glass green"
-    },
-    {
-      "id": "esun-tpu-95a-glass-purple",
-      "brand": "eSUN",
-      "material": "TPU",
-      "name": "TPU 95A Glass Purple",
-      "hex": "#c63dba",
-      "searchText": "esun tpu tpu 95a glass purple"
-    },
-    {
-      "id": "esun-tpu-95a-glass-yellow",
-      "brand": "eSUN",
-      "material": "TPU",
-      "name": "TPU 95A Glass Yellow",
-      "hex": "#ebff57",
-      "searchText": "esun tpu tpu 95a glass yellow"
-    },
-    {
       "id": "esun-tpu-95a-gray",
       "brand": "eSUN",
       "material": "TPU",
@@ -28350,20 +28470,92 @@
       "searchText": "esun tpu tpu 95a natural"
     },
     {
-      "id": "esun-tpu-95a-natural-clear",
+      "id": "esun-tpu-95a-transparent-blue",
       "brand": "eSUN",
       "material": "TPU",
-      "name": "TPU 95A Natural Clear",
-      "hex": "#e4e7e5",
-      "searchText": "esun tpu tpu 95a natural clear"
+      "name": "TPU 95A Transparent Blue",
+      "hex": "#2e56f1",
+      "searchText": "esun tpu tpu 95a transparent blue"
+    },
+    {
+      "id": "esun-tpu-95a-transparent-green",
+      "brand": "eSUN",
+      "material": "TPU",
+      "name": "TPU 95A Transparent Green",
+      "hex": "#58c91b",
+      "searchText": "esun tpu tpu 95a transparent green"
+    },
+    {
+      "id": "esun-tpu-95a-transparent-orange",
+      "brand": "eSUN",
+      "material": "TPU",
+      "name": "TPU 95A Transparent Orange",
+      "hex": "#f67405",
+      "searchText": "esun tpu tpu 95a transparent orange"
+    },
+    {
+      "id": "esun-tpu-95a-transparent-pink",
+      "brand": "eSUN",
+      "material": "TPU",
+      "name": "TPU 95A Transparent Pink",
+      "hex": "#fe488b",
+      "searchText": "esun tpu tpu 95a transparent pink"
+    },
+    {
+      "id": "esun-tpu-95a-transparent-purple",
+      "brand": "eSUN",
+      "material": "TPU",
+      "name": "TPU 95A Transparent Purple",
+      "hex": "#c63dba",
+      "searchText": "esun tpu tpu 95a transparent purple"
+    },
+    {
+      "id": "esun-tpu-95a-transparent-red",
+      "brand": "eSUN",
+      "material": "TPU",
+      "name": "TPU 95A Transparent Red",
+      "hex": "#af231c",
+      "searchText": "esun tpu tpu 95a transparent red"
+    },
+    {
+      "id": "esun-tpu-95a-transparent-yellow",
+      "brand": "eSUN",
+      "material": "TPU",
+      "name": "TPU 95A Transparent Yellow",
+      "hex": "#ebff57",
+      "searchText": "esun tpu tpu 95a transparent yellow"
     },
     {
       "id": "esun-tpu-95a-white",
       "brand": "eSUN",
       "material": "TPU",
       "name": "TPU 95A White",
-      "hex": "#ffffff",
+      "hex": "#f5f5f5",
       "searchText": "esun tpu tpu 95a white"
+    },
+    {
+      "id": "esun-tpu-lw-black",
+      "brand": "eSUN",
+      "material": "TPU",
+      "name": "TPU-LW Black",
+      "hex": "#3b3e3f",
+      "searchText": "esun tpu tpu-lw black"
+    },
+    {
+      "id": "esun-tpu-lw-grey",
+      "brand": "eSUN",
+      "material": "TPU",
+      "name": "TPU-LW Grey",
+      "hex": "#c5c7c4",
+      "searchText": "esun tpu tpu-lw grey"
+    },
+    {
+      "id": "esun-tpu-lw-white",
+      "brand": "eSUN",
+      "material": "TPU",
+      "name": "TPU-LW White",
+      "hex": "#f5f5f5",
+      "searchText": "esun tpu tpu-lw white"
     },
     {
       "id": "eumakers-anti-hydrolysis-pla-black",
