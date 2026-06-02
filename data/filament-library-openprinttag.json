@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-06-01T05:59:47.123Z",
-  "entryCount": 11098,
+  "lastSynced": "2026-06-02T05:57:34.086Z",
+  "entryCount": 11223,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -21284,6 +21284,678 @@
       "name": "TPU V2 (flexibel) Weiß",
       "hex": "#ffffff",
       "searchText": "das filament tpu tpu v2 (flexibel) weiß"
+    },
+    {
+      "id": "deeplee-petg-black",
+      "brand": "DEEPLEE",
+      "material": "PETG",
+      "name": "PETG Black",
+      "hex": "#000000",
+      "searchText": "deeplee petg petg black"
+    },
+    {
+      "id": "deeplee-petg-gray",
+      "brand": "DEEPLEE",
+      "material": "PETG",
+      "name": "PETG Gray",
+      "hex": "#c8c8c8",
+      "searchText": "deeplee petg petg gray"
+    },
+    {
+      "id": "deeplee-petg-white",
+      "brand": "DEEPLEE",
+      "material": "PETG",
+      "name": "PETG White",
+      "hex": "#f5f5f5",
+      "searchText": "deeplee petg petg white"
+    },
+    {
+      "id": "deeplee-rapid-petg-beige",
+      "brand": "DEEPLEE",
+      "material": "PETG",
+      "name": "Rapid PETG Beige",
+      "hex": "#e4cfbb",
+      "searchText": "deeplee petg rapid petg beige"
+    },
+    {
+      "id": "deeplee-rapid-petg-black",
+      "brand": "DEEPLEE",
+      "material": "PETG",
+      "name": "Rapid PETG Black",
+      "hex": "#000000",
+      "searchText": "deeplee petg rapid petg black"
+    },
+    {
+      "id": "deeplee-rapid-petg-blue",
+      "brand": "DEEPLEE",
+      "material": "PETG",
+      "name": "Rapid PETG Blue",
+      "hex": "#3466cb",
+      "searchText": "deeplee petg rapid petg blue"
+    },
+    {
+      "id": "deeplee-rapid-petg-brown",
+      "brand": "DEEPLEE",
+      "material": "PETG",
+      "name": "Rapid PETG Brown",
+      "hex": "#8e5850",
+      "searchText": "deeplee petg rapid petg brown"
+    },
+    {
+      "id": "deeplee-rapid-petg-gray",
+      "brand": "DEEPLEE",
+      "material": "PETG",
+      "name": "Rapid PETG Gray",
+      "hex": "#b6b9bd",
+      "searchText": "deeplee petg rapid petg gray"
+    },
+    {
+      "id": "deeplee-rapid-petg-green",
+      "brand": "DEEPLEE",
+      "material": "PETG",
+      "name": "Rapid PETG Green",
+      "hex": "#00b475",
+      "searchText": "deeplee petg rapid petg green"
+    },
+    {
+      "id": "deeplee-rapid-petg-orange",
+      "brand": "DEEPLEE",
+      "material": "PETG",
+      "name": "Rapid PETG Orange",
+      "hex": "#f59144",
+      "searchText": "deeplee petg rapid petg orange"
+    },
+    {
+      "id": "deeplee-rapid-petg-red",
+      "brand": "DEEPLEE",
+      "material": "PETG",
+      "name": "Rapid PETG Red",
+      "hex": "#e0493e",
+      "searchText": "deeplee petg rapid petg red"
+    },
+    {
+      "id": "deeplee-rapid-petg-space-grey",
+      "brand": "DEEPLEE",
+      "material": "PETG",
+      "name": "Rapid PETG Space Grey",
+      "hex": "#9fa4a8",
+      "searchText": "deeplee petg rapid petg space grey"
+    },
+    {
+      "id": "deeplee-rapid-petg-transparent",
+      "brand": "DEEPLEE",
+      "material": "PETG",
+      "name": "Rapid PETG Transparent",
+      "hex": "#f5f5f5",
+      "searchText": "deeplee petg rapid petg transparent"
+    },
+    {
+      "id": "deeplee-rapid-petg-white",
+      "brand": "DEEPLEE",
+      "material": "PETG",
+      "name": "Rapid PETG White",
+      "hex": "#f5f5f5",
+      "searchText": "deeplee petg rapid petg white"
+    },
+    {
+      "id": "deeplee-rapid-petg-yellow",
+      "brand": "DEEPLEE",
+      "material": "PETG",
+      "name": "Rapid PETG Yellow",
+      "hex": "#f9e352",
+      "searchText": "deeplee petg rapid petg yellow"
+    },
+    {
+      "id": "deeplee-matte-pla-black",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Matte PLA Black",
+      "hex": "#232323",
+      "searchText": "deeplee pla matte pla black"
+    },
+    {
+      "id": "deeplee-matte-pla-earth-brown",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Matte PLA Earth Brown",
+      "hex": "#a96d49",
+      "searchText": "deeplee pla matte pla earth brown"
+    },
+    {
+      "id": "deeplee-matte-pla-lavender-purple",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Matte PLA Lavender Purple",
+      "hex": "#9678c8",
+      "searchText": "deeplee pla matte pla lavender purple"
+    },
+    {
+      "id": "deeplee-matte-pla-navy-blue",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Matte PLA Navy Blue",
+      "hex": "#3b3f6b",
+      "searchText": "deeplee pla matte pla navy blue"
+    },
+    {
+      "id": "deeplee-matte-pla-orange",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Matte PLA Orange",
+      "hex": "#f07821",
+      "searchText": "deeplee pla matte pla orange"
+    },
+    {
+      "id": "deeplee-matte-pla-ruby-red",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Matte PLA Ruby Red",
+      "hex": "#ef6063",
+      "searchText": "deeplee pla matte pla ruby red"
+    },
+    {
+      "id": "deeplee-matte-pla-sakura-pink",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Matte PLA Sakura Pink",
+      "hex": "#f3cad8",
+      "searchText": "deeplee pla matte pla sakura pink"
+    },
+    {
+      "id": "deeplee-matte-pla-slate-grey",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Matte PLA Slate Grey",
+      "hex": "#b2b2b2",
+      "searchText": "deeplee pla matte pla slate grey"
+    },
+    {
+      "id": "deeplee-matte-pla-sunshine-yellow",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Matte PLA Sunshine Yellow",
+      "hex": "#f4db67",
+      "searchText": "deeplee pla matte pla sunshine yellow"
+    },
+    {
+      "id": "deeplee-matte-pla-teal-green",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Matte PLA Teal Green",
+      "hex": "#5fc7cf",
+      "searchText": "deeplee pla matte pla teal green"
+    },
+    {
+      "id": "deeplee-matte-pla-white",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Matte PLA White",
+      "hex": "#f5f5f5",
+      "searchText": "deeplee pla matte pla white"
+    },
+    {
+      "id": "deeplee-metallic-pla-blue",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Metallic PLA Blue",
+      "hex": "#487ba2",
+      "searchText": "deeplee pla metallic pla blue"
+    },
+    {
+      "id": "deeplee-metallic-pla-bronze",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Metallic PLA Bronze",
+      "hex": "#ba9373",
+      "searchText": "deeplee pla metallic pla bronze"
+    },
+    {
+      "id": "deeplee-metallic-pla-gold",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Metallic PLA Gold",
+      "hex": "#d3ba9e",
+      "searchText": "deeplee pla metallic pla gold"
+    },
+    {
+      "id": "deeplee-metallic-pla-green",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Metallic PLA Green",
+      "hex": "#32a584",
+      "searchText": "deeplee pla metallic pla green"
+    },
+    {
+      "id": "deeplee-pla-black",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA Black",
+      "hex": "#000000",
+      "searchText": "deeplee pla pla black"
+    },
+    {
+      "id": "deeplee-pla-bronze",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA Bronze",
+      "hex": "#b58660",
+      "searchText": "deeplee pla pla bronze"
+    },
+    {
+      "id": "deeplee-pla-brown",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA Brown",
+      "hex": "#ab7449",
+      "searchText": "deeplee pla pla brown"
+    },
+    {
+      "id": "deeplee-pla-dark-blue",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA Dark Blue",
+      "hex": "#473fc9",
+      "searchText": "deeplee pla pla dark blue"
+    },
+    {
+      "id": "deeplee-pla-galaxy-black",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA Galaxy Black",
+      "hex": "#353e47",
+      "searchText": "deeplee pla pla galaxy black"
+    },
+    {
+      "id": "deeplee-pla-galaxy-purple",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA Galaxy Purple",
+      "hex": "#7659b5",
+      "searchText": "deeplee pla pla galaxy purple"
+    },
+    {
+      "id": "deeplee-pla-grey",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA Grey",
+      "hex": "#bcbebe",
+      "searchText": "deeplee pla pla grey"
+    },
+    {
+      "id": "deeplee-pla-marble",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA Marble",
+      "hex": "#c9d0d4",
+      "searchText": "deeplee pla pla marble"
+    },
+    {
+      "id": "deeplee-pla-neon-green",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA Neon Green",
+      "hex": "#0ccf81",
+      "searchText": "deeplee pla pla neon green"
+    },
+    {
+      "id": "deeplee-pla-orange",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA Orange",
+      "hex": "#ffae62",
+      "searchText": "deeplee pla pla orange"
+    },
+    {
+      "id": "deeplee-pla-pink",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA Pink",
+      "hex": "#ffc0cb",
+      "searchText": "deeplee pla pla pink"
+    },
+    {
+      "id": "deeplee-pla-pro-beige",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA PRO Beige",
+      "hex": "#dbc9ad",
+      "searchText": "deeplee pla pla pro beige"
+    },
+    {
+      "id": "deeplee-pla-pro-black",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA PRO Black",
+      "hex": "#2b2b2c",
+      "searchText": "deeplee pla pla pro black"
+    },
+    {
+      "id": "deeplee-pla-pro-blue-grey",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA PRO Blue Grey",
+      "hex": "#7d8eaa",
+      "searchText": "deeplee pla pla pro blue grey"
+    },
+    {
+      "id": "deeplee-pla-pro-brown",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA PRO Brown",
+      "hex": "#746759",
+      "searchText": "deeplee pla pla pro brown"
+    },
+    {
+      "id": "deeplee-pla-pro-grass-green",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA PRO Grass Green",
+      "hex": "#1daf5e",
+      "searchText": "deeplee pla pla pro grass green"
+    },
+    {
+      "id": "deeplee-pla-pro-green",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA PRO Green",
+      "hex": "#ccda46",
+      "searchText": "deeplee pla pla pro green"
+    },
+    {
+      "id": "deeplee-pla-pro-grey",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA PRO Grey",
+      "hex": "#8d8e93",
+      "searchText": "deeplee pla pla pro grey"
+    },
+    {
+      "id": "deeplee-pla-pro-hot-pink",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA PRO Hot Pink",
+      "hex": "#e87191",
+      "searchText": "deeplee pla pla pro hot pink"
+    },
+    {
+      "id": "deeplee-pla-pro-orange",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA PRO Orange",
+      "hex": "#f59144",
+      "searchText": "deeplee pla pla pro orange"
+    },
+    {
+      "id": "deeplee-pla-pro-pink",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA PRO Pink",
+      "hex": "#eaadbd",
+      "searchText": "deeplee pla pla pro pink"
+    },
+    {
+      "id": "deeplee-pla-pro-purple",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA PRO Purple",
+      "hex": "#845cd6",
+      "searchText": "deeplee pla pla pro purple"
+    },
+    {
+      "id": "deeplee-pla-pro-sky-blue",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA PRO Sky Blue",
+      "hex": "#0696ef",
+      "searchText": "deeplee pla pla pro sky blue"
+    },
+    {
+      "id": "deeplee-pla-pro-sunflower-yellow",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA PRO Sunflower Yellow",
+      "hex": "#f6bd01",
+      "searchText": "deeplee pla pla pro sunflower yellow"
+    },
+    {
+      "id": "deeplee-pla-pro-translucent",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA PRO Translucent",
+      "hex": "#ebeced",
+      "searchText": "deeplee pla pla pro translucent"
+    },
+    {
+      "id": "deeplee-pla-pro-white",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA PRO White",
+      "hex": "#efefef",
+      "searchText": "deeplee pla pla pro white"
+    },
+    {
+      "id": "deeplee-pla-purple",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA Purple",
+      "hex": "#7659b5",
+      "searchText": "deeplee pla pla purple"
+    },
+    {
+      "id": "deeplee-pla-red",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA Red",
+      "hex": "#e0493e",
+      "searchText": "deeplee pla pla red"
+    },
+    {
+      "id": "deeplee-pla-sea-green",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA Sea Green",
+      "hex": "#04a584",
+      "searchText": "deeplee pla pla sea green"
+    },
+    {
+      "id": "deeplee-pla-sky-blue",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA Sky Blue",
+      "hex": "#66dcf8",
+      "searchText": "deeplee pla pla sky blue"
+    },
+    {
+      "id": "deeplee-pla-space-grey",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA Space Grey",
+      "hex": "#9b9ea0",
+      "searchText": "deeplee pla pla space grey"
+    },
+    {
+      "id": "deeplee-pla-translucent",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA Translucent",
+      "hex": "#f8f8ee",
+      "searchText": "deeplee pla pla translucent"
+    },
+    {
+      "id": "deeplee-pla-white",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA White",
+      "hex": "#f5f5f4",
+      "searchText": "deeplee pla pla white"
+    },
+    {
+      "id": "deeplee-pla-wood",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA Wood",
+      "hex": "#d4b996",
+      "searchText": "deeplee pla pla wood"
+    },
+    {
+      "id": "deeplee-pla-wood-fibers-added",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA Wood Fibers Added",
+      "hex": "#dac7a0",
+      "searchText": "deeplee pla pla wood fibers added"
+    },
+    {
+      "id": "deeplee-pla-yellow",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "PLA Yellow",
+      "hex": "#ffe15b",
+      "searchText": "deeplee pla pla yellow"
+    },
+    {
+      "id": "deeplee-rapid-pla-beige",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Rapid PLA+ Beige",
+      "hex": "#e8d9c3",
+      "searchText": "deeplee pla rapid pla+ beige"
+    },
+    {
+      "id": "deeplee-rapid-pla-black",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Rapid PLA+ Black",
+      "hex": "#232323",
+      "searchText": "deeplee pla rapid pla+ black"
+    },
+    {
+      "id": "deeplee-rapid-pla-blue",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Rapid PLA+ Blue",
+      "hex": "#0353ba",
+      "searchText": "deeplee pla rapid pla+ blue"
+    },
+    {
+      "id": "deeplee-rapid-pla-orange",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Rapid PLA+ Orange",
+      "hex": "#f59144",
+      "searchText": "deeplee pla rapid pla+ orange"
+    },
+    {
+      "id": "deeplee-rapid-pla-red",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Rapid PLA+ Red",
+      "hex": "#e24749",
+      "searchText": "deeplee pla rapid pla+ red"
+    },
+    {
+      "id": "deeplee-rapid-pla-white",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Rapid PLA+ White",
+      "hex": "#efefef",
+      "searchText": "deeplee pla rapid pla+ white"
+    },
+    {
+      "id": "deeplee-rapid-pla-yellow",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Rapid PLA+ Yellow",
+      "hex": "#ffea4d",
+      "searchText": "deeplee pla rapid pla+ yellow"
+    },
+    {
+      "id": "deeplee-silk-pla-blueish-purple",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Silk PLA Blueish Purple",
+      "hex": "#6c5bb1",
+      "searchText": "deeplee pla silk pla blueish purple"
+    },
+    {
+      "id": "deeplee-silk-pla-copper",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Silk PLA Copper",
+      "hex": "#c9774b",
+      "searchText": "deeplee pla silk pla copper"
+    },
+    {
+      "id": "deeplee-silk-pla-coral-pink",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Silk PLA Coral Pink",
+      "hex": "#f1859a",
+      "searchText": "deeplee pla silk pla coral pink"
+    },
+    {
+      "id": "deeplee-silk-pla-gold",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Silk PLA Gold",
+      "hex": "#ffcb47",
+      "searchText": "deeplee pla silk pla gold"
+    },
+    {
+      "id": "deeplee-silk-pla-holly-green",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Silk PLA Holly Green",
+      "hex": "#32a584",
+      "searchText": "deeplee pla silk pla holly green"
+    },
+    {
+      "id": "deeplee-silk-pla-mint-green",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Silk PLA Mint Green",
+      "hex": "#7be0d0",
+      "searchText": "deeplee pla silk pla mint green"
+    },
+    {
+      "id": "deeplee-silk-pla-peach-pink",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Silk PLA Peach Pink",
+      "hex": "#ee8881",
+      "searchText": "deeplee pla silk pla peach pink"
+    },
+    {
+      "id": "deeplee-silk-pla-red",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Silk PLA Red",
+      "hex": "#cf4042",
+      "searchText": "deeplee pla silk pla red"
+    },
+    {
+      "id": "deeplee-silk-pla-sky-blue",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Silk PLA Sky Blue",
+      "hex": "#4fa3de",
+      "searchText": "deeplee pla silk pla sky blue"
+    },
+    {
+      "id": "deeplee-silk-pla-true-red",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Silk PLA True Red",
+      "hex": "#d33d3d",
+      "searchText": "deeplee pla silk pla true red"
+    },
+    {
+      "id": "deeplee-silk-pla-white",
+      "brand": "DEEPLEE",
+      "material": "PLA",
+      "name": "Silk PLA White",
+      "hex": "#f5f5f5",
+      "searchText": "deeplee pla silk pla white"
     },
     {
       "id": "devil-design-abs-black",
@@ -46644,6 +47316,334 @@
       "name": "Yellow PLA+",
       "hex": "#fad61b",
       "searchText": "jayo pla yellow pla+"
+    },
+    {
+      "id": "justmaker-pla-black",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Black",
+      "hex": "#000000",
+      "searchText": "justmaker pla pla black"
+    },
+    {
+      "id": "justmaker-pla-blood-red",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Blood Red",
+      "hex": "#ad312d",
+      "searchText": "justmaker pla pla blood red"
+    },
+    {
+      "id": "justmaker-pla-blue",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Blue",
+      "hex": "#2941bd",
+      "searchText": "justmaker pla pla blue"
+    },
+    {
+      "id": "justmaker-pla-brown",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Brown",
+      "hex": "#9f563e",
+      "searchText": "justmaker pla pla brown"
+    },
+    {
+      "id": "justmaker-pla-chocolate",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Chocolate",
+      "hex": "#452f25",
+      "searchText": "justmaker pla pla chocolate"
+    },
+    {
+      "id": "justmaker-pla-copper",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Copper",
+      "hex": "#ba9a67",
+      "searchText": "justmaker pla pla copper"
+    },
+    {
+      "id": "justmaker-pla-forest-green",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Forest Green",
+      "hex": "#43523b",
+      "searchText": "justmaker pla pla forest green"
+    },
+    {
+      "id": "justmaker-pla-gold",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Gold",
+      "hex": "#ddb95d",
+      "searchText": "justmaker pla pla gold"
+    },
+    {
+      "id": "justmaker-pla-gray",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Gray",
+      "hex": "#b2b2b2",
+      "searchText": "justmaker pla pla gray"
+    },
+    {
+      "id": "justmaker-pla-matte-cherry-red",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Matte Cherry Red",
+      "hex": "#932721",
+      "searchText": "justmaker pla pla matte cherry red"
+    },
+    {
+      "id": "justmaker-pla-matte-pro-ash-gray",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Matte Pro Ash Gray",
+      "hex": "#4a4949",
+      "searchText": "justmaker pla pla matte pro ash gray"
+    },
+    {
+      "id": "justmaker-pla-matte-pro-black",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Matte Pro Black",
+      "hex": "#2b2b2c",
+      "searchText": "justmaker pla pla matte pro black"
+    },
+    {
+      "id": "justmaker-pla-matte-pro-kraft",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Matte Pro Kraft",
+      "hex": "#c3b48b",
+      "searchText": "justmaker pla pla matte pro kraft"
+    },
+    {
+      "id": "justmaker-pla-matte-pro-malt-clay",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Matte Pro Malt Clay",
+      "hex": "#90785e",
+      "searchText": "justmaker pla pla matte pro malt clay"
+    },
+    {
+      "id": "justmaker-pla-matte-pro-mustard-green",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Matte Pro Mustard Green",
+      "hex": "#a59f4d",
+      "searchText": "justmaker pla pla matte pro mustard green"
+    },
+    {
+      "id": "justmaker-pla-matte-pro-navy-blue",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Matte Pro Navy Blue",
+      "hex": "#4d5e70",
+      "searchText": "justmaker pla pla matte pro navy blue"
+    },
+    {
+      "id": "justmaker-pla-matte-pro-olive-green",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Matte Pro Olive Green",
+      "hex": "#67785a",
+      "searchText": "justmaker pla pla matte pro olive green"
+    },
+    {
+      "id": "justmaker-pla-matte-pro-orange-red",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Matte Pro Orange Red",
+      "hex": "#ff8d5c",
+      "searchText": "justmaker pla pla matte pro orange red"
+    },
+    {
+      "id": "justmaker-pla-matte-pro-terracotta",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Matte Pro Terracotta",
+      "hex": "#bd917e",
+      "searchText": "justmaker pla pla matte pro terracotta"
+    },
+    {
+      "id": "justmaker-pla-matte-pro-turquoise",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Matte Pro Turquoise",
+      "hex": "#5fc7cf",
+      "searchText": "justmaker pla pla matte pro turquoise"
+    },
+    {
+      "id": "justmaker-pla-matte-pro-white",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Matte Pro White",
+      "hex": "#f9fdfe",
+      "searchText": "justmaker pla pla matte pro white"
+    },
+    {
+      "id": "justmaker-pla-matte-pro-yellow",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Matte Pro Yellow",
+      "hex": "#efd00b",
+      "searchText": "justmaker pla pla matte pro yellow"
+    },
+    {
+      "id": "justmaker-pla-metallic-rose-gold",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Metallic Rose Gold",
+      "hex": "#a57973",
+      "searchText": "justmaker pla pla metallic rose gold"
+    },
+    {
+      "id": "justmaker-pla-orange",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Orange",
+      "hex": "#ff8b47",
+      "searchText": "justmaker pla pla orange"
+    },
+    {
+      "id": "justmaker-pla-pro-matte-macaron-creamy-yellow",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Pro Matte Macaron Creamy Yellow",
+      "hex": "#e8ebce",
+      "searchText": "justmaker pla pla pro matte macaron creamy yellow"
+    },
+    {
+      "id": "justmaker-pla-pro-matte-macaron-lavender",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Pro Matte Macaron Lavender",
+      "hex": "#dad4dc",
+      "searchText": "justmaker pla pla pro matte macaron lavender"
+    },
+    {
+      "id": "justmaker-pla-pro-matte-macaron-light-yellow",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Pro Matte Macaron Light Yellow",
+      "hex": "#f1ff6c",
+      "searchText": "justmaker pla pla pro matte macaron light yellow"
+    },
+    {
+      "id": "justmaker-pla-pro-matte-macaron-milk-green",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Pro Matte Macaron Milk Green",
+      "hex": "#d2debb",
+      "searchText": "justmaker pla pla pro matte macaron milk green"
+    },
+    {
+      "id": "justmaker-pla-pro-matte-macaron-rattan-purple",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Pro Matte Macaron Rattan Purple",
+      "hex": "#b5a4c8",
+      "searchText": "justmaker pla pla pro matte macaron rattan purple"
+    },
+    {
+      "id": "justmaker-pla-pro-matte-macaron-slender-green",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Pro Matte Macaron Slender Green",
+      "hex": "#ced9ce",
+      "searchText": "justmaker pla pla pro matte macaron slender green"
+    },
+    {
+      "id": "justmaker-pla-red",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Red",
+      "hex": "#bf2b2b",
+      "searchText": "justmaker pla pla red"
+    },
+    {
+      "id": "justmaker-pla-seven-white",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Seven White",
+      "hex": "#f5f5f4",
+      "searchText": "justmaker pla pla seven white"
+    },
+    {
+      "id": "justmaker-pla-silk-glazed-gold",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Silk Glazed Gold",
+      "hex": "#e66b38",
+      "searchText": "justmaker pla pla silk glazed gold"
+    },
+    {
+      "id": "justmaker-pla-silk-gold",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Silk Gold",
+      "hex": "#f1bb51",
+      "searchText": "justmaker pla pla silk gold"
+    },
+    {
+      "id": "justmaker-pla-silk-pink",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Silk Pink",
+      "hex": "#e5a4a1",
+      "searchText": "justmaker pla pla silk pink"
+    },
+    {
+      "id": "justmaker-pla-silk-rose-red",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Silk Rose Red",
+      "hex": "#f1859a",
+      "searchText": "justmaker pla pla silk rose red"
+    },
+    {
+      "id": "justmaker-pla-silk-silver",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Silk Silver",
+      "hex": "#c9d0d4",
+      "searchText": "justmaker pla pla silk silver"
+    },
+    {
+      "id": "justmaker-pla-silver",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Silver",
+      "hex": "#abacb0",
+      "searchText": "justmaker pla pla silver"
+    },
+    {
+      "id": "justmaker-pla-skin",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Skin",
+      "hex": "#f4e0dc",
+      "searchText": "justmaker pla pla skin"
+    },
+    {
+      "id": "justmaker-pla-white",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA White",
+      "hex": "#fafafa",
+      "searchText": "justmaker pla pla white"
+    },
+    {
+      "id": "justmaker-pla-yellow",
+      "brand": "JUSTMAKER",
+      "material": "PLA",
+      "name": "PLA Yellow",
+      "hex": "#ffe900",
+      "searchText": "justmaker pla pla yellow"
     },
     {
       "id": "kexcelled-the-k5-abs",
