@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-06-08T05:58:13.340Z",
-  "entryCount": 11223,
+  "lastSynced": "2026-06-09T05:44:11.581Z",
+  "entryCount": 11440,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -55662,6 +55662,582 @@
       "searchText": "numakers petg petg-hs transparent"
     },
     {
+      "id": "numakers-pla-marble-white",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Marble White",
+      "hex": "#edf0f2",
+      "searchText": "numakers pla pla marble white"
+    },
+    {
+      "id": "numakers-pla-matte-blushing-ember",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Matte Blushing Ember",
+      "hex": "#eaba96",
+      "searchText": "numakers pla pla matte blushing ember"
+    },
+    {
+      "id": "numakers-pla-matte-deep-cosmos",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Matte Deep Cosmos",
+      "hex": "#253f56",
+      "searchText": "numakers pla pla matte deep cosmos"
+    },
+    {
+      "id": "numakers-pla-matte-desert-sandstone",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Matte Desert Sandstone",
+      "hex": "#e7b78a",
+      "searchText": "numakers pla pla matte desert sandstone"
+    },
+    {
+      "id": "numakers-pla-matte-dragons-hide",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Matte Dragon's Hide",
+      "hex": "#bec9a5",
+      "searchText": "numakers pla pla matte dragon's hide"
+    },
+    {
+      "id": "numakers-pla-matte-frosted-fern",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Matte Frosted Fern",
+      "hex": "#d0dcaa",
+      "searchText": "numakers pla pla matte frosted fern"
+    },
+    {
+      "id": "numakers-pla-matte-frosted-pearl",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Matte Frosted Pearl",
+      "hex": "#e3dfd9",
+      "searchText": "numakers pla pla matte frosted pearl"
+    },
+    {
+      "id": "numakers-pla-matte-frozen-tides",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Matte Frozen Tides",
+      "hex": "#93cfcb",
+      "searchText": "numakers pla pla matte frozen tides"
+    },
+    {
+      "id": "numakers-pla-matte-golden-dawn",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Matte Golden Dawn",
+      "hex": "#ffe15b",
+      "searchText": "numakers pla pla matte golden dawn"
+    },
+    {
+      "id": "numakers-pla-matte-infernal-ruby",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Matte Infernal Ruby",
+      "hex": "#ef3340",
+      "searchText": "numakers pla pla matte infernal ruby"
+    },
+    {
+      "id": "numakers-pla-matte-midnight-shade",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Matte Midnight Shade",
+      "hex": "#30312f",
+      "searchText": "numakers pla pla matte midnight shade"
+    },
+    {
+      "id": "numakers-pla-matte-moon-shadow",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Matte Moon Shadow",
+      "hex": "#a1b5b9",
+      "searchText": "numakers pla pla matte moon shadow"
+    },
+    {
+      "id": "numakers-pla-matte-mystic-lilac",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Matte Mystic Lilac",
+      "hex": "#c1bbe5",
+      "searchText": "numakers pla pla matte mystic lilac"
+    },
+    {
+      "id": "numakers-pla-matte-sakura-blaze",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Matte Sakura Blaze",
+      "hex": "#ffc0cb",
+      "searchText": "numakers pla pla matte sakura blaze"
+    },
+    {
+      "id": "numakers-pla-silk-blue",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Silk Blue",
+      "hex": "#005da4",
+      "searchText": "numakers pla pla silk blue"
+    },
+    {
+      "id": "numakers-pla-silk-bronze",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Silk Bronze",
+      "hex": "#a18d5a",
+      "searchText": "numakers pla pla silk bronze"
+    },
+    {
+      "id": "numakers-pla-silk-copper",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Silk Copper",
+      "hex": "#a15851",
+      "searchText": "numakers pla pla silk copper"
+    },
+    {
+      "id": "numakers-pla-silk-enchanted-gold",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Silk Enchanted Gold",
+      "hex": "#ebb83a",
+      "searchText": "numakers pla pla silk enchanted gold"
+    },
+    {
+      "id": "numakers-pla-silk-forest-green",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Silk Forest Green",
+      "hex": "#4f7b57",
+      "searchText": "numakers pla pla silk forest green"
+    },
+    {
+      "id": "numakers-pla-silk-gold",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Silk Gold",
+      "hex": "#e1ad60",
+      "searchText": "numakers pla pla silk gold"
+    },
+    {
+      "id": "numakers-pla-silk-molten-sol",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Silk Molten Sol",
+      "hex": "#fe602b",
+      "searchText": "numakers pla pla silk molten sol"
+    },
+    {
+      "id": "numakers-pla-silk-obsidian-night",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Silk Obsidian Night",
+      "hex": "#24292a",
+      "searchText": "numakers pla pla silk obsidian night"
+    },
+    {
+      "id": "numakers-pla-silk-purple",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Silk Purple",
+      "hex": "#af70a5",
+      "searchText": "numakers pla pla silk purple"
+    },
+    {
+      "id": "numakers-pla-silk-red",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Silk Red",
+      "hex": "#c60f3e",
+      "searchText": "numakers pla pla silk red"
+    },
+    {
+      "id": "numakers-pla-silk-silver",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Silk Silver",
+      "hex": "#abacb0",
+      "searchText": "numakers pla pla silk silver"
+    },
+    {
+      "id": "numakers-pla-starlight-comet",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Starlight Comet",
+      "hex": "#3b665e",
+      "searchText": "numakers pla pla starlight comet"
+    },
+    {
+      "id": "numakers-pla-starlight-midnight",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Starlight Midnight",
+      "hex": "#324485",
+      "searchText": "numakers pla pla starlight midnight"
+    },
+    {
+      "id": "numakers-pla-starlight-nebula",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Starlight Nebula",
+      "hex": "#663d7e",
+      "searchText": "numakers pla pla starlight nebula"
+    },
+    {
+      "id": "numakers-pla-starlight-neptune",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Starlight Neptune",
+      "hex": "#007987",
+      "searchText": "numakers pla pla starlight neptune"
+    },
+    {
+      "id": "numakers-pla-starlight-titan",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Starlight Titan",
+      "hex": "#546b4e",
+      "searchText": "numakers pla pla starlight titan"
+    },
+    {
+      "id": "numakers-pla-wood",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA Wood",
+      "hex": "#b38f6e",
+      "searchText": "numakers pla pla wood"
+    },
+    {
+      "id": "numakers-pla-cf-black",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA-CF Black",
+      "hex": "#000000",
+      "searchText": "numakers pla pla-cf black"
+    },
+    {
+      "id": "numakers-pla-cf-denim-blue",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA-CF Denim Blue",
+      "hex": "#5e84a4",
+      "searchText": "numakers pla pla-cf denim blue"
+    },
+    {
+      "id": "numakers-pla-cf-lemongrass-green",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA-CF Lemongrass Green",
+      "hex": "#66875e",
+      "searchText": "numakers pla pla-cf lemongrass green"
+    },
+    {
+      "id": "numakers-pla-cf-wine-red",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA-CF Wine Red",
+      "hex": "#80464f",
+      "searchText": "numakers pla pla-cf wine red"
+    },
+    {
+      "id": "numakers-pla-apricot",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Apricot",
+      "hex": "#e7b78a",
+      "searchText": "numakers pla pla+ apricot"
+    },
+    {
+      "id": "numakers-pla-army-green",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Army Green",
+      "hex": "#757d65",
+      "searchText": "numakers pla pla+ army green"
+    },
+    {
+      "id": "numakers-pla-atomic-pink",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Atomic Pink",
+      "hex": "#f7a7a1",
+      "searchText": "numakers pla pla+ atomic pink"
+    },
+    {
+      "id": "numakers-pla-bahama-yellow",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Bahama Yellow",
+      "hex": "#f8c711",
+      "searchText": "numakers pla pla+ bahama yellow"
+    },
+    {
+      "id": "numakers-pla-beige-brown",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Beige Brown",
+      "hex": "#ba8960",
+      "searchText": "numakers pla pla+ beige brown"
+    },
+    {
+      "id": "numakers-pla-bone-white",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Bone White",
+      "hex": "#a49d8e",
+      "searchText": "numakers pla pla+ bone white"
+    },
+    {
+      "id": "numakers-pla-chocolate-brown",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Chocolate Brown",
+      "hex": "#8e5850",
+      "searchText": "numakers pla pla+ chocolate brown"
+    },
+    {
+      "id": "numakers-pla-cool-lithophane-white",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Cool (Lithophane) White",
+      "hex": "#f5f5f5",
+      "searchText": "numakers pla pla+ cool (lithophane) white"
+    },
+    {
+      "id": "numakers-pla-dark-gray",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Dark Gray",
+      "hex": "#888b8d",
+      "searchText": "numakers pla pla+ dark gray"
+    },
+    {
+      "id": "numakers-pla-fluorescent-green",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Fluorescent Green",
+      "hex": "#46df55",
+      "searchText": "numakers pla pla+ fluorescent green"
+    },
+    {
+      "id": "numakers-pla-fluorescent-orange",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Fluorescent Orange",
+      "hex": "#ffb356",
+      "searchText": "numakers pla pla+ fluorescent orange"
+    },
+    {
+      "id": "numakers-pla-fluorescent-yellow",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Fluorescent Yellow",
+      "hex": "#eeea44",
+      "searchText": "numakers pla pla+ fluorescent yellow"
+    },
+    {
+      "id": "numakers-pla-forest-green",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Forest Green",
+      "hex": "#4bb27a",
+      "searchText": "numakers pla pla+ forest green"
+    },
+    {
+      "id": "numakers-pla-fuchsia-magenta",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Fuchsia/Magenta",
+      "hex": "#ed6498",
+      "searchText": "numakers pla pla+ fuchsia/magenta"
+    },
+    {
+      "id": "numakers-pla-grass-green",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Grass Green",
+      "hex": "#75cb5d",
+      "searchText": "numakers pla pla+ grass green"
+    },
+    {
+      "id": "numakers-pla-imperial-red",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Imperial Red",
+      "hex": "#ce3845",
+      "searchText": "numakers pla pla+ imperial red"
+    },
+    {
+      "id": "numakers-pla-ivory-white",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Ivory White",
+      "hex": "#f1d7b8",
+      "searchText": "numakers pla pla+ ivory white"
+    },
+    {
+      "id": "numakers-pla-lagoon-blue",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Lagoon Blue",
+      "hex": "#23cfd2",
+      "searchText": "numakers pla pla+ lagoon blue"
+    },
+    {
+      "id": "numakers-pla-lavender-violet",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Lavender Violet",
+      "hex": "#a5a1df",
+      "searchText": "numakers pla pla+ lavender violet"
+    },
+    {
+      "id": "numakers-pla-lemon-yellow",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Lemon Yellow",
+      "hex": "#e8bd00",
+      "searchText": "numakers pla pla+ lemon yellow"
+    },
+    {
+      "id": "numakers-pla-light-blue",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Light Blue",
+      "hex": "#01c7ff",
+      "searchText": "numakers pla pla+ light blue"
+    },
+    {
+      "id": "numakers-pla-light-gray",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Light Gray",
+      "hex": "#949a9e",
+      "searchText": "numakers pla pla+ light gray"
+    },
+    {
+      "id": "numakers-pla-mauve-purple",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Mauve Purple",
+      "hex": "#dd76c0",
+      "searchText": "numakers pla pla+ mauve purple"
+    },
+    {
+      "id": "numakers-pla-midnight-gray",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Midnight Gray",
+      "hex": "#4e5658",
+      "searchText": "numakers pla pla+ midnight gray"
+    },
+    {
+      "id": "numakers-pla-military-khaki",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Military Khaki",
+      "hex": "#ad9052",
+      "searchText": "numakers pla pla+ military khaki"
+    },
+    {
+      "id": "numakers-pla-nuclear-red",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Nuclear Red",
+      "hex": "#f54053",
+      "searchText": "numakers pla pla+ nuclear red"
+    },
+    {
+      "id": "numakers-pla-outrageous-orange",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Outrageous Orange",
+      "hex": "#ff8e24",
+      "searchText": "numakers pla pla+ outrageous orange"
+    },
+    {
+      "id": "numakers-pla-pitch-black",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Pitch Black",
+      "hex": "#000000",
+      "searchText": "numakers pla pla+ pitch black"
+    },
+    {
+      "id": "numakers-pla-pure-white",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Pure White",
+      "hex": "#f5f0e8",
+      "searchText": "numakers pla pla+ pure white"
+    },
+    {
+      "id": "numakers-pla-royal-blue",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Royal Blue",
+      "hex": "#005eb8",
+      "searchText": "numakers pla pla+ royal blue"
+    },
+    {
+      "id": "numakers-pla-rust-copper",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Rust Copper",
+      "hex": "#aa5342",
+      "searchText": "numakers pla pla+ rust copper"
+    },
+    {
+      "id": "numakers-pla-ryobix-green",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Ryobix Green",
+      "hex": "#d1e36c",
+      "searchText": "numakers pla pla+ ryobix green"
+    },
+    {
+      "id": "numakers-pla-simply-silver",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Simply Silver",
+      "hex": "#999aa0",
+      "searchText": "numakers pla pla+ simply silver"
+    },
+    {
+      "id": "numakers-pla-teal-blue",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Teal Blue",
+      "hex": "#7dc6b3",
+      "searchText": "numakers pla pla+ teal blue"
+    },
+    {
+      "id": "numakers-pla-terracotta-orange",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Terracotta Orange",
+      "hex": "#d67842",
+      "searchText": "numakers pla pla+ terracotta orange"
+    },
+    {
+      "id": "numakers-pla-thanos-purple",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Thanos Purple",
+      "hex": "#5b3a86",
+      "searchText": "numakers pla pla+ thanos purple"
+    },
+    {
+      "id": "numakers-pla-transparent",
+      "brand": "Numakers",
+      "material": "PLA",
+      "name": "PLA+ Transparent",
+      "hex": "#d6d6cd",
+      "searchText": "numakers pla pla+ transparent"
+    },
+    {
       "id": "overture-abs-black",
       "brand": "Overture",
       "material": "ABS",
@@ -68948,6 +69524,1166 @@
       "name": "TPU 100A",
       "hex": "#000000",
       "searchText": "push plastic tpu tpu 100a"
+    },
+    {
+      "id": "qidi-abs-rapido-black",
+      "brand": "QIDI Tech",
+      "material": "ABS",
+      "name": "ABS Rapido Black",
+      "hex": "#000000",
+      "searchText": "qidi tech abs abs rapido black"
+    },
+    {
+      "id": "qidi-abs-rapido-blue",
+      "brand": "QIDI Tech",
+      "material": "ABS",
+      "name": "ABS Rapido Blue",
+      "hex": "#00358e",
+      "searchText": "qidi tech abs abs rapido blue"
+    },
+    {
+      "id": "qidi-abs-rapido-gray",
+      "brand": "QIDI Tech",
+      "material": "ABS",
+      "name": "ABS Rapido Gray",
+      "hex": "#9c9d9d",
+      "searchText": "qidi tech abs abs rapido gray"
+    },
+    {
+      "id": "qidi-abs-rapido-green",
+      "brand": "QIDI Tech",
+      "material": "ABS",
+      "name": "ABS Rapido Green",
+      "hex": "#06924d",
+      "searchText": "qidi tech abs abs rapido green"
+    },
+    {
+      "id": "qidi-abs-rapido-metal-champagne-gold",
+      "brand": "QIDI Tech",
+      "material": "ABS",
+      "name": "ABS Rapido Metal Champagne Gold",
+      "hex": "#c9c6a5",
+      "searchText": "qidi tech abs abs rapido metal champagne gold"
+    },
+    {
+      "id": "qidi-abs-rapido-metal-midnight-green",
+      "brand": "QIDI Tech",
+      "material": "ABS",
+      "name": "ABS Rapido Metal Midnight Green",
+      "hex": "#40746d",
+      "searchText": "qidi tech abs abs rapido metal midnight green"
+    },
+    {
+      "id": "qidi-abs-rapido-metal-silver",
+      "brand": "QIDI Tech",
+      "material": "ABS",
+      "name": "ABS Rapido Metal Silver",
+      "hex": "#acabc1",
+      "searchText": "qidi tech abs abs rapido metal silver"
+    },
+    {
+      "id": "qidi-abs-rapido-red",
+      "brand": "QIDI Tech",
+      "material": "ABS",
+      "name": "ABS Rapido Red",
+      "hex": "#8e0422",
+      "searchText": "qidi tech abs abs rapido red"
+    },
+    {
+      "id": "qidi-abs-rapido-white",
+      "brand": "QIDI Tech",
+      "material": "ABS",
+      "name": "ABS Rapido White",
+      "hex": "#ffffff",
+      "searchText": "qidi tech abs abs rapido white"
+    },
+    {
+      "id": "qidi-abs-rapido-yellow",
+      "brand": "QIDI Tech",
+      "material": "ABS",
+      "name": "ABS Rapido Yellow",
+      "hex": "#fce300",
+      "searchText": "qidi tech abs abs rapido yellow"
+    },
+    {
+      "id": "qidi-abs-gf25-black",
+      "brand": "QIDI Tech",
+      "material": "ABS",
+      "name": "ABS-GF25 Black",
+      "hex": "#000000",
+      "searchText": "qidi tech abs abs-gf25 black"
+    },
+    {
+      "id": "qidi-abs-gf25-green",
+      "brand": "QIDI Tech",
+      "material": "ABS",
+      "name": "ABS-GF25 Green",
+      "hex": "#78be20",
+      "searchText": "qidi tech abs abs-gf25 green"
+    },
+    {
+      "id": "qidi-abs-gf25-purple",
+      "brand": "QIDI Tech",
+      "material": "ABS",
+      "name": "ABS-GF25 Purple",
+      "hex": "#7f347c",
+      "searchText": "qidi tech abs abs-gf25 purple"
+    },
+    {
+      "id": "qidi-abs-gf25-red",
+      "brand": "QIDI Tech",
+      "material": "ABS",
+      "name": "ABS-GF25 Red",
+      "hex": "#cd001a",
+      "searchText": "qidi tech abs abs-gf25 red"
+    },
+    {
+      "id": "qidi-odorless-abs-rapido-black",
+      "brand": "QIDI Tech",
+      "material": "ABS",
+      "name": "Odorless-ABS Rapido Black",
+      "hex": "#000000",
+      "searchText": "qidi tech abs odorless-abs rapido black"
+    },
+    {
+      "id": "qidi-odorless-abs-rapido-blue",
+      "brand": "QIDI Tech",
+      "material": "ABS",
+      "name": "Odorless-ABS Rapido Blue",
+      "hex": "#3140b3",
+      "searchText": "qidi tech abs odorless-abs rapido blue"
+    },
+    {
+      "id": "qidi-odorless-abs-rapido-gray",
+      "brand": "QIDI Tech",
+      "material": "ABS",
+      "name": "Odorless-ABS Rapido Gray",
+      "hex": "#b6b6b6",
+      "searchText": "qidi tech abs odorless-abs rapido gray"
+    },
+    {
+      "id": "qidi-odorless-abs-rapido-green",
+      "brand": "QIDI Tech",
+      "material": "ABS",
+      "name": "Odorless-ABS Rapido Green",
+      "hex": "#6ac72f",
+      "searchText": "qidi tech abs odorless-abs rapido green"
+    },
+    {
+      "id": "qidi-odorless-abs-rapido-purple",
+      "brand": "QIDI Tech",
+      "material": "ABS",
+      "name": "Odorless-ABS Rapido Purple",
+      "hex": "#663197",
+      "searchText": "qidi tech abs odorless-abs rapido purple"
+    },
+    {
+      "id": "qidi-odorless-abs-rapido-red",
+      "brand": "QIDI Tech",
+      "material": "ABS",
+      "name": "Odorless-ABS Rapido Red",
+      "hex": "#e92828",
+      "searchText": "qidi tech abs odorless-abs rapido red"
+    },
+    {
+      "id": "qidi-odorless-abs-rapido-silver",
+      "brand": "QIDI Tech",
+      "material": "ABS",
+      "name": "Odorless-ABS Rapido Silver",
+      "hex": "#b9bcc1",
+      "searchText": "qidi tech abs odorless-abs rapido silver"
+    },
+    {
+      "id": "qidi-odorless-abs-rapido-white",
+      "brand": "QIDI Tech",
+      "material": "ABS",
+      "name": "Odorless-ABS Rapido White",
+      "hex": "#ffffff",
+      "searchText": "qidi tech abs odorless-abs rapido white"
+    },
+    {
+      "id": "qidi-odorless-abs-rapido-yellow",
+      "brand": "QIDI Tech",
+      "material": "ABS",
+      "name": "Odorless-ABS Rapido Yellow",
+      "hex": "#fce300",
+      "searchText": "qidi tech abs odorless-abs rapido yellow"
+    },
+    {
+      "id": "qidi-pc-abs-fr-white",
+      "brand": "QIDI Tech",
+      "material": "ABS",
+      "name": "PC/ABS-FR White",
+      "hex": "#ffffff",
+      "searchText": "qidi tech abs pc/abs-fr white"
+    },
+    {
+      "id": "qidi-asa-black",
+      "brand": "QIDI Tech",
+      "material": "ASA",
+      "name": "ASA Black",
+      "hex": "#000000",
+      "searchText": "qidi tech asa asa black"
+    },
+    {
+      "id": "qidi-asa-blue",
+      "brand": "QIDI Tech",
+      "material": "ASA",
+      "name": "ASA Blue",
+      "hex": "#0f55c6",
+      "searchText": "qidi tech asa asa blue"
+    },
+    {
+      "id": "qidi-asa-brown",
+      "brand": "QIDI Tech",
+      "material": "ASA",
+      "name": "ASA Brown",
+      "hex": "#593729",
+      "searchText": "qidi tech asa asa brown"
+    },
+    {
+      "id": "qidi-asa-gray",
+      "brand": "QIDI Tech",
+      "material": "ASA",
+      "name": "ASA Gray",
+      "hex": "#bebfc2",
+      "searchText": "qidi tech asa asa gray"
+    },
+    {
+      "id": "qidi-asa-green",
+      "brand": "QIDI Tech",
+      "material": "ASA",
+      "name": "ASA Green",
+      "hex": "#7fc61b",
+      "searchText": "qidi tech asa asa green"
+    },
+    {
+      "id": "qidi-asa-red",
+      "brand": "QIDI Tech",
+      "material": "ASA",
+      "name": "ASA Red",
+      "hex": "#cd001a",
+      "searchText": "qidi tech asa asa red"
+    },
+    {
+      "id": "qidi-asa-white",
+      "brand": "QIDI Tech",
+      "material": "ASA",
+      "name": "ASA White",
+      "hex": "#ffffff",
+      "searchText": "qidi tech asa asa white"
+    },
+    {
+      "id": "qidi-asa-yellow",
+      "brand": "QIDI Tech",
+      "material": "ASA",
+      "name": "ASA Yellow",
+      "hex": "#f4db67",
+      "searchText": "qidi tech asa asa yellow"
+    },
+    {
+      "id": "qidi-asa-aero-black",
+      "brand": "QIDI Tech",
+      "material": "ASA",
+      "name": "ASA-Aero Black",
+      "hex": "#000000",
+      "searchText": "qidi tech asa asa-aero black"
+    },
+    {
+      "id": "qidi-asa-aero-natural",
+      "brand": "QIDI Tech",
+      "material": "ASA",
+      "name": "ASA-Aero Natural",
+      "hex": "#e5e9e3",
+      "searchText": "qidi tech asa asa-aero natural"
+    },
+    {
+      "id": "qidi-asa-cf20-core-black",
+      "brand": "QIDI Tech",
+      "material": "ASA",
+      "name": "ASA-CF20 Core Black",
+      "hex": "#3e4342",
+      "searchText": "qidi tech asa asa-cf20 core black"
+    },
+    {
+      "id": "qidi-pa12-cf-black",
+      "brand": "QIDI Tech",
+      "material": "PA12",
+      "name": "PA12-CF Black",
+      "hex": "#000000",
+      "searchText": "qidi tech pa12 pa12-cf black"
+    },
+    {
+      "id": "qidi-peba-95a-black",
+      "brand": "QIDI Tech",
+      "material": "PEBA",
+      "name": "PEBA 95A Black",
+      "hex": "#070809",
+      "searchText": "qidi tech peba peba 95a black"
+    },
+    {
+      "id": "qidi-pet-cf-black",
+      "brand": "QIDI Tech",
+      "material": "PET",
+      "name": "PET-CF Black",
+      "hex": "#212322",
+      "searchText": "qidi tech pet pet-cf black"
+    },
+    {
+      "id": "qidi-pet-gf-black",
+      "brand": "QIDI Tech",
+      "material": "PET",
+      "name": "PET-GF Black",
+      "hex": "#212322",
+      "searchText": "qidi tech pet pet-gf black"
+    },
+    {
+      "id": "qidi-pet-gf-brown",
+      "brand": "QIDI Tech",
+      "material": "PET",
+      "name": "PET-GF Brown",
+      "hex": "#946037",
+      "searchText": "qidi tech pet pet-gf brown"
+    },
+    {
+      "id": "qidi-pet-gf-red",
+      "brand": "QIDI Tech",
+      "material": "PET",
+      "name": "PET-GF Red",
+      "hex": "#cd001a",
+      "searchText": "qidi tech pet pet-gf red"
+    },
+    {
+      "id": "qidi-tech-petg-basic-beige",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG Basic Beige",
+      "hex": "#d0b891",
+      "searchText": "qidi tech petg petg basic beige"
+    },
+    {
+      "id": "qidi-tech-petg-basic-black",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG Basic Black",
+      "hex": "#000000",
+      "searchText": "qidi tech petg petg basic black"
+    },
+    {
+      "id": "qidi-tech-petg-basic-cyan",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG Basic Cyan",
+      "hex": "#00aeef",
+      "searchText": "qidi tech petg petg basic cyan"
+    },
+    {
+      "id": "qidi-tech-petg-basic-green",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG Basic Green",
+      "hex": "#1f4e3a",
+      "searchText": "qidi tech petg petg basic green"
+    },
+    {
+      "id": "qidi-tech-petg-basic-klein-blue",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG Basic Klein Blue",
+      "hex": "#0065bd",
+      "searchText": "qidi tech petg petg basic klein blue"
+    },
+    {
+      "id": "qidi-tech-petg-basic-light-gray",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG Basic Light Gray",
+      "hex": "#d1d3d4",
+      "searchText": "qidi tech petg petg basic light gray"
+    },
+    {
+      "id": "qidi-tech-petg-basic-red",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG Basic Red",
+      "hex": "#d3100c",
+      "searchText": "qidi tech petg petg basic red"
+    },
+    {
+      "id": "qidi-tech-petg-basic-skin",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG Basic Skin",
+      "hex": "#e3bc9a",
+      "searchText": "qidi tech petg petg basic skin"
+    },
+    {
+      "id": "qidi-tech-petg-basic-white",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG Basic White",
+      "hex": "#f2f0eb",
+      "searchText": "qidi tech petg petg basic white"
+    },
+    {
+      "id": "qidi-tech-petg-basic-yellow",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG Basic Yellow",
+      "hex": "#f6d155",
+      "searchText": "qidi tech petg petg basic yellow"
+    },
+    {
+      "id": "qidi-petg-rapido-black",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG Rapido Black",
+      "hex": "#0c0e0c",
+      "searchText": "qidi tech petg petg rapido black"
+    },
+    {
+      "id": "qidi-petg-rapido-blue",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG Rapido Blue",
+      "hex": "#00187f",
+      "searchText": "qidi tech petg petg rapido blue"
+    },
+    {
+      "id": "qidi-petg-rapido-copper",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG Rapido Copper",
+      "hex": "#604629",
+      "searchText": "qidi tech petg petg rapido copper"
+    },
+    {
+      "id": "qidi-petg-rapido-diffuse-clear-white",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG Rapido Diffuse Clear White",
+      "hex": "#ffffff",
+      "searchText": "qidi tech petg petg rapido diffuse clear white"
+    },
+    {
+      "id": "qidi-petg-rapido-grass-green",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG Rapido Grass green",
+      "hex": "#0f330d",
+      "searchText": "qidi tech petg petg rapido grass green"
+    },
+    {
+      "id": "qidi-petg-rapido-gray",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG Rapido Gray",
+      "hex": "#a0a0a0",
+      "searchText": "qidi tech petg petg rapido gray"
+    },
+    {
+      "id": "qidi-petg-rapido-red",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG Rapido Red",
+      "hex": "#af0009",
+      "searchText": "qidi tech petg petg rapido red"
+    },
+    {
+      "id": "qidi-petg-rapido-white",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG Rapido White",
+      "hex": "#ffffff",
+      "searchText": "qidi tech petg petg rapido white"
+    },
+    {
+      "id": "qidi-petg-rapido-yellow",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG Rapido Yellow",
+      "hex": "#fce300",
+      "searchText": "qidi tech petg petg rapido yellow"
+    },
+    {
+      "id": "qidi-tech-petg-translucent-black",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG Translucent Black",
+      "hex": "#30312f",
+      "searchText": "qidi tech petg petg translucent black"
+    },
+    {
+      "id": "qidi-tech-petg-translucent-blue",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG Translucent Blue",
+      "hex": "#0095ff",
+      "searchText": "qidi tech petg petg translucent blue"
+    },
+    {
+      "id": "qidi-tech-petg-translucent-clear",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG Translucent Clear",
+      "hex": "#e0e0e0",
+      "searchText": "qidi tech petg petg translucent clear"
+    },
+    {
+      "id": "qidi-tech-petg-translucent-purple",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG Translucent Purple",
+      "hex": "#9901fa",
+      "searchText": "qidi tech petg petg translucent purple"
+    },
+    {
+      "id": "qidi-tech-petg-translucent-red",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG Translucent Red",
+      "hex": "#ff4f4d",
+      "searchText": "qidi tech petg petg translucent red"
+    },
+    {
+      "id": "qidi-tech-petg-translucent-yellow",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG Translucent Yellow",
+      "hex": "#f2f470",
+      "searchText": "qidi tech petg petg translucent yellow"
+    },
+    {
+      "id": "qidi-petg-cf-black",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG-CF Black",
+      "hex": "#000000",
+      "searchText": "qidi tech petg petg-cf black"
+    },
+    {
+      "id": "qidi-petg-gf-black",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG-GF Black",
+      "hex": "#000000",
+      "searchText": "qidi tech petg petg-gf black"
+    },
+    {
+      "id": "qidi-petg-gf-macchiato-brown",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG-GF Macchiato Brown",
+      "hex": "#ac8266",
+      "searchText": "qidi tech petg petg-gf macchiato brown"
+    },
+    {
+      "id": "qidi-petg-gf-skylight-blue",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG-GF Skylight Blue",
+      "hex": "#c8e0e0",
+      "searchText": "qidi tech petg petg-gf skylight blue"
+    },
+    {
+      "id": "qidi-petg-gf-white",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG-GF White",
+      "hex": "#ffffff",
+      "searchText": "qidi tech petg petg-gf white"
+    },
+    {
+      "id": "qidi-tech-petg-tough-black",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG-Tough Black",
+      "hex": "#000000",
+      "searchText": "qidi tech petg petg-tough black"
+    },
+    {
+      "id": "qidi-tech-petg-tough-blue",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG-Tough Blue",
+      "hex": "#69b3e7",
+      "searchText": "qidi tech petg petg-tough blue"
+    },
+    {
+      "id": "qidi-tech-petg-tough-green",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG-Tough Green",
+      "hex": "#60ab61",
+      "searchText": "qidi tech petg petg-tough green"
+    },
+    {
+      "id": "qidi-tech-petg-tough-orange",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG-Tough Orange",
+      "hex": "#fe602b",
+      "searchText": "qidi tech petg petg-tough orange"
+    },
+    {
+      "id": "qidi-tech-petg-tough-red",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG-Tough Red",
+      "hex": "#ac0200",
+      "searchText": "qidi tech petg petg-tough red"
+    },
+    {
+      "id": "qidi-tech-petg-tough-white",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG-Tough White",
+      "hex": "#ffffff",
+      "searchText": "qidi tech petg petg-tough white"
+    },
+    {
+      "id": "qidi-tech-petg-tough-yellow",
+      "brand": "QIDI Tech",
+      "material": "PETG",
+      "name": "PETG-Tough Yellow",
+      "hex": "#fce300",
+      "searchText": "qidi tech petg petg-tough yellow"
+    },
+    {
+      "id": "qidi-tech-pla-basic-black",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Basic Black",
+      "hex": "#000000",
+      "searchText": "qidi tech pla pla basic black"
+    },
+    {
+      "id": "qidi-tech-pla-basic-blue",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Basic Blue",
+      "hex": "#0074bc",
+      "searchText": "qidi tech pla pla basic blue"
+    },
+    {
+      "id": "qidi-tech-pla-basic-brown",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Basic Brown",
+      "hex": "#6d3f2b",
+      "searchText": "qidi tech pla pla basic brown"
+    },
+    {
+      "id": "qidi-tech-pla-basic-dark-green",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Basic Dark Green",
+      "hex": "#1f4e3a",
+      "searchText": "qidi tech pla pla basic dark green"
+    },
+    {
+      "id": "qidi-tech-pla-basic-gray",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Basic Gray",
+      "hex": "#888b8d",
+      "searchText": "qidi tech pla pla basic gray"
+    },
+    {
+      "id": "qidi-tech-pla-basic-red",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Basic Red",
+      "hex": "#d3100c",
+      "searchText": "qidi tech pla pla basic red"
+    },
+    {
+      "id": "qidi-tech-pla-basic-skin",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Basic Skin",
+      "hex": "#e3bc9a",
+      "searchText": "qidi tech pla pla basic skin"
+    },
+    {
+      "id": "qidi-tech-pla-basic-sky-blue",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Basic Sky Blue",
+      "hex": "#9bcbeb",
+      "searchText": "qidi tech pla pla basic sky blue"
+    },
+    {
+      "id": "qidi-tech-pla-basic-white",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Basic White",
+      "hex": "#f2f0eb",
+      "searchText": "qidi tech pla pla basic white"
+    },
+    {
+      "id": "qidi-tech-pla-basic-yellow",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Basic Yellow",
+      "hex": "#f8c711",
+      "searchText": "qidi tech pla pla basic yellow"
+    },
+    {
+      "id": "qidi-tech-pla-matte-basic-coconut-white",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Matte Basic Coconut White",
+      "hex": "#ffffff",
+      "searchText": "qidi tech pla pla matte basic coconut white"
+    },
+    {
+      "id": "qidi-tech-pla-matte-basic-latte-brown",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Matte Basic Latte Brown",
+      "hex": "#946037",
+      "searchText": "qidi tech pla pla matte basic latte brown"
+    },
+    {
+      "id": "qidi-tech-pla-matte-basic-malt-green",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Matte Basic Malt Green",
+      "hex": "#9ad24b",
+      "searchText": "qidi tech pla pla matte basic malt green"
+    },
+    {
+      "id": "qidi-tech-pla-matte-basic-milky-green",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Matte Basic Milky green",
+      "hex": "#d8e9db",
+      "searchText": "qidi tech pla pla matte basic milky green"
+    },
+    {
+      "id": "qidi-tech-pla-matte-basic-mint-blue",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Matte Basic Mint Blue",
+      "hex": "#9cd4eb",
+      "searchText": "qidi tech pla pla matte basic mint blue"
+    },
+    {
+      "id": "qidi-tech-pla-matte-basic-peach-pink",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Matte Basic Peach Pink",
+      "hex": "#f5d3d6",
+      "searchText": "qidi tech pla pla matte basic peach pink"
+    },
+    {
+      "id": "qidi-tech-pla-matte-basic-sesame-black",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Matte Basic Sesame Black",
+      "hex": "#000000",
+      "searchText": "qidi tech pla pla matte basic sesame black"
+    },
+    {
+      "id": "qidi-tech-pla-matte-basic-watermelon-red",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Matte Basic Watermelon Red",
+      "hex": "#f45d6d",
+      "searchText": "qidi tech pla pla matte basic watermelon red"
+    },
+    {
+      "id": "qidi-pla-matte-rapido-ash-gray",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Matte Rapido Ash Gray",
+      "hex": "#30312f",
+      "searchText": "qidi tech pla pla matte rapido ash gray"
+    },
+    {
+      "id": "qidi-pla-matte-rapido-black",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Matte Rapido Black",
+      "hex": "#212322",
+      "searchText": "qidi tech pla pla matte rapido black"
+    },
+    {
+      "id": "qidi-pla-matte-rapido-kraft",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Matte Rapido Kraft",
+      "hex": "#c6aa76",
+      "searchText": "qidi tech pla pla matte rapido kraft"
+    },
+    {
+      "id": "qidi-pla-matte-rapido-malt-clay",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Matte Rapido Malt Clay",
+      "hex": "#876e59",
+      "searchText": "qidi tech pla pla matte rapido malt clay"
+    },
+    {
+      "id": "qidi-pla-matte-rapido-navy-blue",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Matte Rapido Navy Blue",
+      "hex": "#353e47",
+      "searchText": "qidi tech pla pla matte rapido navy blue"
+    },
+    {
+      "id": "qidi-pla-matte-rapido-olive-green",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Matte Rapido Olive Green",
+      "hex": "#555b43",
+      "searchText": "qidi tech pla pla matte rapido olive green"
+    },
+    {
+      "id": "qidi-pla-matte-rapido-tech-gray",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Matte Rapido Tech Gray",
+      "hex": "#c1c1c1",
+      "searchText": "qidi tech pla pla matte rapido tech gray"
+    },
+    {
+      "id": "qidi-pla-matte-rapido-warm-gray",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Matte Rapido Warm Gray",
+      "hex": "#c9c6bf",
+      "searchText": "qidi tech pla pla matte rapido warm gray"
+    },
+    {
+      "id": "qidi-pla-matte-rapido-white",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Matte Rapido White",
+      "hex": "#ffffff",
+      "searchText": "qidi tech pla pla matte rapido white"
+    },
+    {
+      "id": "qidi-pla-rapido-black",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Rapido Black",
+      "hex": "#212322",
+      "searchText": "qidi tech pla pla rapido black"
+    },
+    {
+      "id": "qidi-pla-rapido-blue",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Rapido Blue",
+      "hex": "#00358e",
+      "searchText": "qidi tech pla pla rapido blue"
+    },
+    {
+      "id": "qidi-pla-rapido-gray",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Rapido Gray",
+      "hex": "#a3a3a0",
+      "searchText": "qidi tech pla pla rapido gray"
+    },
+    {
+      "id": "qidi-pla-rapido-green",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Rapido Green",
+      "hex": "#009f4d",
+      "searchText": "qidi tech pla pla rapido green"
+    },
+    {
+      "id": "qidi-pla-rapido-metal-blue",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Rapido Metal Blue",
+      "hex": "#41658c",
+      "searchText": "qidi tech pla pla rapido metal blue"
+    },
+    {
+      "id": "qidi-pla-rapido-metal-coffee-gold",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Rapido Metal Coffee Gold",
+      "hex": "#876249",
+      "searchText": "qidi tech pla pla rapido metal coffee gold"
+    },
+    {
+      "id": "qidi-pla-rapido-metal-midnight-green",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Rapido Metal Midnight Green",
+      "hex": "#46756a",
+      "searchText": "qidi tech pla pla rapido metal midnight green"
+    },
+    {
+      "id": "qidi-pla-rapido-metal-silver",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Rapido Metal Silver",
+      "hex": "#dddddd",
+      "searchText": "qidi tech pla pla rapido metal silver"
+    },
+    {
+      "id": "qidi-pla-rapido-orange",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Rapido Orange",
+      "hex": "#ff6a13",
+      "searchText": "qidi tech pla pla rapido orange"
+    },
+    {
+      "id": "qidi-pla-rapido-pink",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Rapido Pink",
+      "hex": "#ff5869",
+      "searchText": "qidi tech pla pla rapido pink"
+    },
+    {
+      "id": "qidi-pla-rapido-purple",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Rapido Purple",
+      "hex": "#ad3da0",
+      "searchText": "qidi tech pla pla rapido purple"
+    },
+    {
+      "id": "qidi-pla-rapido-red",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Rapido Red",
+      "hex": "#c1101d",
+      "searchText": "qidi tech pla pla rapido red"
+    },
+    {
+      "id": "qidi-tech-pla-rapido-silk-bronze",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Rapido Silk Bronze",
+      "hex": "#beb09e",
+      "searchText": "qidi tech pla pla rapido silk bronze"
+    },
+    {
+      "id": "qidi-tech-pla-rapido-silk-green",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Rapido Silk Green",
+      "hex": "#bdf2e0",
+      "searchText": "qidi tech pla pla rapido silk green"
+    },
+    {
+      "id": "qidi-pla-rapido-silk-rose-red",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Rapido Silk Rose Red",
+      "hex": "#d6a2a1",
+      "searchText": "qidi tech pla pla rapido silk rose red"
+    },
+    {
+      "id": "qidi-tech-pla-rapido-silk-skin",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Rapido Silk Skin",
+      "hex": "#f2dcc2",
+      "searchText": "qidi tech pla pla rapido silk skin"
+    },
+    {
+      "id": "qidi-pla-rapido-silver",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Rapido Silver",
+      "hex": "#acabc1",
+      "searchText": "qidi tech pla pla rapido silver"
+    },
+    {
+      "id": "qidi-pla-rapido-white",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Rapido White",
+      "hex": "#ffffff",
+      "searchText": "qidi tech pla pla rapido white"
+    },
+    {
+      "id": "qidi-pla-rapido-yellow",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Rapido Yellow",
+      "hex": "#fce300",
+      "searchText": "qidi tech pla pla rapido yellow"
+    },
+    {
+      "id": "qidi-pla-wood-cedar-brown",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Wood Cedar Brown",
+      "hex": "#a67f6b",
+      "searchText": "qidi tech pla pla wood cedar brown"
+    },
+    {
+      "id": "qidi-pla-wood-yellow",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA Wood Yellow",
+      "hex": "#b7916c",
+      "searchText": "qidi tech pla pla wood yellow"
+    },
+    {
+      "id": "qidi-pla-cf-black",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA-CF Black",
+      "hex": "#000000",
+      "searchText": "qidi tech pla pla-cf black"
+    },
+    {
+      "id": "qidi-pla-cf-dark-red",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA-CF Dark Red",
+      "hex": "#9a5c6b",
+      "searchText": "qidi tech pla pla-cf dark red"
+    },
+    {
+      "id": "qidi-pla-cf-lavender-purple",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA-CF Lavender Purple",
+      "hex": "#660066",
+      "searchText": "qidi tech pla pla-cf lavender purple"
+    },
+    {
+      "id": "qidi-pla-cf-midnight-blue",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA-CF Midnight Blue",
+      "hex": "#566b8f",
+      "searchText": "qidi tech pla pla-cf midnight blue"
+    },
+    {
+      "id": "qidi-pla-cf-olive-green",
+      "brand": "QIDI Tech",
+      "material": "PLA",
+      "name": "PLA-CF Olive Green",
+      "hex": "#67785a",
+      "searchText": "qidi tech pla pla-cf olive green"
+    },
+    {
+      "id": "qidi-paht-cf-ppa-cf-black",
+      "brand": "QIDI Tech",
+      "material": "PPA",
+      "name": "PAHT-CF (PPA-CF) Black",
+      "hex": "#000000",
+      "searchText": "qidi tech ppa paht-cf (ppa-cf) black"
+    },
+    {
+      "id": "qidi-paht-gf-ppa-gf-blue",
+      "brand": "QIDI Tech",
+      "material": "PPA",
+      "name": "PAHT-GF (PPA-GF) Blue",
+      "hex": "#7ca6de",
+      "searchText": "qidi tech ppa paht-gf (ppa-gf) blue"
+    },
+    {
+      "id": "qidi-paht-gf-ppa-gf-gray",
+      "brand": "QIDI Tech",
+      "material": "PPA",
+      "name": "PAHT-GF (PPA-GF) Gray",
+      "hex": "#a2aaad",
+      "searchText": "qidi tech ppa paht-gf (ppa-gf) gray"
+    },
+    {
+      "id": "qidi-ultrapa-nylon-ppa-white",
+      "brand": "QIDI Tech",
+      "material": "PPA",
+      "name": "UltraPA Nylon (PPA) White",
+      "hex": "#ffffff",
+      "searchText": "qidi tech ppa ultrapa nylon (ppa) white"
+    },
+    {
+      "id": "qidi-ultrapa-cf25ppa-cf25-black",
+      "brand": "QIDI Tech",
+      "material": "PPA",
+      "name": "UltraPA-CF25(PPA-CF25) Black",
+      "hex": "#000000",
+      "searchText": "qidi tech ppa ultrapa-cf25(ppa-cf25) black"
+    },
+    {
+      "id": "qidi-pps-cf-black",
+      "brand": "QIDI Tech",
+      "material": "PPS",
+      "name": "PPS-CF Black",
+      "hex": "#212322",
+      "searchText": "qidi tech pps pps-cf black"
+    },
+    {
+      "id": "qidi-pps-gf20-gray",
+      "brand": "QIDI Tech",
+      "material": "PPS",
+      "name": "PPS-GF20 Gray",
+      "hex": "#b6b6b6",
+      "searchText": "qidi tech pps pps-gf20 gray"
+    },
+    {
+      "id": "qidi-s-white-support-white",
+      "brand": "QIDI Tech",
+      "material": "S-WHITE",
+      "name": "S-White Support White",
+      "hex": "#efe8d8",
+      "searchText": "qidi tech s-white s-white support white"
+    },
+    {
+      "id": "qidi-tpu-aero-black",
+      "brand": "QIDI Tech",
+      "material": "TPU",
+      "name": "TPU-Aero Black",
+      "hex": "#000000",
+      "searchText": "qidi tech tpu tpu-aero black"
+    },
+    {
+      "id": "qidi-tpu-aero-white",
+      "brand": "QIDI Tech",
+      "material": "TPU",
+      "name": "TPU-Aero White",
+      "hex": "#ffffff",
+      "searchText": "qidi tech tpu tpu-aero white"
+    },
+    {
+      "id": "qidi-tpu-gf-black",
+      "brand": "QIDI Tech",
+      "material": "TPU",
+      "name": "TPU-GF Black",
+      "hex": "#30312f",
+      "searchText": "qidi tech tpu tpu-gf black"
+    },
+    {
+      "id": "qidi-tpu95a-hf-black",
+      "brand": "QIDI Tech",
+      "material": "TPU",
+      "name": "TPU95A-HF Black",
+      "hex": "#000000",
+      "searchText": "qidi tech tpu tpu95a-hf black"
+    },
+    {
+      "id": "qidi-tpu95a-hf-transparent",
+      "brand": "QIDI Tech",
+      "material": "TPU",
+      "name": "TPU95A-HF Transparent",
+      "hex": "#d9d8de",
+      "searchText": "qidi tech tpu tpu95a-hf transparent"
+    },
+    {
+      "id": "qidi-tpu95a-hf-white",
+      "brand": "QIDI Tech",
+      "material": "TPU",
+      "name": "TPU95A-HF White",
+      "hex": "#ffffff",
+      "searchText": "qidi tech tpu tpu95a-hf white"
     },
     {
       "id": "raise3d-hyper-core-abs-cf15-black",
