@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-06-09T05:44:11.581Z",
-  "entryCount": 11440,
+  "lastSynced": "2026-06-10T05:49:24.675Z",
+  "entryCount": 11441,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -6030,6 +6030,14 @@
       "searchText": "add:north tpu tpu pro matte 85a brown leather"
     },
     {
+      "id": "addnorth-tpu-pro-matte-85a-light-grey",
+      "brand": "add:north",
+      "material": "TPU",
+      "name": "TPU Pro Matte 85A Light Grey",
+      "hex": "#c1c1c1",
+      "searchText": "add:north tpu tpu pro matte 85a light grey"
+    },
+    {
       "id": "addnorth-tpu-pro-matte-85a-white",
       "brand": "add:north",
       "material": "TPU",
@@ -6046,12 +6054,12 @@
       "searchText": "add:north tpu tpu pro matte 85a yellow"
     },
     {
-      "id": "addnorth-tpu-pro-matte-95a",
+      "id": "addnorth-tpu-pro-matte-95a-black",
       "brand": "add:north",
       "material": "TPU",
-      "name": "TPU Pro Matte 95A",
+      "name": "TPU Pro Matte 95A Black",
       "hex": "#000000",
-      "searchText": "add:north tpu tpu pro matte 95a"
+      "searchText": "add:north tpu tpu pro matte 95a black"
     },
     {
       "id": "addnorth-tpu-pro-matte-95a-white",
