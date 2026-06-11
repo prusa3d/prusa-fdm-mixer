@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-06-10T05:49:24.675Z",
-  "entryCount": 11441,
+  "lastSynced": "2026-06-11T05:58:14.295Z",
+  "entryCount": 11457,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -9828,6 +9828,118 @@
       "name": "PLA+ Yellow Pantone 116U",
       "hex": "#e8bd00",
       "searchText": "arianeplast pla pla+ yellow pantone 116u"
+    },
+    {
+      "id": "artillery-pla-basic-black",
+      "brand": "Artillery",
+      "material": "PLA",
+      "name": "PLA Basic Black",
+      "hex": "#000000",
+      "searchText": "artillery pla pla basic black"
+    },
+    {
+      "id": "artillery-pla-basic-blue",
+      "brand": "Artillery",
+      "material": "PLA",
+      "name": "PLA Basic Blue",
+      "hex": "#0f55c6",
+      "searchText": "artillery pla pla basic blue"
+    },
+    {
+      "id": "artillery-pla-basic-brown",
+      "brand": "Artillery",
+      "material": "PLA",
+      "name": "PLA Basic Brown",
+      "hex": "#be6730",
+      "searchText": "artillery pla pla basic brown"
+    },
+    {
+      "id": "artillery-pla-basic-gray",
+      "brand": "Artillery",
+      "material": "PLA",
+      "name": "PLA Basic Gray",
+      "hex": "#a2aaad",
+      "searchText": "artillery pla pla basic gray"
+    },
+    {
+      "id": "artillery-pla-basic-green",
+      "brand": "Artillery",
+      "material": "PLA",
+      "name": "PLA Basic Green",
+      "hex": "#00c26b",
+      "searchText": "artillery pla pla basic green"
+    },
+    {
+      "id": "artillery-pla-basic-light-blue",
+      "brand": "Artillery",
+      "material": "PLA",
+      "name": "PLA Basic Light Blue",
+      "hex": "#0065bd",
+      "searchText": "artillery pla pla basic light blue"
+    },
+    {
+      "id": "artillery-pla-basic-mint-green",
+      "brand": "Artillery",
+      "material": "PLA",
+      "name": "PLA Basic Mint Green",
+      "hex": "#60d1cc",
+      "searchText": "artillery pla pla basic mint green"
+    },
+    {
+      "id": "artillery-pla-basic-navy-blue",
+      "brand": "Artillery",
+      "material": "PLA",
+      "name": "PLA Basic Navy Blue",
+      "hex": "#003057",
+      "searchText": "artillery pla pla basic navy blue"
+    },
+    {
+      "id": "artillery-pla-basic-orange",
+      "brand": "Artillery",
+      "material": "PLA",
+      "name": "PLA Basic Orange",
+      "hex": "#ff7338",
+      "searchText": "artillery pla pla basic orange"
+    },
+    {
+      "id": "artillery-pla-basic-pink",
+      "brand": "Artillery",
+      "material": "PLA",
+      "name": "PLA Basic Pink",
+      "hex": "#ffbdd1",
+      "searchText": "artillery pla pla basic pink"
+    },
+    {
+      "id": "artillery-pla-basic-purple",
+      "brand": "Artillery",
+      "material": "PLA",
+      "name": "PLA Basic Purple",
+      "hex": "#6c47b2",
+      "searchText": "artillery pla pla basic purple"
+    },
+    {
+      "id": "artillery-pla-basic-red",
+      "brand": "Artillery",
+      "material": "PLA",
+      "name": "PLA Basic Red",
+      "hex": "#e60000",
+      "searchText": "artillery pla pla basic red"
+    },
+    {
+      "id": "artillery-pla-basic-white",
+      "brand": "Artillery",
+      "material": "PLA",
+      "name": "PLA Basic White",
+      "hex": "#f5f5f5",
+      "searchText": "artillery pla pla basic white"
+    },
+    {
+      "id": "artillery-pla-basic-yellow",
+      "brand": "Artillery",
+      "material": "PLA",
+      "name": "PLA Basic Yellow",
+      "hex": "#f8cc00",
+      "searchText": "artillery pla pla basic yellow"
     },
     {
       "id": "ataraxia-art-petg-black",
@@ -61674,7 +61786,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Pastel Peach",
-      "hex": "#f2b67a",
+      "hex": "#f6bf8b",
       "searchText": "polymaker pla panchroma™ matte pla pastel peach"
     },
     {
@@ -84820,6 +84932,22 @@
       "name": "The Filament TPU 95A White",
       "hex": "#efefef",
       "searchText": "spectrum tpu the filament tpu 95a white"
+    },
+    {
+      "id": "stronghero3d-pla-high-speed-red",
+      "brand": "Stronghero3D",
+      "material": "PLA",
+      "name": "PLA High Speed Red",
+      "hex": "#bf1d2d",
+      "searchText": "stronghero3d pla pla high speed red"
+    },
+    {
+      "id": "stronghero3d-pla-silk-gold",
+      "brand": "Stronghero3D",
+      "material": "PLA",
+      "name": "PLA Silk Gold",
+      "hex": "#cba613",
+      "searchText": "stronghero3d pla pla silk gold"
     },
     {
       "id": "sunlu-abs-black",
