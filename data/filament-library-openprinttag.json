@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-06-11T05:58:14.295Z",
-  "entryCount": 11457,
+  "lastSynced": "2026-06-12T05:56:59.296Z",
+  "entryCount": 11466,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -7740,6 +7740,14 @@
       "name": "PLA Silk Basic Pink",
       "hex": "#fd64b3",
       "searchText": "amolen pla pla silk basic pink"
+    },
+    {
+      "id": "amolen-pla-silk-basic-pumpkin-orange",
+      "brand": "Amolen",
+      "material": "PLA",
+      "name": "PLA Silk Basic Pumpkin Orange",
+      "hex": "#f26a1b",
+      "searchText": "amolen pla pla silk basic pumpkin orange"
     },
     {
       "id": "amolen-pla-silk-basic-purple",
@@ -27238,6 +27246,30 @@
       "searchText": "eryone pla pla yellow"
     },
     {
+      "id": "eryone-tpu-95a-black",
+      "brand": "ERYONE",
+      "material": "TPU",
+      "name": "TPU 95A Black",
+      "hex": "#000000",
+      "searchText": "eryone tpu tpu 95a black"
+    },
+    {
+      "id": "eryone-tpu-95a-orange",
+      "brand": "ERYONE",
+      "material": "TPU",
+      "name": "TPU 95A Orange",
+      "hex": "#de6300",
+      "searchText": "eryone tpu tpu 95a orange"
+    },
+    {
+      "id": "eryone-tpu-95a-white",
+      "brand": "ERYONE",
+      "material": "TPU",
+      "name": "TPU 95A White",
+      "hex": "#ffffff",
+      "searchText": "eryone tpu tpu 95a white"
+    },
+    {
       "id": "esun-abs-natural",
       "brand": "eSUN",
       "material": "ABS",
@@ -44838,6 +44870,14 @@
       "searchText": "hatchbox abs transparent red abs"
     },
     {
+      "id": "hatchbox-transparent-white-abs",
+      "brand": "Hatchbox",
+      "material": "ABS",
+      "name": "Transparent White ABS",
+      "hex": "#ffffff",
+      "searchText": "hatchbox abs transparent white abs"
+    },
+    {
       "id": "hatchbox-transparent-yellow-abs",
       "brand": "Hatchbox",
       "material": "ABS",
@@ -45230,6 +45270,14 @@
       "searchText": "hatchbox pla flesh pla max"
     },
     {
+      "id": "hatchbox-forest-green-pla-filament",
+      "brand": "Hatchbox",
+      "material": "PLA",
+      "name": "Forest Green PLA Filament",
+      "hex": "#0d4b0d",
+      "searchText": "hatchbox pla forest green pla filament"
+    },
+    {
       "id": "hatchbox-gray-blue-pla",
       "brand": "Hatchbox",
       "material": "PLA",
@@ -45292,6 +45340,14 @@
       "name": "Lemonade Matte PLA",
       "hex": "#d0dcaa",
       "searchText": "hatchbox pla lemonade matte pla"
+    },
+    {
+      "id": "hatchbox-light-blue-pla-filament",
+      "brand": "Hatchbox",
+      "material": "PLA",
+      "name": "Light Blue PLA Filament",
+      "hex": "#0e69aa",
+      "searchText": "hatchbox pla light blue pla filament"
     },
     {
       "id": "hatchbox-light-orange-pla",
@@ -60908,6 +60964,22 @@
       "name": "PolyMide™ CoPA Natural",
       "hex": "#f1e6b2",
       "searchText": "polymaker pa6 polymide™ copa natural"
+    },
+    {
+      "id": "polymaker-fiberon-pa612-cf15-black",
+      "brand": "Polymaker",
+      "material": "PA612",
+      "name": "Fiberon™ PA612-CF15 Black",
+      "hex": "#000000",
+      "searchText": "polymaker pa612 fiberon™ pa612-cf15 black"
+    },
+    {
+      "id": "polymaker-fiberon-pa612-esd-black",
+      "brand": "Polymaker",
+      "material": "PA612",
+      "name": "Fiberon™ PA612-ESD Black",
+      "hex": "#080a0d",
+      "searchText": "polymaker pa612 fiberon™ pa612-esd black"
     },
     {
       "id": "polymaker-pc-abs-black",
