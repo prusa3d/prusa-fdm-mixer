@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-06-12T05:56:59.296Z",
-  "entryCount": 11466,
+  "lastSynced": "2026-06-13T05:47:40.257Z",
+  "entryCount": 11470,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -25158,12 +25158,28 @@
       "searchText": "elegoo pla pla dark blue"
     },
     {
+      "id": "elegoo-pla-green",
+      "brand": "ELEGOO",
+      "material": "PLA",
+      "name": "PLA Green",
+      "hex": "#02cc6c",
+      "searchText": "elegoo pla pla green"
+    },
+    {
       "id": "elegoo-pla-grey",
       "brand": "ELEGOO",
       "material": "PLA",
       "name": "PLA Grey",
       "hex": "#949a9e",
       "searchText": "elegoo pla pla grey"
+    },
+    {
+      "id": "elegoo-pla-hot-pink",
+      "brand": "ELEGOO",
+      "material": "PLA",
+      "name": "PLA Hot Pink",
+      "hex": "#fa7291",
+      "searchText": "elegoo pla pla hot pink"
     },
     {
       "id": "elegoo-pla-marble",
@@ -25220,6 +25236,14 @@
       "name": "PLA Matte Navy Blue",
       "hex": "#183681",
       "searchText": "elegoo pla pla matte navy blue"
+    },
+    {
+      "id": "elegoo-pla-matte-orange",
+      "brand": "ELEGOO",
+      "material": "PLA",
+      "name": "PLA Matte Orange",
+      "hex": "#ed944d",
+      "searchText": "elegoo pla pla matte orange"
     },
     {
       "id": "elegoo-pla-matte-sakura-pink",
@@ -25548,6 +25572,14 @@
       "name": "PLA Space Grey",
       "hex": "#737282",
       "searchText": "elegoo pla pla space grey"
+    },
+    {
+      "id": "elegoo-pla-translucent",
+      "brand": "ELEGOO",
+      "material": "PLA",
+      "name": "PLA Translucent",
+      "hex": "#9da6b8",
+      "searchText": "elegoo pla pla translucent"
     },
     {
       "id": "elegoo-pla-white",
