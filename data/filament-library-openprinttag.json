@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-06-15T06:07:54.665Z",
-  "entryCount": 11470,
+  "lastSynced": "2026-06-16T06:12:27.469Z",
+  "entryCount": 11478,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -5278,12 +5278,12 @@
       "searchText": "add:north pc pc blend ht lcf black"
     },
     {
-      "id": "addnorth-esd-petg",
+      "id": "addnorth-esd-petg-black",
       "brand": "add:north",
       "material": "PETG",
-      "name": "ESD PETG",
+      "name": "ESD PETG Black",
       "hex": "#000000",
-      "searchText": "add:north petg esd petg"
+      "searchText": "add:north petg esd petg black"
     },
     {
       "id": "addnorth-petg-black",
@@ -5364,6 +5364,14 @@
       "name": "PETG Grey",
       "hex": "#6a6c6e",
       "searchText": "add:north petg petg grey"
+    },
+    {
+      "id": "addnorth-petg-light-grey",
+      "brand": "add:north",
+      "material": "PETG",
+      "name": "PETG Light Grey",
+      "hex": "#c1c1c1",
+      "searchText": "add:north petg petg light grey"
     },
     {
       "id": "addnorth-petg-lucent-orange",
@@ -5454,12 +5462,28 @@
       "searchText": "add:north petg rpetg matte"
     },
     {
+      "id": "addnorth-rpetg-matte-black",
+      "brand": "add:north",
+      "material": "PETG",
+      "name": "rPETG Matte Black",
+      "hex": "#000000",
+      "searchText": "add:north petg rpetg matte black"
+    },
+    {
       "id": "addnorth-rpetg-matte-grey",
       "brand": "add:north",
       "material": "PETG",
       "name": "rPETG Matte Grey",
       "hex": "#6a6c6e",
       "searchText": "add:north petg rpetg matte grey"
+    },
+    {
+      "id": "addnorth-rpetg-matte-white",
+      "brand": "add:north",
+      "material": "PETG",
+      "name": "rPETG Matte White",
+      "hex": "#ffffff",
+      "searchText": "add:north petg rpetg matte white"
     },
     {
       "id": "addnorth-e-pla-army-green",
@@ -8100,6 +8124,14 @@
       "name": "TPU Transparent Clear Yellow",
       "hex": "#fffb00",
       "searchText": "amolen tpu tpu transparent clear yellow"
+    },
+    {
+      "id": "anycubic-asa-black",
+      "brand": "Anycubic",
+      "material": "ASA",
+      "name": "ASA Black",
+      "hex": "#212721",
+      "searchText": "anycubic asa asa black"
     },
     {
       "id": "anycubic-petg-beige",
@@ -16194,7 +16226,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA Translucent Blue",
-      "hex": "#0056f9",
+      "hex": "#0047bb",
       "searchText": "bambulab pla pla translucent blue"
     },
     {
@@ -16202,7 +16234,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA Translucent Cherry Pink",
-      "hex": "#ffa4cc",
+      "hex": "#f5b6cd",
       "searchText": "bambulab pla pla translucent cherry pink"
     },
     {
@@ -16210,7 +16242,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA Translucent Ice Blue",
-      "hex": "#b0cef0",
+      "hex": "#b8cde9",
       "searchText": "bambulab pla pla translucent ice blue"
     },
     {
@@ -16218,7 +16250,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA Translucent Lavender",
-      "hex": "#c09cd5",
+      "hex": "#b8acd6",
       "searchText": "bambulab pla pla translucent lavender"
     },
     {
@@ -16226,7 +16258,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA Translucent Light Jade",
-      "hex": "#7ce8b1",
+      "hex": "#96d8af",
       "searchText": "bambulab pla pla translucent light jade"
     },
     {
@@ -16242,7 +16274,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA Translucent Orange",
-      "hex": "#ff6600",
+      "hex": "#f74e02",
       "searchText": "bambulab pla pla translucent orange"
     },
     {
@@ -16250,7 +16282,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA Translucent Purple",
-      "hex": "#cc52cf",
+      "hex": "#8344b0",
       "searchText": "bambulab pla pla translucent purple"
     },
     {
@@ -16258,7 +16290,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA Translucent Red",
-      "hex": "#ff0505",
+      "hex": "#e20010",
       "searchText": "bambulab pla pla translucent red"
     },
     {
@@ -16274,7 +16306,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA Wood Black Walnut",
-      "hex": "#6a5346",
+      "hex": "#4f3f24",
       "searchText": "bambulab pla pla wood black walnut"
     },
     {
@@ -16290,7 +16322,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA Wood Clay Brown",
-      "hex": "#c37c4f",
+      "hex": "#995f11",
       "searchText": "bambulab pla pla wood clay brown"
     },
     {
@@ -16298,7 +16330,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA Wood Ochre Yellow",
-      "hex": "#ea9e3f",
+      "hex": "#c98935",
       "searchText": "bambulab pla pla wood ochre yellow"
     },
     {
@@ -16306,7 +16338,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA Wood Rosewood",
-      "hex": "#68453b",
+      "hex": "#4c241c",
       "searchText": "bambulab pla pla wood rosewood"
     },
     {
@@ -16314,7 +16346,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA Wood White Oak",
-      "hex": "#dbc9ad",
+      "hex": "#d6cca3",
       "searchText": "bambulab pla pla wood white oak"
     },
     {
@@ -25202,7 +25234,7 @@
       "brand": "ELEGOO",
       "material": "PLA",
       "name": "PLA Matte Beige",
-      "hex": "#e6d1bd",
+      "hex": "#efd8be",
       "searchText": "elegoo pla pla matte beige"
     },
     {
@@ -25210,15 +25242,23 @@
       "brand": "ELEGOO",
       "material": "PLA",
       "name": "PLA Matte Black",
-      "hex": "#000000",
+      "hex": "#090909",
       "searchText": "elegoo pla pla matte black"
+    },
+    {
+      "id": "elegoo-pla-matte-earth-brown",
+      "brand": "ELEGOO",
+      "material": "PLA",
+      "name": "PLA Matte Earth Brown",
+      "hex": "#9a6948",
+      "searchText": "elegoo pla pla matte earth brown"
     },
     {
       "id": "elegoo-pla-matte-ice-blue",
       "brand": "ELEGOO",
       "material": "PLA",
       "name": "PLA Matte Ice Blue",
-      "hex": "#8ed9f9",
+      "hex": "#b4f5fe",
       "searchText": "elegoo pla pla matte ice blue"
     },
     {
@@ -25226,15 +25266,23 @@
       "brand": "ELEGOO",
       "material": "PLA",
       "name": "PLA Matte Lavender Purple",
-      "hex": "#ae96d4",
+      "hex": "#b091ef",
       "searchText": "elegoo pla pla matte lavender purple"
+    },
+    {
+      "id": "elegoo-pla-matte-mint-green",
+      "brand": "ELEGOO",
+      "material": "PLA",
+      "name": "PLA Matte Mint Green",
+      "hex": "#98ff98",
+      "searchText": "elegoo pla pla matte mint green"
     },
     {
       "id": "elegoo-pla-matte-navy-blue",
       "brand": "ELEGOO",
       "material": "PLA",
       "name": "PLA Matte Navy Blue",
-      "hex": "#183681",
+      "hex": "#142538",
       "searchText": "elegoo pla pla matte navy blue"
     },
     {
@@ -25246,19 +25294,27 @@
       "searchText": "elegoo pla pla matte orange"
     },
     {
+      "id": "elegoo-pla-matte-ruby-red",
+      "brand": "ELEGOO",
+      "material": "PLA",
+      "name": "PLA Matte Ruby Red",
+      "hex": "#bb2c2e",
+      "searchText": "elegoo pla pla matte ruby red"
+    },
+    {
       "id": "elegoo-pla-matte-sakura-pink",
       "brand": "ELEGOO",
       "material": "PLA",
       "name": "PLA Matte Sakura Pink",
-      "hex": "#ffbade",
+      "hex": "#ffc2f4",
       "searchText": "elegoo pla pla matte sakura pink"
     },
     {
       "id": "elegoo-pla-matte-slate-grey",
       "brand": "ELEGOO",
       "material": "PLA",
-      "name": "PLA MATTE Slate Grey",
-      "hex": "#b2b8b8",
+      "name": "PLA Matte Slate Grey",
+      "hex": "#969799",
       "searchText": "elegoo pla pla matte slate grey"
     },
     {
@@ -25266,7 +25322,7 @@
       "brand": "ELEGOO",
       "material": "PLA",
       "name": "PLA Matte Sunshine Yellow",
-      "hex": "#ffd342",
+      "hex": "#f9e069",
       "searchText": "elegoo pla pla matte sunshine yellow"
     },
     {
@@ -25274,7 +25330,7 @@
       "brand": "ELEGOO",
       "material": "PLA",
       "name": "PLA Matte Teal Green",
-      "hex": "#9ae0dd",
+      "hex": "#85e2dd",
       "searchText": "elegoo pla pla matte teal green"
     },
     {
@@ -47108,6 +47164,14 @@
       "name": "PLA+ Yellow",
       "hex": "#fbe200",
       "searchText": "inland pla pla+ yellow"
+    },
+    {
+      "id": "inslogic-high-speed-marble-pla-chestnut-brown",
+      "brand": "Inslogic",
+      "material": "PLA",
+      "name": "High-Speed Marble PLA Chestnut Brown",
+      "hex": "#ffe2c2",
+      "searchText": "inslogic pla high-speed marble pla chestnut brown"
     },
     {
       "id": "isanmate-asa-army-green",
