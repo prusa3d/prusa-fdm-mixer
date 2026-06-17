@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-06-16T06:12:27.469Z",
-  "entryCount": 11478,
+  "lastSynced": "2026-06-17T06:01:05.410Z",
+  "entryCount": 11504,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -7748,6 +7748,14 @@
       "name": "PLA Silk Basic Ice Blue",
       "hex": "#9fd9f0",
       "searchText": "amolen pla pla silk basic ice blue"
+    },
+    {
+      "id": "amolen-pla-silk-basic-mercury-silver",
+      "brand": "Amolen",
+      "material": "PLA",
+      "name": "PLA Silk Basic Mercury Silver",
+      "hex": "#c9c1c8",
+      "searchText": "amolen pla pla silk basic mercury silver"
     },
     {
       "id": "amolen-pla-silk-basic-neon-green",
@@ -67228,6 +67236,206 @@
       "name": "Jessie Premium Elixir Royal Ruby",
       "hex": "#c00000",
       "searchText": "printedsolid tpu jessie premium elixir royal ruby"
+    },
+    {
+      "id": "printonion-pla-black",
+      "brand": "PrintOnion",
+      "material": "PLA",
+      "name": "PLA Black",
+      "hex": "#141414",
+      "searchText": "printonion pla pla black"
+    },
+    {
+      "id": "printonion-pla-blue",
+      "brand": "PrintOnion",
+      "material": "PLA",
+      "name": "PLA Blue",
+      "hex": "#0f57ff",
+      "searchText": "printonion pla pla blue"
+    },
+    {
+      "id": "printonion-pla-bronze",
+      "brand": "PrintOnion",
+      "material": "PLA",
+      "name": "PLA Bronze",
+      "hex": "#836842",
+      "searchText": "printonion pla pla bronze"
+    },
+    {
+      "id": "printonion-pla-ceramic-white",
+      "brand": "PrintOnion",
+      "material": "PLA",
+      "name": "PLA Ceramic White",
+      "hex": "#ffffff",
+      "searchText": "printonion pla pla ceramic white"
+    },
+    {
+      "id": "printonion-pla-coffee",
+      "brand": "PrintOnion",
+      "material": "PLA",
+      "name": "PLA Coffee",
+      "hex": "#652e1a",
+      "searchText": "printonion pla pla coffee"
+    },
+    {
+      "id": "printonion-pla-cream-yellow",
+      "brand": "PrintOnion",
+      "material": "PLA",
+      "name": "PLA Cream Yellow",
+      "hex": "#f6f7bf",
+      "searchText": "printonion pla pla cream yellow"
+    },
+    {
+      "id": "printonion-pla-cyan",
+      "brand": "PrintOnion",
+      "material": "PLA",
+      "name": "PLA Cyan",
+      "hex": "#05a6c7",
+      "searchText": "printonion pla pla cyan"
+    },
+    {
+      "id": "printonion-pla-dark-blue",
+      "brand": "PrintOnion",
+      "material": "PLA",
+      "name": "PLA Dark Blue",
+      "hex": "#093577",
+      "searchText": "printonion pla pla dark blue"
+    },
+    {
+      "id": "printonion-pla-gray",
+      "brand": "PrintOnion",
+      "material": "PLA",
+      "name": "PLA Gray",
+      "hex": "#787882",
+      "searchText": "printonion pla pla gray"
+    },
+    {
+      "id": "printonion-pla-green",
+      "brand": "PrintOnion",
+      "material": "PLA",
+      "name": "PLA Green",
+      "hex": "#238b2a",
+      "searchText": "printonion pla pla green"
+    },
+    {
+      "id": "printonion-pla-khaki-gray",
+      "brand": "PrintOnion",
+      "material": "PLA",
+      "name": "PLA Khaki Gray",
+      "hex": "#787664",
+      "searchText": "printonion pla pla khaki gray"
+    },
+    {
+      "id": "printonion-pla-light-blue",
+      "brand": "PrintOnion",
+      "material": "PLA",
+      "name": "PLA Light Blue",
+      "hex": "#2ea4ff",
+      "searchText": "printonion pla pla light blue"
+    },
+    {
+      "id": "printonion-pla-light-gray",
+      "brand": "PrintOnion",
+      "material": "PLA",
+      "name": "PLA Light Gray",
+      "hex": "#a6a6a6",
+      "searchText": "printonion pla pla light gray"
+    },
+    {
+      "id": "printonion-pla-military-green",
+      "brand": "PrintOnion",
+      "material": "PLA",
+      "name": "PLA Military Green",
+      "hex": "#355031",
+      "searchText": "printonion pla pla military green"
+    },
+    {
+      "id": "printonion-pla-mint-green",
+      "brand": "PrintOnion",
+      "material": "PLA",
+      "name": "PLA Mint Green",
+      "hex": "#5eb5ad",
+      "searchText": "printonion pla pla mint green"
+    },
+    {
+      "id": "printonion-pla-orange",
+      "brand": "PrintOnion",
+      "material": "PLA",
+      "name": "PLA Orange",
+      "hex": "#ff8b47",
+      "searchText": "printonion pla pla orange"
+    },
+    {
+      "id": "printonion-pla-pink",
+      "brand": "PrintOnion",
+      "material": "PLA",
+      "name": "PLA Pink",
+      "hex": "#ff9ee0",
+      "searchText": "printonion pla pla pink"
+    },
+    {
+      "id": "printonion-pla-purple",
+      "brand": "PrintOnion",
+      "material": "PLA",
+      "name": "PLA Purple",
+      "hex": "#a855ec",
+      "searchText": "printonion pla pla purple"
+    },
+    {
+      "id": "printonion-pla-red",
+      "brand": "PrintOnion",
+      "material": "PLA",
+      "name": "PLA Red",
+      "hex": "#f71818",
+      "searchText": "printonion pla pla red"
+    },
+    {
+      "id": "printonion-pla-rose",
+      "brand": "PrintOnion",
+      "material": "PLA",
+      "name": "PLA Rose",
+      "hex": "#c72f73",
+      "searchText": "printonion pla pla rose"
+    },
+    {
+      "id": "printonion-pla-silver",
+      "brand": "PrintOnion",
+      "material": "PLA",
+      "name": "PLA Silver",
+      "hex": "#949494",
+      "searchText": "printonion pla pla silver"
+    },
+    {
+      "id": "printonion-pla-sky-blue",
+      "brand": "PrintOnion",
+      "material": "PLA",
+      "name": "PLA Sky Blue",
+      "hex": "#29a2ff",
+      "searchText": "printonion pla pla sky blue"
+    },
+    {
+      "id": "printonion-pla-viridis-green",
+      "brand": "PrintOnion",
+      "material": "PLA",
+      "name": "PLA Viridis Green",
+      "hex": "#88f231",
+      "searchText": "printonion pla pla viridis green"
+    },
+    {
+      "id": "printonion-pla-white",
+      "brand": "PrintOnion",
+      "material": "PLA",
+      "name": "PLA White",
+      "hex": "#fafafa",
+      "searchText": "printonion pla pla white"
+    },
+    {
+      "id": "printonion-pla-yellow",
+      "brand": "PrintOnion",
+      "material": "PLA",
+      "name": "PLA Yellow",
+      "hex": "#fff838",
+      "searchText": "printonion pla pla yellow"
     },
     {
       "id": "protopasta-amies-blood-of-my-enemies-translucent-red-petg",
