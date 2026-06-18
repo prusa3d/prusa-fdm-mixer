@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-06-17T06:01:05.410Z",
-  "entryCount": 11504,
+  "lastSynced": "2026-06-18T05:58:44.485Z",
+  "entryCount": 11524,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -67236,6 +67236,166 @@
       "name": "Jessie Premium Elixir Royal Ruby",
       "hex": "#c00000",
       "searchText": "printedsolid tpu jessie premium elixir royal ruby"
+    },
+    {
+      "id": "printonion-petg-black",
+      "brand": "PrintOnion",
+      "material": "PETG",
+      "name": "PETG Black",
+      "hex": "#141414",
+      "searchText": "printonion petg petg black"
+    },
+    {
+      "id": "printonion-petg-blue",
+      "brand": "PrintOnion",
+      "material": "PETG",
+      "name": "PETG Blue",
+      "hex": "#0f57ff",
+      "searchText": "printonion petg petg blue"
+    },
+    {
+      "id": "printonion-petg-coffee",
+      "brand": "PrintOnion",
+      "material": "PETG",
+      "name": "PETG Coffee",
+      "hex": "#652e1a",
+      "searchText": "printonion petg petg coffee"
+    },
+    {
+      "id": "printonion-petg-dark-blue",
+      "brand": "PrintOnion",
+      "material": "PETG",
+      "name": "PETG Dark Blue",
+      "hex": "#0f1768",
+      "searchText": "printonion petg petg dark blue"
+    },
+    {
+      "id": "printonion-petg-gray",
+      "brand": "PrintOnion",
+      "material": "PETG",
+      "name": "PETG Gray",
+      "hex": "#595962",
+      "searchText": "printonion petg petg gray"
+    },
+    {
+      "id": "printonion-petg-green",
+      "brand": "PrintOnion",
+      "material": "PETG",
+      "name": "PETG Green",
+      "hex": "#25d047",
+      "searchText": "printonion petg petg green"
+    },
+    {
+      "id": "printonion-petg-khaki-green",
+      "brand": "PrintOnion",
+      "material": "PETG",
+      "name": "PETG Khaki Green",
+      "hex": "#656c61",
+      "searchText": "printonion petg petg khaki green"
+    },
+    {
+      "id": "printonion-petg-light-blue",
+      "brand": "PrintOnion",
+      "material": "PETG",
+      "name": "PETG Light Blue",
+      "hex": "#b6f0fb",
+      "searchText": "printonion petg petg light blue"
+    },
+    {
+      "id": "printonion-petg-light-gray",
+      "brand": "PrintOnion",
+      "material": "PETG",
+      "name": "PETG Light Gray",
+      "hex": "#a6a6a6",
+      "searchText": "printonion petg petg light gray"
+    },
+    {
+      "id": "printonion-petg-light-green",
+      "brand": "PrintOnion",
+      "material": "PETG",
+      "name": "PETG Light Green",
+      "hex": "#6bb560",
+      "searchText": "printonion petg petg light green"
+    },
+    {
+      "id": "printonion-petg-military-green",
+      "brand": "PrintOnion",
+      "material": "PETG",
+      "name": "PETG Military Green",
+      "hex": "#355031",
+      "searchText": "printonion petg petg military green"
+    },
+    {
+      "id": "printonion-petg-mint-green",
+      "brand": "PrintOnion",
+      "material": "PETG",
+      "name": "PETG Mint Green",
+      "hex": "#5eb5ad",
+      "searchText": "printonion petg petg mint green"
+    },
+    {
+      "id": "printonion-petg-orange",
+      "brand": "PrintOnion",
+      "material": "PETG",
+      "name": "PETG Orange",
+      "hex": "#ffb514",
+      "searchText": "printonion petg petg orange"
+    },
+    {
+      "id": "printonion-petg-pink",
+      "brand": "PrintOnion",
+      "material": "PETG",
+      "name": "PETG Pink",
+      "hex": "#ff9ee0",
+      "searchText": "printonion petg petg pink"
+    },
+    {
+      "id": "printonion-petg-purple",
+      "brand": "PrintOnion",
+      "material": "PETG",
+      "name": "PETG Purple",
+      "hex": "#c524ff",
+      "searchText": "printonion petg petg purple"
+    },
+    {
+      "id": "printonion-petg-red",
+      "brand": "PrintOnion",
+      "material": "PETG",
+      "name": "PETG Red",
+      "hex": "#f71818",
+      "searchText": "printonion petg petg red"
+    },
+    {
+      "id": "printonion-petg-silver",
+      "brand": "PrintOnion",
+      "material": "PETG",
+      "name": "PETG Silver",
+      "hex": "#626262",
+      "searchText": "printonion petg petg silver"
+    },
+    {
+      "id": "printonion-petg-taro-purple",
+      "brand": "PrintOnion",
+      "material": "PETG",
+      "name": "PETG Taro Purple",
+      "hex": "#dea0ee",
+      "searchText": "printonion petg petg taro purple"
+    },
+    {
+      "id": "printonion-petg-white",
+      "brand": "PrintOnion",
+      "material": "PETG",
+      "name": "PETG White",
+      "hex": "#fafafa",
+      "searchText": "printonion petg petg white"
+    },
+    {
+      "id": "printonion-petg-yellow",
+      "brand": "PrintOnion",
+      "material": "PETG",
+      "name": "PETG Yellow",
+      "hex": "#e5fb3c",
+      "searchText": "printonion petg petg yellow"
     },
     {
       "id": "printonion-pla-black",
