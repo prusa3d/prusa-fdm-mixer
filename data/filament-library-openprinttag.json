@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-06-18T05:58:44.485Z",
-  "entryCount": 11524,
+  "lastSynced": "2026-06-19T06:02:18.742Z",
+  "entryCount": 11564,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -24964,6 +24964,38 @@
       "name": "ASA White",
       "hex": "#ffffff",
       "searchText": "elegoo asa asa white"
+    },
+    {
+      "id": "elegoo-pc-black",
+      "brand": "ELEGOO",
+      "material": "PC",
+      "name": "PC Black",
+      "hex": "#000000",
+      "searchText": "elegoo pc pc black"
+    },
+    {
+      "id": "elegoo-pc-clear-black",
+      "brand": "ELEGOO",
+      "material": "PC",
+      "name": "PC Clear Black",
+      "hex": "#3e4654",
+      "searchText": "elegoo pc pc clear black"
+    },
+    {
+      "id": "elegoo-pc-transparent",
+      "brand": "ELEGOO",
+      "material": "PC",
+      "name": "PC Transparent",
+      "hex": "#b0b0b0",
+      "searchText": "elegoo pc pc transparent"
+    },
+    {
+      "id": "elegoo-pc-white",
+      "brand": "ELEGOO",
+      "material": "PC",
+      "name": "PC White",
+      "hex": "#ffffff",
+      "searchText": "elegoo pc pc white"
     },
     {
       "id": "elegoo-petg-pro-black",
@@ -67238,6 +67270,230 @@
       "searchText": "printedsolid tpu jessie premium elixir royal ruby"
     },
     {
+      "id": "printonion-abs-beige",
+      "brand": "PrintOnion",
+      "material": "ABS",
+      "name": "ABS Beige",
+      "hex": "#fff5b3",
+      "searchText": "printonion abs abs beige"
+    },
+    {
+      "id": "printonion-abs-black",
+      "brand": "PrintOnion",
+      "material": "ABS",
+      "name": "ABS Black",
+      "hex": "#141414",
+      "searchText": "printonion abs abs black"
+    },
+    {
+      "id": "printonion-abs-blue",
+      "brand": "PrintOnion",
+      "material": "ABS",
+      "name": "ABS Blue",
+      "hex": "#0f57ff",
+      "searchText": "printonion abs abs blue"
+    },
+    {
+      "id": "printonion-abs-coffee",
+      "brand": "PrintOnion",
+      "material": "ABS",
+      "name": "ABS Coffee",
+      "hex": "#652e1a",
+      "searchText": "printonion abs abs coffee"
+    },
+    {
+      "id": "printonion-abs-cyan",
+      "brand": "PrintOnion",
+      "material": "ABS",
+      "name": "ABS Cyan",
+      "hex": "#05a6c7",
+      "searchText": "printonion abs abs cyan"
+    },
+    {
+      "id": "printonion-abs-dark-blue",
+      "brand": "PrintOnion",
+      "material": "ABS",
+      "name": "ABS Dark Blue",
+      "hex": "#0f1768",
+      "searchText": "printonion abs abs dark blue"
+    },
+    {
+      "id": "printonion-abs-glass-fiber-black",
+      "brand": "PrintOnion",
+      "material": "ABS",
+      "name": "ABS Glass Fiber Black",
+      "hex": "#141414",
+      "searchText": "printonion abs abs glass fiber black"
+    },
+    {
+      "id": "printonion-abs-glass-fiber-gray",
+      "brand": "PrintOnion",
+      "material": "ABS",
+      "name": "ABS Glass Fiber Gray",
+      "hex": "#808080",
+      "searchText": "printonion abs abs glass fiber gray"
+    },
+    {
+      "id": "printonion-abs-glass-fiber-orange",
+      "brand": "PrintOnion",
+      "material": "ABS",
+      "name": "ABS Glass Fiber Orange",
+      "hex": "#fcb712",
+      "searchText": "printonion abs abs glass fiber orange"
+    },
+    {
+      "id": "printonion-abs-glass-fiber-pink",
+      "brand": "PrintOnion",
+      "material": "ABS",
+      "name": "ABS Glass Fiber Pink",
+      "hex": "#ff9ee0",
+      "searchText": "printonion abs abs glass fiber pink"
+    },
+    {
+      "id": "printonion-abs-glass-fiber-red",
+      "brand": "PrintOnion",
+      "material": "ABS",
+      "name": "ABS Glass Fiber Red",
+      "hex": "#f71818",
+      "searchText": "printonion abs abs glass fiber red"
+    },
+    {
+      "id": "printonion-abs-glass-fiber-sky-blue",
+      "brand": "PrintOnion",
+      "material": "ABS",
+      "name": "ABS Glass Fiber Sky Blue",
+      "hex": "#0f57ff",
+      "searchText": "printonion abs abs glass fiber sky blue"
+    },
+    {
+      "id": "printonion-abs-gray",
+      "brand": "PrintOnion",
+      "material": "ABS",
+      "name": "ABS Gray",
+      "hex": "#787882",
+      "searchText": "printonion abs abs gray"
+    },
+    {
+      "id": "printonion-abs-green",
+      "brand": "PrintOnion",
+      "material": "ABS",
+      "name": "ABS Green",
+      "hex": "#25d047",
+      "searchText": "printonion abs abs green"
+    },
+    {
+      "id": "printonion-abs-orange",
+      "brand": "PrintOnion",
+      "material": "ABS",
+      "name": "ABS Orange",
+      "hex": "#ffb514",
+      "searchText": "printonion abs abs orange"
+    },
+    {
+      "id": "printonion-abs-pink",
+      "brand": "PrintOnion",
+      "material": "ABS",
+      "name": "ABS Pink",
+      "hex": "#ff9ee0",
+      "searchText": "printonion abs abs pink"
+    },
+    {
+      "id": "printonion-abs-purple",
+      "brand": "PrintOnion",
+      "material": "ABS",
+      "name": "ABS Purple",
+      "hex": "#dea0ee",
+      "searchText": "printonion abs abs purple"
+    },
+    {
+      "id": "printonion-abs-red",
+      "brand": "PrintOnion",
+      "material": "ABS",
+      "name": "ABS Red",
+      "hex": "#f71818",
+      "searchText": "printonion abs abs red"
+    },
+    {
+      "id": "printonion-abs-rose",
+      "brand": "PrintOnion",
+      "material": "ABS",
+      "name": "ABS Rose",
+      "hex": "#c72f73",
+      "searchText": "printonion abs abs rose"
+    },
+    {
+      "id": "printonion-abs-white",
+      "brand": "PrintOnion",
+      "material": "ABS",
+      "name": "ABS White",
+      "hex": "#fafafa",
+      "searchText": "printonion abs abs white"
+    },
+    {
+      "id": "printonion-abs-yellow",
+      "brand": "PrintOnion",
+      "material": "ABS",
+      "name": "ABS Yellow",
+      "hex": "#fff838",
+      "searchText": "printonion abs abs yellow"
+    },
+    {
+      "id": "printonion-asa-black",
+      "brand": "PrintOnion",
+      "material": "ASA",
+      "name": "ASA Black",
+      "hex": "#141414",
+      "searchText": "printonion asa asa black"
+    },
+    {
+      "id": "printonion-asa-blue",
+      "brand": "PrintOnion",
+      "material": "ASA",
+      "name": "ASA Blue",
+      "hex": "#0f57ff",
+      "searchText": "printonion asa asa blue"
+    },
+    {
+      "id": "printonion-asa-gray",
+      "brand": "PrintOnion",
+      "material": "ASA",
+      "name": "ASA Gray",
+      "hex": "#595962",
+      "searchText": "printonion asa asa gray"
+    },
+    {
+      "id": "printonion-asa-orange",
+      "brand": "PrintOnion",
+      "material": "ASA",
+      "name": "ASA Orange",
+      "hex": "#ffb514",
+      "searchText": "printonion asa asa orange"
+    },
+    {
+      "id": "printonion-asa-red",
+      "brand": "PrintOnion",
+      "material": "ASA",
+      "name": "ASA Red",
+      "hex": "#f71818",
+      "searchText": "printonion asa asa red"
+    },
+    {
+      "id": "printonion-asa-white",
+      "brand": "PrintOnion",
+      "material": "ASA",
+      "name": "ASA White",
+      "hex": "#fafafa",
+      "searchText": "printonion asa asa white"
+    },
+    {
+      "id": "printonion-asa-yellow",
+      "brand": "PrintOnion",
+      "material": "ASA",
+      "name": "ASA Yellow",
+      "hex": "#ffcd61",
+      "searchText": "printonion asa asa yellow"
+    },
+    {
       "id": "printonion-petg-black",
       "brand": "PrintOnion",
       "material": "PETG",
@@ -67596,6 +67852,70 @@
       "name": "PLA Yellow",
       "hex": "#fff838",
       "searchText": "printonion pla pla yellow"
+    },
+    {
+      "id": "printonion-tpu-70d-black",
+      "brand": "PrintOnion",
+      "material": "TPU",
+      "name": "TPU 70D Black",
+      "hex": "#141414",
+      "searchText": "printonion tpu tpu 70d black"
+    },
+    {
+      "id": "printonion-tpu-95a-black",
+      "brand": "PrintOnion",
+      "material": "TPU",
+      "name": "TPU 95A Black",
+      "hex": "#141414",
+      "searchText": "printonion tpu tpu 95a black"
+    },
+    {
+      "id": "printonion-tpu-95a-blue",
+      "brand": "PrintOnion",
+      "material": "TPU",
+      "name": "TPU 95A Blue",
+      "hex": "#473fc9",
+      "searchText": "printonion tpu tpu 95a blue"
+    },
+    {
+      "id": "printonion-tpu-95a-green",
+      "brand": "PrintOnion",
+      "material": "TPU",
+      "name": "TPU 95A Green",
+      "hex": "#25d047",
+      "searchText": "printonion tpu tpu 95a green"
+    },
+    {
+      "id": "printonion-tpu-95a-orange",
+      "brand": "PrintOnion",
+      "material": "TPU",
+      "name": "TPU 95A Orange",
+      "hex": "#ffb514",
+      "searchText": "printonion tpu tpu 95a orange"
+    },
+    {
+      "id": "printonion-tpu-95a-red",
+      "brand": "PrintOnion",
+      "material": "TPU",
+      "name": "TPU 95A Red",
+      "hex": "#f71818",
+      "searchText": "printonion tpu tpu 95a red"
+    },
+    {
+      "id": "printonion-tpu-95a-white",
+      "brand": "PrintOnion",
+      "material": "TPU",
+      "name": "TPU 95A White",
+      "hex": "#fafafa",
+      "searchText": "printonion tpu tpu 95a white"
+    },
+    {
+      "id": "printonion-tpu-95a-yellow",
+      "brand": "PrintOnion",
+      "material": "TPU",
+      "name": "TPU 95A Yellow",
+      "hex": "#fff838",
+      "searchText": "printonion tpu tpu 95a yellow"
     },
     {
       "id": "protopasta-amies-blood-of-my-enemies-translucent-red-petg",
