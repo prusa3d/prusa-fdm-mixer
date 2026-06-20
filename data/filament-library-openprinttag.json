@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-06-19T06:02:18.742Z",
-  "entryCount": 11564,
+  "lastSynced": "2026-06-20T05:46:44.749Z",
+  "entryCount": 11577,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -15694,19 +15694,11 @@
       "searchText": "bambulab pla pla basic yellow"
     },
     {
-      "id": "bambulab-pla-galaxy",
-      "brand": "BambuLab",
-      "material": "PLA",
-      "name": "PLA Galaxy",
-      "hex": "#492972",
-      "searchText": "bambulab pla pla galaxy"
-    },
-    {
       "id": "bambulab-pla-galaxy-brown",
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA Galaxy Brown",
-      "hex": "#55331a",
+      "hex": "#684a43",
       "searchText": "bambulab pla pla galaxy brown"
     },
     {
@@ -15714,7 +15706,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA Galaxy Green",
-      "hex": "#34695a",
+      "hex": "#3b665e",
       "searchText": "bambulab pla pla galaxy green"
     },
     {
@@ -15722,8 +15714,16 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA Galaxy Nebulae",
-      "hex": "#444a62",
+      "hex": "#424379",
       "searchText": "bambulab pla pla galaxy nebulae"
+    },
+    {
+      "id": "bambulab-pla-galaxy-purple",
+      "brand": "BambuLab",
+      "material": "PLA",
+      "name": "PLA Galaxy Purple",
+      "hex": "#594177",
+      "searchText": "bambulab pla pla galaxy purple"
     },
     {
       "id": "bambulab-pla-glow-blue",
@@ -15738,7 +15738,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA Glow Green",
-      "hex": "#9aee6c",
+      "hex": "#a1ffac",
       "searchText": "bambulab pla pla glow green"
     },
     {
@@ -15754,7 +15754,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA Glow Pink",
-      "hex": "#fc8397",
+      "hex": "#f17b8f",
       "searchText": "bambulab pla pla glow pink"
     },
     {
@@ -15778,7 +15778,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA Marble White Marble",
-      "hex": "#efefef",
+      "hex": "#f7f3f0",
       "searchText": "bambulab pla pla marble white marble"
     },
     {
@@ -15986,7 +15986,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA Metal Cobalt Blue Metallic",
-      "hex": "#436176",
+      "hex": "#39699e",
       "searchText": "bambulab pla pla metal cobalt blue metallic"
     },
     {
@@ -15994,7 +15994,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA Metal Copper Brown Metallic",
-      "hex": "#503a2f",
+      "hex": "#aa6443",
       "searchText": "bambulab pla pla metal copper brown metallic"
     },
     {
@@ -16002,7 +16002,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA Metal Iridium Gold Metallic",
-      "hex": "#8e8677",
+      "hex": "#b39b84",
       "searchText": "bambulab pla pla metal iridium gold metallic"
     },
     {
@@ -16010,7 +16010,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA Metal Iron Gray Metallic",
-      "hex": "#616469",
+      "hex": "#43403d",
       "searchText": "bambulab pla pla metal iron gray metallic"
     },
     {
@@ -16130,7 +16130,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA Sparkle Alpine Green",
-      "hex": "#1e5a4f",
+      "hex": "#3f5443",
       "searchText": "bambulab pla pla sparkle alpine green"
     },
     {
@@ -16138,7 +16138,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA Sparkle Classic Gold",
-      "hex": "#ce8d00",
+      "hex": "#cea629",
       "searchText": "bambulab pla pla sparkle classic gold"
     },
     {
@@ -16146,7 +16146,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA Sparkle Crimson Red",
-      "hex": "#ac1a17",
+      "hex": "#792b36",
       "searchText": "bambulab pla pla sparkle crimson red"
     },
     {
@@ -16154,7 +16154,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA Sparkle Onyx Black",
-      "hex": "#000000",
+      "hex": "#2d2b28",
       "searchText": "bambulab pla pla sparkle onyx black"
     },
     {
@@ -16162,7 +16162,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA Sparkle Royal Purple",
-      "hex": "#292036",
+      "hex": "#483d8b",
       "searchText": "bambulab pla pla sparkle royal purple"
     },
     {
@@ -16170,7 +16170,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA Sparkle Slate Gray",
-      "hex": "#6f727e",
+      "hex": "#8e9089",
       "searchText": "bambulab pla pla sparkle slate gray"
     },
     {
@@ -16358,14 +16358,6 @@
       "searchText": "bambulab pla pla wood white oak"
     },
     {
-      "id": "bambulab-pla-cf-royal-blue",
-      "brand": "BambuLab",
-      "material": "PLA",
-      "name": "PLA- CF Royal Blue",
-      "hex": "#1e2c73",
-      "searchText": "bambulab pla pla- cf royal blue"
-    },
-    {
       "id": "bambulab-pla-cf-black",
       "brand": "BambuLab",
       "material": "PLA",
@@ -16378,7 +16370,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA-CF Burgundy Red",
-      "hex": "#983b4e",
+      "hex": "#951e23",
       "searchText": "bambulab pla pla-cf burgundy red"
     },
     {
@@ -16386,7 +16378,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA-CF Iris Purple",
-      "hex": "#7142a3",
+      "hex": "#69398e",
       "searchText": "bambulab pla pla-cf iris purple"
     },
     {
@@ -16394,7 +16386,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA-CF Jeans Blue",
-      "hex": "#5a6a92",
+      "hex": "#6e88bc",
       "searchText": "bambulab pla pla-cf jeans blue"
     },
     {
@@ -16402,7 +16394,7 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA-CF Lava Gray",
-      "hex": "#55555e",
+      "hex": "#4d5054",
       "searchText": "bambulab pla pla-cf lava gray"
     },
     {
@@ -16410,8 +16402,16 @@
       "brand": "BambuLab",
       "material": "PLA",
       "name": "PLA-CF Matcha Green",
-      "hex": "#68844e",
+      "hex": "#5c9748",
       "searchText": "bambulab pla pla-cf matcha green"
+    },
+    {
+      "id": "bambulab-pla-cf-royal-blue",
+      "brand": "BambuLab",
+      "material": "PLA",
+      "name": "PLA-CF Royal Blue",
+      "hex": "#2842ad",
+      "searchText": "bambulab pla pla-cf royal blue"
     },
     {
       "id": "bambulab-ppa-cf-black",
@@ -27348,6 +27348,54 @@
       "name": "PLA Signal Gray",
       "hex": "#b2b8b8",
       "searchText": "eryone pla pla signal gray"
+    },
+    {
+      "id": "eryone-pla-silk-blue",
+      "brand": "ERYONE",
+      "material": "PLA",
+      "name": "PLA Silk Blue",
+      "hex": "#62a9d3",
+      "searchText": "eryone pla pla silk blue"
+    },
+    {
+      "id": "eryone-pla-silk-coffee-gold",
+      "brand": "ERYONE",
+      "material": "PLA",
+      "name": "PLA Silk Coffee Gold",
+      "hex": "#cc947b",
+      "searchText": "eryone pla pla silk coffee gold"
+    },
+    {
+      "id": "eryone-pla-silk-copper",
+      "brand": "ERYONE",
+      "material": "PLA",
+      "name": "PLA Silk Copper",
+      "hex": "#b36a50",
+      "searchText": "eryone pla pla silk copper"
+    },
+    {
+      "id": "eryone-pla-silk-pink",
+      "brand": "ERYONE",
+      "material": "PLA",
+      "name": "PLA Silk Pink",
+      "hex": "#ff40ff",
+      "searchText": "eryone pla pla silk pink"
+    },
+    {
+      "id": "eryone-pla-silk-silver",
+      "brand": "ERYONE",
+      "material": "PLA",
+      "name": "PLA Silk Silver",
+      "hex": "#999ba6",
+      "searchText": "eryone pla pla silk silver"
+    },
+    {
+      "id": "eryone-pla-silk-white",
+      "brand": "ERYONE",
+      "material": "PLA",
+      "name": "PLA Silk White",
+      "hex": "#ffffff",
+      "searchText": "eryone pla pla silk white"
     },
     {
       "id": "eryone-pla-silver",
@@ -53622,7 +53670,7 @@
       "searchText": "matterhackers tpu white pro series tpu (thermoplastic polyurethane)"
     },
     {
-      "id": "mxico-makers-abs-blanco",
+      "id": "mexico-makers-abs-blanco",
       "brand": "México Makers",
       "material": "ABS",
       "name": "ABS - Blanco",
@@ -53630,7 +53678,7 @@
       "searchText": "méxico makers abs abs - blanco"
     },
     {
-      "id": "mxico-makers-petg-blanco",
+      "id": "mexico-makers-petg-blanco",
       "brand": "México Makers",
       "material": "PETG",
       "name": "PETG - Blanco",
@@ -53638,7 +53686,7 @@
       "searchText": "méxico makers petg petg - blanco"
     },
     {
-      "id": "mxico-makers-petg-gris",
+      "id": "mexico-makers-petg-gris",
       "brand": "México Makers",
       "material": "PETG",
       "name": "PETG - Gris",
@@ -53646,7 +53694,7 @@
       "searchText": "méxico makers petg petg - gris"
     },
     {
-      "id": "mxico-makers-petg-negro",
+      "id": "mexico-makers-petg-negro",
       "brand": "México Makers",
       "material": "PETG",
       "name": "PETG - Negro",
@@ -53654,7 +53702,7 @@
       "searchText": "méxico makers petg petg - negro"
     },
     {
-      "id": "mxico-makers-flexible-naranja",
+      "id": "mexico-makers-flexible-naranja",
       "brand": "México Makers",
       "material": "PLA",
       "name": "Flexible - Naranja",
@@ -53662,7 +53710,7 @@
       "searchText": "méxico makers pla flexible - naranja"
     },
     {
-      "id": "mxico-makers-flexible-negro",
+      "id": "mexico-makers-flexible-negro",
       "brand": "México Makers",
       "material": "PLA",
       "name": "Flexible - Negro",
@@ -53670,7 +53718,7 @@
       "searchText": "méxico makers pla flexible - negro"
     },
     {
-      "id": "mxico-makers-pla-cf-negro",
+      "id": "mexico-makers-pla-cf-negro",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA CF - Negro",
@@ -53678,7 +53726,7 @@
       "searchText": "méxico makers pla pla cf - negro"
     },
     {
-      "id": "mxico-makers-pla-creative-madera",
+      "id": "mexico-makers-pla-creative-madera",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Creative - Madera",
@@ -53686,7 +53734,7 @@
       "searchText": "méxico makers pla pla creative - madera"
     },
     {
-      "id": "mxico-makers-pla-creative-mrmol",
+      "id": "mexico-makers-pla-creative-mrmol",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Creative - Mármol",
@@ -53694,7 +53742,7 @@
       "searchText": "méxico makers pla pla creative - mármol"
     },
     {
-      "id": "mxico-makers-pla-creative-negro-obsidiana-dorada",
+      "id": "mexico-makers-pla-creative-negro-obsidiana-dorada",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Creative - Negro Obsidiana Dorada",
@@ -53702,7 +53750,7 @@
       "searchText": "méxico makers pla pla creative - negro obsidiana dorada"
     },
     {
-      "id": "mxico-makers-pla-matte-azul-ballena",
+      "id": "mexico-makers-pla-matte-azul-ballena",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Matte - Azul Ballena",
@@ -53710,7 +53758,7 @@
       "searchText": "méxico makers pla pla matte - azul ballena"
     },
     {
-      "id": "mxico-makers-pla-matte-azul-cenote",
+      "id": "mexico-makers-pla-matte-azul-cenote",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Matte - Azul Cenote",
@@ -53718,7 +53766,7 @@
       "searchText": "méxico makers pla pla matte - azul cenote"
     },
     {
-      "id": "mxico-makers-pla-matte-blanco-calavera",
+      "id": "mexico-makers-pla-matte-blanco-calavera",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Matte - Blanco Calavera",
@@ -53726,7 +53774,7 @@
       "searchText": "méxico makers pla pla matte - blanco calavera"
     },
     {
-      "id": "mxico-makers-pla-matte-caf-moka",
+      "id": "mexico-makers-pla-matte-caf-moka",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Matte - Café Moka",
@@ -53734,7 +53782,7 @@
       "searchText": "méxico makers pla pla matte - café moka"
     },
     {
-      "id": "mxico-makers-pla-matte-gris-ceniza",
+      "id": "mexico-makers-pla-matte-gris-ceniza",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Matte - Gris Ceniza",
@@ -53742,7 +53790,7 @@
       "searchText": "méxico makers pla pla matte - gris ceniza"
     },
     {
-      "id": "mxico-makers-pla-matte-lila-jacaranda",
+      "id": "mexico-makers-pla-matte-lila-jacaranda",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Matte - Lila Jacaranda",
@@ -53750,7 +53798,7 @@
       "searchText": "méxico makers pla pla matte - lila jacaranda"
     },
     {
-      "id": "mxico-makers-pla-matte-naranja-calabaza",
+      "id": "mexico-makers-pla-matte-naranja-calabaza",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Matte - Naranja Calabaza",
@@ -53758,7 +53806,7 @@
       "searchText": "méxico makers pla pla matte - naranja calabaza"
     },
     {
-      "id": "mxico-makers-pla-matte-negro-carbn",
+      "id": "mexico-makers-pla-matte-negro-carbn",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Matte - Negro Carbón",
@@ -53766,7 +53814,7 @@
       "searchText": "méxico makers pla pla matte - negro carbón"
     },
     {
-      "id": "mxico-makers-pla-matte-rosa-axolote",
+      "id": "mexico-makers-pla-matte-rosa-axolote",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Matte - Rosa Axolote",
@@ -53774,7 +53822,7 @@
       "searchText": "méxico makers pla pla matte - rosa axolote"
     },
     {
-      "id": "mxico-makers-pla-matte-verde-menta",
+      "id": "mexico-makers-pla-matte-verde-menta",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Matte - Verde Menta",
@@ -53782,7 +53830,7 @@
       "searchText": "méxico makers pla pla matte - verde menta"
     },
     {
-      "id": "mxico-makers-pla-matte-verde-militar",
+      "id": "mexico-makers-pla-matte-verde-militar",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Matte - Verde Militar",
@@ -53790,7 +53838,7 @@
       "searchText": "méxico makers pla pla matte - verde militar"
     },
     {
-      "id": "mxico-makers-pla-pro-amarillo-elote",
+      "id": "mexico-makers-pla-pro-amarillo-elote",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Pro - Amarillo Elote",
@@ -53798,7 +53846,7 @@
       "searchText": "méxico makers pla pla pro - amarillo elote"
     },
     {
-      "id": "mxico-makers-pla-pro-azul-esperanza",
+      "id": "mexico-makers-pla-pro-azul-esperanza",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Pro - Azul Esperanza",
@@ -53806,7 +53854,7 @@
       "searchText": "méxico makers pla pla pro - azul esperanza"
     },
     {
-      "id": "mxico-makers-pla-pro-azul-talavera",
+      "id": "mexico-makers-pla-pro-azul-talavera",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Pro - Azul Talavera",
@@ -53814,7 +53862,7 @@
       "searchText": "méxico makers pla pla pro - azul talavera"
     },
     {
-      "id": "mxico-makers-pla-pro-blanco-alcatraz",
+      "id": "mexico-makers-pla-pro-blanco-alcatraz",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Pro - Blanco Alcatraz",
@@ -53822,7 +53870,7 @@
       "searchText": "méxico makers pla pla pro - blanco alcatraz"
     },
     {
-      "id": "mxico-makers-pla-pro-cafe-chocolate",
+      "id": "mexico-makers-pla-pro-cafe-chocolate",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Pro - Cafe Chocolate",
@@ -53830,7 +53878,7 @@
       "searchText": "méxico makers pla pla pro - cafe chocolate"
     },
     {
-      "id": "mxico-makers-pla-pro-lobo-gris",
+      "id": "mexico-makers-pla-pro-lobo-gris",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Pro - Lobo Gris",
@@ -53838,7 +53886,7 @@
       "searchText": "méxico makers pla pla pro - lobo gris"
     },
     {
-      "id": "mxico-makers-pla-pro-morado-bugambilia",
+      "id": "mexico-makers-pla-pro-morado-bugambilia",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Pro - Morado Bugambilia",
@@ -53846,7 +53894,7 @@
       "searchText": "méxico makers pla pla pro - morado bugambilia"
     },
     {
-      "id": "mxico-makers-pla-pro-naranja-cempaschil",
+      "id": "mexico-makers-pla-pro-naranja-cempaschil",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Pro - Naranja Cempasúchil",
@@ -53854,7 +53902,7 @@
       "searchText": "méxico makers pla pla pro - naranja cempasúchil"
     },
     {
-      "id": "mxico-makers-pla-pro-negro-xolo",
+      "id": "mexico-makers-pla-pro-negro-xolo",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Pro - Negro Xolo",
@@ -53862,7 +53910,7 @@
       "searchText": "méxico makers pla pla pro - negro xolo"
     },
     {
-      "id": "mxico-makers-pla-pro-piel",
+      "id": "mexico-makers-pla-pro-piel",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Pro - Piel",
@@ -53870,7 +53918,7 @@
       "searchText": "méxico makers pla pla pro - piel"
     },
     {
-      "id": "mxico-makers-pla-pro-rojo-nochebuena",
+      "id": "mexico-makers-pla-pro-rojo-nochebuena",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Pro - Rojo Nochebuena",
@@ -53878,7 +53926,7 @@
       "searchText": "méxico makers pla pla pro - rojo nochebuena"
     },
     {
-      "id": "mxico-makers-pla-pro-rosa-coral",
+      "id": "mexico-makers-pla-pro-rosa-coral",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Pro - Rosa Coral",
@@ -53886,7 +53934,7 @@
       "searchText": "méxico makers pla pla pro - rosa coral"
     },
     {
-      "id": "mxico-makers-pla-pro-verde-esmeralda",
+      "id": "mexico-makers-pla-pro-verde-esmeralda",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Pro - Verde Esmeralda",
@@ -53894,7 +53942,7 @@
       "searchText": "méxico makers pla pla pro - verde esmeralda"
     },
     {
-      "id": "mxico-makers-pla-pro-verde-iguana",
+      "id": "mexico-makers-pla-pro-verde-iguana",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Pro - Verde Iguana",
@@ -53902,7 +53950,7 @@
       "searchText": "méxico makers pla pla pro - verde iguana"
     },
     {
-      "id": "mxico-makers-pla-silk-amarillo-abeja",
+      "id": "mexico-makers-pla-silk-amarillo-abeja",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Silk - Amarillo Abeja",
@@ -53910,7 +53958,7 @@
       "searchText": "méxico makers pla pla silk - amarillo abeja"
     },
     {
-      "id": "mxico-makers-pla-silk-azul-real",
+      "id": "mexico-makers-pla-silk-azul-real",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Silk - Azul Real",
@@ -53918,7 +53966,7 @@
       "searchText": "méxico makers pla pla silk - azul real"
     },
     {
-      "id": "mxico-makers-pla-silk-blanco-perla",
+      "id": "mexico-makers-pla-silk-blanco-perla",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Silk - Blanco Perla",
@@ -53926,7 +53974,7 @@
       "searchText": "méxico makers pla pla silk - blanco perla"
     },
     {
-      "id": "mxico-makers-pla-silk-cobre",
+      "id": "mexico-makers-pla-silk-cobre",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Silk - Cobre",
@@ -53934,7 +53982,7 @@
       "searchText": "méxico makers pla pla silk - cobre"
     },
     {
-      "id": "mxico-makers-pla-silk-naranja-monarca",
+      "id": "mexico-makers-pla-silk-naranja-monarca",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Silk - Naranja Monarca",
@@ -53942,7 +53990,7 @@
       "searchText": "méxico makers pla pla silk - naranja monarca"
     },
     {
-      "id": "mxico-makers-pla-silk-oro-24k",
+      "id": "mexico-makers-pla-silk-oro-24k",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Silk - Oro 24K",
@@ -53950,7 +53998,7 @@
       "searchText": "méxico makers pla pla silk - oro 24k"
     },
     {
-      "id": "mxico-makers-pla-silk-oro-azteca",
+      "id": "mexico-makers-pla-silk-oro-azteca",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Silk - Oro Azteca",
@@ -53958,7 +54006,7 @@
       "searchText": "méxico makers pla pla silk - oro azteca"
     },
     {
-      "id": "mxico-makers-pla-silk-plata-925",
+      "id": "mexico-makers-pla-silk-plata-925",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Silk - Plata .925",
@@ -53966,7 +54014,7 @@
       "searchText": "méxico makers pla pla silk - plata .925"
     },
     {
-      "id": "mxico-makers-pla-silk-rojo-cochinilla",
+      "id": "mexico-makers-pla-silk-rojo-cochinilla",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Silk - Rojo Cochinilla",
@@ -53974,7 +54022,7 @@
       "searchText": "méxico makers pla pla silk - rojo cochinilla"
     },
     {
-      "id": "mxico-makers-pla-silk-rosa-peonia",
+      "id": "mexico-makers-pla-silk-rosa-peonia",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Silk - Rosa Peonia",
@@ -53982,7 +54030,7 @@
       "searchText": "méxico makers pla pla silk - rosa peonia"
     },
     {
-      "id": "mxico-makers-pla-silk-verde-quetzal",
+      "id": "mexico-makers-pla-silk-verde-quetzal",
       "brand": "México Makers",
       "material": "PLA",
       "name": "PLA Silk - Verde Quetzal",
@@ -67492,6 +67540,62 @@
       "name": "ASA Yellow",
       "hex": "#ffcd61",
       "searchText": "printonion asa asa yellow"
+    },
+    {
+      "id": "printonion-hips-black",
+      "brand": "PrintOnion",
+      "material": "HIPS",
+      "name": "HIPS Black",
+      "hex": "#141414",
+      "searchText": "printonion hips hips black"
+    },
+    {
+      "id": "printonion-hips-white",
+      "brand": "PrintOnion",
+      "material": "HIPS",
+      "name": "HIPS White",
+      "hex": "#fafafa",
+      "searchText": "printonion hips hips white"
+    },
+    {
+      "id": "printonion-nylon-black",
+      "brand": "PrintOnion",
+      "material": "PA6",
+      "name": "Nylon Black",
+      "hex": "#141414",
+      "searchText": "printonion pa6 nylon black"
+    },
+    {
+      "id": "printonion-pbt-carbon-fiber-black",
+      "brand": "PrintOnion",
+      "material": "PBT",
+      "name": "PBT Carbon Fiber Black",
+      "hex": "#141414",
+      "searchText": "printonion pbt pbt carbon fiber black"
+    },
+    {
+      "id": "printonion-pc-black",
+      "brand": "PrintOnion",
+      "material": "PC",
+      "name": "PC Black",
+      "hex": "#141414",
+      "searchText": "printonion pc pc black"
+    },
+    {
+      "id": "printonion-pc-carbon-fiber-black",
+      "brand": "PrintOnion",
+      "material": "PC",
+      "name": "PC Carbon Fiber Black",
+      "hex": "#141414",
+      "searchText": "printonion pc pc carbon fiber black"
+    },
+    {
+      "id": "printonion-pc-white",
+      "brand": "PrintOnion",
+      "material": "PC",
+      "name": "PC White",
+      "hex": "#fafafa",
+      "searchText": "printonion pc pc white"
     },
     {
       "id": "printonion-petg-black",
