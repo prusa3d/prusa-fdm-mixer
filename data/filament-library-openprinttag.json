@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-06-22T06:10:00.448Z",
-  "entryCount": 11577,
+  "lastSynced": "2026-06-23T05:43:27.486Z",
+  "entryCount": 11580,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -24956,6 +24956,30 @@
       "name": "ASA Black",
       "hex": "#000000",
       "searchText": "elegoo asa asa black"
+    },
+    {
+      "id": "elegoo-asa-blue",
+      "brand": "ELEGOO",
+      "material": "ASA",
+      "name": "ASA Blue",
+      "hex": "#0c2388",
+      "searchText": "elegoo asa asa blue"
+    },
+    {
+      "id": "elegoo-asa-grey",
+      "brand": "ELEGOO",
+      "material": "ASA",
+      "name": "ASA Grey",
+      "hex": "#8f949b",
+      "searchText": "elegoo asa asa grey"
+    },
+    {
+      "id": "elegoo-asa-red",
+      "brand": "ELEGOO",
+      "material": "ASA",
+      "name": "ASA Red",
+      "hex": "#d61212",
+      "searchText": "elegoo asa asa red"
     },
     {
       "id": "elegoo-asa-white",
