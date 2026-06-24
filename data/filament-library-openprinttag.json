@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-06-23T05:43:27.486Z",
-  "entryCount": 11580,
+  "lastSynced": "2026-06-24T05:43:14.224Z",
+  "entryCount": 11585,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -69660,6 +69660,46 @@
       "name": "PLA Gravity Grey",
       "hex": "#a9a9b0",
       "searchText": "prusament pla pla gravity grey"
+    },
+    {
+      "id": "prusament-pla-high-speed-gravity-grey",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "PLA High Speed Gravity Grey",
+      "hex": "#a5a5ac",
+      "searchText": "prusament pla pla high speed gravity grey"
+    },
+    {
+      "id": "prusament-pla-high-speed-lipstick-red",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "PLA High Speed Lipstick Red",
+      "hex": "#ff0000",
+      "searchText": "prusament pla pla high speed lipstick red"
+    },
+    {
+      "id": "prusament-pla-high-speed-pristine-white",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "PLA High Speed Pristine White",
+      "hex": "#ffffff",
+      "searchText": "prusament pla pla high speed pristine white"
+    },
+    {
+      "id": "prusament-pla-high-speed-prusa-galaxy-black",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "PLA High Speed Prusa Galaxy Black",
+      "hex": "#292929",
+      "searchText": "prusament pla pla high speed prusa galaxy black"
+    },
+    {
+      "id": "prusament-pla-high-speed-prusa-orange",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "PLA High Speed Prusa Orange",
+      "hex": "#ff6600",
+      "searchText": "prusament pla pla high speed prusa orange"
     },
     {
       "id": "prusament-pla-jet-black",
