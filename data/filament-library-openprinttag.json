@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-06-25T05:43:33.081Z",
-  "entryCount": 11585,
+  "lastSynced": "2026-06-26T05:45:01.039Z",
+  "entryCount": 11586,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -45268,6 +45268,14 @@
       "name": "Purple PETG",
       "hex": "#b645a9",
       "searchText": "hatchbox petg purple petg"
+    },
+    {
+      "id": "hatchbox-red-petg",
+      "brand": "Hatchbox",
+      "material": "PETG",
+      "name": "Red PETG",
+      "hex": "#ae312a",
+      "searchText": "hatchbox petg red petg"
     },
     {
       "id": "hatchbox-silver-petg",
