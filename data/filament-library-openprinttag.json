@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-06-26T05:45:01.039Z",
-  "entryCount": 11586,
+  "lastSynced": "2026-06-27T05:37:43.487Z",
+  "entryCount": 11603,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -86870,12 +86870,28 @@
       "searchText": "sunlu pla pla brown"
     },
     {
+      "id": "sunlu-pla-ceramic",
+      "brand": "SUNLU",
+      "material": "PLA",
+      "name": "PLA Ceramic",
+      "hex": "#d9d9d9",
+      "searchText": "sunlu pla pla ceramic"
+    },
+    {
       "id": "sunlu-pla-coffee",
       "brand": "SUNLU",
       "material": "PLA",
       "name": "PLA Coffee",
       "hex": "#e7a662",
       "searchText": "sunlu pla pla coffee"
+    },
+    {
+      "id": "sunlu-pla-coffee-brown",
+      "brand": "SUNLU",
+      "material": "PLA",
+      "name": "PLA Coffee Brown",
+      "hex": "#362111",
+      "searchText": "sunlu pla pla coffee brown"
     },
     {
       "id": "sunlu-pla-grass-green",
@@ -86902,12 +86918,36 @@
       "searchText": "sunlu pla pla grey"
     },
     {
+      "id": "sunlu-pla-klein-blue",
+      "brand": "SUNLU",
+      "material": "PLA",
+      "name": "PLA Klein Blue",
+      "hex": "#1729ab",
+      "searchText": "sunlu pla pla klein blue"
+    },
+    {
+      "id": "sunlu-pla-lavender-purple",
+      "brand": "SUNLU",
+      "material": "PLA",
+      "name": "PLA Lavender Purple",
+      "hex": "#a54dcf",
+      "searchText": "sunlu pla pla lavender purple"
+    },
+    {
       "id": "sunlu-pla-light-gold",
       "brand": "SUNLU",
       "material": "PLA",
       "name": "PLA Light Gold",
       "hex": "#e3b145",
       "searchText": "sunlu pla pla light gold"
+    },
+    {
+      "id": "sunlu-pla-magenta",
+      "brand": "SUNLU",
+      "material": "PLA",
+      "name": "PLA Magenta",
+      "hex": "#f95e88",
+      "searchText": "sunlu pla pla magenta"
     },
     {
       "id": "sunlu-pla-matte-black",
@@ -87030,6 +87070,22 @@
       "searchText": "sunlu pla pla meta black"
     },
     {
+      "id": "sunlu-pla-midnight",
+      "brand": "SUNLU",
+      "material": "PLA",
+      "name": "PLA Midnight",
+      "hex": "#28334a",
+      "searchText": "sunlu pla pla midnight"
+    },
+    {
+      "id": "sunlu-pla-oak",
+      "brand": "SUNLU",
+      "material": "PLA",
+      "name": "PLA Oak",
+      "hex": "#c2b29a",
+      "searchText": "sunlu pla pla oak"
+    },
+    {
       "id": "sunlu-pla-olive-green",
       "brand": "SUNLU",
       "material": "PLA",
@@ -87086,6 +87142,22 @@
       "searchText": "sunlu pla pla plus bluegrey"
     },
     {
+      "id": "sunlu-pla-plus-bone-white",
+      "brand": "SUNLU",
+      "material": "PLA",
+      "name": "PLA Plus Bone White",
+      "hex": "#e3e0d3",
+      "searchText": "sunlu pla pla plus bone white"
+    },
+    {
+      "id": "sunlu-pla-plus-ceramic",
+      "brand": "SUNLU",
+      "material": "PLA",
+      "name": "PLA Plus Ceramic",
+      "hex": "#d9d9d9",
+      "searchText": "sunlu pla pla plus ceramic"
+    },
+    {
       "id": "sunlu-pla-plus-chocolate",
       "brand": "SUNLU",
       "material": "PLA",
@@ -87100,6 +87172,14 @@
       "name": "PLA Plus Coffee",
       "hex": "#e7a662",
       "searchText": "sunlu pla pla plus coffee"
+    },
+    {
+      "id": "sunlu-pla-plus-coffee-brown",
+      "brand": "SUNLU",
+      "material": "PLA",
+      "name": "PLA Plus Coffee Brown",
+      "hex": "#362111",
+      "searchText": "sunlu pla pla plus coffee brown"
     },
     {
       "id": "sunlu-pla-plus-grassgreen",
@@ -87126,6 +87206,22 @@
       "searchText": "sunlu pla pla plus grey"
     },
     {
+      "id": "sunlu-pla-plus-klein-blue",
+      "brand": "SUNLU",
+      "material": "PLA",
+      "name": "PLA Plus Klein Blue",
+      "hex": "#1729ab",
+      "searchText": "sunlu pla pla plus klein blue"
+    },
+    {
+      "id": "sunlu-pla-plus-lavender-purple",
+      "brand": "SUNLU",
+      "material": "PLA",
+      "name": "PLA Plus Lavender Purple",
+      "hex": "#a54dcf",
+      "searchText": "sunlu pla pla plus lavender purple"
+    },
+    {
       "id": "sunlu-pla-plus-light-gold",
       "brand": "SUNLU",
       "material": "PLA",
@@ -87134,12 +87230,36 @@
       "searchText": "sunlu pla pla plus light gold"
     },
     {
+      "id": "sunlu-pla-plus-magenta",
+      "brand": "SUNLU",
+      "material": "PLA",
+      "name": "PLA Plus Magenta",
+      "hex": "#f95e88",
+      "searchText": "sunlu pla pla plus magenta"
+    },
+    {
+      "id": "sunlu-pla-plus-midnight",
+      "brand": "SUNLU",
+      "material": "PLA",
+      "name": "PLA Plus Midnight",
+      "hex": "#28334a",
+      "searchText": "sunlu pla pla plus midnight"
+    },
+    {
       "id": "sunlu-pla-plus-mint-green",
       "brand": "SUNLU",
       "material": "PLA",
       "name": "PLA Plus Mint Green",
       "hex": "#00a594",
       "searchText": "sunlu pla pla plus mint green"
+    },
+    {
+      "id": "sunlu-pla-plus-oak",
+      "brand": "SUNLU",
+      "material": "PLA",
+      "name": "PLA Plus Oak",
+      "hex": "#c2b29a",
+      "searchText": "sunlu pla pla plus oak"
     },
     {
       "id": "sunlu-pla-plus-olive-green",
@@ -87262,6 +87382,14 @@
       "searchText": "sunlu pla pla plus transparent yellow"
     },
     {
+      "id": "sunlu-pla-plus-vivid-yellow",
+      "brand": "SUNLU",
+      "material": "PLA",
+      "name": "PLA Plus Vivid Yellow",
+      "hex": "#ffff00",
+      "searchText": "sunlu pla pla plus vivid yellow"
+    },
+    {
       "id": "sunlu-pla-plus-white",
       "brand": "SUNLU",
       "material": "PLA",
@@ -87276,6 +87404,14 @@
       "name": "PLA Plus Wood",
       "hex": "#caac78",
       "searchText": "sunlu pla pla plus wood"
+    },
+    {
+      "id": "sunlu-pla-plus-yellow",
+      "brand": "SUNLU",
+      "material": "PLA",
+      "name": "PLA Plus Yellow",
+      "hex": "#fff13f",
+      "searchText": "sunlu pla pla plus yellow"
     },
     {
       "id": "sunlu-pla-purple",
