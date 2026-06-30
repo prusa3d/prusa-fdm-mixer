@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-06-29T05:57:59.642Z",
-  "entryCount": 11603,
+  "lastSynced": "2026-06-30T05:44:13.044Z",
+  "entryCount": 11629,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -14850,7 +14850,7 @@
       "brand": "BambuLab",
       "material": "ABS",
       "name": "ABS Azure",
-      "hex": "#40b6e4",
+      "hex": "#489fdf",
       "searchText": "bambulab abs abs azure"
     },
     {
@@ -14858,7 +14858,7 @@
       "brand": "BambuLab",
       "material": "ABS",
       "name": "ABS Bambu Green",
-      "hex": "#26a648",
+      "hex": "#33be67",
       "searchText": "bambulab abs abs bambu green"
     },
     {
@@ -14874,7 +14874,7 @@
       "brand": "BambuLab",
       "material": "ABS",
       "name": "ABS Blue",
-      "hex": "#0378d0",
+      "hex": "#0a2ca5",
       "searchText": "bambulab abs abs blue"
     },
     {
@@ -14882,7 +14882,7 @@
       "brand": "BambuLab",
       "material": "ABS",
       "name": "ABS Navy Blue",
-      "hex": "#122c4d",
+      "hex": "#0c2340",
       "searchText": "bambulab abs abs navy blue"
     },
     {
@@ -14890,7 +14890,7 @@
       "brand": "BambuLab",
       "material": "ABS",
       "name": "ABS Olive",
-      "hex": "#748c45",
+      "hex": "#789d4a",
       "searchText": "bambulab abs abs olive"
     },
     {
@@ -14898,7 +14898,7 @@
       "brand": "BambuLab",
       "material": "ABS",
       "name": "ABS Orange",
-      "hex": "#f67405",
+      "hex": "#ff6a13",
       "searchText": "bambulab abs abs orange"
     },
     {
@@ -14914,7 +14914,7 @@
       "brand": "BambuLab",
       "material": "ABS",
       "name": "ABS Silver",
-      "hex": "#848484",
+      "hex": "#8a949e",
       "searchText": "bambulab abs abs silver"
     },
     {
@@ -14922,7 +14922,7 @@
       "brand": "BambuLab",
       "material": "ABS",
       "name": "ABS Tangerine Yellow",
-      "hex": "#ffd342",
+      "hex": "#ffc72c",
       "searchText": "bambulab abs abs tangerine yellow"
     },
     {
@@ -14946,7 +14946,7 @@
       "brand": "BambuLab",
       "material": "ABS",
       "name": "ABS-GF Blue",
-      "hex": "#0378d0",
+      "hex": "#0c3b95",
       "searchText": "bambulab abs abs-gf blue"
     },
     {
@@ -14954,7 +14954,7 @@
       "brand": "BambuLab",
       "material": "ABS",
       "name": "ABS-GF Gray",
-      "hex": "#bac4c4",
+      "hex": "#c6c6c6",
       "searchText": "bambulab abs abs-gf gray"
     },
     {
@@ -14978,7 +14978,7 @@
       "brand": "BambuLab",
       "material": "ABS",
       "name": "ABS-GF Red",
-      "hex": "#f00c00",
+      "hex": "#e83100",
       "searchText": "bambulab abs abs-gf red"
     },
     {
@@ -15002,7 +15002,7 @@
       "brand": "BambuLab",
       "material": "ASA",
       "name": "ASA Aero White",
-      "hex": "#f0ebe5",
+      "hex": "#f5f1dd",
       "searchText": "bambulab asa asa aero white"
     },
     {
@@ -15018,7 +15018,7 @@
       "brand": "BambuLab",
       "material": "ASA",
       "name": "ASA Blue",
-      "hex": "#0353ba",
+      "hex": "#2140b4",
       "searchText": "bambulab asa asa blue"
     },
     {
@@ -15026,7 +15026,7 @@
       "brand": "BambuLab",
       "material": "ASA",
       "name": "ASA Gray",
-      "hex": "#9fa4a8",
+      "hex": "#8a949e",
       "searchText": "bambulab asa asa gray"
     },
     {
@@ -15034,7 +15034,7 @@
       "brand": "BambuLab",
       "material": "ASA",
       "name": "ASA Green",
-      "hex": "#00b4bc",
+      "hex": "#00a6a0",
       "searchText": "bambulab asa asa green"
     },
     {
@@ -15042,7 +15042,7 @@
       "brand": "BambuLab",
       "material": "ASA",
       "name": "ASA Red",
-      "hex": "#d33d3d",
+      "hex": "#e02928",
       "searchText": "bambulab asa asa red"
     },
     {
@@ -15050,7 +15050,7 @@
       "brand": "BambuLab",
       "material": "ASA",
       "name": "ASA White",
-      "hex": "#e2dedb",
+      "hex": "#fffaf2",
       "searchText": "bambulab asa asa white"
     },
     {
@@ -15090,7 +15090,7 @@
       "brand": "BambuLab",
       "material": "PA6",
       "name": "PA6-GF Blue",
-      "hex": "#6299df",
+      "hex": "#75aed8",
       "searchText": "bambulab pa6 pa6-gf blue"
     },
     {
@@ -15106,7 +15106,7 @@
       "brand": "BambuLab",
       "material": "PA6",
       "name": "PA6-GF Gray",
-      "hex": "#55555e",
+      "hex": "#353533",
       "searchText": "bambulab pa6 pa6-gf gray"
     },
     {
@@ -15114,7 +15114,7 @@
       "brand": "BambuLab",
       "material": "PA6",
       "name": "PA6-GF Lime",
-      "hex": "#bbdb4b",
+      "hex": "#c5ed48",
       "searchText": "bambulab pa6 pa6-gf lime"
     },
     {
@@ -15122,7 +15122,7 @@
       "brand": "BambuLab",
       "material": "PA6",
       "name": "PA6-GF Orange",
-      "hex": "#ff5f2e",
+      "hex": "#ff4800",
       "searchText": "bambulab pa6 pa6-gf orange"
     },
     {
@@ -15138,7 +15138,7 @@
       "brand": "BambuLab",
       "material": "PA6",
       "name": "PA6-GF Yellow",
-      "hex": "#fbe200",
+      "hex": "#ffce00",
       "searchText": "bambulab pa6 pa6-gf yellow"
     },
     {
@@ -15206,6 +15206,110 @@
       "searchText": "bambulab pet pet-cf black"
     },
     {
+      "id": "bambulab-petg-basic-black",
+      "brand": "BambuLab",
+      "material": "PETG",
+      "name": "PETG Basic Black",
+      "hex": "#000000",
+      "searchText": "bambulab petg petg basic black"
+    },
+    {
+      "id": "bambulab-petg-basic-dark-beige",
+      "brand": "BambuLab",
+      "material": "PETG",
+      "name": "PETG Basic Dark Beige",
+      "hex": "#dbc8b6",
+      "searchText": "bambulab petg petg basic dark beige"
+    },
+    {
+      "id": "bambulab-petg-basic-dark-brown",
+      "brand": "BambuLab",
+      "material": "PETG",
+      "name": "PETG Basic Dark Brown",
+      "hex": "#4f2c1d",
+      "searchText": "bambulab petg petg basic dark brown"
+    },
+    {
+      "id": "bambulab-petg-basic-gray",
+      "brand": "BambuLab",
+      "material": "PETG",
+      "name": "PETG Basic Gray",
+      "hex": "#595962",
+      "searchText": "bambulab petg petg basic gray"
+    },
+    {
+      "id": "bambulab-petg-basic-green",
+      "brand": "BambuLab",
+      "material": "PETG",
+      "name": "PETG Basic Green",
+      "hex": "#009639",
+      "searchText": "bambulab petg petg basic green"
+    },
+    {
+      "id": "bambulab-petg-basic-misty-blue",
+      "brand": "BambuLab",
+      "material": "PETG",
+      "name": "PETG Basic Misty Blue",
+      "hex": "#688197",
+      "searchText": "bambulab petg petg basic misty blue"
+    },
+    {
+      "id": "bambulab-petg-basic-navy-blue",
+      "brand": "BambuLab",
+      "material": "PETG",
+      "name": "PETG Basic Navy Blue",
+      "hex": "#0086d6",
+      "searchText": "bambulab petg petg basic navy blue"
+    },
+    {
+      "id": "bambulab-petg-basic-orange",
+      "brand": "BambuLab",
+      "material": "PETG",
+      "name": "PETG Basic Orange",
+      "hex": "#ff671f",
+      "searchText": "bambulab petg petg basic orange"
+    },
+    {
+      "id": "bambulab-petg-basic-pine-green",
+      "brand": "BambuLab",
+      "material": "PETG",
+      "name": "PETG Basic Pine Green",
+      "hex": "#034638",
+      "searchText": "bambulab petg petg basic pine green"
+    },
+    {
+      "id": "bambulab-petg-basic-red",
+      "brand": "BambuLab",
+      "material": "PETG",
+      "name": "PETG Basic Red",
+      "hex": "#cd001a",
+      "searchText": "bambulab petg petg basic red"
+    },
+    {
+      "id": "bambulab-petg-basic-reflex-blue",
+      "brand": "BambuLab",
+      "material": "PETG",
+      "name": "PETG Basic Reflex Blue",
+      "hex": "#001489",
+      "searchText": "bambulab petg petg basic reflex blue"
+    },
+    {
+      "id": "bambulab-petg-basic-white",
+      "brand": "BambuLab",
+      "material": "PETG",
+      "name": "PETG Basic White",
+      "hex": "#ffffff",
+      "searchText": "bambulab petg petg basic white"
+    },
+    {
+      "id": "bambulab-petg-basic-yellow",
+      "brand": "BambuLab",
+      "material": "PETG",
+      "name": "PETG Basic Yellow",
+      "hex": "#fff838",
+      "searchText": "bambulab petg petg basic yellow"
+    },
+    {
       "id": "bambulab-petg-hf-black",
       "brand": "BambuLab",
       "material": "PETG",
@@ -15226,7 +15330,7 @@
       "brand": "BambuLab",
       "material": "PETG",
       "name": "PETG HF Cream",
-      "hex": "#f6dfb7",
+      "hex": "#f9dfb9",
       "searchText": "bambulab petg petg hf cream"
     },
     {
@@ -15234,7 +15338,7 @@
       "brand": "BambuLab",
       "material": "PETG",
       "name": "PETG HF Dark Gray",
-      "hex": "#6a6c6e",
+      "hex": "#515151",
       "searchText": "bambulab petg petg hf dark gray"
     },
     {
@@ -15242,7 +15346,7 @@
       "brand": "BambuLab",
       "material": "PETG",
       "name": "PETG HF Forest Green",
-      "hex": "#3c5415",
+      "hex": "#39541a",
       "searchText": "bambulab petg petg hf forest green"
     },
     {
@@ -15250,7 +15354,7 @@
       "brand": "BambuLab",
       "material": "PETG",
       "name": "PETG HF Gray",
-      "hex": "#acb1ba",
+      "hex": "#b1b3b3",
       "searchText": "bambulab petg petg hf gray"
     },
     {
@@ -15258,7 +15362,7 @@
       "brand": "BambuLab",
       "material": "PETG",
       "name": "PETG HF Green",
-      "hex": "#26a648",
+      "hex": "#00ae42",
       "searchText": "bambulab petg petg hf green"
     },
     {
@@ -15266,7 +15370,7 @@
       "brand": "BambuLab",
       "material": "PETG",
       "name": "PETG HF Lake Blue",
-      "hex": "#0099e6",
+      "hex": "#1f79e5",
       "searchText": "bambulab petg petg hf lake blue"
     },
     {
@@ -15274,7 +15378,7 @@
       "brand": "BambuLab",
       "material": "PETG",
       "name": "PETG HF Lime Green",
-      "hex": "#9aed51",
+      "hex": "#cdea80",
       "searchText": "bambulab petg petg hf lime green"
     },
     {
@@ -15282,7 +15386,7 @@
       "brand": "BambuLab",
       "material": "PETG",
       "name": "PETG HF Orange",
-      "hex": "#f67405",
+      "hex": "#ff4800",
       "searchText": "bambulab petg petg hf orange"
     },
     {
@@ -15290,7 +15394,7 @@
       "brand": "BambuLab",
       "material": "PETG",
       "name": "PETG HF Peanut Brown",
-      "hex": "#be6730",
+      "hex": "#875718",
       "searchText": "bambulab petg petg hf peanut brown"
     },
     {
@@ -15298,7 +15402,7 @@
       "brand": "BambuLab",
       "material": "PETG",
       "name": "PETG HF Red",
-      "hex": "#f00c00",
+      "hex": "#eb3a3a",
       "searchText": "bambulab petg petg hf red"
     },
     {
@@ -15314,7 +15418,7 @@
       "brand": "BambuLab",
       "material": "PETG",
       "name": "PETG HF Yellow",
-      "hex": "#ffd342",
+      "hex": "#ffce00",
       "searchText": "bambulab petg petg hf yellow"
     },
     {
@@ -15322,7 +15426,7 @@
       "brand": "BambuLab",
       "material": "PETG",
       "name": "PETG Translucent Brown",
-      "hex": "#e9cb9b",
+      "hex": "#c9a381",
       "searchText": "bambulab petg petg translucent brown"
     },
     {
@@ -15338,7 +15442,7 @@
       "brand": "BambuLab",
       "material": "PETG",
       "name": "PETG Translucent Gray",
-      "hex": "#808080",
+      "hex": "#898d8d",
       "searchText": "bambulab petg petg translucent gray"
     },
     {
@@ -15346,7 +15450,7 @@
       "brand": "BambuLab",
       "material": "PETG",
       "name": "PETG Translucent Light Blue",
-      "hex": "#39b9db",
+      "hex": "#61b0ff",
       "searchText": "bambulab petg petg translucent light blue"
     },
     {
@@ -15362,7 +15466,7 @@
       "brand": "BambuLab",
       "material": "PETG",
       "name": "PETG Translucent Orange",
-      "hex": "#fd9106",
+      "hex": "#ff911a",
       "searchText": "bambulab petg petg translucent orange"
     },
     {
@@ -15370,7 +15474,7 @@
       "brand": "BambuLab",
       "material": "PETG",
       "name": "PETG Translucent Pink",
-      "hex": "#ffc8c9",
+      "hex": "#f9c1bd",
       "searchText": "bambulab petg petg translucent pink"
     },
     {
@@ -15386,7 +15490,7 @@
       "brand": "BambuLab",
       "material": "PETG",
       "name": "PETG Translucent Teal",
-      "hex": "#00b4bc",
+      "hex": "#77edd7",
       "searchText": "bambulab petg petg translucent teal"
     },
     {
@@ -15402,7 +15506,7 @@
       "brand": "BambuLab",
       "material": "PETG",
       "name": "PETG-CF Brick Red",
-      "hex": "#8b3a3a",
+      "hex": "#9f332a",
       "searchText": "bambulab petg petg-cf brick red"
     },
     {
@@ -15410,7 +15514,7 @@
       "brand": "BambuLab",
       "material": "PETG",
       "name": "PETG-CF Indigo Blue",
-      "hex": "#1e2f5a",
+      "hex": "#324585",
       "searchText": "bambulab petg petg-cf indigo blue"
     },
     {
@@ -15418,7 +15522,7 @@
       "brand": "BambuLab",
       "material": "PETG",
       "name": "PETG-CF Malachite Green",
-      "hex": "#02776f",
+      "hex": "#16b08e",
       "searchText": "bambulab petg petg-cf malachite green"
     },
     {
@@ -15426,7 +15530,7 @@
       "brand": "BambuLab",
       "material": "PETG",
       "name": "PETG-CF Titan Gray",
-      "hex": "#3b3e3f",
+      "hex": "#565656",
       "searchText": "bambulab petg petg-cf titan gray"
     },
     {
@@ -16022,6 +16126,46 @@
       "searchText": "bambulab pla pla metal oxide green metallic"
     },
     {
+      "id": "bambulab-pla-pure",
+      "brand": "BambuLab",
+      "material": "PLA",
+      "name": "PLA Pure",
+      "hex": "#000000",
+      "searchText": "bambulab pla pla pure"
+    },
+    {
+      "id": "bambulab-pla-pure-apricot",
+      "brand": "BambuLab",
+      "material": "PLA",
+      "name": "PLA Pure Apricot",
+      "hex": "#ffb673",
+      "searchText": "bambulab pla pla pure apricot"
+    },
+    {
+      "id": "bambulab-pla-pure-baby-blue",
+      "brand": "BambuLab",
+      "material": "PLA",
+      "name": "PLA Pure Baby Blue",
+      "hex": "#a4dbe8",
+      "searchText": "bambulab pla pla pure baby blue"
+    },
+    {
+      "id": "bambulab-pla-pure-milky-pink",
+      "brand": "BambuLab",
+      "material": "PLA",
+      "name": "PLA Pure Milky Pink",
+      "hex": "#f7ced7",
+      "searchText": "bambulab pla pla pure milky pink"
+    },
+    {
+      "id": "bambulab-pla-pure-white",
+      "brand": "BambuLab",
+      "material": "PLA",
+      "name": "PLA Pure White",
+      "hex": "#ffffff",
+      "searchText": "bambulab pla pla pure white"
+    },
+    {
       "id": "bambulab-pla-silk-baby-blue",
       "brand": "BambuLab",
       "material": "PLA",
@@ -16434,7 +16578,7 @@
       "brand": "BambuLab",
       "material": "PVA",
       "name": "PVA Clear",
-      "hex": "#efe8d8",
+      "hex": "#f0f1a8",
       "searchText": "bambulab pva pva clear"
     },
     {
@@ -16446,15 +16590,23 @@
       "searchText": "bambulab support support for abs white"
     },
     {
-      "id": "bambulab-support-for-papet",
+      "id": "bambulab-support-for-pa-pet-green",
       "brand": "BambuLab",
       "material": "Support",
-      "name": "Support for PA/PET",
+      "name": "Support for PA/PET Green",
       "hex": "#91c500",
-      "searchText": "bambulab support support for pa/pet"
+      "searchText": "bambulab support support for pa/pet green"
     },
     {
-      "id": "bambulab-support-for-plapetg-black",
+      "id": "bambulab-support-for-pla-white",
+      "brand": "BambuLab",
+      "material": "Support",
+      "name": "Support for PLA White",
+      "hex": "#ffffff",
+      "searchText": "bambulab support support for pla white"
+    },
+    {
+      "id": "bambulab-support-for-pla-petg-black",
       "brand": "BambuLab",
       "material": "Support",
       "name": "Support for PLA/PETG Black",
@@ -16462,11 +16614,11 @@
       "searchText": "bambulab support support for pla/petg black"
     },
     {
-      "id": "bambulab-support-for-plapetg-nature",
+      "id": "bambulab-support-for-pla-petg-nature",
       "brand": "BambuLab",
       "material": "Support",
       "name": "Support for PLA/PETG Nature",
-      "hex": "#6d8166",
+      "hex": "#e9dcbb",
       "searchText": "bambulab support support for pla/petg nature"
     },
     {
@@ -16482,7 +16634,7 @@
       "brand": "BambuLab",
       "material": "TPU",
       "name": "TPU 85A Flesh",
-      "hex": "#f9d5a2",
+      "hex": "#f3cfb2",
       "searchText": "bambulab tpu tpu 85a flesh"
     },
     {
@@ -16498,7 +16650,7 @@
       "brand": "BambuLab",
       "material": "TPU",
       "name": "TPU 85A Lime Green",
-      "hex": "#bbff84",
+      "hex": "#cdea80",
       "searchText": "bambulab tpu tpu 85a lime green"
     },
     {
@@ -16530,7 +16682,7 @@
       "brand": "BambuLab",
       "material": "TPU",
       "name": "TPU 90A Crystal Blue",
-      "hex": "#7babe1",
+      "hex": "#7eb4e1",
       "searchText": "bambulab tpu tpu 90a crystal blue"
     },
     {
@@ -16538,8 +16690,16 @@
       "brand": "BambuLab",
       "material": "TPU",
       "name": "TPU 90A Grape Jelly",
-      "hex": "#e400be",
+      "hex": "#d6abff",
       "searchText": "bambulab tpu tpu 90a grape jelly"
+    },
+    {
+      "id": "bambulab-tpu-90a-quicksilver",
+      "brand": "BambuLab",
+      "material": "TPU",
+      "name": "TPU 90A Quicksilver",
+      "hex": "#9ea2a2",
+      "searchText": "bambulab tpu tpu 90a quicksilver"
     },
     {
       "id": "bambulab-tpu-90a-white",
@@ -16562,7 +16722,7 @@
       "brand": "BambuLab",
       "material": "TPU",
       "name": "TPU 95A HF Blue",
-      "hex": "#0099e6",
+      "hex": "#0072ce",
       "searchText": "bambulab tpu tpu 95a hf blue"
     },
     {
@@ -16570,7 +16730,7 @@
       "brand": "BambuLab",
       "material": "TPU",
       "name": "TPU 95A HF Gray",
-      "hex": "#949a9e",
+      "hex": "#898d8d",
       "searchText": "bambulab tpu tpu 95a hf gray"
     },
     {
@@ -16578,7 +16738,7 @@
       "brand": "BambuLab",
       "material": "TPU",
       "name": "TPU 95A HF Red",
-      "hex": "#df3303",
+      "hex": "#c8102e",
       "searchText": "bambulab tpu tpu 95a hf red"
     },
     {
@@ -16594,16 +16754,8 @@
       "brand": "BambuLab",
       "material": "TPU",
       "name": "TPU 95A HF Yellow",
-      "hex": "#fffb00",
+      "hex": "#f3e600",
       "searchText": "bambulab tpu tpu 95a hf yellow"
-    },
-    {
-      "id": "bambulab-tpu-for-ams",
-      "brand": "BambuLab",
-      "material": "TPU",
-      "name": "TPU for AMS",
-      "hex": "#fffb00",
-      "searchText": "bambulab tpu tpu for ams"
     },
     {
       "id": "bambulab-tpu-for-ams-black",
@@ -16618,7 +16770,7 @@
       "brand": "BambuLab",
       "material": "TPU",
       "name": "TPU for AMS Blue",
-      "hex": "#6299df",
+      "hex": "#5898dd",
       "searchText": "bambulab tpu tpu for ams blue"
     },
     {
@@ -16626,7 +16778,7 @@
       "brand": "BambuLab",
       "material": "TPU",
       "name": "TPU for AMS Gray",
-      "hex": "#9fa4a8",
+      "hex": "#898d8d",
       "searchText": "bambulab tpu tpu for ams gray"
     },
     {
@@ -16634,7 +16786,7 @@
       "brand": "BambuLab",
       "material": "TPU",
       "name": "TPU for AMS Neon Green",
-      "hex": "#9aee6c",
+      "hex": "#90ff1a",
       "searchText": "bambulab tpu tpu for ams neon green"
     },
     {
@@ -16642,8 +16794,24 @@
       "brand": "BambuLab",
       "material": "TPU",
       "name": "TPU for AMS Red",
-      "hex": "#df3303",
+      "hex": "#ed0000",
       "searchText": "bambulab tpu tpu for ams red"
+    },
+    {
+      "id": "bambulab-tpu-for-ams-white",
+      "brand": "BambuLab",
+      "material": "TPU",
+      "name": "TPU for AMS White",
+      "hex": "#ffffff",
+      "searchText": "bambulab tpu tpu for ams white"
+    },
+    {
+      "id": "bambulab-tpu-for-ams-yellow",
+      "brand": "BambuLab",
+      "material": "TPU",
+      "name": "TPU for AMS Yellow",
+      "hex": "#f9ef41",
+      "searchText": "bambulab tpu tpu for ams yellow"
     },
     {
       "id": "bigrep-abs-black",
@@ -17316,6 +17484,30 @@
       "name": "Black HIPS",
       "hex": "#000000",
       "searchText": "cc3d hips black hips"
+    },
+    {
+      "id": "cc3d-pbt-pro-black",
+      "brand": "CC3D",
+      "material": "PBT",
+      "name": "PBT Pro Black",
+      "hex": "#000000",
+      "searchText": "cc3d pbt pbt pro black"
+    },
+    {
+      "id": "cc3d-pbt-pro-blue",
+      "brand": "CC3D",
+      "material": "PBT",
+      "name": "PBT Pro Blue",
+      "hex": "#066cd1",
+      "searchText": "cc3d pbt pbt pro blue"
+    },
+    {
+      "id": "cc3d-pbt-pro-white",
+      "brand": "CC3D",
+      "material": "PBT",
+      "name": "PBT Pro White",
+      "hex": "#ffffff",
+      "searchText": "cc3d pbt pbt pro white"
     },
     {
       "id": "cc3d-pc",
@@ -62730,7 +62922,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ Metallic PLA Pro Black",
-      "hex": "#000000",
+      "hex": "#0c0e0c",
       "searchText": "polymaker pla polylite™ metallic pla pro black"
     },
     {
@@ -62738,7 +62930,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ Metallic PLA Pro Blue",
-      "hex": "#033877",
+      "hex": "#2d3449",
       "searchText": "polymaker pla polylite™ metallic pla pro blue"
     },
     {
@@ -62746,7 +62938,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ Metallic PLA Pro Bronze",
-      "hex": "#b5522b",
+      "hex": "#ae6840",
       "searchText": "polymaker pla polylite™ metallic pla pro bronze"
     },
     {
@@ -62754,7 +62946,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ Metallic PLA Pro Chrome",
-      "hex": "#545f67",
+      "hex": "#505a5d",
       "searchText": "polymaker pla polylite™ metallic pla pro chrome"
     },
     {
@@ -62770,23 +62962,39 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ Metallic PLA Pro Gold",
-      "hex": "#aa6500",
+      "hex": "#a66301",
       "searchText": "polymaker pla polylite™ metallic pla pro gold"
+    },
+    {
+      "id": "polymaker-polylite-metallic-pla-pro-lm-sparkle-green",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PolyLite™ Metallic PLA Pro LM Sparkle Green",
+      "hex": "#434d43",
+      "searchText": "polymaker pla polylite™ metallic pla pro lm sparkle green"
     },
     {
       "id": "polymaker-polylite-metallic-pla-pro-magenta",
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ Metallic PLA Pro Magenta",
-      "hex": "#771b6b",
+      "hex": "#743063",
       "searchText": "polymaker pla polylite™ metallic pla pro magenta"
+    },
+    {
+      "id": "polymaker-polylite-metallic-pla-pro-red",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PolyLite™ Metallic PLA Pro Red",
+      "hex": "#8d352c",
+      "searchText": "polymaker pla polylite™ metallic pla pro red"
     },
     {
       "id": "polymaker-polylite-metallic-pla-pro-silver",
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ Metallic PLA Pro Silver",
-      "hex": "#a8b0bd",
+      "hex": "#8a8d95",
       "searchText": "polymaker pla polylite™ metallic pla pro silver"
     },
     {
@@ -63214,19 +63422,11 @@
       "searchText": "polymaker pla polylite™ pla-cf black"
     },
     {
-      "id": "polymaker-polymax-pla",
-      "brand": "Polymaker",
-      "material": "PLA",
-      "name": "PolyMax™ PLA",
-      "hex": "#089a45",
-      "searchText": "polymaker pla polymax™ pla"
-    },
-    {
       "id": "polymaker-polymax-pla-black",
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyMax™ PLA Black",
-      "hex": "#000000",
+      "hex": "#161619",
       "searchText": "polymaker pla polymax™ pla black"
     },
     {
@@ -63234,23 +63434,31 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyMax™ PLA Blue",
-      "hex": "#0e21ae",
+      "hex": "#013178",
       "searchText": "polymaker pla polymax™ pla blue"
     },
     {
-      "id": "polymaker-polymax-pla-fde",
+      "id": "polymaker-polymax-pla-fde-beige",
       "brand": "Polymaker",
       "material": "PLA",
-      "name": "PolyMax™ PLA FDE",
-      "hex": "#ba8960",
-      "searchText": "polymaker pla polymax™ pla fde"
+      "name": "PolyMax™ PLA FDE Beige",
+      "hex": "#90755d",
+      "searchText": "polymaker pla polymax™ pla fde beige"
+    },
+    {
+      "id": "polymaker-polymax-pla-green",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PolyMax™ PLA Green",
+      "hex": "#31a45f",
+      "searchText": "polymaker pla polymax™ pla green"
     },
     {
       "id": "polymaker-polymax-pla-grey",
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyMax™ PLA Grey",
-      "hex": "#acb1ba",
+      "hex": "#8b8e96",
       "searchText": "polymaker pla polymax™ pla grey"
     },
     {
@@ -63258,7 +63466,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyMax™ PLA Orange",
-      "hex": "#ff8e24",
+      "hex": "#fe8e1b",
       "searchText": "polymaker pla polymax™ pla orange"
     },
     {
@@ -63266,7 +63474,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyMax™ PLA Pink",
-      "hex": "#eb0075",
+      "hex": "#f02f63",
       "searchText": "polymaker pla polymax™ pla pink"
     },
     {
@@ -63282,7 +63490,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyMax™ PLA Purple",
-      "hex": "#6c47b2",
+      "hex": "#6647a3",
       "searchText": "polymaker pla polymax™ pla purple"
     },
     {
@@ -63290,7 +63498,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyMax™ PLA Red",
-      "hex": "#e72f1d",
+      "hex": "#ed2f20",
       "searchText": "polymaker pla polymax™ pla red"
     },
     {
@@ -63298,7 +63506,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyMax™ PLA Teal",
-      "hex": "#00b4bc",
+      "hex": "#4abac2",
       "searchText": "polymaker pla polymax™ pla teal"
     },
     {
@@ -63306,7 +63514,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyMax™ PLA White",
-      "hex": "#ffffff",
+      "hex": "#ebeced",
       "searchText": "polymaker pla polymax™ pla white"
     },
     {
@@ -63314,7 +63522,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyMax™ PLA Yellow",
-      "hex": "#f3c102",
+      "hex": "#f0ab01",
       "searchText": "polymaker pla polymax™ pla yellow"
     },
     {
