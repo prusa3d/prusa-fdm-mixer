@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-06-30T05:44:13.044Z",
-  "entryCount": 11629,
+  "lastSynced": "2026-07-01T05:53:14.585Z",
+  "entryCount": 11682,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -61798,6 +61798,158 @@
       "searchText": "polymaker pla creator special edition: the lm show"
     },
     {
+      "id": "polymaker-ht-pla-black",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "HT-PLA Black",
+      "hex": "#070707",
+      "searchText": "polymaker pla ht-pla black"
+    },
+    {
+      "id": "polymaker-ht-pla-blue",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "HT-PLA Blue",
+      "hex": "#0f5ea0",
+      "searchText": "polymaker pla ht-pla blue"
+    },
+    {
+      "id": "polymaker-ht-pla-brown",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "HT-PLA Brown",
+      "hex": "#4d2d1c",
+      "searchText": "polymaker pla ht-pla brown"
+    },
+    {
+      "id": "polymaker-ht-pla-green",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "HT-PLA Green",
+      "hex": "#05af47",
+      "searchText": "polymaker pla ht-pla green"
+    },
+    {
+      "id": "polymaker-ht-pla-grey",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "HT-PLA Grey",
+      "hex": "#6c7477",
+      "searchText": "polymaker pla ht-pla grey"
+    },
+    {
+      "id": "polymaker-ht-pla-orange",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "HT-PLA Orange",
+      "hex": "#dc6e38",
+      "searchText": "polymaker pla ht-pla orange"
+    },
+    {
+      "id": "polymaker-ht-pla-red",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "HT-PLA Red",
+      "hex": "#ac0200",
+      "searchText": "polymaker pla ht-pla red"
+    },
+    {
+      "id": "polymaker-ht-pla-teal",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "HT-PLA Teal",
+      "hex": "#5fccb7",
+      "searchText": "polymaker pla ht-pla teal"
+    },
+    {
+      "id": "polymaker-ht-pla-white",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "HT-PLA White",
+      "hex": "#f3f3f1",
+      "searchText": "polymaker pla ht-pla white"
+    },
+    {
+      "id": "polymaker-ht-pla-yellow",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "HT-PLA Yellow",
+      "hex": "#f0c940",
+      "searchText": "polymaker pla ht-pla yellow"
+    },
+    {
+      "id": "polymaker-ht-pla-gf-army-green",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "HT-PLA-GF Army Green",
+      "hex": "#61583c",
+      "searchText": "polymaker pla ht-pla-gf army green"
+    },
+    {
+      "id": "polymaker-ht-pla-gf-black",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "HT-PLA-GF Black",
+      "hex": "#18191b",
+      "searchText": "polymaker pla ht-pla-gf black"
+    },
+    {
+      "id": "polymaker-ht-pla-gf-blue",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "HT-PLA-GF Blue",
+      "hex": "#084989",
+      "searchText": "polymaker pla ht-pla-gf blue"
+    },
+    {
+      "id": "polymaker-ht-pla-gf-grey",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "HT-PLA-GF Grey",
+      "hex": "#91999f",
+      "searchText": "polymaker pla ht-pla-gf grey"
+    },
+    {
+      "id": "polymaker-ht-pla-gf-power-tool-green",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "HT-PLA-GF Power Tool Green",
+      "hex": "#cecf45",
+      "searchText": "polymaker pla ht-pla-gf power tool green"
+    },
+    {
+      "id": "polymaker-ht-pla-gf-power-tool-red",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "HT-PLA-GF Power Tool Red",
+      "hex": "#ca4140",
+      "searchText": "polymaker pla ht-pla-gf power tool red"
+    },
+    {
+      "id": "polymaker-ht-pla-gf-power-tool-teal",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "HT-PLA-GF Power Tool Teal",
+      "hex": "#215966",
+      "searchText": "polymaker pla ht-pla-gf power tool teal"
+    },
+    {
+      "id": "polymaker-ht-pla-gf-power-tool-yellow",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "HT-PLA-GF Power Tool Yellow",
+      "hex": "#f6b649",
+      "searchText": "polymaker pla ht-pla-gf power tool yellow"
+    },
+    {
+      "id": "polymaker-ht-pla-gf-white",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "HT-PLA-GF White",
+      "hex": "#f1f0ea",
+      "searchText": "polymaker pla ht-pla-gf white"
+    },
+    {
       "id": "polymaker-matte-pla-for-production-black",
       "brand": "Polymaker",
       "material": "PLA",
@@ -62838,11 +62990,259 @@
       "searchText": "polymaker pla panchroma™ translucent pla yellow"
     },
     {
+      "id": "polymaker-pla-pro-army-beige",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro Army Beige",
+      "hex": "#d0b082",
+      "searchText": "polymaker pla pla pro army beige"
+    },
+    {
+      "id": "polymaker-pla-pro-army-green",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro Army Green",
+      "hex": "#757330",
+      "searchText": "polymaker pla pla pro army green"
+    },
+    {
+      "id": "polymaker-pla-pro-black",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro Black",
+      "hex": "#161619",
+      "searchText": "polymaker pla pla pro black"
+    },
+    {
+      "id": "polymaker-pla-pro-blue",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro Blue",
+      "hex": "#3145ad",
+      "searchText": "polymaker pla pla pro blue"
+    },
+    {
+      "id": "polymaker-pla-pro-blue-green",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro Blue-Green",
+      "hex": "#113b41",
+      "searchText": "polymaker pla pla pro blue-green"
+    },
+    {
+      "id": "polymaker-pla-pro-brown",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro Brown",
+      "hex": "#7e5b45",
+      "searchText": "polymaker pla pla pro brown"
+    },
+    {
+      "id": "polymaker-pla-pro-cold-white",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro Cold White",
+      "hex": "#d9dae0",
+      "searchText": "polymaker pla pla pro cold white"
+    },
+    {
+      "id": "polymaker-pla-pro-dark-grey",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro Dark Grey",
+      "hex": "#707674",
+      "searchText": "polymaker pla pla pro dark grey"
+    },
+    {
+      "id": "polymaker-pla-pro-dark-purple",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro Dark Purple",
+      "hex": "#564c6d",
+      "searchText": "polymaker pla pla pro dark purple"
+    },
+    {
+      "id": "polymaker-pla-pro-green",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro Green",
+      "hex": "#5ec482",
+      "searchText": "polymaker pla pla pro green"
+    },
+    {
+      "id": "polymaker-pla-pro-grey",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro Grey",
+      "hex": "#ccd3de",
+      "searchText": "polymaker pla pla pro grey"
+    },
+    {
+      "id": "polymaker-pla-pro-light-blue",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro Light Blue",
+      "hex": "#b2deef",
+      "searchText": "polymaker pla pla pro light blue"
+    },
+    {
+      "id": "polymaker-pla-pro-light-green",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro Light Green",
+      "hex": "#aede9c",
+      "searchText": "polymaker pla pla pro light green"
+    },
+    {
+      "id": "polymaker-pla-pro-light-red",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro Light Red",
+      "hex": "#ef6063",
+      "searchText": "polymaker pla pla pro light red"
+    },
+    {
+      "id": "polymaker-pla-pro-light-yellow",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro Light Yellow",
+      "hex": "#eee96f",
+      "searchText": "polymaker pla pla pro light yellow"
+    },
+    {
+      "id": "polymaker-pla-pro-magenta",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro Magenta",
+      "hex": "#f24574",
+      "searchText": "polymaker pla pla pro magenta"
+    },
+    {
+      "id": "polymaker-pla-pro-metallic-black",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro Metallic Black",
+      "hex": "#000000",
+      "searchText": "polymaker pla pla pro metallic black"
+    },
+    {
+      "id": "polymaker-pla-pro-metallic-blue",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro Metallic Blue",
+      "hex": "#2a3756",
+      "searchText": "polymaker pla pla pro metallic blue"
+    },
+    {
+      "id": "polymaker-pla-pro-metallic-bronze",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro Metallic Bronze",
+      "hex": "#b5522b",
+      "searchText": "polymaker pla pla pro metallic bronze"
+    },
+    {
+      "id": "polymaker-pla-pro-metallic-chrome",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro Metallic Chrome",
+      "hex": "#545f67",
+      "searchText": "polymaker pla pla pro metallic chrome"
+    },
+    {
+      "id": "polymaker-pla-pro-metallic-dark-red",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro Metallic Dark Red",
+      "hex": "#98282f",
+      "searchText": "polymaker pla pla pro metallic dark red"
+    },
+    {
+      "id": "polymaker-pla-pro-metallic-gold",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro Metallic Gold",
+      "hex": "#f4ac23",
+      "searchText": "polymaker pla pla pro metallic gold"
+    },
+    {
+      "id": "polymaker-pla-pro-metallic-plum",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro Metallic Plum",
+      "hex": "#b645a9",
+      "searchText": "polymaker pla pla pro metallic plum"
+    },
+    {
+      "id": "polymaker-pla-pro-metallic-silver",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro Metallic Silver",
+      "hex": "#c9d0d4",
+      "searchText": "polymaker pla pla pro metallic silver"
+    },
+    {
+      "id": "polymaker-pla-pro-orange",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro Orange",
+      "hex": "#ff9757",
+      "searchText": "polymaker pla pla pro orange"
+    },
+    {
+      "id": "polymaker-pla-pro-pink",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro Pink",
+      "hex": "#f2bdd0",
+      "searchText": "polymaker pla pla pro pink"
+    },
+    {
+      "id": "polymaker-pla-pro-polymaker-teal",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro Polymaker Teal",
+      "hex": "#94f1f2",
+      "searchText": "polymaker pla pla pro polymaker teal"
+    },
+    {
+      "id": "polymaker-pla-pro-purple",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro Purple",
+      "hex": "#9381e6",
+      "searchText": "polymaker pla pla pro purple"
+    },
+    {
+      "id": "polymaker-pla-pro-red",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro Red",
+      "hex": "#ff4747",
+      "searchText": "polymaker pla pla pro red"
+    },
+    {
+      "id": "polymaker-pla-pro-white",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro White",
+      "hex": "#fafafa",
+      "searchText": "polymaker pla pla pro white"
+    },
+    {
+      "id": "polymaker-pla-pro-yellow",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PLA Pro Yellow",
+      "hex": "#ffea4d",
+      "searchText": "polymaker pla pla pro yellow"
+    },
+    {
       "id": "polymaker-polylite-cospla-version-a",
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ CosPLA Version A",
-      "hex": "#b2b8b8",
+      "hex": "#ccd3de",
       "searchText": "polymaker pla polylite™ cospla version a"
     },
     {
@@ -62850,23 +63250,15 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ CosPLA Version B",
-      "hex": "#b2b8b8",
+      "hex": "#bcbabb",
       "searchText": "polymaker pla polylite™ cospla version b"
-    },
-    {
-      "id": "polymaker-polylite-lw-pla",
-      "brand": "Polymaker",
-      "material": "PLA",
-      "name": "PolyLite™ LW-PLA",
-      "hex": "#ef3340",
-      "searchText": "polymaker pla polylite™ lw-pla"
     },
     {
       "id": "polymaker-polylite-lw-pla-black",
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ LW-PLA Black",
-      "hex": "#4c4e56",
+      "hex": "#2f2e30",
       "searchText": "polymaker pla polylite™ lw-pla black"
     },
     {
@@ -62874,7 +63266,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ LW-PLA Bright Green",
-      "hex": "#d0ed03",
+      "hex": "#bdd901",
       "searchText": "polymaker pla polylite™ lw-pla bright green"
     },
     {
@@ -62882,15 +63274,23 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ LW-PLA Bright Orange",
-      "hex": "#fa8423",
+      "hex": "#f07806",
       "searchText": "polymaker pla polylite™ lw-pla bright orange"
+    },
+    {
+      "id": "polymaker-polylite-lw-pla-bright-red",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PolyLite™ LW-PLA Bright Red",
+      "hex": "#d60212",
+      "searchText": "polymaker pla polylite™ lw-pla bright red"
     },
     {
       "id": "polymaker-polylite-lw-pla-bright-yellow",
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ LW-PLA Bright Yellow",
-      "hex": "#fad61b",
+      "hex": "#f6bd01",
       "searchText": "polymaker pla polylite™ lw-pla bright yellow"
     },
     {
@@ -62898,7 +63298,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ LW-PLA Grey",
-      "hex": "#a2aaad",
+      "hex": "#94918d",
       "searchText": "polymaker pla polylite™ lw-pla grey"
     },
     {
@@ -62906,7 +63306,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ LW-PLA White",
-      "hex": "#ead7b8",
+      "hex": "#f2dcc2",
       "searchText": "polymaker pla polylite™ lw-pla white"
     },
     {
@@ -62914,7 +63314,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ LW-PLA Wood",
-      "hex": "#d2a273",
+      "hex": "#a8754b",
       "searchText": "polymaker pla polylite™ lw-pla wood"
     },
     {
@@ -63010,7 +63410,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ PLA Aqua Blue",
-      "hex": "#39b9db",
+      "hex": "#5ebddb",
       "searchText": "polymaker pla polylite™ pla aqua blue"
     },
     {
@@ -63018,7 +63418,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ PLA Azure Blue",
-      "hex": "#0066d9",
+      "hex": "#0061d5",
       "searchText": "polymaker pla polylite™ pla azure blue"
     },
     {
@@ -63026,7 +63426,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ PLA Beige",
-      "hex": "#d8cf8c",
+      "hex": "#c2ab72",
       "searchText": "polymaker pla polylite™ pla beige"
     },
     {
@@ -63042,7 +63442,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ PLA Blue",
-      "hex": "#2941bd",
+      "hex": "#013178",
       "searchText": "polymaker pla polylite™ pla blue"
     },
     {
@@ -63050,7 +63450,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ PLA Brown",
-      "hex": "#7e472a",
+      "hex": "#4b2a17",
       "searchText": "polymaker pla polylite™ pla brown"
     },
     {
@@ -63058,7 +63458,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ PLA Cold White",
-      "hex": "#e6eaef",
+      "hex": "#eaecf5",
       "searchText": "polymaker pla polylite™ pla cold white"
     },
     {
@@ -63066,7 +63466,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ PLA Cream",
-      "hex": "#e9cb9b",
+      "hex": "#eed1a8",
       "searchText": "polymaker pla polylite™ pla cream"
     },
     {
@@ -63078,11 +63478,19 @@
       "searchText": "polymaker pla polylite™ pla dark blue"
     },
     {
+      "id": "polymaker-polylite-pla-dark-grey",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PolyLite™ PLA Dark Grey",
+      "hex": "#6e8393",
+      "searchText": "polymaker pla polylite™ pla dark grey"
+    },
+    {
       "id": "polymaker-polylite-pla-dark-grey-green",
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ PLA Dark Grey Green",
-      "hex": "#4c5e46",
+      "hex": "#4c5f46",
       "searchText": "polymaker pla polylite™ pla dark grey green"
     },
     {
@@ -63098,7 +63506,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ PLA Grey",
-      "hex": "#b1b3c5",
+      "hex": "#8b8e96",
       "searchText": "polymaker pla polylite™ pla grey"
     },
     {
@@ -63106,7 +63514,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ PLA Jungle Green",
-      "hex": "#446b20",
+      "hex": "#4e742d",
       "searchText": "polymaker pla polylite™ pla jungle green"
     },
     {
@@ -63114,7 +63522,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ PLA Lemon Yellow",
-      "hex": "#fadb24",
+      "hex": "#eed230",
       "searchText": "polymaker pla polylite™ pla lemon yellow"
     },
     {
@@ -63122,7 +63530,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ PLA Lime Green",
-      "hex": "#dede00",
+      "hex": "#bdd901",
       "searchText": "polymaker pla polylite™ pla lime green"
     },
     {
@@ -63130,7 +63538,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ PLA Magenta",
-      "hex": "#f2306e",
+      "hex": "#f24574",
       "searchText": "polymaker pla polylite™ pla magenta"
     },
     {
@@ -63146,7 +63554,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ PLA Olive Brown",
-      "hex": "#a99465",
+      "hex": "#a79565",
       "searchText": "polymaker pla polylite™ pla olive brown"
     },
     {
@@ -63162,7 +63570,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ PLA Orange",
-      "hex": "#f67405",
+      "hex": "#f36201",
       "searchText": "polymaker pla polylite™ pla orange"
     },
     {
@@ -63170,7 +63578,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ PLA Pink",
-      "hex": "#f09bb5",
+      "hex": "#f1a1af",
       "searchText": "polymaker pla polylite™ pla pink"
     },
     {
@@ -63362,7 +63770,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ PLA Purple",
-      "hex": "#6c47b2",
+      "hex": "#6447a5",
       "searchText": "polymaker pla polylite™ pla purple"
     },
     {
@@ -63370,7 +63778,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ PLA Red",
-      "hex": "#e72f1d",
+      "hex": "#d90102",
       "searchText": "polymaker pla polylite™ pla red"
     },
     {
@@ -63378,7 +63786,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ PLA Steel Grey",
-      "hex": "#616469",
+      "hex": "#5d5e63",
       "searchText": "polymaker pla polylite™ pla steel grey"
     },
     {
@@ -63386,7 +63794,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ PLA Stone Blue",
-      "hex": "#40719a",
+      "hex": "#487ba2",
       "searchText": "polymaker pla polylite™ pla stone blue"
     },
     {
@@ -63394,7 +63802,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ PLA Teal",
-      "hex": "#00b4bc",
+      "hex": "#48b9c2",
       "searchText": "polymaker pla polylite™ pla teal"
     },
     {
@@ -63402,15 +63810,23 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ PLA White",
-      "hex": "#e2dedb",
+      "hex": "#ddd7d3",
       "searchText": "polymaker pla polylite™ pla white"
+    },
+    {
+      "id": "polymaker-polylite-pla-wine-red",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "PolyLite™ PLA Wine Red",
+      "hex": "#d60212",
+      "searchText": "polymaker pla polylite™ pla wine red"
     },
     {
       "id": "polymaker-polylite-pla-yellow",
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolyLite™ PLA Yellow",
-      "hex": "#f3b400",
+      "hex": "#f3aa01",
       "searchText": "polymaker pla polylite™ pla yellow"
     },
     {
@@ -63538,7 +63954,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolySonic™ PLA Black",
-      "hex": "#000000",
+      "hex": "#2d2b28",
       "searchText": "polymaker pla polysonic™ pla black"
     },
     {
@@ -63570,7 +63986,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolySonic™ PLA Orange",
-      "hex": "#fd9106",
+      "hex": "#ff6a13",
       "searchText": "polymaker pla polysonic™ pla orange"
     },
     {
@@ -63682,7 +64098,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolySonic™ PLA White",
-      "hex": "#e6dddb",
+      "hex": "#d9dae0",
       "searchText": "polymaker pla polysonic™ pla white"
     },
     {
@@ -63690,7 +64106,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "PolySonic™ PLA Yellow",
-      "hex": "#fbe200",
+      "hex": "#f0c940",
       "searchText": "polymaker pla polysonic™ pla yellow"
     },
     {
@@ -63700,6 +64116,14 @@
       "name": "PolyWood™",
       "hex": "#d2a273",
       "searchText": "polymaker pla polywood™"
+    },
+    {
+      "id": "polymaker-wood-pla",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Wood PLA",
+      "hex": "#a8754b",
+      "searchText": "polymaker pla wood pla"
     },
     {
       "id": "polymaker-fiberon-pps-cf10-black",
