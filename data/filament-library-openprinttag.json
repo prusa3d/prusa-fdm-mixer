@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-07-03T07:41:13.913Z",
-  "entryCount": 11682,
+  "lastSynced": "2026-07-04T07:17:16.969Z",
+  "entryCount": 11719,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -61966,6 +61966,230 @@
       "searchText": "polymaker pla matte pla for production white"
     },
     {
+      "id": "polymaker-panchroma-basic-pla-aqua-blue",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Basic PLA Aqua Blue",
+      "hex": "#5ebddb",
+      "searchText": "polymaker pla panchroma™ basic pla aqua blue"
+    },
+    {
+      "id": "polymaker-panchroma-basic-pla-azure-blue",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Basic PLA Azure Blue",
+      "hex": "#0066d9",
+      "searchText": "polymaker pla panchroma™ basic pla azure blue"
+    },
+    {
+      "id": "polymaker-panchroma-basic-pla-beige",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Basic PLA Beige",
+      "hex": "#c2ab72",
+      "searchText": "polymaker pla panchroma™ basic pla beige"
+    },
+    {
+      "id": "polymaker-panchroma-basic-pla-black",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Basic PLA Black",
+      "hex": "#080a0d",
+      "searchText": "polymaker pla panchroma™ basic pla black"
+    },
+    {
+      "id": "polymaker-panchroma-basic-pla-blue",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Basic PLA Blue",
+      "hex": "#003776",
+      "searchText": "polymaker pla panchroma™ basic pla blue"
+    },
+    {
+      "id": "polymaker-panchroma-basic-pla-brown",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Basic PLA Brown",
+      "hex": "#55331a",
+      "searchText": "polymaker pla panchroma™ basic pla brown"
+    },
+    {
+      "id": "polymaker-panchroma-basic-pla-cold-white",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Basic PLA Cold White",
+      "hex": "#d9dfe5",
+      "searchText": "polymaker pla panchroma™ basic pla cold white"
+    },
+    {
+      "id": "polymaker-panchroma-basic-pla-cream",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Basic PLA Cream",
+      "hex": "#eed1a8",
+      "searchText": "polymaker pla panchroma™ basic pla cream"
+    },
+    {
+      "id": "polymaker-panchroma-basic-pla-dark-grey",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Basic PLA Dark Grey",
+      "hex": "#485259",
+      "searchText": "polymaker pla panchroma™ basic pla dark grey"
+    },
+    {
+      "id": "polymaker-panchroma-basic-pla-dark-olive-drab",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Basic PLA Dark Olive Drab",
+      "hex": "#575b54",
+      "searchText": "polymaker pla panchroma™ basic pla dark olive drab"
+    },
+    {
+      "id": "polymaker-panchroma-basic-pla-green",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Basic PLA Green",
+      "hex": "#06924d",
+      "searchText": "polymaker pla panchroma™ basic pla green"
+    },
+    {
+      "id": "polymaker-panchroma-basic-pla-grey",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Basic PLA Grey",
+      "hex": "#8c9099",
+      "searchText": "polymaker pla panchroma™ basic pla grey"
+    },
+    {
+      "id": "polymaker-panchroma-basic-pla-jungle-green",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Basic PLA Jungle Green",
+      "hex": "#4e742d",
+      "searchText": "polymaker pla panchroma™ basic pla jungle green"
+    },
+    {
+      "id": "polymaker-panchroma-basic-pla-lemon-yellow",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Basic PLA Lemon Yellow",
+      "hex": "#eed230",
+      "searchText": "polymaker pla panchroma™ basic pla lemon yellow"
+    },
+    {
+      "id": "polymaker-panchroma-basic-pla-lime-green",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Basic PLA Lime Green",
+      "hex": "#d5d701",
+      "searchText": "polymaker pla panchroma™ basic pla lime green"
+    },
+    {
+      "id": "polymaker-panchroma-basic-pla-magenta",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Basic PLA Magenta",
+      "hex": "#f24574",
+      "searchText": "polymaker pla panchroma™ basic pla magenta"
+    },
+    {
+      "id": "polymaker-panchroma-basic-pla-olive-green",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Basic PLA Olive Green",
+      "hex": "#948902",
+      "searchText": "polymaker pla panchroma™ basic pla olive green"
+    },
+    {
+      "id": "polymaker-panchroma-basic-pla-orange",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Basic PLA Orange",
+      "hex": "#f67405",
+      "searchText": "polymaker pla panchroma™ basic pla orange"
+    },
+    {
+      "id": "polymaker-panchroma-basic-pla-pink",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Basic PLA Pink",
+      "hex": "#f1a1af",
+      "searchText": "polymaker pla panchroma™ basic pla pink"
+    },
+    {
+      "id": "polymaker-panchroma-basic-pla-polymaker-teal",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Basic PLA Polymaker Teal",
+      "hex": "#4cc0c7",
+      "searchText": "polymaker pla panchroma™ basic pla polymaker teal"
+    },
+    {
+      "id": "polymaker-panchroma-basic-pla-purple",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Basic PLA Purple",
+      "hex": "#6c47b2",
+      "searchText": "polymaker pla panchroma™ basic pla purple"
+    },
+    {
+      "id": "polymaker-panchroma-basic-pla-red",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Basic PLA Red",
+      "hex": "#e72f1d",
+      "searchText": "polymaker pla panchroma™ basic pla red"
+    },
+    {
+      "id": "polymaker-panchroma-basic-pla-steel-grey",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Basic PLA Steel Grey",
+      "hex": "#616469",
+      "searchText": "polymaker pla panchroma™ basic pla steel grey"
+    },
+    {
+      "id": "polymaker-panchroma-basic-pla-stone-blue",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Basic PLA Stone Blue",
+      "hex": "#487ba2",
+      "searchText": "polymaker pla panchroma™ basic pla stone blue"
+    },
+    {
+      "id": "polymaker-panchroma-basic-pla-tan",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Basic PLA Tan",
+      "hex": "#a79e82",
+      "searchText": "polymaker pla panchroma™ basic pla tan"
+    },
+    {
+      "id": "polymaker-panchroma-basic-pla-white",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Basic PLA White",
+      "hex": "#ebf7ff",
+      "searchText": "polymaker pla panchroma™ basic pla white"
+    },
+    {
+      "id": "polymaker-panchroma-basic-pla-wine-red",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Basic PLA Wine Red",
+      "hex": "#d60212",
+      "searchText": "polymaker pla panchroma™ basic pla wine red"
+    },
+    {
+      "id": "polymaker-panchroma-basic-pla-yellow",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Basic PLA Yellow",
+      "hex": "#ffe800",
+      "searchText": "polymaker pla panchroma™ basic pla yellow"
+    },
+    {
       "id": "polymaker-panchroma-celestial-pla-blue",
       "brand": "Polymaker",
       "material": "PLA",
@@ -62130,7 +62354,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Arctic Teal",
-      "hex": "#75c8ce",
+      "hex": "#61bcc3",
       "searchText": "polymaker pla panchroma™ matte pla arctic teal"
     },
     {
@@ -62138,7 +62362,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Army Beige",
-      "hex": "#cca897",
+      "hex": "#dbbaa5",
       "searchText": "polymaker pla panchroma™ matte pla army beige"
     },
     {
@@ -62146,7 +62370,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Army Blue",
-      "hex": "#062b4d",
+      "hex": "#2e4462",
       "searchText": "polymaker pla panchroma™ matte pla army blue"
     },
     {
@@ -62154,7 +62378,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Army Brown",
-      "hex": "#724e3d",
+      "hex": "#795a4d",
       "searchText": "polymaker pla panchroma™ matte pla army brown"
     },
     {
@@ -62162,7 +62386,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Army Dark Green",
-      "hex": "#515234",
+      "hex": "#5f6244",
       "searchText": "polymaker pla panchroma™ matte pla army dark green"
     },
     {
@@ -62170,7 +62394,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Army Light Green",
-      "hex": "#d0df00",
+      "hex": "#ab8c02",
       "searchText": "polymaker pla panchroma™ matte pla army light green"
     },
     {
@@ -62178,7 +62402,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Army Purple",
-      "hex": "#3f3956",
+      "hex": "#36364a",
       "searchText": "polymaker pla panchroma™ matte pla army purple"
     },
     {
@@ -62186,7 +62410,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Army Red",
-      "hex": "#ac1a17",
+      "hex": "#bf312e",
       "searchText": "polymaker pla panchroma™ matte pla army red"
     },
     {
@@ -62194,7 +62418,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Ash Grey",
-      "hex": "#45444a",
+      "hex": "#485155",
       "searchText": "polymaker pla panchroma™ matte pla ash grey"
     },
     {
@@ -62202,7 +62426,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Charcoal Black",
-      "hex": "#1d1d1d",
+      "hex": "#2f2e30",
       "searchText": "polymaker pla panchroma™ matte pla charcoal black"
     },
     {
@@ -62210,7 +62434,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Cotton White",
-      "hex": "#e6dddb",
+      "hex": "#f4efeb",
       "searchText": "polymaker pla panchroma™ matte pla cotton white"
     },
     {
@@ -62226,7 +62450,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Electric Indigo",
-      "hex": "#6c47b2",
+      "hex": "#6858a9",
       "searchText": "polymaker pla panchroma™ matte pla electric indigo"
     },
     {
@@ -62242,7 +62466,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Forest Green",
-      "hex": "#519f61",
+      "hex": "#60ad70",
       "searchText": "polymaker pla panchroma™ matte pla forest green"
     },
     {
@@ -62250,7 +62474,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Fossil Grey",
-      "hex": "#6f727e",
+      "hex": "#8a8c94",
       "searchText": "polymaker pla panchroma™ matte pla fossil grey"
     },
     {
@@ -62266,7 +62490,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Lava Red",
-      "hex": "#de1619",
+      "hex": "#ed2f2e",
       "searchText": "polymaker pla panchroma™ matte pla lava red"
     },
     {
@@ -62274,7 +62498,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Lavender Purple",
-      "hex": "#8a68b5",
+      "hex": "#9572bf",
       "searchText": "polymaker pla panchroma™ matte pla lavender purple"
     },
     {
@@ -62282,7 +62506,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Lime Green",
-      "hex": "#dede00",
+      "hex": "#d7d602",
       "searchText": "polymaker pla panchroma™ matte pla lime green"
     },
     {
@@ -62290,7 +62514,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Lotus Pink",
-      "hex": "#f19dcd",
+      "hex": "#dd76c0",
       "searchText": "polymaker pla panchroma™ matte pla lotus pink"
     },
     {
@@ -62298,7 +62522,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Muted Blue",
-      "hex": "#4e6a84",
+      "hex": "#5f778e",
       "searchText": "polymaker pla panchroma™ matte pla muted blue"
     },
     {
@@ -62306,7 +62530,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Muted Green",
-      "hex": "#656d60",
+      "hex": "#777e71",
       "searchText": "polymaker pla panchroma™ matte pla muted green"
     },
     {
@@ -62330,7 +62554,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Muted Purple",
-      "hex": "#7c5577",
+      "hex": "#7c5c78",
       "searchText": "polymaker pla panchroma™ matte pla muted purple"
     },
     {
@@ -62338,7 +62562,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Muted Red",
-      "hex": "#db3e14",
+      "hex": "#d84b2e",
       "searchText": "polymaker pla panchroma™ matte pla muted red"
     },
     {
@@ -62362,7 +62586,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Muted White",
-      "hex": "#d1d5c8",
+      "hex": "#bbada4",
       "searchText": "polymaker pla panchroma™ matte pla muted white"
     },
     {
@@ -62370,7 +62594,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Pastel Banana",
-      "hex": "#f5cf6f",
+      "hex": "#f7d475",
       "searchText": "polymaker pla panchroma™ matte pla pastel banana"
     },
     {
@@ -62386,7 +62610,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Pastel Candy",
-      "hex": "#dabcc8",
+      "hex": "#f0d6d9",
       "searchText": "polymaker pla panchroma™ matte pla pastel candy"
     },
     {
@@ -62402,7 +62626,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Pastel Ice",
-      "hex": "#95c5d3",
+      "hex": "#a4d0df",
       "searchText": "polymaker pla panchroma™ matte pla pastel ice"
     },
     {
@@ -62410,7 +62634,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Pastel Mint",
-      "hex": "#bec9a5",
+      "hex": "#d2debb",
       "searchText": "polymaker pla panchroma™ matte pla pastel mint"
     },
     {
@@ -62426,8 +62650,16 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Pastel Peanut",
-      "hex": "#c29572",
+      "hex": "#bf9573",
       "searchText": "polymaker pla panchroma™ matte pla pastel peanut"
+    },
+    {
+      "id": "polymaker-panchroma-matte-pla-pastel-periwinkle",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Matte PLA Pastel Periwinkle",
+      "hex": "#adb4e6",
+      "searchText": "polymaker pla panchroma™ matte pla pastel periwinkle"
     },
     {
       "id": "polymaker-panchroma-matte-pla-pastel-pezriwinkle",
@@ -62442,7 +62674,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Pastel Watermelon",
-      "hex": "#ee366a",
+      "hex": "#ee474b",
       "searchText": "polymaker pla panchroma™ matte pla pastel watermelon"
     },
     {
@@ -62458,7 +62690,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Sakura Pink",
-      "hex": "#e0a8bb",
+      "hex": "#eaadbd",
       "searchText": "polymaker pla panchroma™ matte pla sakura pink"
     },
     {
@@ -62466,7 +62698,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Sapphire Blue",
-      "hex": "#0066d9",
+      "hex": "#0163a6",
       "searchText": "polymaker pla panchroma™ matte pla sapphire blue"
     },
     {
@@ -62474,7 +62706,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Savannah Yellow",
-      "hex": "#ffe15b",
+      "hex": "#f3c432",
       "searchText": "polymaker pla panchroma™ matte pla savannah yellow"
     },
     {
@@ -62490,7 +62722,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Sky Blue",
-      "hex": "#1adafb",
+      "hex": "#1ac5fc",
       "searchText": "polymaker pla panchroma™ matte pla sky blue"
     },
     {
@@ -62498,7 +62730,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Sunrise Orange",
-      "hex": "#f78e0e",
+      "hex": "#f88b17",
       "searchText": "polymaker pla panchroma™ matte pla sunrise orange"
     },
     {
@@ -62522,7 +62754,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Matte PLA Wood Brown",
-      "hex": "#ad7441",
+      "hex": "#ab7449",
       "searchText": "polymaker pla panchroma™ matte pla wood brown"
     },
     {
@@ -62606,19 +62838,11 @@
       "searchText": "polymaker pla panchroma™ neon pla yellow"
     },
     {
-      "id": "polymaker-panchroma-satin-pla",
-      "brand": "Polymaker",
-      "material": "PLA",
-      "name": "Panchroma™ Satin PLA",
-      "hex": "#ffc946",
-      "searchText": "polymaker pla panchroma™ satin pla"
-    },
-    {
       "id": "polymaker-panchroma-satin-pla-black",
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Satin PLA Black",
-      "hex": "#000000",
+      "hex": "#302e30",
       "searchText": "polymaker pla panchroma™ satin pla black"
     },
     {
@@ -62626,7 +62850,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Satin PLA Blue",
-      "hex": "#0078bf",
+      "hex": "#0162a6",
       "searchText": "polymaker pla panchroma™ satin pla blue"
     },
     {
@@ -62634,7 +62858,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Satin PLA Green",
-      "hex": "#60ab61",
+      "hex": "#5eab71",
       "searchText": "polymaker pla panchroma™ satin pla green"
     },
     {
@@ -62642,7 +62866,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Satin PLA Grey",
-      "hex": "#94a7b7",
+      "hex": "#797e89",
       "searchText": "polymaker pla panchroma™ satin pla grey"
     },
     {
@@ -62650,7 +62874,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Satin PLA Orange",
-      "hex": "#fa8423",
+      "hex": "#fe9217",
       "searchText": "polymaker pla panchroma™ satin pla orange"
     },
     {
@@ -62662,11 +62886,19 @@
       "searchText": "polymaker pla panchroma™ satin pla polymaker teal"
     },
     {
+      "id": "polymaker-panchroma-satin-pla-purple",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Satin PLA Purple",
+      "hex": "#9272c1",
+      "searchText": "polymaker pla panchroma™ satin pla purple"
+    },
+    {
       "id": "polymaker-panchroma-satin-pla-red",
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Satin PLA Red",
-      "hex": "#e20010",
+      "hex": "#da1521",
       "searchText": "polymaker pla panchroma™ satin pla red"
     },
     {
@@ -62674,7 +62906,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Satin PLA Teal",
-      "hex": "#00b4bc",
+      "hex": "#61bbc1",
       "searchText": "polymaker pla panchroma™ satin pla teal"
     },
     {
@@ -62682,8 +62914,16 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Satin PLA White",
-      "hex": "#e6dddb",
+      "hex": "#f5f0ec",
       "searchText": "polymaker pla panchroma™ satin pla white"
+    },
+    {
+      "id": "polymaker-panchroma-satin-pla-yellow",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Satin PLA Yellow",
+      "hex": "#f4c131",
+      "searchText": "polymaker pla panchroma™ satin pla yellow"
     },
     {
       "id": "polymaker-panchroma-silk-pla-black",
@@ -62890,7 +63130,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Starlight PLA Aurora",
-      "hex": "#7a9182",
+      "hex": "#314530",
       "searchText": "polymaker pla panchroma™ starlight pla aurora"
     },
     {
@@ -62898,7 +63138,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Starlight PLA Comet",
-      "hex": "#668c80",
+      "hex": "#1f312a",
       "searchText": "polymaker pla panchroma™ starlight pla comet"
     },
     {
@@ -62906,7 +63146,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Starlight PLA Jupiter",
-      "hex": "#c0894d",
+      "hex": "#774718",
       "searchText": "polymaker pla panchroma™ starlight pla jupiter"
     },
     {
@@ -62914,23 +63154,39 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Starlight PLA Mars",
-      "hex": "#d33d3d",
+      "hex": "#962e31",
       "searchText": "polymaker pla panchroma™ starlight pla mars"
+    },
+    {
+      "id": "polymaker-panchroma-starlight-pla-mercury",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Starlight PLA Mercury",
+      "hex": "#33322d",
+      "searchText": "polymaker pla panchroma™ starlight pla mercury"
     },
     {
       "id": "polymaker-panchroma-starlight-pla-meteor",
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Starlight PLA Meteor",
-      "hex": "#4e7642",
+      "hex": "#2f3117",
       "searchText": "polymaker pla panchroma™ starlight pla meteor"
+    },
+    {
+      "id": "polymaker-panchroma-starlight-pla-midnight",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Starlight PLA Midnight",
+      "hex": "#475a64",
+      "searchText": "polymaker pla panchroma™ starlight pla midnight"
     },
     {
       "id": "polymaker-panchroma-starlight-pla-nebula",
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Starlight PLA Nebula",
-      "hex": "#a36a96",
+      "hex": "#462f32",
       "searchText": "polymaker pla panchroma™ starlight pla nebula"
     },
     {
@@ -62938,15 +63194,23 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Starlight PLA Neptune",
-      "hex": "#2d889e",
+      "hex": "#113148",
       "searchText": "polymaker pla panchroma™ starlight pla neptune"
+    },
+    {
+      "id": "polymaker-panchroma-starlight-pla-pulsar",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Starlight PLA Pulsar",
+      "hex": "#5c7bc1",
+      "searchText": "polymaker pla panchroma™ starlight pla pulsar"
     },
     {
       "id": "polymaker-panchroma-starlight-pla-twilight",
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Starlight PLA Twilight",
-      "hex": "#005da4",
+      "hex": "#1e3445",
       "searchText": "polymaker pla panchroma™ starlight pla twilight"
     },
     {
@@ -86596,6 +86860,38 @@
       "name": "The Filament TPU 95A White",
       "hex": "#efefef",
       "searchText": "spectrum tpu the filament tpu 95a white"
+    },
+    {
+      "id": "stlflix-pla-beige",
+      "brand": "STLFLIX",
+      "material": "PLA",
+      "name": "PLA Beige",
+      "hex": "#f2d4c0",
+      "searchText": "stlflix pla pla beige"
+    },
+    {
+      "id": "stlflix-pla-light-blue",
+      "brand": "STLFLIX",
+      "material": "PLA",
+      "name": "PLA Light Blue",
+      "hex": "#00c7fc",
+      "searchText": "stlflix pla pla light blue"
+    },
+    {
+      "id": "stlflix-pla-light-pink",
+      "brand": "STLFLIX",
+      "material": "PLA",
+      "name": "PLA Light Pink",
+      "hex": "#f7bbd5",
+      "searchText": "stlflix pla pla light pink"
+    },
+    {
+      "id": "stlflix-pla-purple",
+      "brand": "STLFLIX",
+      "material": "PLA",
+      "name": "PLA Purple",
+      "hex": "#862b7f",
+      "searchText": "stlflix pla pla purple"
     },
     {
       "id": "stronghero3d-pla-high-speed-red",
