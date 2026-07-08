@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-07-07T07:54:06.936Z",
-  "entryCount": 11719,
+  "lastSynced": "2026-07-08T06:40:05.861Z",
+  "entryCount": 11731,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -5230,6 +5230,14 @@
       "searchText": "add:north abs rabs black"
     },
     {
+      "id": "addnorth-adura-black",
+      "brand": "add:north",
+      "material": "Adura™",
+      "name": "Adura™ Black",
+      "hex": "#000000",
+      "searchText": "add:north adura™ adura™ black"
+    },
+    {
       "id": "addnorth-adura-cold-white",
       "brand": "add:north",
       "material": "Adura™",
@@ -5238,12 +5246,12 @@
       "searchText": "add:north adura™ adura™ cold white"
     },
     {
-      "id": "addnorth-adura-fda",
+      "id": "addnorth-adura-fda-clear",
       "brand": "add:north",
       "material": "Adura™",
-      "name": "Adura™ FDA",
+      "name": "Adura™ FDA Clear",
       "hex": "#dfdfd3",
-      "searchText": "add:north adura™ adura™ fda"
+      "searchText": "add:north adura™ adura™ fda clear"
     },
     {
       "id": "addnorth-adura-grey",
@@ -5510,6 +5518,14 @@
       "searchText": "add:north pla e-pla black"
     },
     {
+      "id": "addnorth-e-pla-brown",
+      "brand": "add:north",
+      "material": "PLA",
+      "name": "E-PLA Brown",
+      "hex": "#4d2d1c",
+      "searchText": "add:north pla e-pla brown"
+    },
+    {
       "id": "addnorth-e-pla-cold-white",
       "brand": "add:north",
       "material": "PLA",
@@ -5594,7 +5610,7 @@
       "brand": "add:north",
       "material": "PLA",
       "name": "E-PLA Lucent Pink",
-      "hex": "#ff72b6",
+      "hex": "#ff00a2",
       "searchText": "add:north pla e-pla lucent pink"
     },
     {
@@ -5686,6 +5702,14 @@
       "searchText": "add:north pla ht-pla pro matte white"
     },
     {
+      "id": "addnorth-pla-cf-black",
+      "brand": "add:north",
+      "material": "PLA",
+      "name": "PLA CF Black",
+      "hex": "#000000",
+      "searchText": "add:north pla pla cf black"
+    },
+    {
       "id": "addnorth-pla-economy-black",
       "brand": "add:north",
       "material": "PLA",
@@ -5726,6 +5750,14 @@
       "searchText": "add:north pla pla premium silk blue"
     },
     {
+      "id": "addnorth-pla-premium-silk-gold",
+      "brand": "add:north",
+      "material": "PLA",
+      "name": "PLA Premium Silk Gold",
+      "hex": "#ffcb47",
+      "searchText": "add:north pla pla premium silk gold"
+    },
+    {
       "id": "addnorth-pla-premium-silk-green",
       "brand": "add:north",
       "material": "PLA",
@@ -5762,7 +5794,7 @@
       "brand": "add:north",
       "material": "PLA",
       "name": "PLA Wood Nordic Birch",
-      "hex": "#eadac2",
+      "hex": "#e8e1d1",
       "searchText": "add:north pla pla wood nordic birch"
     },
     {
@@ -61782,14 +61814,6 @@
       "searchText": "polymaker pla creator special edition: 3d print general"
     },
     {
-      "id": "polymaker-creator-special-edition-hedgehog-makes-galaxy-red",
-      "brand": "Polymaker",
-      "material": "PLA",
-      "name": "Creator Special Edition: Hedgehog Makes Galaxy Red",
-      "hex": "#ec0000",
-      "searchText": "polymaker pla creator special edition: hedgehog makes galaxy red"
-    },
-    {
       "id": "polymaker-creator-special-edition-the-lm-show",
       "brand": "Polymaker",
       "material": "PLA",
@@ -62194,7 +62218,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Celestial PLA Blue",
-      "hex": "#1adafb",
+      "hex": "#6adcf7",
       "searchText": "polymaker pla panchroma™ celestial pla blue"
     },
     {
@@ -62202,23 +62226,55 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Celestial PLA Green",
-      "hex": "#6feedb",
+      "hex": "#6fe2d2",
       "searchText": "polymaker pla panchroma™ celestial pla green"
+    },
+    {
+      "id": "polymaker-panchroma-celestial-pla-light-pink",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Celestial PLA Light Pink",
+      "hex": "#c3adb8",
+      "searchText": "polymaker pla panchroma™ celestial pla light pink"
+    },
+    {
+      "id": "polymaker-panchroma-celestial-pla-light-yellow",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Celestial PLA Light Yellow",
+      "hex": "#d7ce89",
+      "searchText": "polymaker pla panchroma™ celestial pla light yellow"
     },
     {
       "id": "polymaker-panchroma-celestial-pla-purple",
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Celestial PLA Purple",
-      "hex": "#b894e2",
+      "hex": "#9678c8",
       "searchText": "polymaker pla panchroma™ celestial pla purple"
+    },
+    {
+      "id": "polymaker-panchroma-celestial-pla-white",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Celestial PLA White",
+      "hex": "#dcdad0",
+      "searchText": "polymaker pla panchroma™ celestial pla white"
+    },
+    {
+      "id": "polymaker-panchroma-celestial-pla-yellow",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Celestial PLA Yellow",
+      "hex": "#f4c76a",
+      "searchText": "polymaker pla panchroma™ celestial pla yellow"
     },
     {
       "id": "polymaker-panchroma-galaxy-pla-black",
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Galaxy PLA Black",
-      "hex": "#000000",
+      "hex": "#161617",
       "searchText": "polymaker pla panchroma™ galaxy pla black"
     },
     {
@@ -62226,7 +62282,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Galaxy PLA Dark Blue",
-      "hex": "#090c23",
+      "hex": "#081b36",
       "searchText": "polymaker pla panchroma™ galaxy pla dark blue"
     },
     {
@@ -62234,7 +62290,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Galaxy PLA Dark Green",
-      "hex": "#1e606c",
+      "hex": "#13484d",
       "searchText": "polymaker pla panchroma™ galaxy pla dark green"
     },
     {
@@ -62242,7 +62298,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Galaxy PLA Dark Grey",
-      "hex": "#6a6c6e",
+      "hex": "#4e5658",
       "searchText": "polymaker pla panchroma™ galaxy pla dark grey"
     },
     {
@@ -62250,8 +62306,16 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Galaxy PLA Dark Red",
-      "hex": "#7a341c",
+      "hex": "#451e14",
       "searchText": "polymaker pla panchroma™ galaxy pla dark red"
+    },
+    {
+      "id": "polymaker-panchroma-galaxy-pla-hedgehog-makes-galaxy-red",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Galaxy PLA Hedgehog Makes - Galaxy Red",
+      "hex": "#ec0000",
+      "searchText": "polymaker pla panchroma™ galaxy pla hedgehog makes - galaxy red"
     },
     {
       "id": "polymaker-panchroma-glow-pla-blue",
@@ -62274,7 +62338,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Luminous PLA Blue",
-      "hex": "#40b6e4",
+      "hex": "#5fa8c2",
       "searchText": "polymaker pla panchroma™ luminous pla blue"
     },
     {
@@ -62282,7 +62346,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Luminous PLA Green",
-      "hex": "#9fec41",
+      "hex": "#bfeb8c",
       "searchText": "polymaker pla panchroma™ luminous pla green"
     },
     {
@@ -62290,7 +62354,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Luminous PLA Orange",
-      "hex": "#f67405",
+      "hex": "#febe5f",
       "searchText": "polymaker pla panchroma™ luminous pla orange"
     },
     {
@@ -62298,7 +62362,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Luminous PLA Pink",
-      "hex": "#fc8397",
+      "hex": "#fe9176",
       "searchText": "polymaker pla panchroma™ luminous pla pink"
     },
     {
@@ -62306,7 +62370,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Luminous PLA Yellow",
-      "hex": "#fffb00",
+      "hex": "#eedc48",
       "searchText": "polymaker pla panchroma™ luminous pla yellow"
     },
     {
@@ -62314,7 +62378,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Marble PLA Brick",
-      "hex": "#d47460",
+      "hex": "#cd7456",
       "searchText": "polymaker pla panchroma™ marble pla brick"
     },
     {
@@ -62322,7 +62386,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Marble PLA Limestone",
-      "hex": "#e8dfd4",
+      "hex": "#bcbebe",
       "searchText": "polymaker pla panchroma™ marble pla limestone"
     },
     {
@@ -62330,7 +62394,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Marble PLA Sandstone",
-      "hex": "#c4c67d",
+      "hex": "#c1be97",
       "searchText": "polymaker pla panchroma™ marble pla sandstone"
     },
     {
@@ -62338,7 +62402,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Marble PLA Slate Grey",
-      "hex": "#91c2cc",
+      "hex": "#94b9c2",
       "searchText": "polymaker pla panchroma™ marble pla slate grey"
     },
     {
@@ -62346,7 +62410,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Marble PLA White",
-      "hex": "#e6eaef",
+      "hex": "#cfccd6",
       "searchText": "polymaker pla panchroma™ marble pla white"
     },
     {
@@ -62762,7 +62826,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Metallic PLA Blue",
-      "hex": "#1e2f5a",
+      "hex": "#2c3449",
       "searchText": "polymaker pla panchroma™ metallic pla blue"
     },
     {
@@ -62770,7 +62834,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Metallic PLA Bronze",
-      "hex": "#b5522b",
+      "hex": "#926043",
       "searchText": "polymaker pla panchroma™ metallic pla bronze"
     },
     {
@@ -62778,15 +62842,23 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Metallic PLA Gold",
-      "hex": "#ce8d00",
+      "hex": "#da9f1d",
       "searchText": "polymaker pla panchroma™ metallic pla gold"
+    },
+    {
+      "id": "polymaker-panchroma-metallic-pla-green",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Metallic PLA Green",
+      "hex": "#4c5e46",
+      "searchText": "polymaker pla panchroma™ metallic pla green"
     },
     {
       "id": "polymaker-panchroma-metallic-pla-silver",
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Metallic PLA Silver",
-      "hex": "#959fa1",
+      "hex": "#7a838e",
       "searchText": "polymaker pla panchroma™ metallic pla silver"
     },
     {
@@ -62794,7 +62866,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Neon PLA Green",
-      "hex": "#9aee6c",
+      "hex": "#00f263",
       "searchText": "polymaker pla panchroma™ neon pla green"
     },
     {
@@ -62802,7 +62874,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Neon PLA Magenta",
-      "hex": "#f2306e",
+      "hex": "#aa538e",
       "searchText": "polymaker pla panchroma™ neon pla magenta"
     },
     {
@@ -62810,7 +62882,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Neon PLA Orange",
-      "hex": "#f67405",
+      "hex": "#ff7800",
       "searchText": "polymaker pla panchroma™ neon pla orange"
     },
     {
@@ -62818,7 +62890,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Neon PLA Pink",
-      "hex": "#eb0075",
+      "hex": "#ff3670",
       "searchText": "polymaker pla panchroma™ neon pla pink"
     },
     {
@@ -62834,7 +62906,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Neon PLA Yellow",
-      "hex": "#ffd342",
+      "hex": "#e5db2e",
       "searchText": "polymaker pla panchroma™ neon pla yellow"
     },
     {
@@ -90950,252 +91022,276 @@
       "searchText": "verbatim tpe tefabloc tpe white"
     },
     {
-      "id": "voxel-pla-voxelpetg-hs-pro-black",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-petg-hs-pro-black",
+      "brand": "Voxelpla",
       "material": "PETG",
-      "name": "VOXELPETG+ HS (Pro) Black",
+      "name": "PETG+ HS (Pro) Black",
       "hex": "#000000",
-      "searchText": "voxel pla petg voxelpetg+ hs (pro) black"
+      "searchText": "voxelpla petg petg+ hs (pro) black"
     },
     {
-      "id": "voxel-pla-voxelpetg-hs-pro-blue",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-petg-hs-pro-blue",
+      "brand": "Voxelpla",
       "material": "PETG",
-      "name": "VOXELPETG+ HS (Pro) Blue",
+      "name": "PETG+ HS (Pro) Blue",
       "hex": "#2e56f1",
-      "searchText": "voxel pla petg voxelpetg+ hs (pro) blue"
+      "searchText": "voxelpla petg petg+ hs (pro) blue"
     },
     {
-      "id": "voxel-pla-voxelpetg-hs-pro-crystal-clear",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-petg-hs-pro-crystal-clear",
+      "brand": "Voxelpla",
       "material": "PETG",
-      "name": "VOXELPETG+ HS (Pro) Crystal Clear",
+      "name": "PETG+ HS (Pro) Crystal Clear",
       "hex": "#e4e7e5",
-      "searchText": "voxel pla petg voxelpetg+ hs (pro) crystal clear"
+      "searchText": "voxelpla petg petg+ hs (pro) crystal clear"
     },
     {
-      "id": "voxel-pla-voxelpetg-hs-pro-green",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-petg-hs-pro-green",
+      "brand": "Voxelpla",
       "material": "PETG",
-      "name": "VOXELPETG+ HS (Pro) Green",
+      "name": "PETG+ HS (Pro) Green",
       "hex": "#32a584",
-      "searchText": "voxel pla petg voxelpetg+ hs (pro) green"
+      "searchText": "voxelpla petg petg+ hs (pro) green"
     },
     {
-      "id": "voxel-pla-voxelpetg-hs-pro-grey",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-petg-hs-pro-grey",
+      "brand": "Voxelpla",
       "material": "PETG",
-      "name": "VOXELPETG+ HS (Pro) Grey",
+      "name": "PETG+ HS (Pro) Grey",
       "hex": "#9db6d4",
-      "searchText": "voxel pla petg voxelpetg+ hs (pro) grey"
+      "searchText": "voxelpla petg petg+ hs (pro) grey"
     },
     {
-      "id": "voxel-pla-voxelpetg-hs-pro-orange",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-petg-hs-pro-orange",
+      "brand": "Voxelpla",
       "material": "PETG",
-      "name": "VOXELPETG+ HS (Pro) Orange",
+      "name": "PETG+ HS (Pro) Orange",
       "hex": "#ff8133",
-      "searchText": "voxel pla petg voxelpetg+ hs (pro) orange"
+      "searchText": "voxelpla petg petg+ hs (pro) orange"
     },
     {
-      "id": "voxel-pla-voxelpetg-hs-pro-red",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-petg-hs-pro-red",
+      "brand": "Voxelpla",
       "material": "PETG",
-      "name": "VOXELPETG+ HS (Pro) Red",
+      "name": "PETG+ HS (Pro) Red",
       "hex": "#e20010",
-      "searchText": "voxel pla petg voxelpetg+ hs (pro) red"
+      "searchText": "voxelpla petg petg+ hs (pro) red"
     },
     {
-      "id": "voxel-pla-voxelpetg-hs-pro-silver",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-petg-hs-pro-silver",
+      "brand": "Voxelpla",
       "material": "PETG",
-      "name": "VOXELPETG+ HS (Pro) Silver",
+      "name": "PETG+ HS (Pro) Silver",
       "hex": "#c9d0d4",
-      "searchText": "voxel pla petg voxelpetg+ hs (pro) silver"
+      "searchText": "voxelpla petg petg+ hs (pro) silver"
     },
     {
-      "id": "voxel-pla-voxelpetg-hs-pro-white",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-petg-hs-pro-white",
+      "brand": "Voxelpla",
       "material": "PETG",
-      "name": "VOXELPETG+ HS (Pro) White",
+      "name": "PETG+ HS (Pro) White",
       "hex": "#ffffff",
-      "searchText": "voxel pla petg voxelpetg+ hs (pro) white"
+      "searchText": "voxelpla petg petg+ hs (pro) white"
     },
     {
-      "id": "voxel-pla-voxelpetg-hs-pro-yellow",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-petg-hs-pro-yellow",
+      "brand": "Voxelpla",
       "material": "PETG",
-      "name": "VOXELPETG+ HS (Pro) Yellow",
+      "name": "PETG+ HS (Pro) Yellow",
       "hex": "#f5e457",
-      "searchText": "voxel pla petg voxelpetg+ hs (pro) yellow"
+      "searchText": "voxelpla petg petg+ hs (pro) yellow"
     },
     {
-      "id": "voxel-pla-pla-hs-pro-army-green",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-pla-hs-pro-army-green",
+      "brand": "Voxelpla",
       "material": "PLA",
       "name": "PLA+ HS (Pro) Army Green",
       "hex": "#6e8451",
-      "searchText": "voxel pla pla pla+ hs (pro) army green"
+      "searchText": "voxelpla pla pla+ hs (pro) army green"
     },
     {
-      "id": "voxel-pla-pla-hs-pro-brown",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-pla-hs-pro-brown",
+      "brand": "Voxelpla",
       "material": "PLA",
       "name": "PLA+ HS (Pro) Brown",
       "hex": "#935c34",
-      "searchText": "voxel pla pla pla+ hs (pro) brown"
+      "searchText": "voxelpla pla pla+ hs (pro) brown"
     },
     {
-      "id": "voxel-pla-pla-hs-pro-cool-white",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-pla-hs-pro-champagne-beige",
+      "brand": "Voxelpla",
+      "material": "PLA",
+      "name": "PLA+ HS (Pro) Champagne Beige",
+      "hex": "#f7e7ce",
+      "searchText": "voxelpla pla pla+ hs (pro) champagne beige"
+    },
+    {
+      "id": "voxelpla-pla-hs-pro-cool-white",
+      "brand": "Voxelpla",
       "material": "PLA",
       "name": "PLA+ HS (Pro) Cool White",
       "hex": "#efefef",
-      "searchText": "voxel pla pla pla+ hs (pro) cool white"
+      "searchText": "voxelpla pla pla+ hs (pro) cool white"
     },
     {
-      "id": "voxel-pla-pla-hs-pro-dark-purple",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-pla-hs-pro-dark-brown",
+      "brand": "Voxelpla",
+      "material": "PLA",
+      "name": "PLA+ HS (Pro) Dark Brown",
+      "hex": "#5c3018",
+      "searchText": "voxelpla pla pla+ hs (pro) dark brown"
+    },
+    {
+      "id": "voxelpla-pla-hs-pro-dark-purple",
+      "brand": "Voxelpla",
       "material": "PLA",
       "name": "PLA+ HS (Pro) Dark Purple",
       "hex": "#6c47b2",
-      "searchText": "voxel pla pla pla+ hs (pro) dark purple"
+      "searchText": "voxelpla pla pla+ hs (pro) dark purple"
     },
     {
-      "id": "voxel-pla-pla-hs-pro-fire-engine-red",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-pla-hs-pro-fire-engine-red",
+      "brand": "Voxelpla",
       "material": "PLA",
       "name": "PLA+ HS (Pro) Fire Engine Red",
       "hex": "#e20010",
-      "searchText": "voxel pla pla pla+ hs (pro) fire engine red"
+      "searchText": "voxelpla pla pla+ hs (pro) fire engine red"
     },
     {
-      "id": "voxel-pla-pla-hs-pro-fire-orange",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-pla-hs-pro-fire-orange",
+      "brand": "Voxelpla",
       "material": "PLA",
       "name": "PLA+ HS (Pro) Fire Orange",
       "hex": "#f67405",
-      "searchText": "voxel pla pla pla+ hs (pro) fire orange"
+      "searchText": "voxelpla pla pla+ hs (pro) fire orange"
     },
     {
-      "id": "voxel-pla-pla-hs-pro-forest-green",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-pla-hs-pro-forest-green",
+      "brand": "Voxelpla",
       "material": "PLA",
       "name": "PLA+ HS (Pro) Forest Green",
       "hex": "#32a584",
-      "searchText": "voxel pla pla pla+ hs (pro) forest green"
+      "searchText": "voxelpla pla pla+ hs (pro) forest green"
     },
     {
-      "id": "voxel-pla-pla-hs-pro-gold",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-pla-hs-pro-gold",
+      "brand": "Voxelpla",
       "material": "PLA",
       "name": "PLA+ HS (Pro) Gold",
       "hex": "#e3b145",
-      "searchText": "voxel pla pla pla+ hs (pro) gold"
+      "searchText": "voxelpla pla pla+ hs (pro) gold"
     },
     {
-      "id": "voxel-pla-pla-hs-pro-ice-clear",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-pla-hs-pro-ice-clear",
+      "brand": "Voxelpla",
       "material": "PLA",
       "name": "PLA+ HS (Pro) Ice Clear",
       "hex": "#e4e7e5",
-      "searchText": "voxel pla pla pla+ hs (pro) ice clear"
+      "searchText": "voxelpla pla pla+ hs (pro) ice clear"
     },
     {
-      "id": "voxel-pla-pla-hs-pro-lavender-purple",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-pla-hs-pro-lavender-purple",
+      "brand": "Voxelpla",
       "material": "PLA",
       "name": "PLA+ HS (Pro) Lavender Purple",
       "hex": "#aab1ff",
-      "searchText": "voxel pla pla pla+ hs (pro) lavender purple"
+      "searchText": "voxelpla pla pla+ hs (pro) lavender purple"
     },
     {
-      "id": "voxel-pla-pla-hs-pro-magenta",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-pla-hs-pro-magenta",
+      "brand": "Voxelpla",
       "material": "PLA",
       "name": "PLA+ HS (Pro) Magenta",
       "hex": "#f2306e",
-      "searchText": "voxel pla pla pla+ hs (pro) magenta"
+      "searchText": "voxelpla pla pla+ hs (pro) magenta"
     },
     {
-      "id": "voxel-pla-pla-hs-pro-pink",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-pla-hs-pro-pink",
+      "brand": "Voxelpla",
       "material": "PLA",
       "name": "PLA+ HS (Pro) Pink",
       "hex": "#f87fb5",
-      "searchText": "voxel pla pla pla+ hs (pro) pink"
+      "searchText": "voxelpla pla pla+ hs (pro) pink"
     },
     {
-      "id": "voxel-pla-pla-hs-pro-silver",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-pla-hs-pro-silver",
+      "brand": "Voxelpla",
       "material": "PLA",
       "name": "PLA+ HS (Pro) Silver",
       "hex": "#aabccf",
-      "searchText": "voxel pla pla pla+ hs (pro) silver"
+      "searchText": "voxelpla pla pla+ hs (pro) silver"
     },
     {
-      "id": "voxel-pla-pla-hs-pro-sky-blue",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-pla-hs-pro-sky-blue",
+      "brand": "Voxelpla",
       "material": "PLA",
       "name": "PLA+ HS (Pro) Sky Blue",
       "hex": "#39b9db",
-      "searchText": "voxel pla pla pla+ hs (pro) sky blue"
+      "searchText": "voxelpla pla pla+ hs (pro) sky blue"
     },
     {
-      "id": "voxel-pla-pla-hs-pro-voxel-black",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-pla-hs-pro-turquoise",
+      "brand": "Voxelpla",
+      "material": "PLA",
+      "name": "PLA+ HS (Pro) Turquoise",
+      "hex": "#40e0d0",
+      "searchText": "voxelpla pla pla+ hs (pro) turquoise"
+    },
+    {
+      "id": "voxelpla-pla-hs-pro-voxel-black",
+      "brand": "Voxelpla",
       "material": "PLA",
       "name": "PLA+ HS (Pro) Voxel Black",
       "hex": "#000000",
-      "searchText": "voxel pla pla pla+ hs (pro) voxel black"
+      "searchText": "voxelpla pla pla+ hs (pro) voxel black"
     },
     {
-      "id": "voxel-pla-pla-hs-pro-voxel-grey",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-pla-hs-pro-voxel-grey",
+      "brand": "Voxelpla",
       "material": "PLA",
       "name": "PLA+ HS (Pro) Voxel Grey",
       "hex": "#c3ccd5",
-      "searchText": "voxel pla pla pla+ hs (pro) voxel grey"
+      "searchText": "voxelpla pla pla+ hs (pro) voxel grey"
     },
     {
-      "id": "voxel-pla-pla-hs-pro-voxel-phantom-blue",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-pla-hs-pro-voxel-phantom-blue",
+      "brand": "Voxelpla",
       "material": "PLA",
       "name": "PLA+ HS (Pro) VOXEL Phantom Blue",
       "hex": "#003287",
-      "searchText": "voxel pla pla pla+ hs (pro) voxel phantom blue"
+      "searchText": "voxelpla pla pla+ hs (pro) voxel phantom blue"
     },
     {
-      "id": "voxel-pla-pla-hs-pro-voxel-royal-blue",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-pla-hs-pro-voxel-royal-blue",
+      "brand": "Voxelpla",
       "material": "PLA",
       "name": "PLA+ HS (Pro) Voxel Royal Blue",
       "hex": "#2e56f1",
-      "searchText": "voxel pla pla pla+ hs (pro) voxel royal blue"
+      "searchText": "voxelpla pla pla+ hs (pro) voxel royal blue"
     },
     {
-      "id": "voxel-pla-pla-hs-pro-witch-green",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-pla-hs-pro-witch-green",
+      "brand": "Voxelpla",
       "material": "PLA",
       "name": "PLA+ HS (Pro) Witch Green",
       "hex": "#58c91b",
-      "searchText": "voxel pla pla pla+ hs (pro) witch green"
+      "searchText": "voxelpla pla pla+ hs (pro) witch green"
     },
     {
-      "id": "voxel-pla-pla-hs-pro-wood",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-pla-hs-pro-wood",
+      "brand": "Voxelpla",
       "material": "PLA",
       "name": "PLA+ HS (Pro) Wood",
       "hex": "#dbc9ad",
-      "searchText": "voxel pla pla pla+ hs (pro) wood"
+      "searchText": "voxelpla pla pla+ hs (pro) wood"
     },
     {
-      "id": "voxel-pla-pla-hs-pro-yellow",
-      "brand": "Voxel PLA",
+      "id": "voxelpla-pla-hs-pro-yellow",
+      "brand": "Voxelpla",
       "material": "PLA",
       "name": "PLA+ HS (Pro) Yellow",
       "hex": "#fbe200",
-      "searchText": "voxel pla pla pla+ hs (pro) yellow"
+      "searchText": "voxelpla pla pla+ hs (pro) yellow"
     },
     {
       "id": "winkle-abs-glacier-white",
