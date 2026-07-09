@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-07-08T06:40:05.861Z",
-  "entryCount": 11731,
+  "lastSynced": "2026-07-09T07:54:38.310Z",
+  "entryCount": 11756,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -61582,6 +61582,190 @@
       "searchText": "polymaker petg fiberon™ petg-rcf08 black"
     },
     {
+      "id": "polymaker-petg-army-brown",
+      "brand": "Polymaker",
+      "material": "PETG",
+      "name": "PETG Army Brown",
+      "hex": "#1f1813",
+      "searchText": "polymaker petg petg army brown"
+    },
+    {
+      "id": "polymaker-petg-black",
+      "brand": "Polymaker",
+      "material": "PETG",
+      "name": "PETG Black",
+      "hex": "#070908",
+      "searchText": "polymaker petg petg black"
+    },
+    {
+      "id": "polymaker-petg-blue",
+      "brand": "Polymaker",
+      "material": "PETG",
+      "name": "PETG Blue",
+      "hex": "#1b3b99",
+      "searchText": "polymaker petg petg blue"
+    },
+    {
+      "id": "polymaker-petg-dark-blue",
+      "brand": "Polymaker",
+      "material": "PETG",
+      "name": "PETG Dark Blue",
+      "hex": "#081b36",
+      "searchText": "polymaker petg petg dark blue"
+    },
+    {
+      "id": "polymaker-petg-dark-green",
+      "brand": "Polymaker",
+      "material": "PETG",
+      "name": "PETG Dark Green",
+      "hex": "#223622",
+      "searchText": "polymaker petg petg dark green"
+    },
+    {
+      "id": "polymaker-petg-dark-grey",
+      "brand": "Polymaker",
+      "material": "PETG",
+      "name": "PETG Dark Grey",
+      "hex": "#363d40",
+      "searchText": "polymaker petg petg dark grey"
+    },
+    {
+      "id": "polymaker-petg-electric-blue",
+      "brand": "Polymaker",
+      "material": "PETG",
+      "name": "PETG Electric Blue",
+      "hex": "#3e8ce4",
+      "searchText": "polymaker petg petg electric blue"
+    },
+    {
+      "id": "polymaker-petg-galaxy-black",
+      "brand": "Polymaker",
+      "material": "PETG",
+      "name": "PETG Galaxy Black",
+      "hex": "#070908",
+      "searchText": "polymaker petg petg galaxy black"
+    },
+    {
+      "id": "polymaker-petg-galaxy-blue",
+      "brand": "Polymaker",
+      "material": "PETG",
+      "name": "PETG Galaxy Blue",
+      "hex": "#012c61",
+      "searchText": "polymaker petg petg galaxy blue"
+    },
+    {
+      "id": "polymaker-petg-galaxy-dark-grey",
+      "brand": "Polymaker",
+      "material": "PETG",
+      "name": "PETG Galaxy Dark Grey",
+      "hex": "#474648",
+      "searchText": "polymaker petg petg galaxy dark grey"
+    },
+    {
+      "id": "polymaker-petg-galaxy-red",
+      "brand": "Polymaker",
+      "material": "PETG",
+      "name": "PETG Galaxy Red",
+      "hex": "#bf1a11",
+      "searchText": "polymaker petg petg galaxy red"
+    },
+    {
+      "id": "polymaker-petg-green",
+      "brand": "Polymaker",
+      "material": "PETG",
+      "name": "PETG Green",
+      "hex": "#38b837",
+      "searchText": "polymaker petg petg green"
+    },
+    {
+      "id": "polymaker-petg-grey",
+      "brand": "Polymaker",
+      "material": "PETG",
+      "name": "PETG Grey",
+      "hex": "#a7aeb2",
+      "searchText": "polymaker petg petg grey"
+    },
+    {
+      "id": "polymaker-petg-lime",
+      "brand": "Polymaker",
+      "material": "PETG",
+      "name": "PETG Lime",
+      "hex": "#f8ff6b",
+      "searchText": "polymaker petg petg lime"
+    },
+    {
+      "id": "polymaker-petg-magenta",
+      "brand": "Polymaker",
+      "material": "PETG",
+      "name": "PETG Magenta",
+      "hex": "#dc5d8c",
+      "searchText": "polymaker petg petg magenta"
+    },
+    {
+      "id": "polymaker-petg-orange",
+      "brand": "Polymaker",
+      "material": "PETG",
+      "name": "PETG Orange",
+      "hex": "#dc7c40",
+      "searchText": "polymaker petg petg orange"
+    },
+    {
+      "id": "polymaker-petg-pink",
+      "brand": "Polymaker",
+      "material": "PETG",
+      "name": "PETG Pink",
+      "hex": "#f5bee9",
+      "searchText": "polymaker petg petg pink"
+    },
+    {
+      "id": "polymaker-petg-purple",
+      "brand": "Polymaker",
+      "material": "PETG",
+      "name": "PETG Purple",
+      "hex": "#6947b8",
+      "searchText": "polymaker petg petg purple"
+    },
+    {
+      "id": "polymaker-petg-red",
+      "brand": "Polymaker",
+      "material": "PETG",
+      "name": "PETG Red",
+      "hex": "#c23320",
+      "searchText": "polymaker petg petg red"
+    },
+    {
+      "id": "polymaker-petg-silver",
+      "brand": "Polymaker",
+      "material": "PETG",
+      "name": "PETG Silver",
+      "hex": "#707478",
+      "searchText": "polymaker petg petg silver"
+    },
+    {
+      "id": "polymaker-petg-teal",
+      "brand": "Polymaker",
+      "material": "PETG",
+      "name": "PETG Teal",
+      "hex": "#74cabf",
+      "searchText": "polymaker petg petg teal"
+    },
+    {
+      "id": "polymaker-petg-white",
+      "brand": "Polymaker",
+      "material": "PETG",
+      "name": "PETG White",
+      "hex": "#f8faf8",
+      "searchText": "polymaker petg petg white"
+    },
+    {
+      "id": "polymaker-petg-yellow",
+      "brand": "Polymaker",
+      "material": "PETG",
+      "name": "PETG Yellow",
+      "hex": "#fbe95c",
+      "searchText": "polymaker petg petg yellow"
+    },
+    {
       "id": "polymaker-polylite-petg",
       "brand": "Polymaker",
       "material": "PETG",
@@ -63002,7 +63186,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Silk PLA Black",
-      "hex": "#000000",
+      "hex": "#363538",
       "searchText": "polymaker pla panchroma™ silk pla black"
     },
     {
@@ -63010,7 +63194,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Silk PLA Blue",
-      "hex": "#0378d0",
+      "hex": "#4999c9",
       "searchText": "polymaker pla panchroma™ silk pla blue"
     },
     {
@@ -63018,7 +63202,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Silk PLA Brass",
-      "hex": "#998d58",
+      "hex": "#968162",
       "searchText": "polymaker pla panchroma™ silk pla brass"
     },
     {
@@ -63026,7 +63210,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Silk PLA Bronze",
-      "hex": "#b5522b",
+      "hex": "#af6b4c",
       "searchText": "polymaker pla panchroma™ silk pla bronze"
     },
     {
@@ -63034,7 +63218,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Silk PLA Chrome",
-      "hex": "#91c2cc",
+      "hex": "#85898b",
       "searchText": "polymaker pla panchroma™ silk pla chrome"
     },
     {
@@ -63050,7 +63234,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Silk PLA Dark Blue",
-      "hex": "#0e21ae",
+      "hex": "#081b36",
       "searchText": "polymaker pla panchroma™ silk pla dark blue"
     },
     {
@@ -63058,7 +63242,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Silk PLA Gold",
-      "hex": "#e3b145",
+      "hex": "#c49449",
       "searchText": "polymaker pla panchroma™ silk pla gold"
     },
     {
@@ -63066,7 +63250,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Silk PLA Green",
-      "hex": "#26a648",
+      "hex": "#55b687",
       "searchText": "polymaker pla panchroma™ silk pla green"
     },
     {
@@ -63074,7 +63258,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Silk PLA Gunmetal Grey",
-      "hex": "#828e88",
+      "hex": "#676b6a",
       "searchText": "polymaker pla panchroma™ silk pla gunmetal grey"
     },
     {
@@ -63082,7 +63266,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Silk PLA Light Blue",
-      "hex": "#36dbe7",
+      "hex": "#4cc1cb",
       "searchText": "polymaker pla panchroma™ silk pla light blue"
     },
     {
@@ -63090,7 +63274,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Silk PLA Lime",
-      "hex": "#91c500",
+      "hex": "#c4cf4c",
       "searchText": "polymaker pla panchroma™ silk pla lime"
     },
     {
@@ -63098,7 +63282,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Silk PLA Magenta",
-      "hex": "#c80181",
+      "hex": "#aa538e",
       "searchText": "polymaker pla panchroma™ silk pla magenta"
     },
     {
@@ -63106,7 +63290,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Silk PLA Orange",
-      "hex": "#f97429",
+      "hex": "#eb6232",
       "searchText": "polymaker pla panchroma™ silk pla orange"
     },
     {
@@ -63114,8 +63298,16 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Silk PLA Peridot Green",
-      "hex": "#849662",
+      "hex": "#7f865b",
       "searchText": "polymaker pla panchroma™ silk pla peridot green"
+    },
+    {
+      "id": "polymaker-panchroma-silk-pla-periwinkle",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Silk PLA Periwinkle",
+      "hex": "#768ec7",
+      "searchText": "polymaker pla panchroma™ silk pla periwinkle"
     },
     {
       "id": "polymaker-panchroma-silk-pla-pezriwinkle",
@@ -63138,7 +63330,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Silk PLA Purple",
-      "hex": "#6c47b2",
+      "hex": "#786bb0",
       "searchText": "polymaker pla panchroma™ silk pla purple"
     },
     {
@@ -63146,7 +63338,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Silk PLA Quartz Pink",
-      "hex": "#ffcccd",
+      "hex": "#dbbbbb",
       "searchText": "polymaker pla panchroma™ silk pla quartz pink"
     },
     {
@@ -63154,7 +63346,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Silk PLA Rose",
-      "hex": "#ff0078",
+      "hex": "#cf6076",
       "searchText": "polymaker pla panchroma™ silk pla rose"
     },
     {
@@ -63162,15 +63354,23 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Silk PLA Rose Gold",
-      "hex": "#d2afb5",
+      "hex": "#cbb0b1",
       "searchText": "polymaker pla panchroma™ silk pla rose gold"
+    },
+    {
+      "id": "polymaker-panchroma-silk-pla-silk-red",
+      "brand": "Polymaker",
+      "material": "PLA",
+      "name": "Panchroma™ Silk PLA Silk Red",
+      "hex": "#c1443f",
+      "searchText": "polymaker pla panchroma™ silk pla silk red"
     },
     {
       "id": "polymaker-panchroma-silk-pla-silver",
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Silk PLA Silver",
-      "hex": "#a8b0bd",
+      "hex": "#bcc2c8",
       "searchText": "polymaker pla panchroma™ silk pla silver"
     },
     {
@@ -63178,7 +63378,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Silk PLA Teal",
-      "hex": "#00b4bc",
+      "hex": "#66c2b6",
       "searchText": "polymaker pla panchroma™ silk pla teal"
     },
     {
@@ -63186,7 +63386,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Silk PLA White",
-      "hex": "#e6eaef",
+      "hex": "#dfe4e4",
       "searchText": "polymaker pla panchroma™ silk pla white"
     },
     {
@@ -63194,7 +63394,7 @@
       "brand": "Polymaker",
       "material": "PLA",
       "name": "Panchroma™ Silk PLA Yellow",
-      "hex": "#fffb00",
+      "hex": "#eec810",
       "searchText": "polymaker pla panchroma™ silk pla yellow"
     },
     {
