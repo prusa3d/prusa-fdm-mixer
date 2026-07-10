@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-07-09T07:54:38.310Z",
-  "entryCount": 11756,
+  "lastSynced": "2026-07-10T07:54:11.466Z",
+  "entryCount": 11784,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -60734,11 +60734,155 @@
       "searchText": "polar filament tpu vivid orange flexible tpu-60d"
     },
     {
+      "id": "polymaker-abs-max-black",
+      "brand": "Polymaker",
+      "material": "ABS",
+      "name": "ABS Max Black",
+      "hex": "#040403",
+      "searchText": "polymaker abs abs max black"
+    },
+    {
+      "id": "polymaker-abs-max-blue",
+      "brand": "Polymaker",
+      "material": "ABS",
+      "name": "ABS Max Blue",
+      "hex": "#1b3373",
+      "searchText": "polymaker abs abs max blue"
+    },
+    {
+      "id": "polymaker-abs-max-green",
+      "brand": "Polymaker",
+      "material": "ABS",
+      "name": "ABS Max Green",
+      "hex": "#50a260",
+      "searchText": "polymaker abs abs max green"
+    },
+    {
+      "id": "polymaker-abs-max-grey",
+      "brand": "Polymaker",
+      "material": "ABS",
+      "name": "ABS Max Grey",
+      "hex": "#c6cdd3",
+      "searchText": "polymaker abs abs max grey"
+    },
+    {
+      "id": "polymaker-abs-max-red",
+      "brand": "Polymaker",
+      "material": "ABS",
+      "name": "ABS Max Red",
+      "hex": "#f53649",
+      "searchText": "polymaker abs abs max red"
+    },
+    {
+      "id": "polymaker-abs-max-white",
+      "brand": "Polymaker",
+      "material": "ABS",
+      "name": "ABS Max White",
+      "hex": "#ebece9",
+      "searchText": "polymaker abs abs max white"
+    },
+    {
+      "id": "polymaker-abs-pro-black",
+      "brand": "Polymaker",
+      "material": "ABS",
+      "name": "ABS Pro Black",
+      "hex": "#040403",
+      "searchText": "polymaker abs abs pro black"
+    },
+    {
+      "id": "polymaker-abs-pro-blue",
+      "brand": "Polymaker",
+      "material": "ABS",
+      "name": "ABS Pro Blue",
+      "hex": "#1b3373",
+      "searchText": "polymaker abs abs pro blue"
+    },
+    {
+      "id": "polymaker-abs-pro-galaxy-black",
+      "brand": "Polymaker",
+      "material": "ABS",
+      "name": "ABS Pro Galaxy Black",
+      "hex": "#000000",
+      "searchText": "polymaker abs abs pro galaxy black"
+    },
+    {
+      "id": "polymaker-abs-pro-galaxy-dark-grey",
+      "brand": "Polymaker",
+      "material": "ABS",
+      "name": "ABS Pro Galaxy Dark Grey",
+      "hex": "#575b54",
+      "searchText": "polymaker abs abs pro galaxy dark grey"
+    },
+    {
+      "id": "polymaker-abs-pro-green",
+      "brand": "Polymaker",
+      "material": "ABS",
+      "name": "ABS Pro Green",
+      "hex": "#50a260",
+      "searchText": "polymaker abs abs pro green"
+    },
+    {
+      "id": "polymaker-abs-pro-grey",
+      "brand": "Polymaker",
+      "material": "ABS",
+      "name": "ABS Pro Grey",
+      "hex": "#c6cdd3",
+      "searchText": "polymaker abs abs pro grey"
+    },
+    {
+      "id": "polymaker-abs-pro-orange",
+      "brand": "Polymaker",
+      "material": "ABS",
+      "name": "ABS Pro Orange",
+      "hex": "#fe9b42",
+      "searchText": "polymaker abs abs pro orange"
+    },
+    {
+      "id": "polymaker-abs-pro-red",
+      "brand": "Polymaker",
+      "material": "ABS",
+      "name": "ABS Pro Red",
+      "hex": "#f53649",
+      "searchText": "polymaker abs abs pro red"
+    },
+    {
+      "id": "polymaker-abs-pro-teal",
+      "brand": "Polymaker",
+      "material": "ABS",
+      "name": "ABS Pro Teal",
+      "hex": "#46dbd1",
+      "searchText": "polymaker abs abs pro teal"
+    },
+    {
+      "id": "polymaker-abs-pro-voron-red",
+      "brand": "Polymaker",
+      "material": "ABS",
+      "name": "ABS Pro Voron Red",
+      "hex": "#ad2723",
+      "searchText": "polymaker abs abs pro voron red"
+    },
+    {
+      "id": "polymaker-abs-pro-white",
+      "brand": "Polymaker",
+      "material": "ABS",
+      "name": "ABS Pro White",
+      "hex": "#ebece9",
+      "searchText": "polymaker abs abs pro white"
+    },
+    {
+      "id": "polymaker-abs-pro-yellow",
+      "brand": "Polymaker",
+      "material": "ABS",
+      "name": "ABS Pro Yellow",
+      "hex": "#fad341",
+      "searchText": "polymaker abs abs pro yellow"
+    },
+    {
       "id": "polymaker-polylite-abs-black",
       "brand": "Polymaker",
       "material": "ABS",
       "name": "PolyLite™ ABS Black",
-      "hex": "#000000",
+      "hex": "#16161a",
       "searchText": "polymaker abs polylite™ abs black"
     },
     {
@@ -60746,7 +60890,7 @@
       "brand": "Polymaker",
       "material": "ABS",
       "name": "PolyLite™ ABS Blue",
-      "hex": "#2941bd",
+      "hex": "#003576",
       "searchText": "polymaker abs polylite™ abs blue"
     },
     {
@@ -60754,7 +60898,7 @@
       "brand": "Polymaker",
       "material": "ABS",
       "name": "PolyLite™ ABS Dark Grey",
-      "hex": "#5a696c",
+      "hex": "#474648",
       "searchText": "polymaker abs polylite™ abs dark grey"
     },
     {
@@ -60762,7 +60906,7 @@
       "brand": "Polymaker",
       "material": "ABS",
       "name": "PolyLite™ ABS Dark Purple",
-      "hex": "#492972",
+      "hex": "#46394e",
       "searchText": "polymaker abs polylite™ abs dark purple"
     },
     {
@@ -60770,7 +60914,7 @@
       "brand": "Polymaker",
       "material": "ABS",
       "name": "PolyLite™ ABS Gold",
-      "hex": "#aa6500",
+      "hex": "#bd6200",
       "searchText": "polymaker abs polylite™ abs gold"
     },
     {
@@ -60778,7 +60922,7 @@
       "brand": "Polymaker",
       "material": "ABS",
       "name": "PolyLite™ ABS Green",
-      "hex": "#06924d",
+      "hex": "#479161",
       "searchText": "polymaker abs polylite™ abs green"
     },
     {
@@ -60786,7 +60930,7 @@
       "brand": "Polymaker",
       "material": "ABS",
       "name": "PolyLite™ ABS Grey",
-      "hex": "#959fa1",
+      "hex": "#8c8d93",
       "searchText": "polymaker abs polylite™ abs grey"
     },
     {
@@ -60794,7 +60938,7 @@
       "brand": "Polymaker",
       "material": "ABS",
       "name": "PolyLite™ ABS Light Blue",
-      "hex": "#36dbe7",
+      "hex": "#8edbeb",
       "searchText": "polymaker abs polylite™ abs light blue"
     },
     {
@@ -60802,7 +60946,7 @@
       "brand": "Polymaker",
       "material": "ABS",
       "name": "PolyLite™ ABS Lime",
-      "hex": "#dede00",
+      "hex": "#c4d100",
       "searchText": "polymaker abs polylite™ abs lime"
     },
     {
@@ -60810,7 +60954,7 @@
       "brand": "Polymaker",
       "material": "ABS",
       "name": "PolyLite™ ABS Natural",
-      "hex": "#f2efe9",
+      "hex": "#dfd3c3",
       "searchText": "polymaker abs polylite™ abs natural"
     },
     {
@@ -60818,7 +60962,7 @@
       "brand": "Polymaker",
       "material": "ABS",
       "name": "PolyLite™ ABS Orange",
-      "hex": "#f97429",
+      "hex": "#f57517",
       "searchText": "polymaker abs polylite™ abs orange"
     },
     {
@@ -60826,7 +60970,7 @@
       "brand": "Polymaker",
       "material": "ABS",
       "name": "PolyLite™ ABS Pink",
-      "hex": "#f09bb5",
+      "hex": "#ffa7c4",
       "searchText": "polymaker abs polylite™ abs pink"
     },
     {
@@ -60842,7 +60986,7 @@
       "brand": "Polymaker",
       "material": "ABS",
       "name": "PolyLite™ ABS Purple",
-      "hex": "#6c5bb1",
+      "hex": "#6545a5",
       "searchText": "polymaker abs polylite™ abs purple"
     },
     {
@@ -60850,7 +60994,7 @@
       "brand": "Polymaker",
       "material": "ABS",
       "name": "PolyLite™ ABS Red",
-      "hex": "#e72f1d",
+      "hex": "#f3442b",
       "searchText": "polymaker abs polylite™ abs red"
     },
     {
@@ -60858,7 +61002,7 @@
       "brand": "Polymaker",
       "material": "ABS",
       "name": "PolyLite™ ABS Teal",
-      "hex": "#00b4bc",
+      "hex": "#01acba",
       "searchText": "polymaker abs polylite™ abs teal"
     },
     {
@@ -60866,7 +61010,7 @@
       "brand": "Polymaker",
       "material": "ABS",
       "name": "PolyLite™ ABS White",
-      "hex": "#ffffff",
+      "hex": "#f0ebe8",
       "searchText": "polymaker abs polylite™ abs white"
     },
     {
@@ -60874,7 +61018,7 @@
       "brand": "Polymaker",
       "material": "ABS",
       "name": "PolyLite™ ABS Yellow",
-      "hex": "#f3c102",
+      "hex": "#eda900",
       "searchText": "polymaker abs polylite™ abs yellow"
     },
     {
@@ -60882,7 +61026,7 @@
       "brand": "Polymaker",
       "material": "ABS",
       "name": "PolyLite™ Galaxy ABS Black",
-      "hex": "#000000",
+      "hex": "#17161a",
       "searchText": "polymaker abs polylite™ galaxy abs black"
     },
     {
@@ -60890,7 +61034,7 @@
       "brand": "Polymaker",
       "material": "ABS",
       "name": "PolyLite™ Galaxy ABS Dark Grey",
-      "hex": "#6a6c6e",
+      "hex": "#474648",
       "searchText": "polymaker abs polylite™ galaxy abs dark grey"
     },
     {
@@ -60898,7 +61042,7 @@
       "brand": "Polymaker",
       "material": "ABS",
       "name": "PolyLite™ Galaxy ABS Orange",
-      "hex": "#f97429",
+      "hex": "#f57517",
       "searchText": "polymaker abs polylite™ galaxy abs orange"
     },
     {
@@ -60906,7 +61050,7 @@
       "brand": "Polymaker",
       "material": "ABS",
       "name": "PolyLite™ Galaxy ABS Purple",
-      "hex": "#6c5bb1",
+      "hex": "#6545a5",
       "searchText": "polymaker abs polylite™ galaxy abs purple"
     },
     {
@@ -60914,7 +61058,7 @@
       "brand": "Polymaker",
       "material": "ABS",
       "name": "PolyLite™ Galaxy ABS Teal",
-      "hex": "#00b4bc",
+      "hex": "#2dccd3",
       "searchText": "polymaker abs polylite™ galaxy abs teal"
     },
     {
@@ -60922,7 +61066,7 @@
       "brand": "Polymaker",
       "material": "ABS",
       "name": "PolyLite™ Metallic ABS Blue",
-      "hex": "#033877",
+      "hex": "#0d2441",
       "searchText": "polymaker abs polylite™ metallic abs blue"
     },
     {
@@ -60930,8 +61074,40 @@
       "brand": "Polymaker",
       "material": "ABS",
       "name": "PolyLite™ Metallic ABS Green",
-      "hex": "#2a422d",
+      "hex": "#3d441e",
       "searchText": "polymaker abs polylite™ metallic abs green"
+    },
+    {
+      "id": "polymaker-polylite-neon-abs-green",
+      "brand": "Polymaker",
+      "material": "ABS",
+      "name": "PolyLite™ Neon ABS Green",
+      "hex": "#77f0a2",
+      "searchText": "polymaker abs polylite™ neon abs green"
+    },
+    {
+      "id": "polymaker-polylite-neon-abs-magenta",
+      "brand": "Polymaker",
+      "material": "ABS",
+      "name": "PolyLite™ Neon ABS Magenta",
+      "hex": "#f6162e",
+      "searchText": "polymaker abs polylite™ neon abs magenta"
+    },
+    {
+      "id": "polymaker-polylite-neon-abs-orange",
+      "brand": "Polymaker",
+      "material": "ABS",
+      "name": "PolyLite™ Neon ABS Orange",
+      "hex": "#fe602b",
+      "searchText": "polymaker abs polylite™ neon abs orange"
+    },
+    {
+      "id": "polymaker-polylite-neon-abs-yellow",
+      "brand": "Polymaker",
+      "material": "ABS",
+      "name": "PolyLite™ Neon ABS Yellow",
+      "hex": "#ffc001",
+      "searchText": "polymaker abs polylite™ neon abs yellow"
     },
     {
       "id": "polymaker-polylite-asa-army-brown",
@@ -61562,15 +61738,63 @@
       "brand": "Polymaker",
       "material": "PET",
       "name": "Fiberon™ PET-CF17 Black",
-      "hex": "#000000",
+      "hex": "#302e2f",
       "searchText": "polymaker pet fiberon™ pet-cf17 black"
+    },
+    {
+      "id": "polymaker-fiberon-pet-gf15-black",
+      "brand": "Polymaker",
+      "material": "PET",
+      "name": "Fiberon™ PET-GF15 Black",
+      "hex": "#000000",
+      "searchText": "polymaker pet fiberon™ pet-gf15 black"
+    },
+    {
+      "id": "polymaker-fiberon-pet-gf15-blue",
+      "brand": "Polymaker",
+      "material": "PET",
+      "name": "Fiberon™ PET-GF15 Blue",
+      "hex": "#6e9eff",
+      "searchText": "polymaker pet fiberon™ pet-gf15 blue"
+    },
+    {
+      "id": "polymaker-fiberon-pet-gf15-dark-grey",
+      "brand": "Polymaker",
+      "material": "PET",
+      "name": "Fiberon™ PET-GF15 Dark Grey",
+      "hex": "#0f191f",
+      "searchText": "polymaker pet fiberon™ pet-gf15 dark grey"
+    },
+    {
+      "id": "polymaker-fiberon-pet-gf15-light-grey",
+      "brand": "Polymaker",
+      "material": "PET",
+      "name": "Fiberon™ PET-GF15 Light Grey",
+      "hex": "#a9abaf",
+      "searchText": "polymaker pet fiberon™ pet-gf15 light grey"
+    },
+    {
+      "id": "polymaker-fiberon-pet-gf15-red",
+      "brand": "Polymaker",
+      "material": "PET",
+      "name": "Fiberon™ PET-GF15 Red",
+      "hex": "#cc0033",
+      "searchText": "polymaker pet fiberon™ pet-gf15 red"
+    },
+    {
+      "id": "polymaker-fiberon-pet-gf15-white",
+      "brand": "Polymaker",
+      "material": "PET",
+      "name": "Fiberon™ PET-GF15 White",
+      "hex": "#ffffff",
+      "searchText": "polymaker pet fiberon™ pet-gf15 white"
     },
     {
       "id": "polymaker-fiberon-petg-esd-black",
       "brand": "Polymaker",
       "material": "PETG",
       "name": "Fiberon™ PETG-ESD Black",
-      "hex": "#000000",
+      "hex": "#161618",
       "searchText": "polymaker petg fiberon™ petg-esd black"
     },
     {
@@ -61578,7 +61802,7 @@
       "brand": "Polymaker",
       "material": "PETG",
       "name": "Fiberon™ PETG-rCF08 Black",
-      "hex": "#000000",
+      "hex": "#302e2f",
       "searchText": "polymaker petg fiberon™ petg-rcf08 black"
     },
     {
@@ -61978,7 +62202,7 @@
       "brand": "Polymaker",
       "material": "PETG",
       "name": "PolyMax™ PETG Black",
-      "hex": "#000000",
+      "hex": "#181718",
       "searchText": "polymaker petg polymax™ petg black"
     },
     {
@@ -61986,7 +62210,7 @@
       "brand": "Polymaker",
       "material": "PETG",
       "name": "PolyMax™ PETG White",
-      "hex": "#ffffff",
+      "hex": "#efeceb",
       "searchText": "polymaker petg polymax™ petg white"
     },
     {
