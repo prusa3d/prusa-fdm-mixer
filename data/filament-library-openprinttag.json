@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-07-14T06:27:56.798Z",
-  "entryCount": 11784,
+  "lastSynced": "2026-07-15T06:30:07.885Z",
+  "entryCount": 11789,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -70574,6 +70574,14 @@
       "searchText": "prusament pc pc blend jet black"
     },
     {
+      "id": "prusament-pc-blend-light-grey",
+      "brand": "Prusament",
+      "material": "PC",
+      "name": "PC Blend Light Grey",
+      "hex": "#d7d7d7",
+      "searchText": "prusament pc pc blend light grey"
+    },
+    {
       "id": "prusament-pc-blend-natural",
       "brand": "Prusament",
       "material": "PC",
@@ -71238,6 +71246,14 @@
       "searchText": "prusament pla pla recycled"
     },
     {
+      "id": "prusament-pla-sakura-pink",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "PLA Sakura Pink",
+      "hex": "#fcd9e5",
+      "searchText": "prusament pla pla sakura pink"
+    },
+    {
       "id": "prusament-pla-simply-green",
       "brand": "Prusament",
       "material": "PLA",
@@ -71374,12 +71390,36 @@
       "searchText": "prusament tpu tpu 95a natural"
     },
     {
+      "id": "prusament-tpu-95a-prusa-galaxy-black",
+      "brand": "Prusament",
+      "material": "TPU",
+      "name": "TPU 95A Prusa Galaxy Black",
+      "hex": "#292929",
+      "searchText": "prusament tpu tpu 95a prusa galaxy black"
+    },
+    {
       "id": "prusament-tpu-95a-ultramarine-blue",
       "brand": "Prusament",
       "material": "TPU",
       "name": "TPU 95A Ultramarine Blue",
       "hex": "#1a0076",
       "searchText": "prusament tpu tpu 95a ultramarine blue"
+    },
+    {
+      "id": "prusament-woodfill-birch-white",
+      "brand": "Prusament",
+      "material": "Wood",
+      "name": "Woodfill Birch White",
+      "hex": "#d9cdad",
+      "searchText": "prusament wood woodfill birch white"
+    },
+    {
+      "id": "prusament-woodfill-charcoal-black",
+      "brand": "Prusament",
+      "material": "Wood",
+      "name": "Woodfill Charcoal Black",
+      "hex": "#000000",
+      "searchText": "prusament wood woodfill charcoal black"
     },
     {
       "id": "prusament-woodfill-chocolate-brown",
