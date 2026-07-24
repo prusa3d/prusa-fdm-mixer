@@ -192,10 +192,16 @@ function fitLinear(measured: number[], truth: number[]): LinearFit {
   const n = valid.length;
   const sumX = valid.reduce((a, [x]) => a + x, 0);
   const sumY = valid.reduce((a, [, y]) => a + y, 0);
+  const meanX = sumX / n;
+  const meanY = sumY / n;
+
+  const varY = valid.reduce((a, [, y]) => a + (y - meanY) ** 2, 0) / n;
+  if (varY < 1) return { m: 1, c: meanY - meanX };
+
   const sumXY = valid.reduce((a, [x, y]) => a + x * y, 0);
   const sumXX = valid.reduce((a, [x]) => a + x * x, 0);
   const denom = n * sumXX - sumX * sumX;
-  if (Math.abs(denom) < 1e-9) return { m: 1, c: sumY / n - sumX / n };
+  if (Math.abs(denom) < 1e-9) return { m: 1, c: meanY - meanX };
   const m = (n * sumXY - sumX * sumY) / denom;
   const c = (sumY - m * sumX) / n;
   return { m, c };
@@ -490,8 +496,14 @@ function updateSamplePreview(): SamplePreview | null {
 
   const corrected = correctSampleWith(activeMethod, [Lraw, araw, braw]);
   const r = renderForLab(...corrected);
+  const rawR = renderForLab(Lraw, araw, braw);
 
   swatchEl.innerHTML = `
+    <div class="swatch-cell">
+      <div class="swatch-fill" style="background:${rawR.mindeHex}"></div>
+      <span class="swatch-tag">Measured (raw)</span>
+      <span class="swatch-hex">${rawR.mindeHex.toUpperCase()}</span>
+    </div>
     <div class="swatch-cell">
       <div class="swatch-fill" style="background:${r.labCss}"></div>
       <span class="swatch-tag">Lab native</span>
