@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-07-23T06:41:21.256Z",
-  "entryCount": 11789,
+  "lastSynced": "2026-07-24T06:41:26.763Z",
+  "entryCount": 11829,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -91484,6 +91484,326 @@
       "name": "Tefabloc TPE White",
       "hex": "#ffffff",
       "searchText": "verbatim tpe tefabloc tpe white"
+    },
+    {
+      "id": "voolt3d-pla-amarelo-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Amarelo High Speed Premium",
+      "hex": "#f6fb38",
+      "searchText": "voolt3d pla pla amarelo high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-amarelo-macaron-velvet-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Amarelo Macaron Velvet High Speed Premium",
+      "hex": "#f1eb9c",
+      "searchText": "voolt3d pla pla amarelo macaron velvet high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-amarelo-velvet-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Amarelo Velvet High Speed Premium",
+      "hex": "#fad61b",
+      "searchText": "voolt3d pla pla amarelo velvet high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-azul-cyan-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Azul Cyan High Speed Premium",
+      "hex": "#6fcaef",
+      "searchText": "voolt3d pla pla azul cyan high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-azul-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Azul High Speed Premium",
+      "hex": "#1f79e5",
+      "searchText": "voolt3d pla pla azul high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-azul-macaron-velvet-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Azul Macaron Velvet High Speed Premium",
+      "hex": "#5ebddb",
+      "searchText": "voolt3d pla pla azul macaron velvet high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-azul-velvet-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Azul Velvet High Speed Premium",
+      "hex": "#465fef",
+      "searchText": "voolt3d pla pla azul velvet high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-bege-caucasiano-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Bege Caucasiano High Speed Premium",
+      "hex": "#f3cfb2",
+      "searchText": "voolt3d pla pla bege caucasiano high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-bege-caucasiano-velvet-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Bege Caucasiano Velvet High Speed Premium",
+      "hex": "#e9d1c1",
+      "searchText": "voolt3d pla pla bege caucasiano velvet high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-branco-off-white-velvet-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Branco Off White Velvet High Speed Premium",
+      "hex": "#ebeced",
+      "searchText": "voolt3d pla pla branco off white velvet high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-branco-velvet-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Branco Velvet High Speed Premium",
+      "hex": "#fafafa",
+      "searchText": "voolt3d pla pla branco velvet high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-cinza-claro-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Cinza Claro High Speed Premium",
+      "hex": "#b1b3c5",
+      "searchText": "voolt3d pla pla cinza claro high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-cinza-claro-velvet-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Cinza Claro Velvet High Speed Premium",
+      "hex": "#9fa4a8",
+      "searchText": "voolt3d pla pla cinza claro velvet high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-cinza-grafite-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Cinza Grafite High Speed Premium",
+      "hex": "#676b6a",
+      "searchText": "voolt3d pla pla cinza grafite high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-cinza-grafite-velvet-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Cinza Grafite Velvet High Speed Premium",
+      "hex": "#4a4949",
+      "searchText": "voolt3d pla pla cinza grafite velvet high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-grafeno-velvet",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Grafeno Velvet",
+      "hex": "#363538",
+      "searchText": "voolt3d pla pla grafeno velvet"
+    },
+    {
+      "id": "voolt3d-pla-laranja-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Laranja High Speed Premium",
+      "hex": "#ff9100",
+      "searchText": "voolt3d pla pla laranja high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-laranja-macaron-velvet-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Laranja Macaron Velvet High Speed Premium",
+      "hex": "#ff8d5c",
+      "searchText": "voolt3d pla pla laranja macaron velvet high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-lilas-macaron-velvet-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Lilás Macaron Velvet High Speed Premium",
+      "hex": "#dea0ee",
+      "searchText": "voolt3d pla pla lilás macaron velvet high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-marrom-cappuccino-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Marrom Cappuccino High Speed Premium",
+      "hex": "#e5b7a0",
+      "searchText": "voolt3d pla pla marrom cappuccino high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-marrom-cappuccino-velvet-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Marrom Cappuccino Velvet High Speed Premium",
+      "hex": "#ffa683",
+      "searchText": "voolt3d pla pla marrom cappuccino velvet high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-marrom-caramelo-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Marrom Caramelo High Speed Premium",
+      "hex": "#febe5f",
+      "searchText": "voolt3d pla pla marrom caramelo high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-marrom-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Marrom High Speed Premium",
+      "hex": "#7c4d48",
+      "searchText": "voolt3d pla pla marrom high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-marrom-velvet-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Marrom Velvet High Speed Premium",
+      "hex": "#7e472a",
+      "searchText": "voolt3d pla pla marrom velvet high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-preto-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Preto High Speed Premium",
+      "hex": "#232323",
+      "searchText": "voolt3d pla pla preto high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-preto-velvet-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Preto Velvet High Speed Premium",
+      "hex": "#312f2f",
+      "searchText": "voolt3d pla pla preto velvet high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-rosa-bebe-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Rosa Bebê High Speed Premium",
+      "hex": "#ffbdd1",
+      "searchText": "voolt3d pla pla rosa bebê high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-rosa-bebe-velvet-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Rosa Bebê Velvet High Speed Premium",
+      "hex": "#fca2bf",
+      "searchText": "voolt3d pla pla rosa bebê velvet high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-rosa-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Rosa High Speed Premium",
+      "hex": "#ff00d3",
+      "searchText": "voolt3d pla pla rosa high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-rosa-purpura-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Rosa Púrpura High Speed Premium",
+      "hex": "#ec008c",
+      "searchText": "voolt3d pla pla rosa púrpura high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-roxo-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Roxo High Speed Premium",
+      "hex": "#cd00d7",
+      "searchText": "voolt3d pla pla roxo high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-verde-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Verde High Speed Premium",
+      "hex": "#08d461",
+      "searchText": "voolt3d pla pla verde high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-verde-macaron-velvet-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Verde Macaron Velvet High Speed Premium",
+      "hex": "#63c6a3",
+      "searchText": "voolt3d pla pla verde macaron velvet high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-verde-oliva-velvet-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Verde Oliva Velvet High Speed Premium",
+      "hex": "#80ba77",
+      "searchText": "voolt3d pla pla verde oliva velvet high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-verde-tiffany-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Verde Tiffany High Speed Premium",
+      "hex": "#40e0d0",
+      "searchText": "voolt3d pla pla verde tiffany high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-verde-velvet-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Verde Velvet High Speed Premium",
+      "hex": "#0ccf81",
+      "searchText": "voolt3d pla pla verde velvet high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-vermelho-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Vermelho High Speed Premium",
+      "hex": "#ed0000",
+      "searchText": "voolt3d pla pla vermelho high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-vermelho-macaron-velvet-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Vermelho Macaron Velvet High Speed Premium",
+      "hex": "#ff9999",
+      "searchText": "voolt3d pla pla vermelho macaron velvet high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-vermelho-marsala-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Vermelho Marsala High Speed Premium",
+      "hex": "#ce0058",
+      "searchText": "voolt3d pla pla vermelho marsala high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-vermelho-velvet-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Vermelho Velvet High Speed Premium",
+      "hex": "#f71818",
+      "searchText": "voolt3d pla pla vermelho velvet high speed premium"
     },
     {
       "id": "voxelpla-petg-hs-pro-black",
