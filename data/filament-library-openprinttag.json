@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-07-28T06:43:04.314Z",
-  "entryCount": 11829,
+  "lastSynced": "2026-07-29T06:47:02.201Z",
+  "entryCount": 11830,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -70556,6 +70556,14 @@
       "name": "PA11 Carbon Fiber Black",
       "hex": "#292929",
       "searchText": "prusament pa11 pa11 carbon fiber black"
+    },
+    {
+      "id": "prusament-pa11-natural",
+      "brand": "Prusament",
+      "material": "PA11",
+      "name": "PA11 Natural",
+      "hex": "#f2f2f2",
+      "searchText": "prusament pa11 pa11 natural"
     },
     {
       "id": "prusament-pc-blend-carbon-fiber-black",
