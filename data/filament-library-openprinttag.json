@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-07-29T06:47:02.201Z",
-  "entryCount": 11830,
+  "lastSynced": "2026-07-30T06:43:45.827Z",
+  "entryCount": 11832,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -70740,6 +70740,22 @@
       "name": "PETG Matte Black",
       "hex": "#303635",
       "searchText": "prusament petg petg matte black"
+    },
+    {
+      "id": "prusament-petg-matte-noctua-beige",
+      "brand": "Prusament",
+      "material": "PETG",
+      "name": "PETG Matte Noctua Beige",
+      "hex": "#e7ceb4",
+      "searchText": "prusament petg petg matte noctua beige"
+    },
+    {
+      "id": "prusament-petg-matte-noctua-brown",
+      "brand": "Prusament",
+      "material": "PETG",
+      "name": "PETG Matte Noctua Brown",
+      "hex": "#653525",
+      "searchText": "prusament petg petg matte noctua brown"
     },
     {
       "id": "prusament-petg-neon-green",
