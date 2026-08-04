@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-08-03T07:49:56.450Z",
-  "entryCount": 11832,
+  "lastSynced": "2026-08-04T06:42:53.187Z",
+  "entryCount": 11912,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -61110,6 +61110,222 @@
       "searchText": "polymaker abs polylite™ neon abs yellow"
     },
     {
+      "id": "polymaker-asa-army-brown",
+      "brand": "Polymaker",
+      "material": "ASA",
+      "name": "ASA Army Brown",
+      "hex": "#624234",
+      "searchText": "polymaker asa asa army brown"
+    },
+    {
+      "id": "polymaker-asa-army-green",
+      "brand": "Polymaker",
+      "material": "ASA",
+      "name": "ASA Army Green",
+      "hex": "#5c5e31",
+      "searchText": "polymaker asa asa army green"
+    },
+    {
+      "id": "polymaker-asa-black",
+      "brand": "Polymaker",
+      "material": "ASA",
+      "name": "ASA Black",
+      "hex": "#17161a",
+      "searchText": "polymaker asa asa black"
+    },
+    {
+      "id": "polymaker-asa-blue",
+      "brand": "Polymaker",
+      "material": "ASA",
+      "name": "ASA Blue",
+      "hex": "#003576",
+      "searchText": "polymaker asa asa blue"
+    },
+    {
+      "id": "polymaker-asa-dark-gray-green",
+      "brand": "Polymaker",
+      "material": "ASA",
+      "name": "ASA Dark Gray Green",
+      "hex": "#4c5f46",
+      "searchText": "polymaker asa asa dark gray green"
+    },
+    {
+      "id": "polymaker-asa-dark-grey",
+      "brand": "Polymaker",
+      "material": "ASA",
+      "name": "ASA Dark Grey",
+      "hex": "#48474a",
+      "searchText": "polymaker asa asa dark grey"
+    },
+    {
+      "id": "polymaker-asa-dark-purple",
+      "brand": "Polymaker",
+      "material": "ASA",
+      "name": "ASA Dark Purple",
+      "hex": "#46394e",
+      "searchText": "polymaker asa asa dark purple"
+    },
+    {
+      "id": "polymaker-asa-green",
+      "brand": "Polymaker",
+      "material": "ASA",
+      "name": "ASA Green",
+      "hex": "#2e784d",
+      "searchText": "polymaker asa asa green"
+    },
+    {
+      "id": "polymaker-asa-grey",
+      "brand": "Polymaker",
+      "material": "ASA",
+      "name": "ASA Grey",
+      "hex": "#8d8e92",
+      "searchText": "polymaker asa asa grey"
+    },
+    {
+      "id": "polymaker-asa-jet-black",
+      "brand": "Polymaker",
+      "material": "ASA",
+      "name": "ASA Jet Black",
+      "hex": "#16161a",
+      "searchText": "polymaker asa asa jet black"
+    },
+    {
+      "id": "polymaker-asa-natural",
+      "brand": "Polymaker",
+      "material": "ASA",
+      "name": "ASA Natural",
+      "hex": "#dfd3c3",
+      "searchText": "polymaker asa asa natural"
+    },
+    {
+      "id": "polymaker-asa-olive-brown",
+      "brand": "Polymaker",
+      "material": "ASA",
+      "name": "ASA Olive Brown",
+      "hex": "#a79565",
+      "searchText": "polymaker asa asa olive brown"
+    },
+    {
+      "id": "polymaker-asa-orange",
+      "brand": "Polymaker",
+      "material": "ASA",
+      "name": "ASA Orange",
+      "hex": "#f37716",
+      "searchText": "polymaker asa asa orange"
+    },
+    {
+      "id": "polymaker-asa-pop-blue",
+      "brand": "Polymaker",
+      "material": "ASA",
+      "name": "ASA Pop Blue",
+      "hex": "#008dc3",
+      "searchText": "polymaker asa asa pop blue"
+    },
+    {
+      "id": "polymaker-asa-pop-green",
+      "brand": "Polymaker",
+      "material": "ASA",
+      "name": "ASA Pop Green",
+      "hex": "#77d730",
+      "searchText": "polymaker asa asa pop green"
+    },
+    {
+      "id": "polymaker-asa-pop-pink",
+      "brand": "Polymaker",
+      "material": "ASA",
+      "name": "ASA Pop Pink",
+      "hex": "#d83076",
+      "searchText": "polymaker asa asa pop pink"
+    },
+    {
+      "id": "polymaker-asa-purple",
+      "brand": "Polymaker",
+      "material": "ASA",
+      "name": "ASA Purple",
+      "hex": "#5f4793",
+      "searchText": "polymaker asa asa purple"
+    },
+    {
+      "id": "polymaker-asa-red",
+      "brand": "Polymaker",
+      "material": "ASA",
+      "name": "ASA Red",
+      "hex": "#d82b1c",
+      "searchText": "polymaker asa asa red"
+    },
+    {
+      "id": "polymaker-asa-teal",
+      "brand": "Polymaker",
+      "material": "ASA",
+      "name": "ASA Teal",
+      "hex": "#0094a4",
+      "searchText": "polymaker asa asa teal"
+    },
+    {
+      "id": "polymaker-asa-white",
+      "brand": "Polymaker",
+      "material": "ASA",
+      "name": "ASA White",
+      "hex": "#dbd7d6",
+      "searchText": "polymaker asa asa white"
+    },
+    {
+      "id": "polymaker-asa-yellow",
+      "brand": "Polymaker",
+      "material": "ASA",
+      "name": "ASA Yellow",
+      "hex": "#eec000",
+      "searchText": "polymaker asa asa yellow"
+    },
+    {
+      "id": "polymaker-fiberon-asa-cf08-black",
+      "brand": "Polymaker",
+      "material": "ASA",
+      "name": "Fiberon™ ASA-CF08 Black",
+      "hex": "#000000",
+      "searchText": "polymaker asa fiberon™ asa-cf08 black"
+    },
+    {
+      "id": "polymaker-fiberon-asa-cf08-dark-grey",
+      "brand": "Polymaker",
+      "material": "ASA",
+      "name": "Fiberon™ ASA-CF08 Dark Grey",
+      "hex": "#4d5e70",
+      "searchText": "polymaker asa fiberon™ asa-cf08 dark grey"
+    },
+    {
+      "id": "polymaker-fiberon-asa-cf08-dark-red",
+      "brand": "Polymaker",
+      "material": "ASA",
+      "name": "Fiberon™ ASA-CF08 Dark Red",
+      "hex": "#855261",
+      "searchText": "polymaker asa fiberon™ asa-cf08 dark red"
+    },
+    {
+      "id": "polymaker-fiberon-asa-cf08-desert-sand",
+      "brand": "Polymaker",
+      "material": "ASA",
+      "name": "Fiberon™ ASA-CF08 Desert Sand",
+      "hex": "#ceb69c",
+      "searchText": "polymaker asa fiberon™ asa-cf08 desert sand"
+    },
+    {
+      "id": "polymaker-fiberon-asa-cf08-light-grey",
+      "brand": "Polymaker",
+      "material": "ASA",
+      "name": "Fiberon™ ASA-CF08 Light Grey",
+      "hex": "#adc4d6",
+      "searchText": "polymaker asa fiberon™ asa-cf08 light grey"
+    },
+    {
+      "id": "polymaker-fiberon-asa-cf08-navy-blue",
+      "brand": "Polymaker",
+      "material": "ASA",
+      "name": "Fiberon™ ASA-CF08 Navy Blue",
+      "hex": "#30548e",
+      "searchText": "polymaker asa fiberon™ asa-cf08 navy blue"
+    },
+    {
       "id": "polymaker-polylite-asa-army-brown",
       "brand": "Polymaker",
       "material": "ASA",
@@ -61330,7 +61546,7 @@
       "brand": "Polymaker",
       "material": "CPE",
       "name": "Panchroma™ CoPE Aqua Blue",
-      "hex": "#5fbcdd",
+      "hex": "#5ebddb",
       "searchText": "polymaker cpe panchroma™ cope aqua blue"
     },
     {
@@ -61338,7 +61554,7 @@
       "brand": "Polymaker",
       "material": "CPE",
       "name": "Panchroma™ CoPE Beige",
-      "hex": "#d8ba64",
+      "hex": "#c2ab72",
       "searchText": "polymaker cpe panchroma™ cope beige"
     },
     {
@@ -61346,7 +61562,7 @@
       "brand": "Polymaker",
       "material": "CPE",
       "name": "Panchroma™ CoPE Black",
-      "hex": "#000000",
+      "hex": "#080a0d",
       "searchText": "polymaker cpe panchroma™ cope black"
     },
     {
@@ -61354,7 +61570,7 @@
       "brand": "Polymaker",
       "material": "CPE",
       "name": "Panchroma™ CoPE Blue",
-      "hex": "#2941bd",
+      "hex": "#003776",
       "searchText": "polymaker cpe panchroma™ cope blue"
     },
     {
@@ -61362,7 +61578,7 @@
       "brand": "Polymaker",
       "material": "CPE",
       "name": "Panchroma™ CoPE Brown",
-      "hex": "#6e4325",
+      "hex": "#55331a",
       "searchText": "polymaker cpe panchroma™ cope brown"
     },
     {
@@ -61370,15 +61586,23 @@
       "brand": "Polymaker",
       "material": "CPE",
       "name": "Panchroma™ CoPE Cold White",
-      "hex": "#eaecf5",
+      "hex": "#d9dfe5",
       "searchText": "polymaker cpe panchroma™ cope cold white"
+    },
+    {
+      "id": "polymaker-panchroma-cope-cream",
+      "brand": "Polymaker",
+      "material": "CPE",
+      "name": "Panchroma™ CoPE Cream",
+      "hex": "#eed1a8",
+      "searchText": "polymaker cpe panchroma™ cope cream"
     },
     {
       "id": "polymaker-panchroma-cope-dark-grey",
       "brand": "Polymaker",
       "material": "CPE",
       "name": "Panchroma™ CoPE Dark Grey",
-      "hex": "#452f25",
+      "hex": "#485259",
       "searchText": "polymaker cpe panchroma™ cope dark grey"
     },
     {
@@ -61386,7 +61610,7 @@
       "brand": "Polymaker",
       "material": "CPE",
       "name": "Panchroma™ CoPE Green",
-      "hex": "#60ab61",
+      "hex": "#06924d",
       "searchText": "polymaker cpe panchroma™ cope green"
     },
     {
@@ -61394,7 +61618,7 @@
       "brand": "Polymaker",
       "material": "CPE",
       "name": "Panchroma™ CoPE Grey",
-      "hex": "#acb1ba",
+      "hex": "#8c9099",
       "searchText": "polymaker cpe panchroma™ cope grey"
     },
     {
@@ -61402,7 +61626,7 @@
       "brand": "Polymaker",
       "material": "CPE",
       "name": "Panchroma™ CoPE Jungle Green",
-      "hex": "#446b20",
+      "hex": "#4e742d",
       "searchText": "polymaker cpe panchroma™ cope jungle green"
     },
     {
@@ -61410,7 +61634,7 @@
       "brand": "Polymaker",
       "material": "CPE",
       "name": "Panchroma™ CoPE Lemon Yellow",
-      "hex": "#fadb24",
+      "hex": "#eed230",
       "searchText": "polymaker cpe panchroma™ cope lemon yellow"
     },
     {
@@ -61418,7 +61642,7 @@
       "brand": "Polymaker",
       "material": "CPE",
       "name": "Panchroma™ CoPE Lime Green",
-      "hex": "#dede00",
+      "hex": "#d5d701",
       "searchText": "polymaker cpe panchroma™ cope lime green"
     },
     {
@@ -61426,7 +61650,7 @@
       "brand": "Polymaker",
       "material": "CPE",
       "name": "Panchroma™ CoPE Magenta",
-      "hex": "#f2306e",
+      "hex": "#f24574",
       "searchText": "polymaker cpe panchroma™ cope magenta"
     },
     {
@@ -61434,7 +61658,7 @@
       "brand": "Polymaker",
       "material": "CPE",
       "name": "Panchroma™ CoPE Olive Drab Green",
-      "hex": "#4a463b",
+      "hex": "#575b54",
       "searchText": "polymaker cpe panchroma™ cope olive drab green"
     },
     {
@@ -61442,7 +61666,7 @@
       "brand": "Polymaker",
       "material": "CPE",
       "name": "Panchroma™ CoPE Olive Green",
-      "hex": "#857c00",
+      "hex": "#948902",
       "searchText": "polymaker cpe panchroma™ cope olive green"
     },
     {
@@ -61450,7 +61674,7 @@
       "brand": "Polymaker",
       "material": "CPE",
       "name": "Panchroma™ CoPE Orange",
-      "hex": "#f97429",
+      "hex": "#f67405",
       "searchText": "polymaker cpe panchroma™ cope orange"
     },
     {
@@ -61458,23 +61682,15 @@
       "brand": "Polymaker",
       "material": "CPE",
       "name": "Panchroma™ CoPE Pink",
-      "hex": "#fcafc0",
+      "hex": "#f1a1af",
       "searchText": "polymaker cpe panchroma™ cope pink"
-    },
-    {
-      "id": "polymaker-panchroma-cope-polymaker-teal",
-      "brand": "Polymaker",
-      "material": "CPE",
-      "name": "Panchroma™ CoPE Polymaker Teal",
-      "hex": "#00b4bc",
-      "searchText": "polymaker cpe panchroma™ cope polymaker teal"
     },
     {
       "id": "polymaker-panchroma-cope-purple",
       "brand": "Polymaker",
       "material": "CPE",
       "name": "Panchroma™ CoPE Purple",
-      "hex": "#6c5bb1",
+      "hex": "#6c47b2",
       "searchText": "polymaker cpe panchroma™ cope purple"
     },
     {
@@ -61482,7 +61698,7 @@
       "brand": "Polymaker",
       "material": "CPE",
       "name": "Panchroma™ CoPE Red",
-      "hex": "#e20010",
+      "hex": "#e72f1d",
       "searchText": "polymaker cpe panchroma™ cope red"
     },
     {
@@ -61490,7 +61706,7 @@
       "brand": "Polymaker",
       "material": "CPE",
       "name": "Panchroma™ CoPE Steel Grey",
-      "hex": "#bdc8c8",
+      "hex": "#616469",
       "searchText": "polymaker cpe panchroma™ cope steel grey"
     },
     {
@@ -61498,7 +61714,7 @@
       "brand": "Polymaker",
       "material": "CPE",
       "name": "Panchroma™ CoPE Stone Blue",
-      "hex": "#40719a",
+      "hex": "#487ba2",
       "searchText": "polymaker cpe panchroma™ cope stone blue"
     },
     {
@@ -61506,7 +61722,7 @@
       "brand": "Polymaker",
       "material": "CPE",
       "name": "Panchroma™ CoPE Tan",
-      "hex": "#926043",
+      "hex": "#a79e82",
       "searchText": "polymaker cpe panchroma™ cope tan"
     },
     {
@@ -61514,7 +61730,7 @@
       "brand": "Polymaker",
       "material": "CPE",
       "name": "Panchroma™ CoPE Teal",
-      "hex": "#00b4bc",
+      "hex": "#4cc0c7",
       "searchText": "polymaker cpe panchroma™ cope teal"
     },
     {
@@ -61522,7 +61738,7 @@
       "brand": "Polymaker",
       "material": "CPE",
       "name": "Panchroma™ CoPE White",
-      "hex": "#ffffff",
+      "hex": "#ebf7ff",
       "searchText": "polymaker cpe panchroma™ cope white"
     },
     {
@@ -61538,7 +61754,7 @@
       "brand": "Polymaker",
       "material": "CPE",
       "name": "Panchroma™ CoPE Yellow",
-      "hex": "#fbe200",
+      "hex": "#ffe800",
       "searchText": "polymaker cpe panchroma™ cope yellow"
     },
     {
@@ -61546,7 +61762,7 @@
       "brand": "Polymaker",
       "material": "PA12",
       "name": "Fiberon™ PA12-CF10 Black",
-      "hex": "#000000",
+      "hex": "#161618",
       "searchText": "polymaker pa12 fiberon™ pa12-cf10 black"
     },
     {
@@ -61554,7 +61770,7 @@
       "brand": "Polymaker",
       "material": "PA6",
       "name": "Fiberon™ PA6-CF20 Black",
-      "hex": "#000000",
+      "hex": "#312f2f",
       "searchText": "polymaker pa6 fiberon™ pa6-cf20 black"
     },
     {
@@ -61562,7 +61778,7 @@
       "brand": "Polymaker",
       "material": "PA6",
       "name": "Fiberon™ PA6-GF25 Grey",
-      "hex": "#6a6c6e",
+      "hex": "#75787b",
       "searchText": "polymaker pa6 fiberon™ pa6-gf25 grey"
     },
     {
@@ -61570,7 +61786,7 @@
       "brand": "Polymaker",
       "material": "PA6",
       "name": "PolyMide™ CoPA Black",
-      "hex": "#000000",
+      "hex": "#161618",
       "searchText": "polymaker pa6 polymide™ copa black"
     },
     {
@@ -61578,31 +61794,31 @@
       "brand": "Polymaker",
       "material": "PA6",
       "name": "PolyMide™ CoPA Natural",
-      "hex": "#f1e6b2",
+      "hex": "#e9dfd3",
       "searchText": "polymaker pa6 polymide™ copa natural"
-    },
-    {
-      "id": "polymaker-fiberon-pa612-cf15-black",
-      "brand": "Polymaker",
-      "material": "PA612",
-      "name": "Fiberon™ PA612-CF15 Black",
-      "hex": "#000000",
-      "searchText": "polymaker pa612 fiberon™ pa612-cf15 black"
     },
     {
       "id": "polymaker-fiberon-pa612-esd-black",
       "brand": "Polymaker",
       "material": "PA612",
       "name": "Fiberon™ PA612-ESD Black",
-      "hex": "#080a0d",
+      "hex": "#161618",
       "searchText": "polymaker pa612 fiberon™ pa612-esd black"
+    },
+    {
+      "id": "polymaker-fiberon-pa612-cf15-black",
+      "brand": "Polymaker",
+      "material": "PA612CF",
+      "name": "Fiberon™ PA612-CF15 Black",
+      "hex": "#312f2f",
+      "searchText": "polymaker pa612cf fiberon™ pa612-cf15 black"
     },
     {
       "id": "polymaker-pc-abs-black",
       "brand": "Polymaker",
       "material": "PC",
       "name": "PC-ABS Black",
-      "hex": "#000000",
+      "hex": "#161618",
       "searchText": "polymaker pc pc-abs black"
     },
     {
@@ -61610,7 +61826,7 @@
       "brand": "Polymaker",
       "material": "PC",
       "name": "PC-ABS White",
-      "hex": "#ffffff",
+      "hex": "#ddd6d4",
       "searchText": "polymaker pc pc-abs white"
     },
     {
@@ -61630,28 +61846,12 @@
       "searchText": "polymaker pc pc-pbt natural"
     },
     {
-      "id": "polymaker-polylite-pc-clear",
+      "id": "polymaker-polylite-pc-transparent",
       "brand": "Polymaker",
       "material": "PC",
-      "name": "PolyLite™ PC Clear",
-      "hex": "#e4e7e5",
-      "searchText": "polymaker pc polylite™ pc clear"
-    },
-    {
-      "id": "polymaker-polymaker-pc-abs-black",
-      "brand": "Polymaker",
-      "material": "PC",
-      "name": "Polymaker PC-ABS Black",
-      "hex": "#000000",
-      "searchText": "polymaker pc polymaker pc-abs black"
-    },
-    {
-      "id": "polymaker-polymaker-pc-abs-white",
-      "brand": "Polymaker",
-      "material": "PC",
-      "name": "Polymaker PC-ABS White",
-      "hex": "#ffffff",
-      "searchText": "polymaker pc polymaker pc-abs white"
+      "name": "PolyLite™ PC Transparent",
+      "hex": "#dad5d4",
+      "searchText": "polymaker pc polylite™ pc transparent"
     },
     {
       "id": "polymaker-polymaker-pc-pbt-black",
@@ -61674,7 +61874,7 @@
       "brand": "Polymaker",
       "material": "PC",
       "name": "PolyMax™ PC Black",
-      "hex": "#000000",
+      "hex": "#161619",
       "searchText": "polymaker pc polymax™ pc black"
     },
     {
@@ -61682,7 +61882,7 @@
       "brand": "Polymaker",
       "material": "PC",
       "name": "PolyMax™ PC Blue",
-      "hex": "#0353ba",
+      "hex": "#005dab",
       "searchText": "polymaker pc polymax™ pc blue"
     },
     {
@@ -61690,7 +61890,7 @@
       "brand": "Polymaker",
       "material": "PC",
       "name": "PolyMax™ PC Grey",
-      "hex": "#acb1ba",
+      "hex": "#75787b",
       "searchText": "polymaker pc polymax™ pc grey"
     },
     {
@@ -61698,7 +61898,7 @@
       "brand": "Polymaker",
       "material": "PC",
       "name": "PolyMax™ PC Red",
-      "hex": "#e20010",
+      "hex": "#da2a1e",
       "searchText": "polymaker pc polymax™ pc red"
     },
     {
@@ -61706,7 +61906,7 @@
       "brand": "Polymaker",
       "material": "PC",
       "name": "PolyMax™ PC White",
-      "hex": "#ffffff",
+      "hex": "#dcd7d5",
       "searchText": "polymaker pc polymax™ pc white"
     },
     {
@@ -61722,7 +61922,7 @@
       "brand": "Polymaker",
       "material": "PC",
       "name": "PolyMax™ PC-FR White",
-      "hex": "#ffffff",
+      "hex": "#f4eee8",
       "searchText": "polymaker pc polymax™ pc-fr white"
     },
     {
@@ -61730,7 +61930,7 @@
       "brand": "Polymaker",
       "material": "PCast",
       "name": "PolyCast™ Natural",
-      "hex": "#f2efe9",
+      "hex": "#e9dfd3",
       "searchText": "polymaker pcast polycast™ natural"
     },
     {
@@ -64890,87 +65090,23 @@
       "brand": "Polymaker",
       "material": "PPS",
       "name": "Fiberon™ PPS-CF10 Black",
-      "hex": "#000000",
+      "hex": "#302e2f",
       "searchText": "polymaker pps fiberon™ pps-cf10 black"
     },
     {
-      "id": "polymaker-polysmooth-black",
+      "id": "polymaker-fiberon-pps-gf20-grey",
       "brand": "Polymaker",
-      "material": "PSmooth",
-      "name": "PolySmooth™ Black",
-      "hex": "#000000",
-      "searchText": "polymaker psmooth polysmooth™ black"
-    },
-    {
-      "id": "polymaker-polysmooth-blue",
-      "brand": "Polymaker",
-      "material": "PSmooth",
-      "name": "PolySmooth™ Blue",
-      "hex": "#0378d0",
-      "searchText": "polymaker psmooth polysmooth™ blue"
-    },
-    {
-      "id": "polymaker-polysmooth-green",
-      "brand": "Polymaker",
-      "material": "PSmooth",
-      "name": "PolySmooth™ Green",
-      "hex": "#60ab61",
-      "searchText": "polymaker psmooth polysmooth™ green"
-    },
-    {
-      "id": "polymaker-polysmooth-orange",
-      "brand": "Polymaker",
-      "material": "PSmooth",
-      "name": "PolySmooth™ Orange",
-      "hex": "#f67405",
-      "searchText": "polymaker psmooth polysmooth™ orange"
-    },
-    {
-      "id": "polymaker-polysmooth-pink",
-      "brand": "Polymaker",
-      "material": "PSmooth",
-      "name": "PolySmooth™ Pink",
-      "hex": "#f4a0b1",
-      "searchText": "polymaker psmooth polysmooth™ pink"
-    },
-    {
-      "id": "polymaker-polysmooth-polymaker-teal",
-      "brand": "Polymaker",
-      "material": "PSmooth",
-      "name": "PolySmooth™ Polymaker Teal",
-      "hex": "#00b4bc",
-      "searchText": "polymaker psmooth polysmooth™ polymaker teal"
-    },
-    {
-      "id": "polymaker-polysmooth-slate-grey",
-      "brand": "Polymaker",
-      "material": "PSmooth",
-      "name": "PolySmooth™ Slate Grey",
-      "hex": "#91c2cc",
-      "searchText": "polymaker psmooth polysmooth™ slate grey"
-    },
-    {
-      "id": "polymaker-polysmooth-teal",
-      "brand": "Polymaker",
-      "material": "PSmooth",
-      "name": "PolySmooth™ Teal",
-      "hex": "#00b4bc",
-      "searchText": "polymaker psmooth polysmooth™ teal"
-    },
-    {
-      "id": "polymaker-polysmooth-white",
-      "brand": "Polymaker",
-      "material": "PSmooth",
-      "name": "PolySmooth™ White",
-      "hex": "#ffffff",
-      "searchText": "polymaker psmooth polysmooth™ white"
+      "material": "PPS",
+      "name": "Fiberon™ PPS-GF20 Grey",
+      "hex": "#75787b",
+      "searchText": "polymaker pps fiberon™ pps-gf20 grey"
     },
     {
       "id": "polymaker-polydissolve-s1-pva",
       "brand": "Polymaker",
       "material": "PVA",
       "name": "PolyDissolve™ S1 (PVA)",
-      "hex": "#f2efe9",
+      "hex": "#e9dfd3",
       "searchText": "polymaker pva polydissolve™ s1 (pva)"
     },
     {
@@ -64978,55 +65114,119 @@
       "brand": "Polymaker",
       "material": "PVB",
       "name": "PolySmooth™ Beige",
-      "hex": "#d8cf8c",
+      "hex": "#ebd591",
       "searchText": "polymaker pvb polysmooth™ beige"
     },
     {
-      "id": "polymaker-polysmooth-clear",
+      "id": "polymaker-polysmooth-black",
       "brand": "Polymaker",
       "material": "PVB",
-      "name": "PolySmooth™ Clear",
-      "hex": "#efe8d8",
-      "searchText": "polymaker pvb polysmooth™ clear"
+      "name": "PolySmooth™ Black",
+      "hex": "#161619",
+      "searchText": "polymaker pvb polysmooth™ black"
     },
     {
       "id": "polymaker-polysmooth-coral-red",
       "brand": "Polymaker",
       "material": "PVB",
       "name": "PolySmooth™ Coral Red",
-      "hex": "#df3303",
+      "hex": "#f04b2a",
       "searchText": "polymaker pvb polysmooth™ coral red"
+    },
+    {
+      "id": "polymaker-polysmooth-electric-blue",
+      "brand": "Polymaker",
+      "material": "PVB",
+      "name": "PolySmooth™ Electric Blue",
+      "hex": "#007abc",
+      "searchText": "polymaker pvb polysmooth™ electric blue"
+    },
+    {
+      "id": "polymaker-polysmooth-green",
+      "brand": "Polymaker",
+      "material": "PVB",
+      "name": "PolySmooth™ Green",
+      "hex": "#4ca743",
+      "searchText": "polymaker pvb polysmooth™ green"
+    },
+    {
+      "id": "polymaker-polysmooth-orange",
+      "brand": "Polymaker",
+      "material": "PVB",
+      "name": "PolySmooth™ Orange",
+      "hex": "#f5741b",
+      "searchText": "polymaker pvb polysmooth™ orange"
+    },
+    {
+      "id": "polymaker-polysmooth-pink",
+      "brand": "Polymaker",
+      "material": "PVB",
+      "name": "PolySmooth™ Pink",
+      "hex": "#f3a196",
+      "searchText": "polymaker pvb polysmooth™ pink"
+    },
+    {
+      "id": "polymaker-polysmooth-slate-grey",
+      "brand": "Polymaker",
+      "material": "PVB",
+      "name": "PolySmooth™ Slate Grey",
+      "hex": "#7da1aa",
+      "searchText": "polymaker pvb polysmooth™ slate grey"
+    },
+    {
+      "id": "polymaker-polysmooth-teal",
+      "brand": "Polymaker",
+      "material": "PVB",
+      "name": "PolySmooth™ Teal",
+      "hex": "#77d3dd",
+      "searchText": "polymaker pvb polysmooth™ teal"
+    },
+    {
+      "id": "polymaker-polysmooth-transparent",
+      "brand": "Polymaker",
+      "material": "PVB",
+      "name": "PolySmooth™ Transparent",
+      "hex": "#e8d9c3",
+      "searchText": "polymaker pvb polysmooth™ transparent"
+    },
+    {
+      "id": "polymaker-polysmooth-white",
+      "brand": "Polymaker",
+      "material": "PVB",
+      "name": "PolySmooth™ White",
+      "hex": "#f4eee8",
+      "searchText": "polymaker pvb polysmooth™ white"
     },
     {
       "id": "polymaker-polysmooth-yellow",
       "brand": "Polymaker",
       "material": "PVB",
       "name": "PolySmooth™ Yellow",
-      "hex": "#ffc946",
+      "hex": "#f5bd00",
       "searchText": "polymaker pvb polysmooth™ yellow"
     },
     {
-      "id": "polymaker-polysupport-for-pa12",
+      "id": "polymaker-polysupport-for-pa12-grass-green",
       "brand": "Polymaker",
       "material": "Support",
-      "name": "PolySupport™ for PA12",
-      "hex": "#bbdb4b",
-      "searchText": "polymaker support polysupport™ for pa12"
+      "name": "PolySupport™ for PA12 Grass Green",
+      "hex": "#ace063",
+      "searchText": "polymaker support polysupport™ for pa12 grass green"
     },
     {
-      "id": "polymaker-polysupport-for-pla",
+      "id": "polymaker-polysupport-for-pla-pearl-white",
       "brand": "Polymaker",
       "material": "Support",
-      "name": "PolySupport™ for PLA",
-      "hex": "#ffffff",
-      "searchText": "polymaker support polysupport™ for pla"
+      "name": "PolySupport™ for PLA Pearl White",
+      "hex": "#f6f1ec",
+      "searchText": "polymaker support polysupport™ for pla pearl white"
     },
     {
       "id": "polymaker-polyflex-tpu90-black",
       "brand": "Polymaker",
       "material": "TPU",
       "name": "PolyFlex™ TPU90 Black",
-      "hex": "#000000",
+      "hex": "#16161a",
       "searchText": "polymaker tpu polyflex™ tpu90 black"
     },
     {
@@ -65034,7 +65234,7 @@
       "brand": "Polymaker",
       "material": "TPU",
       "name": "PolyFlex™ TPU90 Clear",
-      "hex": "#e4e7e5",
+      "hex": "#dbd5d6",
       "searchText": "polymaker tpu polyflex™ tpu90 clear"
     },
     {
@@ -65042,23 +65242,15 @@
       "brand": "Polymaker",
       "material": "TPU",
       "name": "PolyFlex™ TPU90 Grey",
-      "hex": "#a2aaad",
+      "hex": "#80837c",
       "searchText": "polymaker tpu polyflex™ tpu90 grey"
-    },
-    {
-      "id": "polymaker-polyflex-tpu90-polymaker-teal",
-      "brand": "Polymaker",
-      "material": "TPU",
-      "name": "PolyFlex™ TPU90 Polymaker Teal",
-      "hex": "#00b4bc",
-      "searchText": "polymaker tpu polyflex™ tpu90 polymaker teal"
     },
     {
       "id": "polymaker-polyflex-tpu90-teal",
       "brand": "Polymaker",
       "material": "TPU",
       "name": "PolyFlex™ TPU90 Teal",
-      "hex": "#00b4bc",
+      "hex": "#01acba",
       "searchText": "polymaker tpu polyflex™ tpu90 teal"
     },
     {
@@ -65066,7 +65258,7 @@
       "brand": "Polymaker",
       "material": "TPU",
       "name": "PolyFlex™ TPU90 White",
-      "hex": "#ffffff",
+      "hex": "#f0ebe8",
       "searchText": "polymaker tpu polyflex™ tpu90 white"
     },
     {
@@ -65074,7 +65266,7 @@
       "brand": "Polymaker",
       "material": "TPU",
       "name": "PolyFlex™ TPU95 Black",
-      "hex": "#000000",
+      "hex": "#16161a",
       "searchText": "polymaker tpu polyflex™ tpu95 black"
     },
     {
@@ -65082,7 +65274,7 @@
       "brand": "Polymaker",
       "material": "TPU",
       "name": "PolyFlex™ TPU95 Blue",
-      "hex": "#0378d0",
+      "hex": "#338cc7",
       "searchText": "polymaker tpu polyflex™ tpu95 blue"
     },
     {
@@ -65090,7 +65282,7 @@
       "brand": "Polymaker",
       "material": "TPU",
       "name": "PolyFlex™ TPU95 Orange",
-      "hex": "#f97429",
+      "hex": "#f57517",
       "searchText": "polymaker tpu polyflex™ tpu95 orange"
     },
     {
@@ -65098,7 +65290,7 @@
       "brand": "Polymaker",
       "material": "TPU",
       "name": "PolyFlex™ TPU95 Red",
-      "hex": "#e20010",
+      "hex": "#f3442b",
       "searchText": "polymaker tpu polyflex™ tpu95 red"
     },
     {
@@ -65106,7 +65298,7 @@
       "brand": "Polymaker",
       "material": "TPU",
       "name": "PolyFlex™ TPU95 White",
-      "hex": "#ffffff",
+      "hex": "#f0ebe8",
       "searchText": "polymaker tpu polyflex™ tpu95 white"
     },
     {
@@ -65114,7 +65306,7 @@
       "brand": "Polymaker",
       "material": "TPU",
       "name": "PolyFlex™ TPU95 Yellow",
-      "hex": "#f3c102",
+      "hex": "#eda900",
       "searchText": "polymaker tpu polyflex™ tpu95 yellow"
     },
     {
@@ -65122,7 +65314,7 @@
       "brand": "Polymaker",
       "material": "TPU",
       "name": "PolyFlex™ TPU95-HF Black",
-      "hex": "#000000",
+      "hex": "#16161a",
       "searchText": "polymaker tpu polyflex™ tpu95-hf black"
     },
     {
@@ -65134,11 +65326,19 @@
       "searchText": "polymaker tpu polyflex™ tpu95-hf clear"
     },
     {
+      "id": "polymaker-polyflex-tpu95-hf-translucent-red",
+      "brand": "Polymaker",
+      "material": "TPU",
+      "name": "PolyFlex™ TPU95-HF Translucent Red",
+      "hex": "#b14241",
+      "searchText": "polymaker tpu polyflex™ tpu95-hf translucent red"
+    },
+    {
       "id": "polymaker-polyflex-tpu95-hf-white",
       "brand": "Polymaker",
       "material": "TPU",
       "name": "PolyFlex™ TPU95-HF White",
-      "hex": "#ffffff",
+      "hex": "#f0ebe8",
       "searchText": "polymaker tpu polyflex™ tpu95-hf white"
     },
     {
@@ -91510,6 +91710,206 @@
       "searchText": "verbatim tpe tefabloc tpe white"
     },
     {
+      "id": "voolt3d-petg-fibra-de-carbono",
+      "brand": "Voolt3D",
+      "material": "PETG",
+      "name": "PETG Fibra de Carbono",
+      "hex": "#000000",
+      "searchText": "voolt3d petg petg fibra de carbono"
+    },
+    {
+      "id": "voolt3d-petg-hf-amarelo-high-fluidity-premium",
+      "brand": "Voolt3D",
+      "material": "PETG",
+      "name": "PETG HF Amarelo High Fluidity Premium",
+      "hex": "#f4ee2a",
+      "searchText": "voolt3d petg petg hf amarelo high fluidity premium"
+    },
+    {
+      "id": "voolt3d-petg-hf-amarelo-ouro-translucido-high-fluidity-premium",
+      "brand": "Voolt3D",
+      "material": "PETG",
+      "name": "PETG HF Amarelo Ouro Translúcido High Fluidity Premium",
+      "hex": "#f6fb38",
+      "searchText": "voolt3d petg petg hf amarelo ouro translúcido high fluidity premium"
+    },
+    {
+      "id": "voolt3d-petg-hf-azul-high-fluidity-premium",
+      "brand": "Voolt3D",
+      "material": "PETG",
+      "name": "PETG HF Azul High Fluidity Premium",
+      "hex": "#4f03d7",
+      "searchText": "voolt3d petg petg hf azul high fluidity premium"
+    },
+    {
+      "id": "voolt3d-petg-hf-azul-marinho-translucido-high-fluidity-premium",
+      "brand": "Voolt3D",
+      "material": "PETG",
+      "name": "PETG HF Azul Marinho Translúcido High Fluidity Premium",
+      "hex": "#4f03d7",
+      "searchText": "voolt3d petg petg hf azul marinho translúcido high fluidity premium"
+    },
+    {
+      "id": "voolt3d-petg-hf-bege-caucasiano-high-fluidity-premium",
+      "brand": "Voolt3D",
+      "material": "PETG",
+      "name": "PETG HF Bege Caucasiano High Fluidity Premium",
+      "hex": "#cca482",
+      "searchText": "voolt3d petg petg hf bege caucasiano high fluidity premium"
+    },
+    {
+      "id": "voolt3d-petg-hf-branco-dental-high-fluidity-premium",
+      "brand": "Voolt3D",
+      "material": "PETG",
+      "name": "PETG HF Branco Dental High Fluidity Premium",
+      "hex": "#eaecf5",
+      "searchText": "voolt3d petg petg hf branco dental high fluidity premium"
+    },
+    {
+      "id": "voolt3d-petg-hf-cinza-claro-high-fluidity-premium",
+      "brand": "Voolt3D",
+      "material": "PETG",
+      "name": "PETG HF Cinza Claro High Fluidity Premium",
+      "hex": "#8c9099",
+      "searchText": "voolt3d petg petg hf cinza claro high fluidity premium"
+    },
+    {
+      "id": "voolt3d-petg-hf-cinza-grafite-high-fluidity-premium",
+      "brand": "Voolt3D",
+      "material": "PETG",
+      "name": "PETG HF Cinza Grafite High Fluidity Premium",
+      "hex": "#45444a",
+      "searchText": "voolt3d petg petg hf cinza grafite high fluidity premium"
+    },
+    {
+      "id": "voolt3d-petg-hf-laranja-high-fluidity-premium",
+      "brand": "Voolt3D",
+      "material": "PETG",
+      "name": "PETG HF Laranja High Fluidity Premium",
+      "hex": "#fe8401",
+      "searchText": "voolt3d petg petg hf laranja high fluidity premium"
+    },
+    {
+      "id": "voolt3d-petg-hf-laranja-neon-translucido-high-fluidity-premium",
+      "brand": "Voolt3D",
+      "material": "PETG",
+      "name": "PETG HF Laranja Neon Translúcido High Fluidity Premium",
+      "hex": "#ff3a00",
+      "searchText": "voolt3d petg petg hf laranja neon translúcido high fluidity premium"
+    },
+    {
+      "id": "voolt3d-petg-hf-laranja-translucido-high-fluidity-premium",
+      "brand": "Voolt3D",
+      "material": "PETG",
+      "name": "PETG HF Laranja Translúcido High Fluidity Premium",
+      "hex": "#fe5000",
+      "searchText": "voolt3d petg petg hf laranja translúcido high fluidity premium"
+    },
+    {
+      "id": "voolt3d-petg-hf-marrom-cappuccino-high-fluidity-premium",
+      "brand": "Voolt3D",
+      "material": "PETG",
+      "name": "PETG HF Marrom Cappuccino High Fluidity Premium",
+      "hex": "#a96d49",
+      "searchText": "voolt3d petg petg hf marrom cappuccino high fluidity premium"
+    },
+    {
+      "id": "voolt3d-petg-hf-marrom-high-fluidity-premium",
+      "brand": "Voolt3D",
+      "material": "PETG",
+      "name": "PETG HF Marrom High Fluidity Premium",
+      "hex": "#6d342d",
+      "searchText": "voolt3d petg petg hf marrom high fluidity premium"
+    },
+    {
+      "id": "voolt3d-petg-hf-natural-translucido-high-fluidity-premium",
+      "brand": "Voolt3D",
+      "material": "PETG",
+      "name": "PETG HF Natural Translúcido High Fluidity Premium",
+      "hex": "#e4e7e5",
+      "searchText": "voolt3d petg petg hf natural translúcido high fluidity premium"
+    },
+    {
+      "id": "voolt3d-petg-hf-preto-high-fluidity-premium",
+      "brand": "Voolt3D",
+      "material": "PETG",
+      "name": "PETG HF Preto High Fluidity Premium",
+      "hex": "#1d1d1d",
+      "searchText": "voolt3d petg petg hf preto high fluidity premium"
+    },
+    {
+      "id": "voolt3d-petg-hf-rosa-cereja-neon-translucido-high-fluidity-premium",
+      "brand": "Voolt3D",
+      "material": "PETG",
+      "name": "PETG HF Rosa Cereja Neon Translúcido High Fluidity Premium",
+      "hex": "#ff0039",
+      "searchText": "voolt3d petg petg hf rosa cereja neon translúcido high fluidity premium"
+    },
+    {
+      "id": "voolt3d-petg-hf-roxo-translucido-high-fluidity-premium",
+      "brand": "Voolt3D",
+      "material": "PETG",
+      "name": "PETG HF Roxo Translúcido High Fluidity Premium",
+      "hex": "#6802bc",
+      "searchText": "voolt3d petg petg hf roxo translúcido high fluidity premium"
+    },
+    {
+      "id": "voolt3d-petg-hf-verde-high-fluidity-premium",
+      "brand": "Voolt3D",
+      "material": "PETG",
+      "name": "PETG HF Verde High Fluidity Premium",
+      "hex": "#00b65c",
+      "searchText": "voolt3d petg petg hf verde high fluidity premium"
+    },
+    {
+      "id": "voolt3d-petg-hf-verde-limao-translucido-high-fluidity-premium",
+      "brand": "Voolt3D",
+      "material": "PETG",
+      "name": "PETG HF Verde Limão Translúcido High Fluidity Premium",
+      "hex": "#d0ed03",
+      "searchText": "voolt3d petg petg hf verde limão translúcido high fluidity premium"
+    },
+    {
+      "id": "voolt3d-petg-hf-verde-neon-translucido-high-fluidity-premium",
+      "brand": "Voolt3D",
+      "material": "PETG",
+      "name": "PETG HF Verde Neon Translúcido High Fluidity Premium",
+      "hex": "#00f03c",
+      "searchText": "voolt3d petg petg hf verde neon translúcido high fluidity premium"
+    },
+    {
+      "id": "voolt3d-petg-hf-verde-oliva-high-fluidity-premium",
+      "brand": "Voolt3D",
+      "material": "PETG",
+      "name": "PETG HF Verde Oliva High Fluidity Premium",
+      "hex": "#4e7642",
+      "searchText": "voolt3d petg petg hf verde oliva high fluidity premium"
+    },
+    {
+      "id": "voolt3d-petg-hf-vermelho-high-fluidity-premium",
+      "brand": "Voolt3D",
+      "material": "PETG",
+      "name": "PETG HF Vermelho High Fluidity Premium",
+      "hex": "#fc0000",
+      "searchText": "voolt3d petg petg hf vermelho high fluidity premium"
+    },
+    {
+      "id": "voolt3d-petg-hf-vermelho-translucido-high-fluidity-premium",
+      "brand": "Voolt3D",
+      "material": "PETG",
+      "name": "PETG HF Vermelho Translúcido High Fluidity Premium",
+      "hex": "#fc0000",
+      "searchText": "voolt3d petg petg hf vermelho translúcido high fluidity premium"
+    },
+    {
+      "id": "voolt3d-pla-aluminio-v-silk-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Alumínio V-Silk High Speed Premium",
+      "hex": "#999596",
+      "searchText": "voolt3d pla pla alumínio v-silk high speed premium"
+    },
+    {
       "id": "voolt3d-pla-amarelo-high-speed-premium",
       "brand": "Voolt3D",
       "material": "PLA",
@@ -91524,6 +91924,14 @@
       "name": "PLA Amarelo Macaron Velvet High Speed Premium",
       "hex": "#f1eb9c",
       "searchText": "voolt3d pla pla amarelo macaron velvet high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-amarelo-v-silk-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Amarelo V-Silk High Speed Premium",
+      "hex": "#eeea44",
+      "searchText": "voolt3d pla pla amarelo v-silk high speed premium"
     },
     {
       "id": "voolt3d-pla-amarelo-velvet-high-speed-premium",
@@ -91558,6 +91966,38 @@
       "searchText": "voolt3d pla pla azul macaron velvet high speed premium"
     },
     {
+      "id": "voolt3d-pla-azul-metalizado-v-silk-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Azul Metalizado V-Silk High Speed Premium",
+      "hex": "#338cc7",
+      "searchText": "voolt3d pla pla azul metalizado v-silk high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-azul-safira-v-silk-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Azul Safira V-Silk High Speed Premium",
+      "hex": "#09048e",
+      "searchText": "voolt3d pla pla azul safira v-silk high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-azul-sky-v-silk-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Azul Sky V-Silk High Speed Premium",
+      "hex": "#3466cb",
+      "searchText": "voolt3d pla pla azul sky v-silk high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-azul-titanium-v-silk-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Azul Titanium V-Silk High Speed Premium",
+      "hex": "#5b618f",
+      "searchText": "voolt3d pla pla azul titanium v-silk high speed premium"
+    },
+    {
       "id": "voolt3d-pla-azul-velvet-high-speed-premium",
       "brand": "Voolt3D",
       "material": "PLA",
@@ -91590,12 +92030,36 @@
       "searchText": "voolt3d pla pla branco off white velvet high speed premium"
     },
     {
+      "id": "voolt3d-pla-branco-perola-v-silk-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Branco Pérola V-Silk High Speed Premium",
+      "hex": "#efefef",
+      "searchText": "voolt3d pla pla branco pérola v-silk high speed premium"
+    },
+    {
       "id": "voolt3d-pla-branco-velvet-high-speed-premium",
       "brand": "Voolt3D",
       "material": "PLA",
       "name": "PLA Branco Velvet High Speed Premium",
       "hex": "#fafafa",
       "searchText": "voolt3d pla pla branco velvet high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-bronze-v-silk-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Bronze V-Silk High Speed Premium",
+      "hex": "#b7293e",
+      "searchText": "voolt3d pla pla bronze v-silk high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-carvao-wood-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Carvão Wood High Speed Premium",
+      "hex": "#26272b",
+      "searchText": "voolt3d pla pla carvão wood high speed premium"
     },
     {
       "id": "voolt3d-pla-cinza-claro-high-speed-premium",
@@ -91630,12 +92094,68 @@
       "searchText": "voolt3d pla pla cinza grafite velvet high speed premium"
     },
     {
+      "id": "voolt3d-pla-cobre-v-silk-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Cobre V-Silk High Speed Premium",
+      "hex": "#c45d24",
+      "searchText": "voolt3d pla pla cobre v-silk high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-crema-marfil-stone-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Crema Marfil Stone High Speed Premium",
+      "hex": "#f2dcc2",
+      "searchText": "voolt3d pla pla crema marfil stone high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-dourado-ultra-v-silk-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Dourado Ultra V-Silk High Speed Premium",
+      "hex": "#da9f1d",
+      "searchText": "voolt3d pla pla dourado ultra v-silk high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-dourado-v-silk-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Dourado V-Silk High Speed Premium",
+      "hex": "#eed230",
+      "searchText": "voolt3d pla pla dourado v-silk high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-gesso-stone-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Gesso Stone High Speed Premium",
+      "hex": "#c8c8c8",
+      "searchText": "voolt3d pla pla gesso stone high speed premium"
+    },
+    {
       "id": "voolt3d-pla-grafeno-velvet",
       "brand": "Voolt3D",
       "material": "PLA",
       "name": "PLA Grafeno Velvet",
       "hex": "#363538",
       "searchText": "voolt3d pla pla grafeno velvet"
+    },
+    {
+      "id": "voolt3d-pla-grafite-stone-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Grafite Stone High Speed Premium",
+      "hex": "#595962",
+      "searchText": "voolt3d pla pla grafite stone high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-inox-v-silk-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Inox V-Silk High Speed Premium",
+      "hex": "#8c9099",
+      "searchText": "voolt3d pla pla inox v-silk high speed premium"
     },
     {
       "id": "voolt3d-pla-laranja-high-speed-premium",
@@ -91654,12 +92174,36 @@
       "searchText": "voolt3d pla pla laranja macaron velvet high speed premium"
     },
     {
+      "id": "voolt3d-pla-laranja-v-silk-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Laranja V-Silk High Speed Premium",
+      "hex": "#fe5000",
+      "searchText": "voolt3d pla pla laranja v-silk high speed premium"
+    },
+    {
       "id": "voolt3d-pla-lilas-macaron-velvet-high-speed-premium",
       "brand": "Voolt3D",
       "material": "PLA",
       "name": "PLA Lilás Macaron Velvet High Speed Premium",
       "hex": "#dea0ee",
       "searchText": "voolt3d pla pla lilás macaron velvet high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-lilas-v-silk-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Lilás V-Silk High Speed Premium",
+      "hex": "#6000b0",
+      "searchText": "voolt3d pla pla lilás v-silk high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-marmorizado-stone-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Marmorizado Stone High Speed Premium",
+      "hex": "#bcbfc2",
+      "searchText": "voolt3d pla pla marmorizado stone high speed premium"
     },
     {
       "id": "voolt3d-pla-marrom-cappuccino-high-speed-premium",
@@ -91702,6 +92246,14 @@
       "searchText": "voolt3d pla pla marrom velvet high speed premium"
     },
     {
+      "id": "voolt3d-pla-pinus-wood-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Pinus Wood High Speed Premium",
+      "hex": "#e9d1c1",
+      "searchText": "voolt3d pla pla pinus wood high speed premium"
+    },
+    {
       "id": "voolt3d-pla-preto-high-speed-premium",
       "brand": "Voolt3D",
       "material": "PLA",
@@ -91710,12 +92262,28 @@
       "searchText": "voolt3d pla pla preto high speed premium"
     },
     {
+      "id": "voolt3d-pla-preto-v-silk-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Preto V-Silk High Speed Premium",
+      "hex": "#000000",
+      "searchText": "voolt3d pla pla preto v-silk high speed premium"
+    },
+    {
       "id": "voolt3d-pla-preto-velvet-high-speed-premium",
       "brand": "Voolt3D",
       "material": "PLA",
       "name": "PLA Preto Velvet High Speed Premium",
       "hex": "#312f2f",
       "searchText": "voolt3d pla pla preto velvet high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-rosa-ametista-v-silk-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Rosa Ametista V-Silk High Speed Premium",
+      "hex": "#c00698",
+      "searchText": "voolt3d pla pla rosa ametista v-silk high speed premium"
     },
     {
       "id": "voolt3d-pla-rosa-bebe-high-speed-premium",
@@ -91734,6 +92302,22 @@
       "searchText": "voolt3d pla pla rosa bebê velvet high speed premium"
     },
     {
+      "id": "voolt3d-pla-rosa-chiclete-v-silk-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Rosa Chiclete V-Silk High Speed Premium",
+      "hex": "#fe488b",
+      "searchText": "voolt3d pla pla rosa chiclete v-silk high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-rosa-choque-v-silk-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Rosa Choque V-Silk High Speed Premium",
+      "hex": "#ff0078",
+      "searchText": "voolt3d pla pla rosa choque v-silk high speed premium"
+    },
+    {
       "id": "voolt3d-pla-rosa-high-speed-premium",
       "brand": "Voolt3D",
       "material": "PLA",
@@ -91750,12 +92334,44 @@
       "searchText": "voolt3d pla pla rosa púrpura high speed premium"
     },
     {
+      "id": "voolt3d-pla-rosa-salmao-neon-v-silk-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Rosa Salmão Neon V-Silk High Speed Premium",
+      "hex": "#fc0000",
+      "searchText": "voolt3d pla pla rosa salmão neon v-silk high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-rosa-v-silk-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Rosa V-Silk High Speed Premium",
+      "hex": "#fe00af",
+      "searchText": "voolt3d pla pla rosa v-silk high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-rose-gold-v-silk-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Rose Gold V-Silk High Speed Premium",
+      "hex": "#753e4c",
+      "searchText": "voolt3d pla pla rose gold v-silk high speed premium"
+    },
+    {
       "id": "voolt3d-pla-roxo-high-speed-premium",
       "brand": "Voolt3D",
       "material": "PLA",
       "name": "PLA Roxo High Speed Premium",
       "hex": "#cd00d7",
       "searchText": "voolt3d pla pla roxo high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-tabaco-wood-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Tabaco Wood High Speed Premium",
+      "hex": "#b87f6a",
+      "searchText": "voolt3d pla pla tabaco wood high speed premium"
     },
     {
       "id": "voolt3d-pla-verde-high-speed-premium",
@@ -91774,6 +92390,14 @@
       "searchText": "voolt3d pla pla verde macaron velvet high speed premium"
     },
     {
+      "id": "voolt3d-pla-verde-neon-v-silk-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Verde Neon V-Silk High Speed Premium",
+      "hex": "#33ff00",
+      "searchText": "voolt3d pla pla verde neon v-silk high speed premium"
+    },
+    {
       "id": "voolt3d-pla-verde-oliva-velvet-high-speed-premium",
       "brand": "Voolt3D",
       "material": "PLA",
@@ -91788,6 +92412,14 @@
       "name": "PLA Verde Tiffany High Speed Premium",
       "hex": "#40e0d0",
       "searchText": "voolt3d pla pla verde tiffany high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-verde-v-silk-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Verde V-Silk High Speed Premium",
+      "hex": "#00b475",
+      "searchText": "voolt3d pla pla verde v-silk high speed premium"
     },
     {
       "id": "voolt3d-pla-verde-velvet-high-speed-premium",
@@ -91820,6 +92452,14 @@
       "name": "PLA Vermelho Marsala High Speed Premium",
       "hex": "#ce0058",
       "searchText": "voolt3d pla pla vermelho marsala high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-vermelho-v-silk-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA Vermelho V-Silk High Speed Premium",
+      "hex": "#ed1536",
+      "searchText": "voolt3d pla pla vermelho v-silk high speed premium"
     },
     {
       "id": "voolt3d-pla-vermelho-velvet-high-speed-premium",
