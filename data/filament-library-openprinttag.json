@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-08-04T06:42:53.187Z",
-  "entryCount": 11912,
+  "lastSynced": "2026-08-05T06:44:06.487Z",
+  "entryCount": 11977,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -73492,6 +73492,526 @@
       "name": "TPU95A-HF White",
       "hex": "#ffffff",
       "searchText": "qidi tech tpu tpu95a-hf white"
+    },
+    {
+      "id": "r3d-petg-carbon-high-speed-ash-grey",
+      "brand": "R3D",
+      "material": "PETG",
+      "name": "PETG Carbon High-Speed Ash Grey",
+      "hex": "#45444a",
+      "searchText": "r3d petg petg carbon high-speed ash grey"
+    },
+    {
+      "id": "r3d-petg-carbon-high-speed-black",
+      "brand": "R3D",
+      "material": "PETG",
+      "name": "PETG Carbon High-Speed Black",
+      "hex": "#161619",
+      "searchText": "r3d petg petg carbon high-speed black"
+    },
+    {
+      "id": "r3d-petg-carbon-high-speed-navy-blue",
+      "brand": "R3D",
+      "material": "PETG",
+      "name": "PETG Carbon High-Speed Navy Blue",
+      "hex": "#4c5975",
+      "searchText": "r3d petg petg carbon high-speed navy blue"
+    },
+    {
+      "id": "r3d-petg-carbon-high-speed-olive-green",
+      "brand": "R3D",
+      "material": "PETG",
+      "name": "PETG Carbon High-Speed Olive Green",
+      "hex": "#777e71",
+      "searchText": "r3d petg petg carbon high-speed olive green"
+    },
+    {
+      "id": "r3d-petg-carbon-high-speed-terracotta",
+      "brand": "R3D",
+      "material": "PETG",
+      "name": "PETG Carbon High-Speed Terracotta",
+      "hex": "#855261",
+      "searchText": "r3d petg petg carbon high-speed terracotta"
+    },
+    {
+      "id": "r3d-petg-high-speed-bambu-green",
+      "brand": "R3D",
+      "material": "PETG",
+      "name": "PETG High-Speed Bambu Green",
+      "hex": "#33be67",
+      "searchText": "r3d petg petg high-speed bambu green"
+    },
+    {
+      "id": "r3d-petg-high-speed-black",
+      "brand": "R3D",
+      "material": "PETG",
+      "name": "PETG High-Speed Black",
+      "hex": "#232323",
+      "searchText": "r3d petg petg high-speed black"
+    },
+    {
+      "id": "r3d-petg-high-speed-coffee",
+      "brand": "R3D",
+      "material": "PETG",
+      "name": "PETG High-Speed Coffee",
+      "hex": "#8b3a3a",
+      "searchText": "r3d petg petg high-speed coffee"
+    },
+    {
+      "id": "r3d-petg-high-speed-dark-blue",
+      "brand": "R3D",
+      "material": "PETG",
+      "name": "PETG High-Speed Dark Blue",
+      "hex": "#3f017f",
+      "searchText": "r3d petg petg high-speed dark blue"
+    },
+    {
+      "id": "r3d-petg-high-speed-fluorenscent-green",
+      "brand": "R3D",
+      "material": "PETG",
+      "name": "PETG High-Speed Fluorenscent Green",
+      "hex": "#08d461",
+      "searchText": "r3d petg petg high-speed fluorenscent green"
+    },
+    {
+      "id": "r3d-petg-high-speed-green-transparent",
+      "brand": "R3D",
+      "material": "PETG",
+      "name": "PETG High-Speed Green Transparent",
+      "hex": "#38b837",
+      "searchText": "r3d petg petg high-speed green transparent"
+    },
+    {
+      "id": "r3d-petg-high-speed-grey",
+      "brand": "R3D",
+      "material": "PETG",
+      "name": "PETG High-Speed Grey",
+      "hex": "#787882",
+      "searchText": "r3d petg petg high-speed grey"
+    },
+    {
+      "id": "r3d-petg-high-speed-iris",
+      "brand": "R3D",
+      "material": "PETG",
+      "name": "PETG High-Speed Iris",
+      "hex": "#7d00a2",
+      "searchText": "r3d petg petg high-speed iris"
+    },
+    {
+      "id": "r3d-petg-high-speed-latte",
+      "brand": "R3D",
+      "material": "PETG",
+      "name": "PETG High-Speed Latte",
+      "hex": "#a47c48",
+      "searchText": "r3d petg petg high-speed latte"
+    },
+    {
+      "id": "r3d-petg-high-speed-light-blue",
+      "brand": "R3D",
+      "material": "PETG",
+      "name": "PETG High-Speed Light Blue",
+      "hex": "#66dcf8",
+      "searchText": "r3d petg petg high-speed light blue"
+    },
+    {
+      "id": "r3d-petg-high-speed-mint-green",
+      "brand": "R3D",
+      "material": "PETG",
+      "name": "PETG High-Speed Mint Green",
+      "hex": "#0ccf81",
+      "searchText": "r3d petg petg high-speed mint green"
+    },
+    {
+      "id": "r3d-petg-high-speed-orange-transparent",
+      "brand": "R3D",
+      "material": "PETG",
+      "name": "PETG High-Speed Orange Transparent",
+      "hex": "#e0493e",
+      "searchText": "r3d petg petg high-speed orange transparent"
+    },
+    {
+      "id": "r3d-petg-high-speed-peach",
+      "brand": "R3D",
+      "material": "PETG",
+      "name": "PETG High-Speed Peach",
+      "hex": "#efa4c2",
+      "searchText": "r3d petg petg high-speed peach"
+    },
+    {
+      "id": "r3d-petg-high-speed-pink",
+      "brand": "R3D",
+      "material": "PETG",
+      "name": "PETG High-Speed Pink",
+      "hex": "#c20078",
+      "searchText": "r3d petg petg high-speed pink"
+    },
+    {
+      "id": "r3d-petg-high-speed-purple",
+      "brand": "R3D",
+      "material": "PETG",
+      "name": "PETG High-Speed Purple",
+      "hex": "#7d00a2",
+      "searchText": "r3d petg petg high-speed purple"
+    },
+    {
+      "id": "r3d-petg-high-speed-red",
+      "brand": "R3D",
+      "material": "PETG",
+      "name": "PETG High-Speed Red",
+      "hex": "#af0009",
+      "searchText": "r3d petg petg high-speed red"
+    },
+    {
+      "id": "r3d-petg-high-speed-skin",
+      "brand": "R3D",
+      "material": "PETG",
+      "name": "PETG High-Speed Skin",
+      "hex": "#ffb356",
+      "searchText": "r3d petg petg high-speed skin"
+    },
+    {
+      "id": "r3d-petg-high-speed-tangerine",
+      "brand": "R3D",
+      "material": "PETG",
+      "name": "PETG High-Speed Tangerine",
+      "hex": "#eb6232",
+      "searchText": "r3d petg petg high-speed tangerine"
+    },
+    {
+      "id": "r3d-petg-high-speed-transparent-purple",
+      "brand": "R3D",
+      "material": "PETG",
+      "name": "PETG High-Speed Transparent Purple",
+      "hex": "#9d00b1",
+      "searchText": "r3d petg petg high-speed transparent purple"
+    },
+    {
+      "id": "r3d-petg-high-speed-turquoise",
+      "brand": "R3D",
+      "material": "PETG",
+      "name": "PETG High-Speed Turquoise",
+      "hex": "#004f59",
+      "searchText": "r3d petg petg high-speed turquoise"
+    },
+    {
+      "id": "r3d-petg-high-speed-warm-gray",
+      "brand": "R3D",
+      "material": "PETG",
+      "name": "PETG High-Speed Warm Gray",
+      "hex": "#8a8c94",
+      "searchText": "r3d petg petg high-speed warm gray"
+    },
+    {
+      "id": "r3d-petg-high-speed-white",
+      "brand": "R3D",
+      "material": "PETG",
+      "name": "PETG High-Speed White",
+      "hex": "#f0f1ea",
+      "searchText": "r3d petg petg high-speed white"
+    },
+    {
+      "id": "r3d-petg-high-speed-yellow",
+      "brand": "R3D",
+      "material": "PETG",
+      "name": "PETG High-Speed Yellow",
+      "hex": "#dede00",
+      "searchText": "r3d petg petg high-speed yellow"
+    },
+    {
+      "id": "r3d-pla-high-speed-matte-ash-grey",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Matte Ash Grey",
+      "hex": "#444a62",
+      "searchText": "r3d pla pla high-speed matte ash grey"
+    },
+    {
+      "id": "r3d-pla-high-speed-matte-avocado-green",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Matte Avocado Green",
+      "hex": "#91cb67",
+      "searchText": "r3d pla pla high-speed matte avocado green"
+    },
+    {
+      "id": "r3d-pla-high-speed-matte-azure-blue",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Matte Azure Blue",
+      "hex": "#05c3de",
+      "searchText": "r3d pla pla high-speed matte azure blue"
+    },
+    {
+      "id": "r3d-pla-high-speed-matte-beige",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Matte Beige",
+      "hex": "#f6dfb7",
+      "searchText": "r3d pla pla high-speed matte beige"
+    },
+    {
+      "id": "r3d-pla-high-speed-matte-black",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Matte Black",
+      "hex": "#161619",
+      "searchText": "r3d pla pla high-speed matte black"
+    },
+    {
+      "id": "r3d-pla-high-speed-matte-chinese-red",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Matte Chinese Red",
+      "hex": "#d41754",
+      "searchText": "r3d pla pla high-speed matte chinese red"
+    },
+    {
+      "id": "r3d-pla-high-speed-matte-cinnabar",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Matte Cinnabar",
+      "hex": "#eb0075",
+      "searchText": "r3d pla pla high-speed matte cinnabar"
+    },
+    {
+      "id": "r3d-pla-high-speed-matte-cream-yellow",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Matte Cream Yellow",
+      "hex": "#ccd872",
+      "searchText": "r3d pla pla high-speed matte cream yellow"
+    },
+    {
+      "id": "r3d-pla-high-speed-matte-emerald",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Matte Emerald",
+      "hex": "#217165",
+      "searchText": "r3d pla pla high-speed matte emerald"
+    },
+    {
+      "id": "r3d-pla-high-speed-matte-grey",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Matte Grey",
+      "hex": "#b9cad0",
+      "searchText": "r3d pla pla high-speed matte grey"
+    },
+    {
+      "id": "r3d-pla-high-speed-matte-ice-blue",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Matte Ice Blue",
+      "hex": "#6ac4cd",
+      "searchText": "r3d pla pla high-speed matte ice blue"
+    },
+    {
+      "id": "r3d-pla-high-speed-matte-ivory",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Matte Ivory",
+      "hex": "#ebece9",
+      "searchText": "r3d pla pla high-speed matte ivory"
+    },
+    {
+      "id": "r3d-pla-high-speed-matte-kraft",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Matte Kraft",
+      "hex": "#ae9d7e",
+      "searchText": "r3d pla pla high-speed matte kraft"
+    },
+    {
+      "id": "r3d-pla-high-speed-matte-lilac-purple",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Matte Lilac Purple",
+      "hex": "#d587c8",
+      "searchText": "r3d pla pla high-speed matte lilac purple"
+    },
+    {
+      "id": "r3d-pla-high-speed-matte-mint-green",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Matte Mint Green",
+      "hex": "#63c6a3",
+      "searchText": "r3d pla pla high-speed matte mint green"
+    },
+    {
+      "id": "r3d-pla-high-speed-matte-navy-blue",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Matte Navy Blue",
+      "hex": "#483d8b",
+      "searchText": "r3d pla pla high-speed matte navy blue"
+    },
+    {
+      "id": "r3d-pla-high-speed-matte-olive-green",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Matte Olive Green",
+      "hex": "#66875e",
+      "searchText": "r3d pla pla high-speed matte olive green"
+    },
+    {
+      "id": "r3d-pla-high-speed-matte-orange",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Matte Orange",
+      "hex": "#e94b3c",
+      "searchText": "r3d pla pla high-speed matte orange"
+    },
+    {
+      "id": "r3d-pla-high-speed-matte-peach",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Matte Peach",
+      "hex": "#c00698",
+      "searchText": "r3d pla pla high-speed matte peach"
+    },
+    {
+      "id": "r3d-pla-high-speed-matte-pink",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Matte Pink",
+      "hex": "#f5b6cd",
+      "searchText": "r3d pla pla high-speed matte pink"
+    },
+    {
+      "id": "r3d-pla-high-speed-matte-pumpkin",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Matte Pumpkin",
+      "hex": "#ffb356",
+      "searchText": "r3d pla pla high-speed matte pumpkin"
+    },
+    {
+      "id": "r3d-pla-high-speed-matte-raspberry-red",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Matte Raspberry Red",
+      "hex": "#fb0046",
+      "searchText": "r3d pla pla high-speed matte raspberry red"
+    },
+    {
+      "id": "r3d-pla-high-speed-matte-sapphire-blue",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Matte Sapphire Blue",
+      "hex": "#4921c1",
+      "searchText": "r3d pla pla high-speed matte sapphire blue"
+    },
+    {
+      "id": "r3d-pla-high-speed-matte-scallion-green",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Matte Scallion Green",
+      "hex": "#00f263",
+      "searchText": "r3d pla pla high-speed matte scallion green"
+    },
+    {
+      "id": "r3d-pla-high-speed-matte-terracotta",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Matte Terracotta",
+      "hex": "#a56362",
+      "searchText": "r3d pla pla high-speed matte terracotta"
+    },
+    {
+      "id": "r3d-pla-high-speed-matte-warm-grey",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Matte Warm Grey",
+      "hex": "#aca39a",
+      "searchText": "r3d pla pla high-speed matte warm grey"
+    },
+    {
+      "id": "r3d-pla-high-speed-matte-white",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Matte White",
+      "hex": "#e2dedb",
+      "searchText": "r3d pla pla high-speed matte white"
+    },
+    {
+      "id": "r3d-pla-high-speed-matte-yellow",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Matte Yellow",
+      "hex": "#e2ff4d",
+      "searchText": "r3d pla pla high-speed matte yellow"
+    },
+    {
+      "id": "r3d-pla-high-speed-silk-blue",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Silk Blue",
+      "hex": "#05a6c7",
+      "searchText": "r3d pla pla high-speed silk blue"
+    },
+    {
+      "id": "r3d-pla-high-speed-silk-bronze",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Silk Bronze",
+      "hex": "#99a45f",
+      "searchText": "r3d pla pla high-speed silk bronze"
+    },
+    {
+      "id": "r3d-pla-high-speed-silk-copper",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Silk Copper",
+      "hex": "#aa5342",
+      "searchText": "r3d pla pla high-speed silk copper"
+    },
+    {
+      "id": "r3d-pla-high-speed-silk-gold",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-speed Silk Gold",
+      "hex": "#deaf44",
+      "searchText": "r3d pla pla high-speed silk gold"
+    },
+    {
+      "id": "r3d-pla-high-speed-silk-green",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Silk Green",
+      "hex": "#018e63",
+      "searchText": "r3d pla pla high-speed silk green"
+    },
+    {
+      "id": "r3d-pla-high-speed-silk-orange",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Silk Orange",
+      "hex": "#d67842",
+      "searchText": "r3d pla pla high-speed silk orange"
+    },
+    {
+      "id": "r3d-pla-high-speed-silk-purple",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Silk Purple",
+      "hex": "#491665",
+      "searchText": "r3d pla pla high-speed silk purple"
+    },
+    {
+      "id": "r3d-pla-high-speed-silk-red",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Silk Red",
+      "hex": "#d90102",
+      "searchText": "r3d pla pla high-speed silk red"
+    },
+    {
+      "id": "r3d-pla-high-speed-silk-silver",
+      "brand": "R3D",
+      "material": "PLA",
+      "name": "PLA High-Speed Silk Silver",
+      "hex": "#999aa0",
+      "searchText": "r3d pla pla high-speed silk silver"
     },
     {
       "id": "raise3d-hyper-core-abs-cf15-black",
