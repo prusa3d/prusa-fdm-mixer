@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-08-05T06:44:06.487Z",
-  "entryCount": 11977,
+  "lastSynced": "2026-08-06T05:25:25.097Z",
+  "entryCount": 11999,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -73492,6 +73492,182 @@
       "name": "TPU95A-HF White",
       "hex": "#ffffff",
       "searchText": "qidi tech tpu tpu95a-hf white"
+    },
+    {
+      "id": "r3d-abs-cf-carbon-black",
+      "brand": "R3D",
+      "material": "ABS",
+      "name": "ABS-CF Carbon Black",
+      "hex": "#020203",
+      "searchText": "r3d abs abs-cf carbon black"
+    },
+    {
+      "id": "r3d-abs-black",
+      "brand": "R3D",
+      "material": "ABS",
+      "name": "ABS+ Black",
+      "hex": "#161619",
+      "searchText": "r3d abs abs+ black"
+    },
+    {
+      "id": "r3d-abs-coffee-color",
+      "brand": "R3D",
+      "material": "ABS",
+      "name": "ABS+ Coffee Color",
+      "hex": "#ad4e38",
+      "searchText": "r3d abs abs+ coffee color"
+    },
+    {
+      "id": "r3d-abs-dark-blue",
+      "brand": "R3D",
+      "material": "ABS",
+      "name": "ABS+ Dark Blue",
+      "hex": "#4f03d7",
+      "searchText": "r3d abs abs+ dark blue"
+    },
+    {
+      "id": "r3d-abs-fluorescent-green",
+      "brand": "R3D",
+      "material": "ABS",
+      "name": "ABS+ Fluorescent Green",
+      "hex": "#33ff00",
+      "searchText": "r3d abs abs+ fluorescent green"
+    },
+    {
+      "id": "r3d-abs-grey",
+      "brand": "R3D",
+      "material": "ABS",
+      "name": "ABS+ Grey",
+      "hex": "#91a0b6",
+      "searchText": "r3d abs abs+ grey"
+    },
+    {
+      "id": "r3d-abs-latte",
+      "brand": "R3D",
+      "material": "ABS",
+      "name": "ABS+ Latte",
+      "hex": "#d0b891",
+      "searchText": "r3d abs abs+ latte"
+    },
+    {
+      "id": "r3d-abs-light-blue",
+      "brand": "R3D",
+      "material": "ABS",
+      "name": "ABS+ Light Blue",
+      "hex": "#3bc9ed",
+      "searchText": "r3d abs abs+ light blue"
+    },
+    {
+      "id": "r3d-abs-mint-green",
+      "brand": "R3D",
+      "material": "ABS",
+      "name": "ABS+ Mint Green",
+      "hex": "#31feb5",
+      "searchText": "r3d abs abs+ mint green"
+    },
+    {
+      "id": "r3d-abs-orange",
+      "brand": "R3D",
+      "material": "ABS",
+      "name": "ABS+ Orange",
+      "hex": "#ff5a00",
+      "searchText": "r3d abs abs+ orange"
+    },
+    {
+      "id": "r3d-abs-pink",
+      "brand": "R3D",
+      "material": "ABS",
+      "name": "ABS+ Pink",
+      "hex": "#f600c7",
+      "searchText": "r3d abs abs+ pink"
+    },
+    {
+      "id": "r3d-abs-purple",
+      "brand": "R3D",
+      "material": "ABS",
+      "name": "ABS+ Purple",
+      "hex": "#a000ca",
+      "searchText": "r3d abs abs+ purple"
+    },
+    {
+      "id": "r3d-abs-red",
+      "brand": "R3D",
+      "material": "ABS",
+      "name": "ABS+ Red",
+      "hex": "#e31a1f",
+      "searchText": "r3d abs abs+ red"
+    },
+    {
+      "id": "r3d-abs-skin",
+      "brand": "R3D",
+      "material": "ABS",
+      "name": "ABS+ Skin",
+      "hex": "#ffc3a0",
+      "searchText": "r3d abs abs+ skin"
+    },
+    {
+      "id": "r3d-abs-white",
+      "brand": "R3D",
+      "material": "ABS",
+      "name": "ABS+ White",
+      "hex": "#eaecf5",
+      "searchText": "r3d abs abs+ white"
+    },
+    {
+      "id": "r3d-abs-yellow",
+      "brand": "R3D",
+      "material": "ABS",
+      "name": "ABS+ Yellow",
+      "hex": "#eeea44",
+      "searchText": "r3d abs abs+ yellow"
+    },
+    {
+      "id": "r3d-asa-black",
+      "brand": "R3D",
+      "material": "ASA",
+      "name": "ASA Black",
+      "hex": "#141414",
+      "searchText": "r3d asa asa black"
+    },
+    {
+      "id": "r3d-asa-blue",
+      "brand": "R3D",
+      "material": "ASA",
+      "name": "ASA Blue",
+      "hex": "#0353ba",
+      "searchText": "r3d asa asa blue"
+    },
+    {
+      "id": "r3d-asa-grey",
+      "brand": "R3D",
+      "material": "ASA",
+      "name": "ASA Grey",
+      "hex": "#697272",
+      "searchText": "r3d asa asa grey"
+    },
+    {
+      "id": "r3d-asa-red",
+      "brand": "R3D",
+      "material": "ASA",
+      "name": "ASA Red",
+      "hex": "#c1101d",
+      "searchText": "r3d asa asa red"
+    },
+    {
+      "id": "r3d-asa-white",
+      "brand": "R3D",
+      "material": "ASA",
+      "name": "ASA White",
+      "hex": "#f5f5f4",
+      "searchText": "r3d asa asa white"
+    },
+    {
+      "id": "r3d-asa-yellow",
+      "brand": "R3D",
+      "material": "ASA",
+      "name": "ASA Yellow",
+      "hex": "#f6fb38",
+      "searchText": "r3d asa asa yellow"
     },
     {
       "id": "r3d-petg-carbon-high-speed-ash-grey",
