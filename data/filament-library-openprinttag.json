@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-08-06T05:25:25.097Z",
-  "entryCount": 11999,
+  "lastSynced": "2026-08-07T04:58:11.883Z",
+  "entryCount": 12059,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -42924,6 +42924,486 @@
       "name": "TPU 98A White",
       "hex": "#f5f5f5",
       "searchText": "francofil tpu tpu 98a white"
+    },
+    {
+      "id": "fusion-filaments-pctg-10-10",
+      "brand": "Fusion Filaments",
+      "material": "PCTG",
+      "name": "PCTG 10-10",
+      "hex": "#f4ee2a",
+      "searchText": "fusion filaments pctg pctg 10-10"
+    },
+    {
+      "id": "fusion-filaments-pctg-atomic-orange",
+      "brand": "Fusion Filaments",
+      "material": "PCTG",
+      "name": "PCTG Atomic Orange",
+      "hex": "#ff3a00",
+      "searchText": "fusion filaments pctg pctg atomic orange"
+    },
+    {
+      "id": "fusion-filaments-pctg-carbon-rod-black",
+      "brand": "Fusion Filaments",
+      "material": "PCTG",
+      "name": "PCTG Carbon Rod Black",
+      "hex": "#232323",
+      "searchText": "fusion filaments pctg pctg carbon rod black"
+    },
+    {
+      "id": "fusion-filaments-pctg-cherry-red",
+      "brand": "Fusion Filaments",
+      "material": "PCTG",
+      "name": "PCTG Cherry Red",
+      "hex": "#d90102",
+      "searchText": "fusion filaments pctg pctg cherry red"
+    },
+    {
+      "id": "fusion-filaments-pctg-clear-natural",
+      "brand": "Fusion Filaments",
+      "material": "PCTG",
+      "name": "PCTG Clear/Natural",
+      "hex": "#dfdfd3",
+      "searchText": "fusion filaments pctg pctg clear/natural"
+    },
+    {
+      "id": "fusion-filaments-pctg-cold-fusion-blue",
+      "brand": "Fusion Filaments",
+      "material": "PCTG",
+      "name": "PCTG Cold Fusion Blue",
+      "hex": "#009cde",
+      "searchText": "fusion filaments pctg pctg cold fusion blue"
+    },
+    {
+      "id": "fusion-filaments-pctg-cosmic-ray-blue",
+      "brand": "Fusion Filaments",
+      "material": "PCTG",
+      "name": "PCTG Cosmic Ray Blue",
+      "hex": "#00187f",
+      "searchText": "fusion filaments pctg pctg cosmic ray blue"
+    },
+    {
+      "id": "fusion-filaments-pctg-gamma-green",
+      "brand": "Fusion Filaments",
+      "material": "PCTG",
+      "name": "PCTG Gamma Green",
+      "hex": "#a1ac21",
+      "searchText": "fusion filaments pctg pctg gamma green"
+    },
+    {
+      "id": "fusion-filaments-pctg-geomagnetic-mauve",
+      "brand": "Fusion Filaments",
+      "material": "PCTG",
+      "name": "PCTG Geomagnetic Mauve",
+      "hex": "#7d00a2",
+      "searchText": "fusion filaments pctg pctg geomagnetic mauve"
+    },
+    {
+      "id": "fusion-filaments-pctg-heavy-water-blue",
+      "brand": "Fusion Filaments",
+      "material": "PCTG",
+      "name": "PCTG Heavy Water Blue",
+      "hex": "#2c01a0",
+      "searchText": "fusion filaments pctg pctg heavy water blue"
+    },
+    {
+      "id": "fusion-filaments-pctg-mercury",
+      "brand": "Fusion Filaments",
+      "material": "PCTG",
+      "name": "PCTG Mercury",
+      "hex": "#8a8c94",
+      "searchText": "fusion filaments pctg pctg mercury"
+    },
+    {
+      "id": "fusion-filaments-pctg-nova-green",
+      "brand": "Fusion Filaments",
+      "material": "PCTG",
+      "name": "PCTG Nova Green",
+      "hex": "#38b837",
+      "searchText": "fusion filaments pctg pctg nova green"
+    },
+    {
+      "id": "fusion-filaments-pctg-nuclear-winter-white",
+      "brand": "Fusion Filaments",
+      "material": "PCTG",
+      "name": "PCTG Nuclear Winter White",
+      "hex": "#fafafa",
+      "searchText": "fusion filaments pctg pctg nuclear winter white"
+    },
+    {
+      "id": "fusion-filaments-pctg-proton-pink",
+      "brand": "Fusion Filaments",
+      "material": "PCTG",
+      "name": "PCTG Proton Pink",
+      "hex": "#ba06ae",
+      "searchText": "fusion filaments pctg pctg proton pink"
+    },
+    {
+      "id": "fusion-filaments-pctg-reactor-red",
+      "brand": "Fusion Filaments",
+      "material": "PCTG",
+      "name": "PCTG Reactor Red",
+      "hex": "#ca0230",
+      "searchText": "fusion filaments pctg pctg reactor red"
+    },
+    {
+      "id": "fusion-filaments-pla-admiral-blue",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA Admiral Blue",
+      "hex": "#2c01a0",
+      "searchText": "fusion filaments pla pla admiral blue"
+    },
+    {
+      "id": "fusion-filaments-pla-black",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA Black",
+      "hex": "#141414",
+      "searchText": "fusion filaments pla pla black"
+    },
+    {
+      "id": "fusion-filaments-pla-blue",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA Blue",
+      "hex": "#3466cb",
+      "searchText": "fusion filaments pla pla blue"
+    },
+    {
+      "id": "fusion-filaments-pla-blue-20",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA Blue 2.0",
+      "hex": "#295ad9",
+      "searchText": "fusion filaments pla pla blue 2.0"
+    },
+    {
+      "id": "fusion-filaments-pla-breakfast-blue",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA Breakfast Blue",
+      "hex": "#00fede",
+      "searchText": "fusion filaments pla pla breakfast blue"
+    },
+    {
+      "id": "fusion-filaments-pla-bubblegum",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA Bubblegum",
+      "hex": "#eb0075",
+      "searchText": "fusion filaments pla pla bubblegum"
+    },
+    {
+      "id": "fusion-filaments-pla-chick",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA Chick",
+      "hex": "#ccd872",
+      "searchText": "fusion filaments pla pla chick"
+    },
+    {
+      "id": "fusion-filaments-pla-chocolate",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA Chocolate",
+      "hex": "#c19e86",
+      "searchText": "fusion filaments pla pla chocolate"
+    },
+    {
+      "id": "fusion-filaments-pla-cool-grey",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA Cool Grey",
+      "hex": "#7e7f74",
+      "searchText": "fusion filaments pla pla cool grey"
+    },
+    {
+      "id": "fusion-filaments-pla-desert-sand",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA Desert Sand",
+      "hex": "#e8ebce",
+      "searchText": "fusion filaments pla pla desert sand"
+    },
+    {
+      "id": "fusion-filaments-pla-green",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA Green",
+      "hex": "#00f03c",
+      "searchText": "fusion filaments pla pla green"
+    },
+    {
+      "id": "fusion-filaments-pla-hot-pink",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA Hot Pink",
+      "hex": "#fe00af",
+      "searchText": "fusion filaments pla pla hot pink"
+    },
+    {
+      "id": "fusion-filaments-pla-hyper-orange",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA Hyper Orange",
+      "hex": "#f74e02",
+      "searchText": "fusion filaments pla pla hyper orange"
+    },
+    {
+      "id": "fusion-filaments-pla-lilac",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA Lilac",
+      "hex": "#a000ca",
+      "searchText": "fusion filaments pla pla lilac"
+    },
+    {
+      "id": "fusion-filaments-pla-maroon",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA Maroon",
+      "hex": "#7f0a19",
+      "searchText": "fusion filaments pla pla maroon"
+    },
+    {
+      "id": "fusion-filaments-pla-moondust",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA Moondust",
+      "hex": "#808080",
+      "searchText": "fusion filaments pla pla moondust"
+    },
+    {
+      "id": "fusion-filaments-pla-od-green",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA OD Green",
+      "hex": "#7f9958",
+      "searchText": "fusion filaments pla pla od green"
+    },
+    {
+      "id": "fusion-filaments-pla-peanut-butter",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA Peanut Butter",
+      "hex": "#e2c077",
+      "searchText": "fusion filaments pla pla peanut butter"
+    },
+    {
+      "id": "fusion-filaments-pla-pickle-juice",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA Pickle Juice",
+      "hex": "#d0ed03",
+      "searchText": "fusion filaments pla pla pickle juice"
+    },
+    {
+      "id": "fusion-filaments-pla-plum",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA Plum",
+      "hex": "#98282f",
+      "searchText": "fusion filaments pla pla plum"
+    },
+    {
+      "id": "fusion-filaments-pla-purple",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA Purple",
+      "hex": "#c524ff",
+      "searchText": "fusion filaments pla pla purple"
+    },
+    {
+      "id": "fusion-filaments-pla-quantum-blue",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA Quantum Blue",
+      "hex": "#009cde",
+      "searchText": "fusion filaments pla pla quantum blue"
+    },
+    {
+      "id": "fusion-filaments-pla-quicksilver",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA Quicksilver",
+      "hex": "#999aa0",
+      "searchText": "fusion filaments pla pla quicksilver"
+    },
+    {
+      "id": "fusion-filaments-pla-red",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA Red",
+      "hex": "#e60000",
+      "searchText": "fusion filaments pla pla red"
+    },
+    {
+      "id": "fusion-filaments-pla-sage",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA Sage",
+      "hex": "#b3c2ab",
+      "searchText": "fusion filaments pla pla sage"
+    },
+    {
+      "id": "fusion-filaments-pla-sublime",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA Sublime",
+      "hex": "#00f03c",
+      "searchText": "fusion filaments pla pla sublime"
+    },
+    {
+      "id": "fusion-filaments-pla-tangerine-dream",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA Tangerine Dream",
+      "hex": "#ff6600",
+      "searchText": "fusion filaments pla pla tangerine dream"
+    },
+    {
+      "id": "fusion-filaments-pla-teal",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA Teal",
+      "hex": "#05c3de",
+      "searchText": "fusion filaments pla pla teal"
+    },
+    {
+      "id": "fusion-filaments-pla-true-yellow",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA True Yellow",
+      "hex": "#f6fb38",
+      "searchText": "fusion filaments pla pla true yellow"
+    },
+    {
+      "id": "fusion-filaments-pla-turbo-red",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA Turbo Red",
+      "hex": "#e60000",
+      "searchText": "fusion filaments pla pla turbo red"
+    },
+    {
+      "id": "fusion-filaments-pla-violet-surge",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA Violet Surge",
+      "hex": "#5e1490",
+      "searchText": "fusion filaments pla pla violet surge"
+    },
+    {
+      "id": "fusion-filaments-pla-white",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA White",
+      "hex": "#f3f3f1",
+      "searchText": "fusion filaments pla pla white"
+    },
+    {
+      "id": "fusion-filaments-pla-yellow-gold",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "PLA Yellow-Gold",
+      "hex": "#fadb24",
+      "searchText": "fusion filaments pla pla yellow-gold"
+    },
+    {
+      "id": "fusion-filaments-silk-satin-pla-black-stainless",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "Silk/Satin PLA Black Stainless",
+      "hex": "#0e0e10",
+      "searchText": "fusion filaments pla silk/satin pla black stainless"
+    },
+    {
+      "id": "fusion-filaments-silk-satin-pla-blue-jay",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "Silk/Satin PLA Blue Jay",
+      "hex": "#2c01a0",
+      "searchText": "fusion filaments pla silk/satin pla blue jay"
+    },
+    {
+      "id": "fusion-filaments-silk-satin-pla-breakfast-blue",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "Silk/Satin PLA Breakfast Blue",
+      "hex": "#40e0d0",
+      "searchText": "fusion filaments pla silk/satin pla breakfast blue"
+    },
+    {
+      "id": "fusion-filaments-silk-satin-pla-cotton-candy",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "Silk/Satin PLA Cotton Candy",
+      "hex": "#f600c7",
+      "searchText": "fusion filaments pla silk/satin pla cotton candy"
+    },
+    {
+      "id": "fusion-filaments-silk-satin-pla-creamsicle",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "Silk/Satin PLA Creamsicle",
+      "hex": "#ff9100",
+      "searchText": "fusion filaments pla silk/satin pla creamsicle"
+    },
+    {
+      "id": "fusion-filaments-silk-satin-pla-jade",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "Silk/Satin PLA Jade",
+      "hex": "#54a474",
+      "searchText": "fusion filaments pla silk/satin pla jade"
+    },
+    {
+      "id": "fusion-filaments-silk-satin-pla-pistachio",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "Silk/Satin PLA Pistachio",
+      "hex": "#9dba53",
+      "searchText": "fusion filaments pla silk/satin pla pistachio"
+    },
+    {
+      "id": "fusion-filaments-silk-satin-pla-titanium",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "Silk/Satin PLA Titanium",
+      "hex": "#949597",
+      "searchText": "fusion filaments pla silk/satin pla titanium"
+    },
+    {
+      "id": "fusion-filaments-silk-satin-pla-venetian-gold",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "Silk/Satin PLA Venetian Gold",
+      "hex": "#c4b376",
+      "searchText": "fusion filaments pla silk/satin pla venetian gold"
+    },
+    {
+      "id": "fusion-filaments-silk-satin-pla-whipped-cream",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "Silk/Satin PLA Whipped Cream",
+      "hex": "#fafafa",
+      "searchText": "fusion filaments pla silk/satin pla whipped cream"
+    },
+    {
+      "id": "fusion-filaments-silk-satin-pla-wine",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "Silk/Satin PLA Wine",
+      "hex": "#cf4f80",
+      "searchText": "fusion filaments pla silk/satin pla wine"
+    },
+    {
+      "id": "fusion-filaments-silk-satin-pla-wine-20",
+      "brand": "Fusion Filaments",
+      "material": "PLA",
+      "name": "Silk/Satin PLA Wine 2.0",
+      "hex": "#d87694",
+      "searchText": "fusion filaments pla silk/satin pla wine 2.0"
     },
     {
       "id": "geeetech-upgrade-abs-black",
