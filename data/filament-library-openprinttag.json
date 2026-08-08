@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-08-07T04:58:11.883Z",
-  "entryCount": 12059,
+  "lastSynced": "2026-08-08T04:37:50.943Z",
+  "entryCount": 12074,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -34474,7 +34474,7 @@
       "brand": "FilamentPM",
       "material": "ABS",
       "name": "ABS - Black",
-      "hex": "#000000",
+      "hex": "#27292b",
       "searchText": "filamentpm abs abs - black"
     },
     {
@@ -34482,7 +34482,7 @@
       "brand": "FilamentPM",
       "material": "ABS",
       "name": "ABS - Blue",
-      "hex": "#0378d0",
+      "hex": "#0085ca",
       "searchText": "filamentpm abs abs - blue"
     },
     {
@@ -34490,7 +34490,7 @@
       "brand": "FilamentPM",
       "material": "ABS",
       "name": "ABS - Glittering Sahara",
-      "hex": "#ba8960",
+      "hex": "#af804f",
       "searchText": "filamentpm abs abs - glittering sahara"
     },
     {
@@ -34498,7 +34498,7 @@
       "brand": "FilamentPM",
       "material": "ABS",
       "name": "ABS - Green",
-      "hex": "#26a648",
+      "hex": "#018e63",
       "searchText": "filamentpm abs abs - green"
     },
     {
@@ -34514,7 +34514,7 @@
       "brand": "FilamentPM",
       "material": "ABS",
       "name": "ABS - Orange",
-      "hex": "#f67405",
+      "hex": "#de5306",
       "searchText": "filamentpm abs abs - orange"
     },
     {
@@ -34538,7 +34538,7 @@
       "brand": "FilamentPM",
       "material": "ABS",
       "name": "ABS - Silver",
-      "hex": "#818184",
+      "hex": "#8f8f8f",
       "searchText": "filamentpm abs abs - silver"
     },
     {
@@ -34546,7 +34546,7 @@
       "brand": "FilamentPM",
       "material": "ABS",
       "name": "ABS - Sparkling Jungle",
-      "hex": "#06924d",
+      "hex": "#008351",
       "searchText": "filamentpm abs abs - sparkling jungle"
     },
     {
@@ -34554,7 +34554,7 @@
       "brand": "FilamentPM",
       "material": "ABS",
       "name": "ABS - White",
-      "hex": "#ffffff",
+      "hex": "#ebece9",
       "searchText": "filamentpm abs abs - white"
     },
     {
@@ -34562,7 +34562,7 @@
       "brand": "FilamentPM",
       "material": "ABS",
       "name": "ABS - Yellow",
-      "hex": "#ffd342",
+      "hex": "#f7b500",
       "searchText": "filamentpm abs abs - yellow"
     },
     {
@@ -34570,8 +34570,24 @@
       "brand": "FilamentPM",
       "material": "ABS",
       "name": "ABS-T - Black",
-      "hex": "#000000",
+      "hex": "#27292b",
       "searchText": "filamentpm abs abs-t - black"
+    },
+    {
+      "id": "filamentpm-abs-t-copper",
+      "brand": "FilamentPM",
+      "material": "ABS",
+      "name": "ABS-T - Copper",
+      "hex": "#8d4931",
+      "searchText": "filamentpm abs abs-t - copper"
+    },
+    {
+      "id": "filamentpm-abs-t-gold",
+      "brand": "FilamentPM",
+      "material": "ABS",
+      "name": "ABS-T - Gold",
+      "hex": "#cb8e00",
+      "searchText": "filamentpm abs abs-t - gold"
     },
     {
       "id": "filamentpm-abs-t-orange",
@@ -34586,15 +34602,23 @@
       "brand": "FilamentPM",
       "material": "ABS",
       "name": "ABS-T - Silver",
-      "hex": "#999aa0",
+      "hex": "#8f8f8f",
       "searchText": "filamentpm abs abs-t - silver"
+    },
+    {
+      "id": "filamentpm-abs-t-transparent",
+      "brand": "FilamentPM",
+      "material": "ABS",
+      "name": "ABS-T - Transparent",
+      "hex": "#e4dad9",
+      "searchText": "filamentpm abs abs-t - transparent"
     },
     {
       "id": "filamentpm-abs-t-white",
       "brand": "FilamentPM",
       "material": "ABS",
       "name": "ABS-T - White",
-      "hex": "#ffffff",
+      "hex": "#ecece7",
       "searchText": "filamentpm abs abs-t - white"
     },
     {
@@ -34602,7 +34626,7 @@
       "brand": "FilamentPM",
       "material": "ABS",
       "name": "ABS-T - Yellowgreen",
-      "hex": "#9aed51",
+      "hex": "#78be20",
       "searchText": "filamentpm abs abs-t - yellowgreen"
     },
     {
@@ -34610,7 +34634,7 @@
       "brand": "FilamentPM",
       "material": "ASA",
       "name": "ASA - Black",
-      "hex": "#000000",
+      "hex": "#27292b",
       "searchText": "filamentpm asa asa - black"
     },
     {
@@ -34626,7 +34650,7 @@
       "brand": "FilamentPM",
       "material": "ASA",
       "name": "ASA - Brown",
-      "hex": "#8e5850",
+      "hex": "#512f2e",
       "searchText": "filamentpm asa asa - brown"
     },
     {
@@ -34634,7 +34658,7 @@
       "brand": "FilamentPM",
       "material": "ASA",
       "name": "ASA - Natur",
-      "hex": "#eadac2",
+      "hex": "#d6c9ca",
       "searchText": "filamentpm asa asa - natur"
     },
     {
@@ -34642,24 +34666,40 @@
       "brand": "FilamentPM",
       "material": "ASA",
       "name": "ASA - Silver",
-      "hex": "#999aa0",
+      "hex": "#8f8f8f",
       "searchText": "filamentpm asa asa - silver"
-    },
-    {
-      "id": "filamentpm-pajet-160-nylon-natur",
-      "brand": "FilamentPM",
-      "material": "PA",
-      "name": "PAJet 160 Nylon - Natur",
-      "hex": "#dfdfd3",
-      "searchText": "filamentpm pa pajet 160 nylon - natur"
     },
     {
       "id": "filamentpm-pa-cfjet-black",
       "brand": "FilamentPM",
       "material": "PA12",
       "name": "PA-CFJet - Black",
-      "hex": "#000000",
+      "hex": "#3f4444",
       "searchText": "filamentpm pa12 pa-cfjet - black"
+    },
+    {
+      "id": "filamentpm-pa-gfjet-natur",
+      "brand": "FilamentPM",
+      "material": "PA12",
+      "name": "PA-GFJet - Natur",
+      "hex": "#b39374",
+      "searchText": "filamentpm pa12 pa-gfjet - natur"
+    },
+    {
+      "id": "filamentpm-pajet-160-nylon-natur",
+      "brand": "FilamentPM",
+      "material": "PA12",
+      "name": "PAJet 160 Nylon - Natur",
+      "hex": "#f2f0eb",
+      "searchText": "filamentpm pa12 pajet 160 nylon - natur"
+    },
+    {
+      "id": "filamentpm-pc-abs-black",
+      "brand": "FilamentPM",
+      "material": "PC",
+      "name": "PC/ABS - Black",
+      "hex": "#24292a",
+      "searchText": "filamentpm pc pc/abs - black"
     },
     {
       "id": "filamentpm-pcabs-black",
@@ -34668,6 +34708,14 @@
       "name": "PC/ABS - Black",
       "hex": "#000000",
       "searchText": "filamentpm pc pc/abs - black"
+    },
+    {
+      "id": "filamentpm-pc-abs-grey",
+      "brand": "FilamentPM",
+      "material": "PC",
+      "name": "PC/ABS - Grey",
+      "hex": "#c5c7c4",
+      "searchText": "filamentpm pc pc/abs - grey"
     },
     {
       "id": "filamentpm-pcabs-grey",
@@ -34682,15 +34730,23 @@
       "brand": "FilamentPM",
       "material": "PEI",
       "name": "PEIJet 1010 Ultem - Natur",
-      "hex": "#dc9c43",
+      "hex": "#a77f0e",
       "searchText": "filamentpm pei peijet 1010 ultem - natur"
+    },
+    {
+      "id": "filamentpm-esd-petg-black",
+      "brand": "FilamentPM",
+      "material": "PETG",
+      "name": "ESD PETG - Black",
+      "hex": "#3f4444",
+      "searchText": "filamentpm petg esd petg - black"
     },
     {
       "id": "filamentpm-petg-black",
       "brand": "FilamentPM",
       "material": "PETG",
       "name": "PETG - Black",
-      "hex": "#000000",
+      "hex": "#373d3e",
       "searchText": "filamentpm petg petg - black"
     },
     {
@@ -34698,7 +34754,7 @@
       "brand": "FilamentPM",
       "material": "PETG",
       "name": "PETG - Blue",
-      "hex": "#0078bf",
+      "hex": "#1b3373",
       "searchText": "filamentpm petg petg - blue"
     },
     {
@@ -34706,7 +34762,7 @@
       "brand": "FilamentPM",
       "material": "PETG",
       "name": "PETG - Dark Purple",
-      "hex": "#9f6979",
+      "hex": "#4b3048",
       "searchText": "filamentpm petg petg - dark purple"
     },
     {
@@ -34714,7 +34770,7 @@
       "brand": "FilamentPM",
       "material": "PETG",
       "name": "PETG - Green",
-      "hex": "#018e63",
+      "hex": "#007864",
       "searchText": "filamentpm petg petg - green"
     },
     {
@@ -34722,7 +34778,7 @@
       "brand": "FilamentPM",
       "material": "PETG",
       "name": "PETG - Grey",
-      "hex": "#c5c5bf",
+      "hex": "#9ea2a2",
       "searchText": "filamentpm petg petg - grey"
     },
     {
@@ -34730,7 +34786,7 @@
       "brand": "FilamentPM",
       "material": "PETG",
       "name": "PETG - Orange",
-      "hex": "#ff7a33",
+      "hex": "#f93822",
       "searchText": "filamentpm petg petg - orange"
     },
     {
@@ -34738,7 +34794,7 @@
       "brand": "FilamentPM",
       "material": "PETG",
       "name": "PETG - Orange 2018",
-      "hex": "#ff7a33",
+      "hex": "#ff671f",
       "searchText": "filamentpm petg petg - orange 2018"
     },
     {
@@ -34746,7 +34802,7 @@
       "brand": "FilamentPM",
       "material": "PETG",
       "name": "PETG - Red",
-      "hex": "#e72f1d",
+      "hex": "#e4002b",
       "searchText": "filamentpm petg petg - red"
     },
     {
@@ -34770,7 +34826,7 @@
       "brand": "FilamentPM",
       "material": "PETG",
       "name": "PETG - Transparent Blue",
-      "hex": "#0e21ae",
+      "hex": "#002f6c",
       "searchText": "filamentpm petg petg - transparent blue"
     },
     {
@@ -34778,7 +34834,7 @@
       "brand": "FilamentPM",
       "material": "PETG",
       "name": "PETG - Transparent Brown",
-      "hex": "#452f25",
+      "hex": "#6b3529",
       "searchText": "filamentpm petg petg - transparent brown"
     },
     {
@@ -34786,7 +34842,7 @@
       "brand": "FilamentPM",
       "material": "PETG",
       "name": "PETG - Transparent Green",
-      "hex": "#06b100",
+      "hex": "#509e2f",
       "searchText": "filamentpm petg petg - transparent green"
     },
     {
@@ -34794,7 +34850,7 @@
       "brand": "FilamentPM",
       "material": "PETG",
       "name": "PETG - Transparent Orange",
-      "hex": "#de6300",
+      "hex": "#af5c37",
       "searchText": "filamentpm petg petg - transparent orange"
     },
     {
@@ -34810,7 +34866,7 @@
       "brand": "FilamentPM",
       "material": "PETG",
       "name": "PETG - Transparent Violet",
-      "hex": "#b13566",
+      "hex": "#d0006f",
       "searchText": "filamentpm petg petg - transparent violet"
     },
     {
@@ -34818,7 +34874,7 @@
       "brand": "FilamentPM",
       "material": "PETG",
       "name": "PETG - Transparent Yellow",
-      "hex": "#ea9e3f",
+      "hex": "#ad841f",
       "searchText": "filamentpm petg petg - transparent yellow"
     },
     {
@@ -34826,7 +34882,7 @@
       "brand": "FilamentPM",
       "material": "PETG",
       "name": "PETG - Turquoise Blue",
-      "hex": "#39b9db",
+      "hex": "#3eb1c8",
       "searchText": "filamentpm petg petg - turquoise blue"
     },
     {
@@ -34834,15 +34890,23 @@
       "brand": "FilamentPM",
       "material": "PETG",
       "name": "PETG - White",
-      "hex": "#ffffff",
+      "hex": "#ecece7",
       "searchText": "filamentpm petg petg - white"
+    },
+    {
+      "id": "filamentpm-petg-yellow",
+      "brand": "FilamentPM",
+      "material": "PETG",
+      "name": "PETG - Yellow",
+      "hex": "#f5e457",
+      "searchText": "filamentpm petg petg - yellow"
     },
     {
       "id": "filamentpm-petg-cfjet-carbon-black",
       "brand": "FilamentPM",
       "material": "PETG",
       "name": "PETG CFJet Carbon - Black",
-      "hex": "#000000",
+      "hex": "#3f4444",
       "searchText": "filamentpm petg petg cfjet carbon - black"
     },
     {
@@ -34850,7 +34914,7 @@
       "brand": "FilamentPM",
       "material": "PETG",
       "name": "PETG FRJet self-extinguishing - Black",
-      "hex": "#000000",
+      "hex": "#101820",
       "searchText": "filamentpm petg petg frjet self-extinguishing - black"
     },
     {
@@ -34858,7 +34922,7 @@
       "brand": "FilamentPM",
       "material": "PETG",
       "name": "PETG FRJet self-extinguishing - White",
-      "hex": "#ffffff",
+      "hex": "#ecece7",
       "searchText": "filamentpm petg petg frjet self-extinguishing - white"
     },
     {
@@ -34866,7 +34930,7 @@
       "brand": "FilamentPM",
       "material": "PETG",
       "name": "PETG metalic edition - Froggy Gold",
-      "hex": "#6e5e2f",
+      "hex": "#6b665c",
       "searchText": "filamentpm petg petg metalic edition - froggy gold"
     },
     {
@@ -34874,7 +34938,7 @@
       "brand": "FilamentPM",
       "material": "PETG",
       "name": "PETG metallic edition - Coffee Bronze",
-      "hex": "#675f4f",
+      "hex": "#805f3c",
       "searchText": "filamentpm petg petg metallic edition - coffee bronze"
     },
     {
@@ -34898,15 +34962,23 @@
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA - Beige",
-      "hex": "#efe8d8",
+      "hex": "#e6d2b5",
       "searchText": "filamentpm pla pla - beige"
+    },
+    {
+      "id": "filamentpm-pla-black",
+      "brand": "FilamentPM",
+      "material": "PLA",
+      "name": "PLA - Black",
+      "hex": "#3f4444",
+      "searchText": "filamentpm pla pla - black"
     },
     {
       "id": "filamentpm-pla-blue",
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA - Blue",
-      "hex": "#0099e6",
+      "hex": "#0085ca",
       "searchText": "filamentpm pla pla - blue"
     },
     {
@@ -34914,7 +34986,7 @@
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA - Brown",
-      "hex": "#5d3b32",
+      "hex": "#512f2e",
       "searchText": "filamentpm pla pla - brown"
     },
     {
@@ -34922,7 +34994,7 @@
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA - Copper",
-      "hex": "#f67405",
+      "hex": "#8d4931",
       "searchText": "filamentpm pla pla - copper"
     },
     {
@@ -34930,7 +35002,7 @@
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA - Envy Green",
-      "hex": "#6e694d",
+      "hex": "#5d6439",
       "searchText": "filamentpm pla pla - envy green"
     },
     {
@@ -34938,7 +35010,7 @@
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA - Gold",
-      "hex": "#af7d00",
+      "hex": "#cb8e00",
       "searchText": "filamentpm pla pla - gold"
     },
     {
@@ -34946,7 +35018,7 @@
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA - Graphite black",
-      "hex": "#000000",
+      "hex": "#4b4f54",
       "searchText": "filamentpm pla pla - graphite black"
     },
     {
@@ -34954,7 +35026,7 @@
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA - Green",
-      "hex": "#018e63",
+      "hex": "#007864",
       "searchText": "filamentpm pla pla - green"
     },
     {
@@ -34962,7 +35034,7 @@
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA - Khaki",
-      "hex": "#ae9d7e",
+      "hex": "#84754e",
       "searchText": "filamentpm pla pla - khaki"
     },
     {
@@ -34970,15 +35042,31 @@
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA - Lila",
-      "hex": "#ae96d4",
+      "hex": "#8d6e97",
       "searchText": "filamentpm pla pla - lila"
+    },
+    {
+      "id": "filamentpm-pla-lw-green",
+      "brand": "FilamentPM",
+      "material": "PLA",
+      "name": "PLA - LW green",
+      "hex": "#5d6844",
+      "searchText": "filamentpm pla pla - lw green"
+    },
+    {
+      "id": "filamentpm-pla-lw-natur",
+      "brand": "FilamentPM",
+      "material": "PLA",
+      "name": "PLA - LW natur",
+      "hex": "#d6d2c4",
+      "searchText": "filamentpm pla pla - lw natur"
     },
     {
       "id": "filamentpm-pla-metallic-green",
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA - Metallic Green",
-      "hex": "#144f3b",
+      "hex": "#18332f",
       "searchText": "filamentpm pla pla - metallic green"
     },
     {
@@ -34986,15 +35074,23 @@
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA - Metallic Violet",
-      "hex": "#8d5984",
+      "hex": "#8d6e97",
       "searchText": "filamentpm pla pla - metallic violet"
+    },
+    {
+      "id": "filamentpm-pla-orange",
+      "brand": "FilamentPM",
+      "material": "PLA",
+      "name": "PLA - Orange",
+      "hex": "#fc4c02",
+      "searchText": "filamentpm pla pla - orange"
     },
     {
       "id": "filamentpm-pla-pearl-blue",
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA - Pearl Blue",
-      "hex": "#005da4",
+      "hex": "#34657f",
       "searchText": "filamentpm pla pla - pearl blue"
     },
     {
@@ -35002,7 +35098,7 @@
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA - Pearl Green",
-      "hex": "#089a45",
+      "hex": "#28724f",
       "searchText": "filamentpm pla pla - pearl green"
     },
     {
@@ -35010,7 +35106,7 @@
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA - Pearl Red",
-      "hex": "#861d2b",
+      "hex": "#934054",
       "searchText": "filamentpm pla pla - pearl red"
     },
     {
@@ -35018,7 +35114,7 @@
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA - Pink",
-      "hex": "#f2306e",
+      "hex": "#d0006f",
       "searchText": "filamentpm pla pla - pink"
     },
     {
@@ -35026,7 +35122,7 @@
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA - Red",
-      "hex": "#e60000",
+      "hex": "#e4002b",
       "searchText": "filamentpm pla pla - red"
     },
     {
@@ -35034,7 +35130,7 @@
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA - Silver",
-      "hex": "#949597",
+      "hex": "#8a8d8f",
       "searchText": "filamentpm pla pla - silver"
     },
     {
@@ -35042,7 +35138,7 @@
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA - Transparent",
-      "hex": "#f0ebe5",
+      "hex": "#a6a6a6",
       "searchText": "filamentpm pla pla - transparent"
     },
     {
@@ -35050,7 +35146,7 @@
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA - White",
-      "hex": "#ffffff",
+      "hex": "#ebece9",
       "searchText": "filamentpm pla pla - white"
     },
     {
@@ -35058,7 +35154,7 @@
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA - Yellow",
-      "hex": "#ffd342",
+      "hex": "#f7b500",
       "searchText": "filamentpm pla pla - yellow"
     },
     {
@@ -35066,7 +35162,7 @@
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA - Yellowgreen",
-      "hex": "#9aed51",
+      "hex": "#57a639",
       "searchText": "filamentpm pla pla - yellowgreen"
     },
     {
@@ -35116,14 +35212,6 @@
       "name": "PLA+ Army edition - Woodland Green",
       "hex": "#4c5e46",
       "searchText": "filamentpm pla pla+ army edition - woodland green"
-    },
-    {
-      "id": "filamentpm-pla-black",
-      "brand": "FilamentPM",
-      "material": "PLA",
-      "name": "PLA+ Black",
-      "hex": "#000000",
-      "searchText": "filamentpm pla pla+ black"
     },
     {
       "id": "filamentpm-pla-grey",
@@ -35249,16 +35337,16 @@
       "id": "filamentpm-repla",
       "brand": "FilamentPM",
       "material": "PLA",
-      "name": "RePLA+",
+      "name": "RePLA",
       "hex": "#5b4c49",
-      "searchText": "filamentpm pla repla+"
+      "searchText": "filamentpm pla repla"
     },
     {
       "id": "filamentpm-silk-copper-charm",
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "SILK - Copper Charm",
-      "hex": "#866855",
+      "hex": "#c98c77",
       "searchText": "filamentpm pla silk - copper charm"
     },
     {
@@ -35266,7 +35354,7 @@
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "SILK - Dark Pink",
-      "hex": "#b33174",
+      "hex": "#c4618c",
       "searchText": "filamentpm pla silk - dark pink"
     },
     {
@@ -35274,7 +35362,7 @@
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "SILK - Deep Blue",
-      "hex": "#0378d0",
+      "hex": "#6093ac",
       "searchText": "filamentpm pla silk - deep blue"
     },
     {
@@ -35282,7 +35370,7 @@
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "SILK - Emerald Green",
-      "hex": "#857c00",
+      "hex": "#a08f65",
       "searchText": "filamentpm pla silk - emerald green"
     },
     {
@@ -35290,7 +35378,7 @@
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "SILK - Golden Glory",
-      "hex": "#e3b145",
+      "hex": "#d2aa6d",
       "searchText": "filamentpm pla silk - golden glory"
     },
     {
@@ -35298,7 +35386,7 @@
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "SILK - Red Touch",
-      "hex": "#e60000",
+      "hex": "#cb7375",
       "searchText": "filamentpm pla silk - red touch"
     },
     {
@@ -35306,7 +35394,7 @@
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "SILK - Silver Gleam",
-      "hex": "#c9d0d4",
+      "hex": "#cacaca",
       "searchText": "filamentpm pla silk - silver gleam"
     },
     {
@@ -35314,7 +35402,7 @@
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "SILK - Sky Blue",
-      "hex": "#5fbcdd",
+      "hex": "#6093ac",
       "searchText": "filamentpm pla silk - sky blue"
     },
     {
@@ -35322,7 +35410,7 @@
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "SILK - Soft Pink",
-      "hex": "#f06e92",
+      "hex": "#d8a0a6",
       "searchText": "filamentpm pla silk - soft pink"
     },
     {
@@ -35330,7 +35418,7 @@
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "SILK - Sunny Yellow",
-      "hex": "#ebff57",
+      "hex": "#f1dd38",
       "searchText": "filamentpm pla silk - sunny yellow"
     },
     {
@@ -35346,8 +35434,16 @@
       "brand": "FilamentPM",
       "material": "TPE",
       "name": "TPE 32 RubberJet Flex - Black",
-      "hex": "#000000",
+      "hex": "#101820",
       "searchText": "filamentpm tpe tpe 32 rubberjet flex - black"
+    },
+    {
+      "id": "filamentpm-tpe-32-rubberjet-flex-fluorescent-yellow",
+      "brand": "FilamentPM",
+      "material": "TPE",
+      "name": "TPE 32 RubberJet Flex - Fluorescent Yellow",
+      "hex": "#f1dd38",
+      "searchText": "filamentpm tpe tpe 32 rubberjet flex - fluorescent yellow"
     },
     {
       "id": "filamentpm-tpe-32-rubberjet-flex-natur",
@@ -35362,7 +35458,7 @@
       "brand": "FilamentPM",
       "material": "TPE",
       "name": "TPE 88 RubberJet Flex - Black",
-      "hex": "#000000",
+      "hex": "#101820",
       "searchText": "filamentpm tpe tpe 88 rubberjet flex - black"
     },
     {
@@ -35374,12 +35470,36 @@
       "searchText": "filamentpm tpe tpe 88 rubberjet flex - blue"
     },
     {
+      "id": "filamentpm-tpe-88-rubberjet-flex-metallic-green",
+      "brand": "FilamentPM",
+      "material": "TPE",
+      "name": "TPE 88 RubberJet Flex - Metallic Green",
+      "hex": "#777e71",
+      "searchText": "filamentpm tpe tpe 88 rubberjet flex - metallic green"
+    },
+    {
+      "id": "filamentpm-tpe-88-rubberjet-flex-metallic-violet",
+      "brand": "FilamentPM",
+      "material": "TPE",
+      "name": "TPE 88 RubberJet Flex - Metallic Violet",
+      "hex": "#8d6e97",
+      "searchText": "filamentpm tpe tpe 88 rubberjet flex - metallic violet"
+    },
+    {
       "id": "filamentpm-tpe-88-rubberjet-flex-red",
       "brand": "FilamentPM",
       "material": "TPE",
       "name": "TPE 88 RubberJet Flex - Red",
-      "hex": "#e72f1d",
+      "hex": "#af272f",
       "searchText": "filamentpm tpe tpe 88 rubberjet flex - red"
+    },
+    {
+      "id": "filamentpm-tpe-88-rubberjet-flex-sulfur-yellow",
+      "brand": "FilamentPM",
+      "material": "TPE",
+      "name": "TPE 88 RubberJet Flex - Sulfur Yellow",
+      "hex": "#ede04b",
+      "searchText": "filamentpm tpe tpe 88 rubberjet flex - sulfur yellow"
     },
     {
       "id": "filamentpm-tpe-88-rubberjet-flex-translucent",
@@ -35394,7 +35514,7 @@
       "brand": "FilamentPM",
       "material": "TPU",
       "name": "TPU 96 - Black",
-      "hex": "#000000",
+      "hex": "#101820",
       "searchText": "filamentpm tpu tpu 96 - black"
     },
     {
@@ -35402,7 +35522,7 @@
       "brand": "FilamentPM",
       "material": "TPU",
       "name": "TPU 96 - Natur",
-      "hex": "#dfdfd3",
+      "hex": "#bbbcbc",
       "searchText": "filamentpm tpu tpu 96 - natur"
     },
     {
@@ -35410,7 +35530,7 @@
       "brand": "FilamentPM",
       "material": "TPU",
       "name": "TPU 96 - White",
-      "hex": "#ffffff",
+      "hex": "#ecece7",
       "searchText": "filamentpm tpu tpu 96 - white"
     },
     {
