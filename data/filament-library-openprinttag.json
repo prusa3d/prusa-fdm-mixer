@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-08-10T04:52:08.760Z",
-  "entryCount": 12074,
+  "lastSynced": "2026-08-11T04:45:45.763Z",
+  "entryCount": 12255,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -27694,23 +27694,47 @@
       "searchText": "eryone tpu tpu 95a white"
     },
     {
-      "id": "esun-abs-natural",
+      "id": "esun-abs-cf-black",
       "brand": "eSUN",
       "material": "ABS",
-      "name": "ABS Natural",
-      "hex": "#f2efe9",
-      "searchText": "esun abs abs natural"
+      "name": "ABS-CF Black",
+      "hex": "#000000",
+      "searchText": "esun abs abs-cf black"
     },
     {
-      "id": "esun-abs-white",
+      "id": "esun-abs-cf-dark-blue",
       "brand": "eSUN",
       "material": "ABS",
-      "name": "ABS White",
-      "hex": "#ffffff",
-      "searchText": "esun abs abs white"
+      "name": "ABS-CF Dark Blue",
+      "hex": "#2e4462",
+      "searchText": "esun abs abs-cf dark blue"
     },
     {
-      "id": "esun-abs-black",
+      "id": "esun-abs-cf-dark-green",
+      "brand": "eSUN",
+      "material": "ABS",
+      "name": "ABS-CF Dark Green",
+      "hex": "#1e5a4f",
+      "searchText": "esun abs abs-cf dark green"
+    },
+    {
+      "id": "esun-abs-cf-dark-purple",
+      "brand": "eSUN",
+      "material": "ABS",
+      "name": "ABS-CF Dark Purple",
+      "hex": "#444a62",
+      "searchText": "esun abs abs-cf dark purple"
+    },
+    {
+      "id": "esun-abs-cf-dark-red",
+      "brand": "eSUN",
+      "material": "ABS",
+      "name": "ABS-CF Dark Red",
+      "hex": "#462b2e",
+      "searchText": "esun abs abs-cf dark red"
+    },
+    {
+      "id": "esun-abs-pro-black",
       "brand": "eSUN",
       "material": "ABS",
       "name": "ABS+ Black",
@@ -27718,7 +27742,7 @@
       "searchText": "esun abs abs+ black"
     },
     {
-      "id": "esun-abs-blue",
+      "id": "esun-abs-pro-blue",
       "brand": "eSUN",
       "material": "ABS",
       "name": "ABS+ Blue",
@@ -27726,7 +27750,7 @@
       "searchText": "esun abs abs+ blue"
     },
     {
-      "id": "esun-abs-cold-white",
+      "id": "esun-abs-pro-cold-white",
       "brand": "eSUN",
       "material": "ABS",
       "name": "ABS+ Cold White",
@@ -27734,7 +27758,7 @@
       "searchText": "esun abs abs+ cold white"
     },
     {
-      "id": "esun-abs-fire-engine-red",
+      "id": "esun-abs-pro-fire-engine-red",
       "brand": "eSUN",
       "material": "ABS",
       "name": "ABS+ Fire Engine Red",
@@ -27742,7 +27766,7 @@
       "searchText": "esun abs abs+ fire engine red"
     },
     {
-      "id": "esun-abs-green",
+      "id": "esun-abs-pro-green",
       "brand": "eSUN",
       "material": "ABS",
       "name": "ABS+ Green",
@@ -27750,7 +27774,7 @@
       "searchText": "esun abs abs+ green"
     },
     {
-      "id": "esun-abs-grey",
+      "id": "esun-abs-pro-grey",
       "brand": "eSUN",
       "material": "ABS",
       "name": "ABS+ Grey",
@@ -27758,7 +27782,7 @@
       "searchText": "esun abs abs+ grey"
     },
     {
-      "id": "esun-abs-light-blue",
+      "id": "esun-abs-pro-light-blue",
       "brand": "eSUN",
       "material": "ABS",
       "name": "ABS+ Light Blue",
@@ -27766,7 +27790,15 @@
       "searchText": "esun abs abs+ light blue"
     },
     {
-      "id": "esun-abs-orange",
+      "id": "esun-abs-pro-natural",
+      "brand": "eSUN",
+      "material": "ABS",
+      "name": "ABS+ Natural",
+      "hex": "#f2efe9",
+      "searchText": "esun abs abs+ natural"
+    },
+    {
+      "id": "esun-abs-pro-orange",
       "brand": "eSUN",
       "material": "ABS",
       "name": "ABS+ Orange",
@@ -27774,7 +27806,7 @@
       "searchText": "esun abs abs+ orange"
     },
     {
-      "id": "esun-abs-peak-green",
+      "id": "esun-abs-pro-peak-green",
       "brand": "eSUN",
       "material": "ABS",
       "name": "ABS+ Peak Green",
@@ -27782,7 +27814,7 @@
       "searchText": "esun abs abs+ peak green"
     },
     {
-      "id": "esun-abs-purple",
+      "id": "esun-abs-pro-purple",
       "brand": "eSUN",
       "material": "ABS",
       "name": "ABS+ Purple",
@@ -27790,7 +27822,7 @@
       "searchText": "esun abs abs+ purple"
     },
     {
-      "id": "esun-abs-red",
+      "id": "esun-abs-pro-red",
       "brand": "eSUN",
       "material": "ABS",
       "name": "ABS+ Red",
@@ -27798,7 +27830,7 @@
       "searchText": "esun abs abs+ red"
     },
     {
-      "id": "esun-abs-silver",
+      "id": "esun-abs-pro-silver",
       "brand": "eSUN",
       "material": "ABS",
       "name": "ABS+ Silver",
@@ -27806,7 +27838,7 @@
       "searchText": "esun abs abs+ silver"
     },
     {
-      "id": "esun-abs-yellow",
+      "id": "esun-abs-pro-yellow",
       "brand": "eSUN",
       "material": "ABS",
       "name": "ABS+ Yellow",
@@ -27814,148 +27846,108 @@
       "searchText": "esun abs abs+ yellow"
     },
     {
-      "id": "esun-carbon-fiber-abs-black",
+      "id": "esun-abs-pro-hs-black",
       "brand": "eSUN",
       "material": "ABS",
-      "name": "Carbon Fiber ABS Black",
+      "name": "ABS+HS Black",
       "hex": "#000000",
-      "searchText": "esun abs carbon fiber abs black"
+      "searchText": "esun abs abs+hs black"
     },
     {
-      "id": "esun-carbon-fiber-abs-dark-blue",
+      "id": "esun-abs-pro-hs-blue",
       "brand": "eSUN",
       "material": "ABS",
-      "name": "Carbon Fiber ABS Dark Blue",
-      "hex": "#2e4462",
-      "searchText": "esun abs carbon fiber abs dark blue"
-    },
-    {
-      "id": "esun-carbon-fiber-abs-dark-green",
-      "brand": "eSUN",
-      "material": "ABS",
-      "name": "Carbon Fiber ABS Dark Green",
-      "hex": "#1e5a4f",
-      "searchText": "esun abs carbon fiber abs dark green"
-    },
-    {
-      "id": "esun-carbon-fiber-abs-dark-purple",
-      "brand": "eSUN",
-      "material": "ABS",
-      "name": "Carbon Fiber ABS Dark Purple",
-      "hex": "#444a62",
-      "searchText": "esun abs carbon fiber abs dark purple"
-    },
-    {
-      "id": "esun-carbon-fiber-abs-dark-red",
-      "brand": "eSUN",
-      "material": "ABS",
-      "name": "Carbon Fiber ABS Dark Red",
-      "hex": "#462b2e",
-      "searchText": "esun abs carbon fiber abs dark red"
-    },
-    {
-      "id": "esun-high-speed-abs-black",
-      "brand": "eSUN",
-      "material": "ABS",
-      "name": "High Speed ABS+ Black",
-      "hex": "#000000",
-      "searchText": "esun abs high speed abs+ black"
-    },
-    {
-      "id": "esun-high-speed-abs-blue",
-      "brand": "eSUN",
-      "material": "ABS",
-      "name": "High Speed ABS+ Blue",
+      "name": "ABS+HS Blue",
       "hex": "#0353ba",
-      "searchText": "esun abs high speed abs+ blue"
+      "searchText": "esun abs abs+hs blue"
     },
     {
-      "id": "esun-high-speed-abs-cold-white",
+      "id": "esun-abs-pro-hs-cold-white",
       "brand": "eSUN",
       "material": "ABS",
-      "name": "High Speed ABS+ Cold White",
+      "name": "ABS+HS Cold White",
       "hex": "#eaecf5",
-      "searchText": "esun abs high speed abs+ cold white"
+      "searchText": "esun abs abs+hs cold white"
     },
     {
-      "id": "esun-high-speed-abs-fire-engine-red",
+      "id": "esun-abs-pro-hs-fire-engine-red",
       "brand": "eSUN",
       "material": "ABS",
-      "name": "High Speed ABS+ Fire Engine Red",
+      "name": "ABS+HS Fire Engine Red",
       "hex": "#c01616",
-      "searchText": "esun abs high speed abs+ fire engine red"
+      "searchText": "esun abs abs+hs fire engine red"
     },
     {
-      "id": "esun-high-speed-abs-green",
+      "id": "esun-abs-pro-hs-green",
       "brand": "eSUN",
       "material": "ABS",
-      "name": "High Speed ABS+ Green",
+      "name": "ABS+HS Green",
       "hex": "#15817b",
-      "searchText": "esun abs high speed abs+ green"
+      "searchText": "esun abs abs+hs green"
     },
     {
-      "id": "esun-high-speed-abs-grey",
+      "id": "esun-abs-pro-hs-grey",
       "brand": "eSUN",
       "material": "ABS",
-      "name": "High Speed ABS+ Grey",
+      "name": "ABS+HS Grey",
       "hex": "#55657c",
-      "searchText": "esun abs high speed abs+ grey"
+      "searchText": "esun abs abs+hs grey"
     },
     {
-      "id": "esun-high-speed-abs-natural",
+      "id": "esun-abs-pro-hs-natural",
       "brand": "eSUN",
       "material": "ABS",
-      "name": "High Speed ABS+ Natural",
-      "hex": "#f5f0e8",
-      "searchText": "esun abs high speed abs+ natural"
+      "name": "ABS+HS Natural",
+      "hex": "#f6f1ec",
+      "searchText": "esun abs abs+hs natural"
     },
     {
-      "id": "esun-high-speed-abs-orange",
+      "id": "esun-abs-pro-hs-orange",
       "brand": "eSUN",
       "material": "ABS",
-      "name": "High Speed ABS+ Orange",
+      "name": "ABS+HS Orange",
       "hex": "#f67405",
-      "searchText": "esun abs high speed abs+ orange"
+      "searchText": "esun abs abs+hs orange"
     },
     {
-      "id": "esun-high-speed-abs-red",
+      "id": "esun-abs-pro-hs-red",
       "brand": "eSUN",
       "material": "ABS",
-      "name": "High Speed ABS+ Red",
+      "name": "ABS+HS Red",
       "hex": "#e03f26",
-      "searchText": "esun abs high speed abs+ red"
+      "searchText": "esun abs abs+hs red"
     },
     {
-      "id": "esun-high-speed-abs-silver",
+      "id": "esun-abs-pro-hs-silver",
       "brand": "eSUN",
       "material": "ABS",
-      "name": "High Speed ABS+ Silver",
+      "name": "ABS+HS Silver",
       "hex": "#8a8d8f",
-      "searchText": "esun abs high speed abs+ silver"
+      "searchText": "esun abs abs+hs silver"
     },
     {
-      "id": "esun-high-speed-abs-white",
+      "id": "esun-abs-pro-hs-white",
       "brand": "eSUN",
       "material": "ABS",
-      "name": "High Speed ABS+ White",
+      "name": "ABS+HS White",
       "hex": "#ffffff",
-      "searchText": "esun abs high speed abs+ white"
+      "searchText": "esun abs abs+hs white"
     },
     {
-      "id": "esun-high-speed-abs-yellow",
+      "id": "esun-abs-pro-hs-yellow",
       "brand": "eSUN",
       "material": "ABS",
-      "name": "High Speed ABS+ Yellow",
+      "name": "ABS+HS Yellow",
       "hex": "#fbe200",
-      "searchText": "esun abs high speed abs+ yellow"
+      "searchText": "esun abs abs+hs yellow"
     },
     {
       "id": "esun-asa-black",
       "brand": "eSUN",
       "material": "ASA",
-      "name": "ASA Black",
+      "name": "ASA+ Black",
       "hex": "#000000",
-      "searchText": "esun asa asa black"
+      "searchText": "esun asa asa+ black"
     },
     {
       "id": "esun-asa-blue",
@@ -28022,6 +28014,30 @@
       "searchText": "esun asa asa+ yellow"
     },
     {
+      "id": "esun-pa-cf-black",
+      "brand": "eSUN",
+      "material": "PA-CF",
+      "name": "PA-CF Black",
+      "hex": "#000000",
+      "searchText": "esun pa-cf pa-cf black"
+    },
+    {
+      "id": "esun-pa-black",
+      "brand": "eSUN",
+      "material": "PA6",
+      "name": "PA Black",
+      "hex": "#000000",
+      "searchText": "esun pa6 pa black"
+    },
+    {
+      "id": "esun-pa-clear",
+      "brand": "eSUN",
+      "material": "PA6",
+      "name": "PA Clear",
+      "hex": "#f8f8ee",
+      "searchText": "esun pa6 pa clear"
+    },
+    {
       "id": "esun-pet-solid-black",
       "brand": "eSUN",
       "material": "PET",
@@ -28054,94 +28070,6 @@
       "searchText": "esun pet pet transparent natural"
     },
     {
-      "id": "esun-high-speed-petg-fire-engine-red",
-      "brand": "eSUN",
-      "material": "PETG",
-      "name": "High Speed PETG Fire Engine Red",
-      "hex": "#e20010",
-      "searchText": "esun petg high speed petg fire engine red"
-    },
-    {
-      "id": "esun-high-speed-petg-solid-black",
-      "brand": "eSUN",
-      "material": "PETG",
-      "name": "High Speed PETG Solid Black",
-      "hex": "#000000",
-      "searchText": "esun petg high speed petg solid black"
-    },
-    {
-      "id": "esun-high-speed-petg-solid-blue",
-      "brand": "eSUN",
-      "material": "PETG",
-      "name": "High Speed PETG Solid Blue",
-      "hex": "#2e56f1",
-      "searchText": "esun petg high speed petg solid blue"
-    },
-    {
-      "id": "esun-high-speed-petg-solid-green",
-      "brand": "eSUN",
-      "material": "PETG",
-      "name": "High Speed PETG Solid Green",
-      "hex": "#018e63",
-      "searchText": "esun petg high speed petg solid green"
-    },
-    {
-      "id": "esun-high-speed-petg-solid-grey",
-      "brand": "eSUN",
-      "material": "PETG",
-      "name": "High Speed PETG Solid Grey",
-      "hex": "#55657c",
-      "searchText": "esun petg high speed petg solid grey"
-    },
-    {
-      "id": "esun-high-speed-petg-solid-orange",
-      "brand": "eSUN",
-      "material": "PETG",
-      "name": "High Speed PETG Solid Orange",
-      "hex": "#ff8133",
-      "searchText": "esun petg high speed petg solid orange"
-    },
-    {
-      "id": "esun-high-speed-petg-solid-silver",
-      "brand": "eSUN",
-      "material": "PETG",
-      "name": "High Speed PETG Solid Silver",
-      "hex": "#abacb0",
-      "searchText": "esun petg high speed petg solid silver"
-    },
-    {
-      "id": "esun-high-speed-petg-solid-yellow",
-      "brand": "eSUN",
-      "material": "PETG",
-      "name": "High Speed PETG Solid Yellow",
-      "hex": "#fbe200",
-      "searchText": "esun petg high speed petg solid yellow"
-    },
-    {
-      "id": "esun-high-speed-upgraded-petg-solid-red",
-      "brand": "eSUN",
-      "material": "PETG",
-      "name": "High Speed Upgraded PETG Solid Red",
-      "hex": "#e72f1d",
-      "searchText": "esun petg high speed upgraded petg solid red"
-    },
-    {
-      "id": "esun-high-speed-upgraded-petg-solid-white",
-      "brand": "eSUN",
-      "material": "PETG",
-      "name": "High Speed Upgraded PETG Solid White",
-      "hex": "#ffffff",
-      "searchText": "esun petg high speed upgraded petg solid white"
-    },
-    {
-      "id": "esun-petg",
-      "brand": "eSUN",
-      "material": "PETG",
-      "name": "PETG",
-      "hex": "#d9d8de",
-      "searchText": "esun petg petg"
-    },
-    {
       "id": "esun-petg-basic-black",
       "brand": "eSUN",
       "material": "PETG",
@@ -28154,7 +28082,7 @@
       "brand": "eSUN",
       "material": "PETG",
       "name": "PETG Basic Blue",
-      "hex": "#00358e",
+      "hex": "#1b3b99",
       "searchText": "esun petg petg basic blue"
     },
     {
@@ -28182,6 +28110,14 @@
       "searchText": "esun petg petg basic red"
     },
     {
+      "id": "esun-petg-basic-silver",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Basic Silver",
+      "hex": "#9ea2a2",
+      "searchText": "esun petg petg basic silver"
+    },
+    {
       "id": "esun-petg-basic-translucent-blue",
       "brand": "eSUN",
       "material": "PETG",
@@ -28198,12 +28134,60 @@
       "searchText": "esun petg petg basic translucent green"
     },
     {
+      "id": "esun-petg-basic-translucent-light-blue",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Basic Translucent Light Blue",
+      "hex": "#4fa3de",
+      "searchText": "esun petg petg basic translucent light blue"
+    },
+    {
+      "id": "esun-petg-basic-translucent-light-green",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Basic Translucent Light Green",
+      "hex": "#62d8ca",
+      "searchText": "esun petg petg basic translucent light green"
+    },
+    {
+      "id": "esun-petg-basic-translucent-light-orange",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Basic Translucent Light Orange",
+      "hex": "#ea9e3f",
+      "searchText": "esun petg petg basic translucent light orange"
+    },
+    {
+      "id": "esun-petg-basic-translucent-light-pink",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Basic Translucent Light Pink",
+      "hex": "#f2bdd0",
+      "searchText": "esun petg petg basic translucent light pink"
+    },
+    {
+      "id": "esun-petg-basic-translucent-light-purple",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Basic Translucent Light Purple",
+      "hex": "#b894e2",
+      "searchText": "esun petg petg basic translucent light purple"
+    },
+    {
       "id": "esun-petg-basic-translucent-orange",
       "brand": "eSUN",
       "material": "PETG",
       "name": "PETG Basic Translucent Orange",
       "hex": "#f67405",
       "searchText": "esun petg petg basic translucent orange"
+    },
+    {
+      "id": "esun-petg-basic-translucent-red",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Basic Translucent Red",
+      "hex": "#792b36",
+      "searchText": "esun petg petg basic translucent red"
     },
     {
       "id": "esun-petg-basic-white",
@@ -28226,7 +28210,7 @@
       "brand": "eSUN",
       "material": "PETG",
       "name": "PETG Fire Engine Red",
-      "hex": "#d21b31",
+      "hex": "#d02f37",
       "searchText": "esun petg petg fire engine red"
     },
     {
@@ -28236,6 +28220,14 @@
       "name": "PETG Green",
       "hex": "#206233",
       "searchText": "esun petg petg green"
+    },
+    {
+      "id": "esun-petg-matte-alabaster-white",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Matte Alabaster White",
+      "hex": "#f4e6cf",
+      "searchText": "esun petg petg matte alabaster white"
     },
     {
       "id": "esun-petg-matte-almond-yellow",
@@ -28254,6 +28246,30 @@
       "searchText": "esun petg petg matte apricot"
     },
     {
+      "id": "esun-petg-matte-blue-brick",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Matte Blue Brick",
+      "hex": "#70687d",
+      "searchText": "esun petg petg matte blue brick"
+    },
+    {
+      "id": "esun-petg-matte-brick-red",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Matte Brick Red",
+      "hex": "#a67865",
+      "searchText": "esun petg petg matte brick red"
+    },
+    {
+      "id": "esun-petg-matte-concrete-grey",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Matte Concrete Grey",
+      "hex": "#d0d3d4",
+      "searchText": "esun petg petg matte concrete grey"
+    },
+    {
       "id": "esun-petg-matte-dark-grey",
       "brand": "eSUN",
       "material": "PETG",
@@ -28262,11 +28278,19 @@
       "searchText": "esun petg petg matte dark grey"
     },
     {
+      "id": "esun-petg-matte-earth-brown",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Matte Earth Brown",
+      "hex": "#ae9d7e",
+      "searchText": "esun petg petg matte earth brown"
+    },
+    {
       "id": "esun-petg-matte-light-blue",
       "brand": "eSUN",
       "material": "PETG",
       "name": "PETG Matte Light Blue",
-      "hex": "#8ad8ed",
+      "hex": "#a9dfe3",
       "searchText": "esun petg petg matte light blue"
     },
     {
@@ -28290,7 +28314,7 @@
       "brand": "eSUN",
       "material": "PETG",
       "name": "PETG Matte Matcha Green",
-      "hex": "#cbd098",
+      "hex": "#a9c47f",
       "searchText": "esun petg petg matte matcha green"
     },
     {
@@ -28308,6 +28332,14 @@
       "name": "PETG Matte Peach Pink",
       "hex": "#ffc8c9",
       "searchText": "esun petg petg matte peach pink"
+    },
+    {
+      "id": "esun-petg-matte-terracotta",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG Matte Terracotta",
+      "hex": "#b58971",
+      "searchText": "esun petg petg matte terracotta"
     },
     {
       "id": "esun-petg-matte-white",
@@ -28418,7 +28450,7 @@
       "brand": "eSUN",
       "material": "PETG",
       "name": "PETG Solid Red",
-      "hex": "#ee2737",
+      "hex": "#f71818",
       "searchText": "esun petg petg solid red"
     },
     {
@@ -28502,6 +28534,14 @@
       "searchText": "esun petg petg-cf antique brass"
     },
     {
+      "id": "esun-petg-cf-black",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG-CF Black",
+      "hex": "#070908",
+      "searchText": "esun petg petg-cf black"
+    },
+    {
       "id": "esun-petg-cf-black-red",
       "brand": "eSUN",
       "material": "PETG",
@@ -28518,6 +28558,22 @@
       "searchText": "esun petg petg-cf blackish green"
     },
     {
+      "id": "esun-petg-cf-dark-blue",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG-CF Dark Blue",
+      "hex": "#444a62",
+      "searchText": "esun petg petg-cf dark blue"
+    },
+    {
+      "id": "esun-petg-cf-dark-green",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG-CF Dark Green",
+      "hex": "#575b54",
+      "searchText": "esun petg petg-cf dark green"
+    },
+    {
       "id": "esun-petg-cf-dark-grey",
       "brand": "eSUN",
       "material": "PETG",
@@ -28532,6 +28588,86 @@
       "name": "PETG-CF Deep Blue",
       "hex": "#444a62",
       "searchText": "esun petg petg-cf deep blue"
+    },
+    {
+      "id": "esun-petg-hs-black",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG+HS Black",
+      "hex": "#000000",
+      "searchText": "esun petg petg+hs black"
+    },
+    {
+      "id": "esun-petg-hs-fire-engine-red",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG+HS Fire Engine Red",
+      "hex": "#e20010",
+      "searchText": "esun petg petg+hs fire engine red"
+    },
+    {
+      "id": "esun-petg-hs-solid-blue",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG+HS Solid Blue",
+      "hex": "#2e56f1",
+      "searchText": "esun petg petg+hs solid blue"
+    },
+    {
+      "id": "esun-petg-hs-solid-green",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG+HS Solid Green",
+      "hex": "#018e63",
+      "searchText": "esun petg petg+hs solid green"
+    },
+    {
+      "id": "esun-petg-hs-solid-grey",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG+HS Solid Grey",
+      "hex": "#55657c",
+      "searchText": "esun petg petg+hs solid grey"
+    },
+    {
+      "id": "esun-petg-hs-solid-orange",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG+HS Solid Orange",
+      "hex": "#ff8133",
+      "searchText": "esun petg petg+hs solid orange"
+    },
+    {
+      "id": "esun-petg-hs-solid-red",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG+HS Solid Red",
+      "hex": "#e72f1d",
+      "searchText": "esun petg petg+hs solid red"
+    },
+    {
+      "id": "esun-petg-hs-solid-silver",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG+HS Solid Silver",
+      "hex": "#abacb0",
+      "searchText": "esun petg petg+hs solid silver"
+    },
+    {
+      "id": "esun-petg-hs-solid-white",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG+HS Solid White",
+      "hex": "#ffffff",
+      "searchText": "esun petg petg+hs solid white"
+    },
+    {
+      "id": "esun-petg-hs-solid-yellow",
+      "brand": "eSUN",
+      "material": "PETG",
+      "name": "PETG+HS Solid Yellow",
+      "hex": "#fbe200",
+      "searchText": "esun petg petg+hs solid yellow"
     },
     {
       "id": "esun-carbon-fiber-pla-black",
@@ -28574,164 +28710,12 @@
       "searchText": "esun pla carbon fiber pla red"
     },
     {
-      "id": "esun-high-speed-pla-black",
+      "id": "esun-pla-basic-aqua",
       "brand": "eSUN",
       "material": "PLA",
-      "name": "High Speed PLA+ Black",
-      "hex": "#000000",
-      "searchText": "esun pla high speed pla+ black"
-    },
-    {
-      "id": "esun-high-speed-pla-blue",
-      "brand": "eSUN",
-      "material": "PLA",
-      "name": "High Speed PLA+ Blue",
-      "hex": "#2e56f1",
-      "searchText": "esun pla high speed pla+ blue"
-    },
-    {
-      "id": "esun-high-speed-pla-bone-white",
-      "brand": "eSUN",
-      "material": "PLA",
-      "name": "High Speed PLA+ Bone White",
-      "hex": "#eadac2",
-      "searchText": "esun pla high speed pla+ bone white"
-    },
-    {
-      "id": "esun-high-speed-pla-brown",
-      "brand": "eSUN",
-      "material": "PLA",
-      "name": "High Speed PLA+ Brown",
-      "hex": "#926043",
-      "searchText": "esun pla high speed pla+ brown"
-    },
-    {
-      "id": "esun-high-speed-pla-cold-white",
-      "brand": "eSUN",
-      "material": "PLA",
-      "name": "High Speed PLA+ Cold White",
-      "hex": "#eaecf5",
-      "searchText": "esun pla high speed pla+ cold white"
-    },
-    {
-      "id": "esun-high-speed-pla-fire-red",
-      "brand": "eSUN",
-      "material": "PLA",
-      "name": "High Speed PLA+ Fire Red",
-      "hex": "#c01616",
-      "searchText": "esun pla high speed pla+ fire red"
-    },
-    {
-      "id": "esun-high-speed-pla-green",
-      "brand": "eSUN",
-      "material": "PLA",
-      "name": "High Speed PLA+ Green",
-      "hex": "#1c393d",
-      "searchText": "esun pla high speed pla+ green"
-    },
-    {
-      "id": "esun-high-speed-pla-grey",
-      "brand": "eSUN",
-      "material": "PLA",
-      "name": "High Speed PLA+ Grey",
-      "hex": "#88899d",
-      "searchText": "esun pla high speed pla+ grey"
-    },
-    {
-      "id": "esun-high-speed-pla-light-blue",
-      "brand": "eSUN",
-      "material": "PLA",
-      "name": "High Speed PLA+ Light Blue",
-      "hex": "#1adafb",
-      "searchText": "esun pla high speed pla+ light blue"
-    },
-    {
-      "id": "esun-high-speed-pla-orange",
-      "brand": "eSUN",
-      "material": "PLA",
-      "name": "High Speed PLA+ Orange",
-      "hex": "#ff8133",
-      "searchText": "esun pla high speed pla+ orange"
-    },
-    {
-      "id": "esun-high-speed-pla-peak-green",
-      "brand": "eSUN",
-      "material": "PLA",
-      "name": "High Speed PLA+ Peak Green",
-      "hex": "#83e665",
-      "searchText": "esun pla high speed pla+ peak green"
-    },
-    {
-      "id": "esun-high-speed-pla-red",
-      "brand": "eSUN",
-      "material": "PLA",
-      "name": "High Speed PLA+ Red",
-      "hex": "#e03f26",
-      "searchText": "esun pla high speed pla+ red"
-    },
-    {
-      "id": "esun-high-speed-pla-silver",
-      "brand": "eSUN",
-      "material": "PLA",
-      "name": "High Speed PLA+ Silver",
-      "hex": "#abacb0",
-      "searchText": "esun pla high speed pla+ silver"
-    },
-    {
-      "id": "esun-high-speed-pla-white",
-      "brand": "eSUN",
-      "material": "PLA",
-      "name": "High Speed PLA+ White",
-      "hex": "#f5f5f5",
-      "searchText": "esun pla high speed pla+ white"
-    },
-    {
-      "id": "esun-high-speed-pla-yellow",
-      "brand": "eSUN",
-      "material": "PLA",
-      "name": "High Speed PLA+ Yellow",
-      "hex": "#fbe200",
-      "searchText": "esun pla high speed pla+ yellow"
-    },
-    {
-      "id": "esun-magic-pla-dark-twinkling-blue",
-      "brand": "eSUN",
-      "material": "PLA",
-      "name": "Magic PLA Dark Twinkling Blue",
-      "hex": "#3b3f6b",
-      "searchText": "esun pla magic pla dark twinkling blue"
-    },
-    {
-      "id": "esun-magic-pla-dark-twinkling-gold",
-      "brand": "eSUN",
-      "material": "PLA",
-      "name": "Magic PLA Dark Twinkling Gold",
-      "hex": "#4c645b",
-      "searchText": "esun pla magic pla dark twinkling gold"
-    },
-    {
-      "id": "esun-magic-pla-dark-twinkling-green",
-      "brand": "eSUN",
-      "material": "PLA",
-      "name": "Magic PLA Dark Twinkling Green",
-      "hex": "#1c393d",
-      "searchText": "esun pla magic pla dark twinkling green"
-    },
-    {
-      "id": "esun-magic-pla-dark-twinkling-purple",
-      "brand": "eSUN",
-      "material": "PLA",
-      "name": "Magic PLA Dark Twinkling Purple",
-      "hex": "#771b6b",
-      "searchText": "esun pla magic pla dark twinkling purple"
-    },
-    {
-      "id": "esun-marble-pla",
-      "brand": "eSUN",
-      "material": "PLA",
-      "name": "Marble PLA",
-      "hex": "#c3ccd5",
-      "searchText": "esun pla marble pla"
+      "name": "PLA Basic Aqua",
+      "hex": "#2cc9d1",
+      "searchText": "esun pla pla basic aqua"
     },
     {
       "id": "esun-pla-basic-barbie-pink",
@@ -28746,7 +28730,7 @@
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA Basic Beige",
-      "hex": "#f8cbaf",
+      "hex": "#c2ab72",
       "searchText": "esun pla pla basic beige"
     },
     {
@@ -28790,11 +28774,19 @@
       "searchText": "esun pla pla basic cold white"
     },
     {
+      "id": "esun-pla-basic-concrete-grey",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA Basic Concrete Grey",
+      "hex": "#d6d7d8",
+      "searchText": "esun pla pla basic concrete grey"
+    },
+    {
       "id": "esun-pla-basic-dark-blue",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA Basic Dark Blue",
-      "hex": "#2a3756",
+      "hex": "#1b3373",
       "searchText": "esun pla pla basic dark blue"
     },
     {
@@ -28902,6 +28894,14 @@
       "searchText": "esun pla pla basic red"
     },
     {
+      "id": "esun-pla-basic-rgb-red",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA Basic RGB Red",
+      "hex": "#c00d1e",
+      "searchText": "esun pla pla basic rgb red"
+    },
+    {
       "id": "esun-pla-basic-silver",
       "brand": "eSUN",
       "material": "PLA",
@@ -28914,7 +28914,7 @@
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA Basic Sky Blue",
-      "hex": "#9bcbeb",
+      "hex": "#1ac5fc",
       "searchText": "esun pla pla basic sky blue"
     },
     {
@@ -28930,7 +28930,7 @@
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA Basic Yellow",
-      "hex": "#fce300",
+      "hex": "#f3e600",
       "searchText": "esun pla pla basic yellow"
     },
     {
@@ -29022,12 +29022,44 @@
       "searchText": "esun pla pla lite yellow"
     },
     {
-      "id": "esun-pla-lw-black",
+      "id": "esun-pla-magic-dark-twinkling-blue",
       "brand": "eSUN",
       "material": "PLA",
-      "name": "PLA LW Black",
-      "hex": "#000000",
-      "searchText": "esun pla pla lw black"
+      "name": "PLA Magic Dark Twinkling Blue",
+      "hex": "#3b3f6b",
+      "searchText": "esun pla pla magic dark twinkling blue"
+    },
+    {
+      "id": "esun-pla-magic-dark-twinkling-gold",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA Magic Dark Twinkling Gold",
+      "hex": "#4c645b",
+      "searchText": "esun pla pla magic dark twinkling gold"
+    },
+    {
+      "id": "esun-pla-magic-dark-twinkling-green",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA Magic Dark Twinkling Green",
+      "hex": "#1c393d",
+      "searchText": "esun pla pla magic dark twinkling green"
+    },
+    {
+      "id": "esun-pla-magic-dark-twinkling-purple",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA Magic Dark Twinkling Purple",
+      "hex": "#771b6b",
+      "searchText": "esun pla pla magic dark twinkling purple"
+    },
+    {
+      "id": "esun-pla-marble",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA Marble",
+      "hex": "#c3ccd5",
+      "searchText": "esun pla pla marble"
     },
     {
       "id": "esun-pla-matte-almond-yellow",
@@ -29042,7 +29074,7 @@
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA Matte Dark Grey",
-      "hex": "#94a7b7",
+      "hex": "#4c5975",
       "searchText": "esun pla pla matte dark grey"
     },
     {
@@ -29054,12 +29086,12 @@
       "searchText": "esun pla pla matte deep black"
     },
     {
-      "id": "esun-pla-matte-lake-blue",
+      "id": "esun-pla-matte-light-blue",
       "brand": "eSUN",
       "material": "PLA",
-      "name": "PLA Matte Lake Blue",
+      "name": "PLA Matte Light Blue",
       "hex": "#99f1ff",
-      "searchText": "esun pla pla matte lake blue"
+      "searchText": "esun pla pla matte light blue"
     },
     {
       "id": "esun-pla-matte-light-khaki",
@@ -29078,6 +29110,14 @@
       "searchText": "esun pla pla matte lilac"
     },
     {
+      "id": "esun-pla-matte-matcha-green",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA Matte Matcha Green",
+      "hex": "#a9c47f",
+      "searchText": "esun pla pla matte matcha green"
+    },
+    {
       "id": "esun-pla-matte-milky-white",
       "brand": "eSUN",
       "material": "PLA",
@@ -29094,6 +29134,30 @@
       "searchText": "esun pla pla matte mint green"
     },
     {
+      "id": "esun-pla-matte-morandi-green",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA Matte Morandi Green",
+      "hex": "#007864",
+      "searchText": "esun pla pla matte morandi green"
+    },
+    {
+      "id": "esun-pla-matte-morandi-purple",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA Matte Morandi Purple",
+      "hex": "#cf6076",
+      "searchText": "esun pla pla matte morandi purple"
+    },
+    {
+      "id": "esun-pla-matte-olive-green",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA Matte Olive Green",
+      "hex": "#919863",
+      "searchText": "esun pla pla matte olive green"
+    },
+    {
       "id": "esun-pla-matte-peach-pink",
       "brand": "eSUN",
       "material": "PLA",
@@ -29102,11 +29166,27 @@
       "searchText": "esun pla pla matte peach pink"
     },
     {
+      "id": "esun-pla-matte-strawberry-red",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA Matte Strawberry Red",
+      "hex": "#fe488b",
+      "searchText": "esun pla pla matte strawberry red"
+    },
+    {
+      "id": "esun-pla-matte-tangerine",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA Matte Tangerine",
+      "hex": "#e94b3c",
+      "searchText": "esun pla pla matte tangerine"
+    },
+    {
       "id": "esun-pla-metal-bronze",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA Metal Bronze",
-      "hex": "#b58660",
+      "hex": "#ae6840",
       "searchText": "esun pla pla metal bronze"
     },
     {
@@ -29156,6 +29236,46 @@
       "name": "PLA Silk Lime",
       "hex": "#9aff00",
       "searchText": "esun pla pla silk lime"
+    },
+    {
+      "id": "esun-pla-silk-metal-bronze",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA Silk Metal Bronze",
+      "hex": "#a79e82",
+      "searchText": "esun pla pla silk metal bronze"
+    },
+    {
+      "id": "esun-pla-silk-metal-copper",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA Silk Metal Copper",
+      "hex": "#e87a27",
+      "searchText": "esun pla pla silk metal copper"
+    },
+    {
+      "id": "esun-pla-silk-metal-gold",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA Silk Metal Gold",
+      "hex": "#f6c500",
+      "searchText": "esun pla pla silk metal gold"
+    },
+    {
+      "id": "esun-pla-silk-metal-rose-gold",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA Silk Metal Rose Gold",
+      "hex": "#ba9594",
+      "searchText": "esun pla pla silk metal rose gold"
+    },
+    {
+      "id": "esun-pla-silk-metal-silver",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA Silk Metal Silver",
+      "hex": "#c9d0d4",
+      "searchText": "esun pla pla silk metal silver"
     },
     {
       "id": "esun-pla-silk-purple",
@@ -29234,8 +29354,56 @@
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA Wood Walnut",
-      "hex": "#a67f6b",
+      "hex": "#a39382",
       "searchText": "esun pla pla wood walnut"
+    },
+    {
+      "id": "esun-pla-cf-black",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA-CF Black",
+      "hex": "#000000",
+      "searchText": "esun pla pla-cf black"
+    },
+    {
+      "id": "esun-pla-cf-brown",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA-CF Brown",
+      "hex": "#504835",
+      "searchText": "esun pla pla-cf brown"
+    },
+    {
+      "id": "esun-pla-cf-green",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA-CF Green",
+      "hex": "#283333",
+      "searchText": "esun pla pla-cf green"
+    },
+    {
+      "id": "esun-pla-cf-purple",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA-CF Purple",
+      "hex": "#2f2936",
+      "searchText": "esun pla pla-cf purple"
+    },
+    {
+      "id": "esun-pla-cf-red",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA-CF Red",
+      "hex": "#4f3638",
+      "searchText": "esun pla pla-cf red"
+    },
+    {
+      "id": "esun-pla-lw-black",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA-LW Black",
+      "hex": "#000000",
+      "searchText": "esun pla pla-lw black"
     },
     {
       "id": "esun-pla-lw-natural",
@@ -29246,7 +29414,7 @@
       "searchText": "esun pla pla-lw natural"
     },
     {
-      "id": "esun-pla-almond-yellow",
+      "id": "esun-pla-pro-almond-yellow",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Almond Yellow",
@@ -29254,7 +29422,7 @@
       "searchText": "esun pla pla+ almond yellow"
     },
     {
-      "id": "esun-pla-apricot",
+      "id": "esun-pla-pro-apricot",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Apricot",
@@ -29262,7 +29430,15 @@
       "searchText": "esun pla pla+ apricot"
     },
     {
-      "id": "esun-pla-beige",
+      "id": "esun-pla-pro-aqua",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+ Aqua",
+      "hex": "#25c9d0",
+      "searchText": "esun pla pla+ aqua"
+    },
+    {
+      "id": "esun-pla-pro-beige",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Beige",
@@ -29270,7 +29446,7 @@
       "searchText": "esun pla pla+ beige"
     },
     {
-      "id": "esun-pla-black",
+      "id": "esun-pla-pro-black",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Black",
@@ -29278,7 +29454,7 @@
       "searchText": "esun pla pla+ black"
     },
     {
-      "id": "esun-pla-blue",
+      "id": "esun-pla-pro-blue",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Blue",
@@ -29286,7 +29462,7 @@
       "searchText": "esun pla pla+ blue"
     },
     {
-      "id": "esun-pla-bone-white",
+      "id": "esun-pla-pro-bone-white",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Bone White",
@@ -29294,12 +29470,44 @@
       "searchText": "esun pla pla+ bone white"
     },
     {
-      "id": "esun-pla-brown",
+      "id": "esun-pla-pro-brick-red",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+ Brick Red",
+      "hex": "#8a2a2b",
+      "searchText": "esun pla pla+ brick red"
+    },
+    {
+      "id": "esun-pla-pro-brown",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Brown",
-      "hex": "#a45b27",
+      "hex": "#785135",
       "searchText": "esun pla pla+ brown"
+    },
+    {
+      "id": "esun-pla-cmyk-cyan",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+ CMYK Cyan",
+      "hex": "#08abfb",
+      "searchText": "esun pla pla+ cmyk cyan"
+    },
+    {
+      "id": "esun-pla-cmyk-magenta",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+ CMYK Magenta",
+      "hex": "#f04c9a",
+      "searchText": "esun pla pla+ cmyk magenta"
+    },
+    {
+      "id": "esun-pla-cmyk-white",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+ CMYK White",
+      "hex": "#f5f5f5",
+      "searchText": "esun pla pla+ cmyk white"
     },
     {
       "id": "esun-pla-cmyk-yellow",
@@ -29310,7 +29518,7 @@
       "searchText": "esun pla pla+ cmyk yellow"
     },
     {
-      "id": "esun-pla-cold-white",
+      "id": "esun-pla-pro-cold-white",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Cold White",
@@ -29318,15 +29526,23 @@
       "searchText": "esun pla pla+ cold white"
     },
     {
-      "id": "esun-pla-coral-orange",
+      "id": "esun-pla-pro-concrete-grey",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+ Concrete Grey",
+      "hex": "#d0d3d4",
+      "searchText": "esun pla pla+ concrete grey"
+    },
+    {
+      "id": "esun-pla-pro-coral-orange",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Coral Orange",
-      "hex": "#ff6a13",
+      "hex": "#f67828",
       "searchText": "esun pla pla+ coral orange"
     },
     {
-      "id": "esun-pla-dark-blue",
+      "id": "esun-pla-pro-dark-blue",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Dark Blue",
@@ -29334,7 +29550,7 @@
       "searchText": "esun pla pla+ dark blue"
     },
     {
-      "id": "esun-pla-fire-engine-red",
+      "id": "esun-pla-pro-fire-engine-red",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Fire Engine Red",
@@ -29342,7 +29558,7 @@
       "searchText": "esun pla pla+ fire engine red"
     },
     {
-      "id": "esun-pla-gold",
+      "id": "esun-pla-pro-gold",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Gold",
@@ -29350,15 +29566,15 @@
       "searchText": "esun pla pla+ gold"
     },
     {
-      "id": "esun-pla-grass-green",
+      "id": "esun-pla-pro-grass-green",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Grass Green",
-      "hex": "#61c680",
+      "hex": "#008522",
       "searchText": "esun pla pla+ grass green"
     },
     {
-      "id": "esun-pla-green",
+      "id": "esun-pla-pro-green",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Green",
@@ -29366,7 +29582,7 @@
       "searchText": "esun pla pla+ green"
     },
     {
-      "id": "esun-pla-grey",
+      "id": "esun-pla-pro-grey",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Grey",
@@ -29374,15 +29590,15 @@
       "searchText": "esun pla pla+ grey"
     },
     {
-      "id": "esun-pla-haze-blue",
+      "id": "esun-pla-pro-haze-blue",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Haze Blue",
-      "hex": "#6299df",
+      "hex": "#6191b4",
       "searchText": "esun pla pla+ haze blue"
     },
     {
-      "id": "esun-pla-holly-green",
+      "id": "esun-pla-pro-holly-green",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Holly Green",
@@ -29390,31 +29606,31 @@
       "searchText": "esun pla pla+ holly green"
     },
     {
-      "id": "esun-pla-jade-green",
+      "id": "esun-pla-pro-jade-green",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Jade Green",
-      "hex": "#2bd8bf",
+      "hex": "#00c389",
       "searchText": "esun pla pla+ jade green"
     },
     {
-      "id": "esun-pla-light-blue",
+      "id": "esun-pla-pro-light-blue",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Light Blue",
-      "hex": "#1adafb",
+      "hex": "#0099b2",
       "searchText": "esun pla pla+ light blue"
     },
     {
-      "id": "esun-pla-light-brown",
+      "id": "esun-pla-pro-light-brown",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Light Brown",
-      "hex": "#ba8960",
+      "hex": "#a8714e",
       "searchText": "esun pla pla+ light brown"
     },
     {
-      "id": "esun-pla-light-khaki",
+      "id": "esun-pla-pro-light-khaki",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Light Khaki",
@@ -29422,7 +29638,7 @@
       "searchText": "esun pla pla+ light khaki"
     },
     {
-      "id": "esun-pla-lilac",
+      "id": "esun-pla-pro-lilac",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Lilac",
@@ -29430,7 +29646,7 @@
       "searchText": "esun pla pla+ lilac"
     },
     {
-      "id": "esun-pla-magenta",
+      "id": "esun-pla-pro-magenta",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Magenta",
@@ -29438,15 +29654,15 @@
       "searchText": "esun pla pla+ magenta"
     },
     {
-      "id": "esun-pla-matcha-green",
+      "id": "esun-pla-pro-matcha-green",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Matcha Green",
-      "hex": "#cbd098",
+      "hex": "#a9c47f",
       "searchText": "esun pla pla+ matcha green"
     },
     {
-      "id": "esun-pla-milky-white",
+      "id": "esun-pla-pro-milky-white",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Milky White",
@@ -29454,7 +29670,7 @@
       "searchText": "esun pla pla+ milky white"
     },
     {
-      "id": "esun-pla-mint-green",
+      "id": "esun-pla-pro-mint-green",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Mint Green",
@@ -29462,15 +29678,15 @@
       "searchText": "esun pla pla+ mint green"
     },
     {
-      "id": "esun-pla-mustard-green",
+      "id": "esun-pla-pro-mustard-green",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Mustard Green",
-      "hex": "#a59f4d",
+      "hex": "#bfcc80",
       "searchText": "esun pla pla+ mustard green"
     },
     {
-      "id": "esun-pla-olive-green",
+      "id": "esun-pla-pro-olive-green",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Olive Green",
@@ -29478,7 +29694,7 @@
       "searchText": "esun pla pla+ olive green"
     },
     {
-      "id": "esun-pla-orange",
+      "id": "esun-pla-pro-orange",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Orange",
@@ -29486,15 +29702,15 @@
       "searchText": "esun pla pla+ orange"
     },
     {
-      "id": "esun-pla-peach-pink",
+      "id": "esun-pla-pro-peach-pink",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Peach Pink",
-      "hex": "#f5d3d6",
+      "hex": "#f1bdc8",
       "searchText": "esun pla pla+ peach pink"
     },
     {
-      "id": "esun-pla-peak-green",
+      "id": "esun-pla-pro-peak-green",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Peak Green",
@@ -29502,7 +29718,7 @@
       "searchText": "esun pla pla+ peak green"
     },
     {
-      "id": "esun-pla-pine-green",
+      "id": "esun-pla-pro-pine-green",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Pine Green",
@@ -29510,23 +29726,23 @@
       "searchText": "esun pla pla+ pine green"
     },
     {
-      "id": "esun-pla-pink",
+      "id": "esun-pla-pro-pink",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Pink",
-      "hex": "#f87fb5",
+      "hex": "#f65c87",
       "searchText": "esun pla pla+ pink"
     },
     {
-      "id": "esun-pla-purple",
+      "id": "esun-pla-pro-purple",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Purple",
-      "hex": "#9761b5",
+      "hex": "#500878",
       "searchText": "esun pla pla+ purple"
     },
     {
-      "id": "esun-pla-red",
+      "id": "esun-pla-pro-red",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Red",
@@ -29534,7 +29750,7 @@
       "searchText": "esun pla pla+ red"
     },
     {
-      "id": "esun-pla-rgb-blue",
+      "id": "esun-pla-pro-rgb-blue",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ RGB Blue",
@@ -29542,7 +29758,7 @@
       "searchText": "esun pla pla+ rgb blue"
     },
     {
-      "id": "esun-pla-rgb-green",
+      "id": "esun-pla-pro-rgb-green",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ RGB Green",
@@ -29550,7 +29766,7 @@
       "searchText": "esun pla pla+ rgb green"
     },
     {
-      "id": "esun-pla-rgb-red",
+      "id": "esun-pla-pro-rgb-red",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ RGB Red",
@@ -29558,7 +29774,7 @@
       "searchText": "esun pla pla+ rgb red"
     },
     {
-      "id": "esun-pla-silver",
+      "id": "esun-pla-pro-silver",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Silver",
@@ -29566,7 +29782,7 @@
       "searchText": "esun pla pla+ silver"
     },
     {
-      "id": "esun-pla-soft-blue",
+      "id": "esun-pla-pro-soft-blue",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Soft Blue",
@@ -29574,23 +29790,31 @@
       "searchText": "esun pla pla+ soft blue"
     },
     {
-      "id": "esun-pla-space-blue",
+      "id": "esun-pla-pro-soft-pink",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+ Soft Pink",
+      "hex": "#f1bdc8",
+      "searchText": "esun pla pla+ soft pink"
+    },
+    {
+      "id": "esun-pla-pro-space-blue",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Space Blue",
-      "hex": "#1adafb",
+      "hex": "#41b6e6",
       "searchText": "esun pla pla+ space blue"
     },
     {
-      "id": "esun-pla-very-peri",
+      "id": "esun-pla-pro-very-peri",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Very Peri",
-      "hex": "#9fa0f0",
+      "hex": "#6068b2",
       "searchText": "esun pla pla+ very peri"
     },
     {
-      "id": "esun-pla-white",
+      "id": "esun-pla-pro-white",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ White",
@@ -29598,7 +29822,7 @@
       "searchText": "esun pla pla+ white"
     },
     {
-      "id": "esun-pla-yellow",
+      "id": "esun-pla-pro-yellow",
       "brand": "eSUN",
       "material": "PLA",
       "name": "PLA+ Yellow",
@@ -29606,44 +29830,284 @@
       "searchText": "esun pla pla+ yellow"
     },
     {
-      "id": "esun-silk-metal-pla-bronze",
+      "id": "esun-pla-pro-hs-baby-blue",
       "brand": "eSUN",
       "material": "PLA",
-      "name": "Silk Metal PLA Bronze",
-      "hex": "#a79e82",
-      "searchText": "esun pla silk metal pla bronze"
+      "name": "PLA+HS Baby Blue",
+      "hex": "#77d3dd",
+      "searchText": "esun pla pla+hs baby blue"
     },
     {
-      "id": "esun-silk-metal-pla-copper",
+      "id": "esun-pla-pro-hs-black",
       "brand": "eSUN",
       "material": "PLA",
-      "name": "Silk Metal PLA Copper",
-      "hex": "#e87a27",
-      "searchText": "esun pla silk metal pla copper"
+      "name": "PLA+HS Black",
+      "hex": "#000000",
+      "searchText": "esun pla pla+hs black"
     },
     {
-      "id": "esun-silk-metal-pla-gold",
+      "id": "esun-pla-pro-hs-blue",
       "brand": "eSUN",
       "material": "PLA",
-      "name": "Silk Metal PLA Gold",
-      "hex": "#f6c500",
-      "searchText": "esun pla silk metal pla gold"
+      "name": "PLA+HS Blue",
+      "hex": "#2e56f1",
+      "searchText": "esun pla pla+hs blue"
     },
     {
-      "id": "esun-silk-metal-pla-rose-gold",
+      "id": "esun-pla-pro-hs-bone-white",
       "brand": "eSUN",
       "material": "PLA",
-      "name": "Silk Metal PLA Rose Gold",
-      "hex": "#a57973",
-      "searchText": "esun pla silk metal pla rose gold"
+      "name": "PLA+HS Bone White",
+      "hex": "#eadac2",
+      "searchText": "esun pla pla+hs bone white"
     },
     {
-      "id": "esun-silk-metal-pla-silver",
+      "id": "esun-pla-pro-hs-brown",
       "brand": "eSUN",
       "material": "PLA",
-      "name": "Silk Metal PLA Silver",
-      "hex": "#c9d0d4",
-      "searchText": "esun pla silk metal pla silver"
+      "name": "PLA+HS Brown",
+      "hex": "#926043",
+      "searchText": "esun pla pla+hs brown"
+    },
+    {
+      "id": "esun-pla-pro-hs-cold-white",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+HS Cold White",
+      "hex": "#eaecf5",
+      "searchText": "esun pla pla+hs cold white"
+    },
+    {
+      "id": "esun-pla-pro-hs-dark-blue",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+HS Dark Blue",
+      "hex": "#090c23",
+      "searchText": "esun pla pla+hs dark blue"
+    },
+    {
+      "id": "esun-pla-pro-hs-fire-red",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+HS Fire Red",
+      "hex": "#c01616",
+      "searchText": "esun pla pla+hs fire red"
+    },
+    {
+      "id": "esun-pla-pro-hs-grass-green",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+HS Grass Green",
+      "hex": "#00c456",
+      "searchText": "esun pla pla+hs grass green"
+    },
+    {
+      "id": "esun-pla-pro-hs-green",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+HS Green",
+      "hex": "#1c393d",
+      "searchText": "esun pla pla+hs green"
+    },
+    {
+      "id": "esun-pla-pro-hs-grey",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+HS Grey",
+      "hex": "#88899d",
+      "searchText": "esun pla pla+hs grey"
+    },
+    {
+      "id": "esun-pla-pro-hs-haze-blue",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+HS Haze Blue",
+      "hex": "#4999c9",
+      "searchText": "esun pla pla+hs haze blue"
+    },
+    {
+      "id": "esun-pla-pro-hs-holly-green",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+HS Holly Green",
+      "hex": "#217165",
+      "searchText": "esun pla pla+hs holly green"
+    },
+    {
+      "id": "esun-pla-pro-hs-jade-green",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+HS Jade Green",
+      "hex": "#00e0b4",
+      "searchText": "esun pla pla+hs jade green"
+    },
+    {
+      "id": "esun-pla-pro-hs-light-blue",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+HS Light Blue",
+      "hex": "#1adafb",
+      "searchText": "esun pla pla+hs light blue"
+    },
+    {
+      "id": "esun-pla-pro-hs-light-brown",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+HS Light Brown",
+      "hex": "#d99773",
+      "searchText": "esun pla pla+hs light brown"
+    },
+    {
+      "id": "esun-pla-pro-hs-lilac",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+HS Lilac",
+      "hex": "#e25dc0",
+      "searchText": "esun pla pla+hs lilac"
+    },
+    {
+      "id": "esun-pla-pro-hs-magenta",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+HS Magenta",
+      "hex": "#f2306e",
+      "searchText": "esun pla pla+hs magenta"
+    },
+    {
+      "id": "esun-pla-pro-hs-matcha-green",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+HS Matcha Green",
+      "hex": "#9cbf60",
+      "searchText": "esun pla pla+hs matcha green"
+    },
+    {
+      "id": "esun-pla-pro-hs-mint-green",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+HS Mint Green",
+      "hex": "#7ce8b1",
+      "searchText": "esun pla pla+hs mint green"
+    },
+    {
+      "id": "esun-pla-pro-hs-mustard-green",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+HS Mustard Green",
+      "hex": "#d0e68c",
+      "searchText": "esun pla pla+hs mustard green"
+    },
+    {
+      "id": "esun-pla-pro-hs-olive-green",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+HS Olive Green",
+      "hex": "#73755e",
+      "searchText": "esun pla pla+hs olive green"
+    },
+    {
+      "id": "esun-pla-pro-hs-orange",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+HS Orange",
+      "hex": "#ff8133",
+      "searchText": "esun pla pla+hs orange"
+    },
+    {
+      "id": "esun-pla-pro-hs-peak-green",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+HS Peak Green",
+      "hex": "#83e665",
+      "searchText": "esun pla pla+hs peak green"
+    },
+    {
+      "id": "esun-pla-pro-hs-pine-green",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+HS Pine Green",
+      "hex": "#28724f",
+      "searchText": "esun pla pla+hs pine green"
+    },
+    {
+      "id": "esun-pla-pro-hs-pink",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+HS Pink",
+      "hex": "#f87fb5",
+      "searchText": "esun pla pla+hs pink"
+    },
+    {
+      "id": "esun-pla-pro-hs-purple",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+HS Purple",
+      "hex": "#9d00b1",
+      "searchText": "esun pla pla+hs purple"
+    },
+    {
+      "id": "esun-pla-pro-hs-red",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+HS Red",
+      "hex": "#e03f26",
+      "searchText": "esun pla pla+hs red"
+    },
+    {
+      "id": "esun-pla-pro-hs-rgb-blue",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+HS RGB Blue",
+      "hex": "#3a00b9",
+      "searchText": "esun pla pla+hs rgb blue"
+    },
+    {
+      "id": "esun-pla-pro-hs-rgb-red",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+HS RGB Red",
+      "hex": "#ff0039",
+      "searchText": "esun pla pla+hs rgb red"
+    },
+    {
+      "id": "esun-pla-pro-hs-silver",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+HS Silver",
+      "hex": "#abacb0",
+      "searchText": "esun pla pla+hs silver"
+    },
+    {
+      "id": "esun-pla-pro-hs-space-blue",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+HS Space Blue",
+      "hex": "#40b6e4",
+      "searchText": "esun pla pla+hs space blue"
+    },
+    {
+      "id": "esun-pla-pro-hs-very-peri",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+HS Very Peri",
+      "hex": "#845cd6",
+      "searchText": "esun pla pla+hs very peri"
+    },
+    {
+      "id": "esun-pla-pro-hs-white",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+HS White",
+      "hex": "#f5f5f5",
+      "searchText": "esun pla pla+hs white"
+    },
+    {
+      "id": "esun-pla-pro-hs-yellow",
+      "brand": "eSUN",
+      "material": "PLA",
+      "name": "PLA+HS Yellow",
+      "hex": "#fbe200",
+      "searchText": "esun pla pla+hs yellow"
     },
     {
       "id": "esun-super-tough-pla-black",
@@ -29678,12 +30142,20 @@
       "searchText": "esun pva pva natural"
     },
     {
-      "id": "esun-tpe-black",
+      "id": "esun-tpe-83a-black",
       "brand": "eSUN",
       "material": "TPE",
-      "name": "TPE Black",
+      "name": "TPE 83A Black",
       "hex": "#000000",
-      "searchText": "esun tpe tpe black"
+      "searchText": "esun tpe tpe 83a black"
+    },
+    {
+      "id": "esun-tpe-83a-white",
+      "brand": "eSUN",
+      "material": "TPE",
+      "name": "TPE 83A White",
+      "hex": "#f5f5f5",
+      "searchText": "esun tpe tpe 83a white"
     },
     {
       "id": "esun-tpu-95a-black",
@@ -43046,6 +43518,454 @@
       "searchText": "francofil tpu tpu 98a white"
     },
     {
+      "id": "fusion-filaments-abs-gloss-carbon-rod-black",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "ABS Gloss Carbon Rod Black",
+      "hex": "#363538",
+      "searchText": "fusion filaments abs abs gloss carbon rod black"
+    },
+    {
+      "id": "fusion-filaments-abs-gloss-cold-fusion-blue",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "ABS Gloss Cold Fusion Blue",
+      "hex": "#00aeef",
+      "searchText": "fusion filaments abs abs gloss cold fusion blue"
+    },
+    {
+      "id": "fusion-filaments-abs-gloss-cosmic-magnetism-grey",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "ABS Gloss Cosmic Magnetism Grey",
+      "hex": "#8c857b",
+      "searchText": "fusion filaments abs abs gloss cosmic magnetism grey"
+    },
+    {
+      "id": "fusion-filaments-abs-gloss-cosmic-ray-blue",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "ABS Gloss Cosmic Ray Blue",
+      "hex": "#4f03d7",
+      "searchText": "fusion filaments abs abs gloss cosmic ray blue"
+    },
+    {
+      "id": "fusion-filaments-abs-gloss-electrolytic-deuterium",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "ABS Gloss Electrolytic Deuterium",
+      "hex": "#2ec2f6",
+      "searchText": "fusion filaments abs abs gloss electrolytic deuterium"
+    },
+    {
+      "id": "fusion-filaments-abs-gloss-geomagnetic-mauve",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "ABS Gloss Geomagnetic Mauve",
+      "hex": "#9537cb",
+      "searchText": "fusion filaments abs abs gloss geomagnetic mauve"
+    },
+    {
+      "id": "fusion-filaments-abs-gloss-heavy-water-blue",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "ABS Gloss Heavy Water Blue",
+      "hex": "#3a00b9",
+      "searchText": "fusion filaments abs abs gloss heavy water blue"
+    },
+    {
+      "id": "fusion-filaments-abs-gloss-ionized-cobalt-black",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "ABS Gloss Ionized Cobalt Black",
+      "hex": "#46383b",
+      "searchText": "fusion filaments abs abs gloss ionized cobalt black"
+    },
+    {
+      "id": "fusion-filaments-abs-gloss-mushroom-cloud-grey",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "ABS Gloss Mushroom Cloud Grey",
+      "hex": "#c2c0ba",
+      "searchText": "fusion filaments abs abs gloss mushroom cloud grey"
+    },
+    {
+      "id": "fusion-filaments-abs-gloss-nano-tube-grey",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "ABS Gloss Nano Tube Grey",
+      "hex": "#79716f",
+      "searchText": "fusion filaments abs abs gloss nano tube grey"
+    },
+    {
+      "id": "fusion-filaments-abs-gloss-neutron-green",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "ABS Gloss Neutron Green",
+      "hex": "#76f1a5",
+      "searchText": "fusion filaments abs abs gloss neutron green"
+    },
+    {
+      "id": "fusion-filaments-abs-gloss-plutonic-purple",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "ABS Gloss Plutonic Purple",
+      "hex": "#9901fa",
+      "searchText": "fusion filaments abs abs gloss plutonic purple"
+    },
+    {
+      "id": "fusion-filaments-abs-matte-alpha-particle-orange",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "ABS Matte Alpha Particle Orange",
+      "hex": "#fe5000",
+      "searchText": "fusion filaments abs abs matte alpha particle orange"
+    },
+    {
+      "id": "fusion-filaments-abs-matte-carbon-rod-black",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "ABS Matte Carbon Rod Black",
+      "hex": "#0e0e10",
+      "searchText": "fusion filaments abs abs matte carbon rod black"
+    },
+    {
+      "id": "fusion-filaments-abs-matte-cosmic-ray-blue",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "ABS Matte Cosmic Ray Blue",
+      "hex": "#4f03d7",
+      "searchText": "fusion filaments abs abs matte cosmic ray blue"
+    },
+    {
+      "id": "fusion-filaments-abs-matte-geomagnetic-mauve-off-color",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "ABS Matte Geomagnetic Mauve - Off Color",
+      "hex": "#5e1490",
+      "searchText": "fusion filaments abs abs matte geomagnetic mauve - off color"
+    },
+    {
+      "id": "fusion-filaments-abs-matte-interstellar-emerald",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "ABS Matte Interstellar Emerald",
+      "hex": "#00e0b4",
+      "searchText": "fusion filaments abs abs matte interstellar emerald"
+    },
+    {
+      "id": "fusion-filaments-abs-matte-ionized-cobalt-black",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "ABS Matte Ionized Cobalt Black",
+      "hex": "#070908",
+      "searchText": "fusion filaments abs abs matte ionized cobalt black"
+    },
+    {
+      "id": "fusion-filaments-abs-matte-proton-pink",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "ABS Matte Proton Pink",
+      "hex": "#ff00a2",
+      "searchText": "fusion filaments abs abs matte proton pink"
+    },
+    {
+      "id": "fusion-filaments-abs-matte-red-dwarf",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "ABS Matte Red Dwarf",
+      "hex": "#ed1536",
+      "searchText": "fusion filaments abs abs matte red dwarf"
+    },
+    {
+      "id": "fusion-filaments-abs-matte-seismic-red",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "ABS Matte Seismic Red",
+      "hex": "#f00c00",
+      "searchText": "fusion filaments abs abs matte seismic red"
+    },
+    {
+      "id": "fusion-filaments-abs-matte-sunfire-helix",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "ABS Matte Sunfire Helix",
+      "hex": "#cb5400",
+      "searchText": "fusion filaments abs abs matte sunfire helix"
+    },
+    {
+      "id": "fusion-filaments-abs-matte-thorium-thilver",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "ABS Matte Thorium Thilver",
+      "hex": "#ded9d4",
+      "searchText": "fusion filaments abs abs matte thorium thilver"
+    },
+    {
+      "id": "fusion-filaments-abs-matte-tritium-green",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "ABS Matte Tritium Green",
+      "hex": "#00c456",
+      "searchText": "fusion filaments abs abs matte tritium green"
+    },
+    {
+      "id": "fusion-filaments-ht-abs-matte-carbon-rod-black",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "HT-ABS Matte Carbon Rod Black",
+      "hex": "#1d1d1d",
+      "searchText": "fusion filaments abs ht-abs matte carbon rod black"
+    },
+    {
+      "id": "fusion-filaments-ht-abs-matte-cold-fusion-blue",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "HT-ABS Matte Cold Fusion Blue",
+      "hex": "#1ac5fc",
+      "searchText": "fusion filaments abs ht-abs matte cold fusion blue"
+    },
+    {
+      "id": "fusion-filaments-ht-abs-matte-cosmic-magnetism-grey",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "HT-ABS Matte Cosmic Magnetism Grey",
+      "hex": "#b5a7aa",
+      "searchText": "fusion filaments abs ht-abs matte cosmic magnetism grey"
+    },
+    {
+      "id": "fusion-filaments-ht-abs-matte-electrolytic-deuterium",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "HT-ABS Matte Electrolytic Deuterium",
+      "hex": "#3bc9ed",
+      "searchText": "fusion filaments abs ht-abs matte electrolytic deuterium"
+    },
+    {
+      "id": "fusion-filaments-ht-abs-matte-filament-proton-pink-cb",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "HT-ABS Matte Filament - Proton Pink-CB",
+      "hex": "#ff0072",
+      "searchText": "fusion filaments abs ht-abs matte filament - proton pink-cb"
+    },
+    {
+      "id": "fusion-filaments-ht-abs-matte-geomagnetic-mauve",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "HT-ABS Matte Geomagnetic Mauve",
+      "hex": "#6600cc",
+      "searchText": "fusion filaments abs ht-abs matte geomagnetic mauve"
+    },
+    {
+      "id": "fusion-filaments-ht-abs-matte-ionized-cobalt-black",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "HT-ABS Matte Ionized Cobalt Black",
+      "hex": "#4b4f54",
+      "searchText": "fusion filaments abs ht-abs matte ionized cobalt black"
+    },
+    {
+      "id": "fusion-filaments-ht-abs-matte-nano-tube-grey",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "HT-ABS Matte Nano Tube Grey",
+      "hex": "#6f727e",
+      "searchText": "fusion filaments abs ht-abs matte nano tube grey"
+    },
+    {
+      "id": "fusion-filaments-ht-abs-matte-natural",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "HT-ABS Matte Natural",
+      "hex": "#f9f3e5",
+      "searchText": "fusion filaments abs ht-abs matte natural"
+    },
+    {
+      "id": "fusion-filaments-ht-abs-matte-plutonic-purple",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "HT-ABS Matte Plutonic Purple",
+      "hex": "#9901fa",
+      "searchText": "fusion filaments abs ht-abs matte plutonic purple"
+    },
+    {
+      "id": "fusion-filaments-ht-abs-matte-radioactive-orange",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "HT-ABS Matte Radioactive Orange",
+      "hex": "#fc4c02",
+      "searchText": "fusion filaments abs ht-abs matte radioactive orange"
+    },
+    {
+      "id": "fusion-filaments-ht-abs-matte-radium-green-20",
+      "brand": "Fusion Filaments",
+      "material": "ABS",
+      "name": "HT-ABS Matte Radium Green 2.0",
+      "hex": "#00f03c",
+      "searchText": "fusion filaments abs ht-abs matte radium green 2.0"
+    },
+    {
+      "id": "fusion-filaments-asa-carbon-rod-black",
+      "brand": "Fusion Filaments",
+      "material": "ASA",
+      "name": "ASA Carbon Rod Black",
+      "hex": "#545252",
+      "searchText": "fusion filaments asa asa carbon rod black"
+    },
+    {
+      "id": "fusion-filaments-asa-cold-fusion-blue",
+      "brand": "Fusion Filaments",
+      "material": "ASA",
+      "name": "ASA Cold Fusion Blue",
+      "hex": "#69b3e7",
+      "searchText": "fusion filaments asa asa cold fusion blue"
+    },
+    {
+      "id": "fusion-filaments-asa-cosmic-ray-blue",
+      "brand": "Fusion Filaments",
+      "material": "ASA",
+      "name": "ASA Cosmic Ray Blue",
+      "hex": "#4f03d7",
+      "searchText": "fusion filaments asa asa cosmic ray blue"
+    },
+    {
+      "id": "fusion-filaments-asa-electrolytic-deuterium",
+      "brand": "Fusion Filaments",
+      "material": "ASA",
+      "name": "ASA Electrolytic Deuterium",
+      "hex": "#69b3e7",
+      "searchText": "fusion filaments asa asa electrolytic deuterium"
+    },
+    {
+      "id": "fusion-filaments-asa-geomagnetic-mauve",
+      "brand": "Fusion Filaments",
+      "material": "ASA",
+      "name": "ASA Geomagnetic Mauve",
+      "hex": "#8846ae",
+      "searchText": "fusion filaments asa asa geomagnetic mauve"
+    },
+    {
+      "id": "fusion-filaments-asa-heavy-water-blue",
+      "brand": "Fusion Filaments",
+      "material": "ASA",
+      "name": "ASA Heavy Water Blue",
+      "hex": "#3a00b9",
+      "searchText": "fusion filaments asa asa heavy water blue"
+    },
+    {
+      "id": "fusion-filaments-asa-interstellar-emerald",
+      "brand": "Fusion Filaments",
+      "material": "ASA",
+      "name": "ASA Interstellar Emerald",
+      "hex": "#63c6a3",
+      "searchText": "fusion filaments asa asa interstellar emerald"
+    },
+    {
+      "id": "fusion-filaments-asa-ionized-cobalt-black",
+      "brand": "Fusion Filaments",
+      "material": "ASA",
+      "name": "ASA Ionized Cobalt Black",
+      "hex": "#48474a",
+      "searchText": "fusion filaments asa asa ionized cobalt black"
+    },
+    {
+      "id": "fusion-filaments-asa-mushroom-cloud-grey",
+      "brand": "Fusion Filaments",
+      "material": "ASA",
+      "name": "ASA Mushroom Cloud Grey",
+      "hex": "#afaeab",
+      "searchText": "fusion filaments asa asa mushroom cloud grey"
+    },
+    {
+      "id": "fusion-filaments-asa-nano-tube-grey",
+      "brand": "Fusion Filaments",
+      "material": "ASA",
+      "name": "ASA Nano Tube Grey",
+      "hex": "#727376",
+      "searchText": "fusion filaments asa asa nano tube grey"
+    },
+    {
+      "id": "fusion-filaments-asa-plutonic-purple",
+      "brand": "Fusion Filaments",
+      "material": "ASA",
+      "name": "ASA Plutonic Purple",
+      "hex": "#8846ae",
+      "searchText": "fusion filaments asa asa plutonic purple"
+    },
+    {
+      "id": "fusion-filaments-asa-radioactive-orange",
+      "brand": "Fusion Filaments",
+      "material": "ASA",
+      "name": "ASA Radioactive Orange",
+      "hex": "#ff3a00",
+      "searchText": "fusion filaments asa asa radioactive orange"
+    },
+    {
+      "id": "fusion-filaments-asa-radium-green-20",
+      "brand": "Fusion Filaments",
+      "material": "ASA",
+      "name": "ASA Radium Green 2.0",
+      "hex": "#00f03c",
+      "searchText": "fusion filaments asa asa radium green 2.0"
+    },
+    {
+      "id": "fusion-filaments-asa-red-dwarf",
+      "brand": "Fusion Filaments",
+      "material": "ASA",
+      "name": "ASA Red Dwarf",
+      "hex": "#ed1536",
+      "searchText": "fusion filaments asa asa red dwarf"
+    },
+    {
+      "id": "fusion-filaments-asa-seismic-red",
+      "brand": "Fusion Filaments",
+      "material": "ASA",
+      "name": "ASA Seismic Red",
+      "hex": "#f71818",
+      "searchText": "fusion filaments asa asa seismic red"
+    },
+    {
+      "id": "fusion-filaments-asa-tritium-green",
+      "brand": "Fusion Filaments",
+      "material": "ASA",
+      "name": "ASA Tritium Green",
+      "hex": "#67c993",
+      "searchText": "fusion filaments asa asa tritium green"
+    },
+    {
+      "id": "fusion-filaments-asa-uranium-yellow",
+      "brand": "Fusion Filaments",
+      "material": "ASA",
+      "name": "ASA Uranium Yellow",
+      "hex": "#e5fb3c",
+      "searchText": "fusion filaments asa asa uranium yellow"
+    },
+    {
+      "id": "fusion-filaments-easyasa-carbon-rod-black",
+      "brand": "Fusion Filaments",
+      "material": "ASA",
+      "name": "EasyASA Carbon Rod Black",
+      "hex": "#070908",
+      "searchText": "fusion filaments asa easyasa carbon rod black"
+    },
+    {
+      "id": "fusion-filaments-easyasa-cosmic-ray-blue",
+      "brand": "Fusion Filaments",
+      "material": "ASA",
+      "name": "EasyASA Cosmic Ray Blue",
+      "hex": "#2c01a0",
+      "searchText": "fusion filaments asa easyasa cosmic ray blue"
+    },
+    {
+      "id": "fusion-filaments-easyasa-geomagnetic-mauve",
+      "brand": "Fusion Filaments",
+      "material": "ASA",
+      "name": "EasyASA Geomagnetic Mauve",
+      "hex": "#7d00a2",
+      "searchText": "fusion filaments asa easyasa geomagnetic mauve"
+    },
+    {
       "id": "fusion-filaments-pctg-10-10",
       "brand": "Fusion Filaments",
       "material": "PCTG",
@@ -43164,6 +44084,142 @@
       "name": "PCTG Reactor Red",
       "hex": "#ca0230",
       "searchText": "fusion filaments pctg pctg reactor red"
+    },
+    {
+      "id": "fusion-filaments-htpet-carbon-rod-black",
+      "brand": "Fusion Filaments",
+      "material": "PET",
+      "name": "HTPET+ Carbon Rod Black",
+      "hex": "#5c5b59",
+      "searchText": "fusion filaments pet htpet+ carbon rod black"
+    },
+    {
+      "id": "fusion-filaments-htpet-cold-fusion-blue",
+      "brand": "Fusion Filaments",
+      "material": "PET",
+      "name": "HTPET+ Cold Fusion Blue",
+      "hex": "#40b6e4",
+      "searchText": "fusion filaments pet htpet+ cold fusion blue"
+    },
+    {
+      "id": "fusion-filaments-htpet-cosmic-ray-blue",
+      "brand": "Fusion Filaments",
+      "material": "PET",
+      "name": "HTPET+ Cosmic Ray Blue",
+      "hex": "#2842ad",
+      "searchText": "fusion filaments pet htpet+ cosmic ray blue"
+    },
+    {
+      "id": "fusion-filaments-htpet-critical-mass-gold",
+      "brand": "Fusion Filaments",
+      "material": "PET",
+      "name": "HTPET+ Critical Mass Gold",
+      "hex": "#dd8131",
+      "searchText": "fusion filaments pet htpet+ critical mass gold"
+    },
+    {
+      "id": "fusion-filaments-htpet-geomagnetic-mauve",
+      "brand": "Fusion Filaments",
+      "material": "PET",
+      "name": "HTPET+ Geomagnetic Mauve",
+      "hex": "#7701b2",
+      "searchText": "fusion filaments pet htpet+ geomagnetic mauve"
+    },
+    {
+      "id": "fusion-filaments-htpet-ionized-cobalt-black",
+      "brand": "Fusion Filaments",
+      "material": "PET",
+      "name": "HTPET+ Ionized Cobalt Black",
+      "hex": "#141414",
+      "searchText": "fusion filaments pet htpet+ ionized cobalt black"
+    },
+    {
+      "id": "fusion-filaments-htpet-natural",
+      "brand": "Fusion Filaments",
+      "material": "PET",
+      "name": "HTPET+ Natural",
+      "hex": "#d6d6cd",
+      "searchText": "fusion filaments pet htpet+ natural"
+    },
+    {
+      "id": "fusion-filaments-htpet-neutron-green",
+      "brand": "Fusion Filaments",
+      "material": "PET",
+      "name": "HTPET+ Neutron Green",
+      "hex": "#62e480",
+      "searchText": "fusion filaments pet htpet+ neutron green"
+    },
+    {
+      "id": "fusion-filaments-htpet-nuclear-winter-white",
+      "brand": "Fusion Filaments",
+      "material": "PET",
+      "name": "HTPET+ Nuclear Winter White",
+      "hex": "#fafafa",
+      "searchText": "fusion filaments pet htpet+ nuclear winter white"
+    },
+    {
+      "id": "fusion-filaments-htpet-plutonic-purple",
+      "brand": "Fusion Filaments",
+      "material": "PET",
+      "name": "HTPET+ Plutonic Purple",
+      "hex": "#7d00a2",
+      "searchText": "fusion filaments pet htpet+ plutonic purple"
+    },
+    {
+      "id": "fusion-filaments-htpet-proton-pink",
+      "brand": "Fusion Filaments",
+      "material": "PET",
+      "name": "HTPET+ Proton Pink",
+      "hex": "#ff0078",
+      "searchText": "fusion filaments pet htpet+ proton pink"
+    },
+    {
+      "id": "fusion-filaments-htpet-radiated-fog",
+      "brand": "Fusion Filaments",
+      "material": "PET",
+      "name": "HTPET+ Radiated Fog",
+      "hex": "#a6a6a6",
+      "searchText": "fusion filaments pet htpet+ radiated fog"
+    },
+    {
+      "id": "fusion-filaments-htpet-radioactive-orange",
+      "brand": "Fusion Filaments",
+      "material": "PET",
+      "name": "HTPET+ Radioactive Orange",
+      "hex": "#f04b2a",
+      "searchText": "fusion filaments pet htpet+ radioactive orange"
+    },
+    {
+      "id": "fusion-filaments-htpet-radium-green-20",
+      "brand": "Fusion Filaments",
+      "material": "PET",
+      "name": "HTPET+ Radium Green 2.0",
+      "hex": "#3ef441",
+      "searchText": "fusion filaments pet htpet+ radium green 2.0"
+    },
+    {
+      "id": "fusion-filaments-htpet-reactor-red",
+      "brand": "Fusion Filaments",
+      "material": "PET",
+      "name": "HTPET+ Reactor Red",
+      "hex": "#c00000",
+      "searchText": "fusion filaments pet htpet+ reactor red"
+    },
+    {
+      "id": "fusion-filaments-htpet-seismic-red",
+      "brand": "Fusion Filaments",
+      "material": "PET",
+      "name": "HTPET+ Seismic Red",
+      "hex": "#ff0039",
+      "searchText": "fusion filaments pet htpet+ seismic red"
+    },
+    {
+      "id": "fusion-filaments-htpet-sievert-silver",
+      "brand": "Fusion Filaments",
+      "material": "PET",
+      "name": "HTPET+ Sievert Silver",
+      "hex": "#9ea2a2",
+      "searchText": "fusion filaments pet htpet+ sievert silver"
     },
     {
       "id": "fusion-filaments-pla-admiral-blue",
@@ -85574,68 +86630,100 @@
       "searchText": "spectrum asa the filament asa traffic white"
     },
     {
+      "id": "spectrum-greenyht-anthracite-grey",
+      "brand": "Spectrum",
+      "material": "BIO",
+      "name": "GreenyHT™ Anthracite Grey",
+      "hex": "#8e9089",
+      "searchText": "spectrum bio greenyht™ anthracite grey"
+    },
+    {
+      "id": "spectrum-greenyht-light-blue",
+      "brand": "Spectrum",
+      "material": "BIO",
+      "name": "GreenyHT™ Light Blue",
+      "hex": "#008dc3",
+      "searchText": "spectrum bio greenyht™ light blue"
+    },
+    {
+      "id": "spectrum-greenyht-signal-white",
+      "brand": "Spectrum",
+      "material": "BIO",
+      "name": "GreenyHT™ Signal White",
+      "hex": "#e5e9e3",
+      "searchText": "spectrum bio greenyht™ signal white"
+    },
+    {
+      "id": "spectrum-greenyht-traffic-black",
+      "brand": "Spectrum",
+      "material": "BIO",
+      "name": "GreenyHT™ Traffic Black",
+      "hex": "#1d1d1d",
+      "searchText": "spectrum bio greenyht™ traffic black"
+    },
+    {
       "id": "spectrum-greenypro-dark-grey",
       "brand": "Spectrum",
-      "material": "Greeny",
+      "material": "BIO",
       "name": "GreenyPro Dark Grey",
-      "hex": "#5a696c",
-      "searchText": "spectrum greeny greenypro dark grey"
+      "hex": "#4e5658",
+      "searchText": "spectrum bio greenypro dark grey"
     },
     {
       "id": "spectrum-greenypro-light-gray",
       "brand": "Spectrum",
-      "material": "Greeny",
+      "material": "BIO",
       "name": "GreenyPro Light Gray",
-      "hex": "#d6d7d8",
-      "searchText": "spectrum greeny greenypro light gray"
+      "hex": "#c5c5bf",
+      "searchText": "spectrum bio greenypro light gray"
     },
     {
       "id": "spectrum-greenypro-pure-orange",
       "brand": "Spectrum",
-      "material": "Greeny",
+      "material": "BIO",
       "name": "GreenyPro Pure Orange",
-      "hex": "#fa8423",
-      "searchText": "spectrum greeny greenypro pure orange"
+      "hex": "#f17231",
+      "searchText": "spectrum bio greenypro pure orange"
     },
     {
       "id": "spectrum-greenypro-pure-red",
       "brand": "Spectrum",
-      "material": "Greeny",
+      "material": "BIO",
       "name": "GreenyPro Pure Red",
-      "hex": "#ec0000",
-      "searchText": "spectrum greeny greenypro pure red"
+      "hex": "#d02f37",
+      "searchText": "spectrum bio greenypro pure red"
     },
     {
       "id": "spectrum-greenypro-pure-white",
       "brand": "Spectrum",
-      "material": "Greeny",
+      "material": "BIO",
       "name": "GreenyPro Pure White",
-      "hex": "#efefef",
-      "searchText": "spectrum greeny greenypro pure white"
+      "hex": "#f3f3f1",
+      "searchText": "spectrum bio greenypro pure white"
     },
     {
       "id": "spectrum-greenypro-real-green",
       "brand": "Spectrum",
-      "material": "Greeny",
+      "material": "BIO",
       "name": "GreenyPro Real Green",
-      "hex": "#26a648",
-      "searchText": "spectrum greeny greenypro real green"
+      "hex": "#00935c",
+      "searchText": "spectrum bio greenypro real green"
     },
     {
       "id": "spectrum-greenypro-traffic-black",
       "brand": "Spectrum",
-      "material": "Greeny",
+      "material": "BIO",
       "name": "GreenyPro Traffic Black",
-      "hex": "#000000",
-      "searchText": "spectrum greeny greenypro traffic black"
+      "hex": "#080a0d",
+      "searchText": "spectrum bio greenypro traffic black"
     },
     {
       "id": "spectrum-greenypro-ultramarine-blue",
       "brand": "Spectrum",
-      "material": "Greeny",
+      "material": "BIO",
       "name": "GreenyPro Ultramarine Blue",
-      "hex": "#0266bb",
-      "searchText": "spectrum greeny greenypro ultramarine blue"
+      "hex": "#005da4",
+      "searchText": "spectrum bio greenypro ultramarine blue"
     },
     {
       "id": "spectrum-hips-x-bahama-yellow",
@@ -86682,7 +87770,7 @@
       "brand": "Spectrum",
       "material": "PLA",
       "name": "FlameGuard PLA Light Grey",
-      "hex": "#d9d9d6",
+      "hex": "#d6d7d8",
       "searchText": "spectrum pla flameguard pla light grey"
     },
     {
@@ -86922,7 +88010,7 @@
       "brand": "Spectrum",
       "material": "PLA",
       "name": "Pastello PLA Flamingo Red",
-      "hex": "#fd9191",
+      "hex": "#fbbbb4",
       "searchText": "spectrum pla pastello pla flamingo red"
     },
     {
@@ -87030,6 +88118,70 @@
       "searchText": "spectrum pla pla electrically conductive"
     },
     {
+      "id": "spectrum-pla-esd-dark-grey",
+      "brand": "Spectrum",
+      "material": "PLA",
+      "name": "PLA ESD Dark Grey",
+      "hex": "#52595d",
+      "searchText": "spectrum pla pla esd dark grey"
+    },
+    {
+      "id": "spectrum-pla-esd-light-grey",
+      "brand": "Spectrum",
+      "material": "PLA",
+      "name": "PLA ESD Light Grey",
+      "hex": "#d6d7d8",
+      "searchText": "spectrum pla pla esd light grey"
+    },
+    {
+      "id": "spectrum-pla-esd-power-tool-blue",
+      "brand": "Spectrum",
+      "material": "PLA",
+      "name": "PLA ESD Power Tool Blue",
+      "hex": "#2a4552",
+      "searchText": "spectrum pla pla esd power tool blue"
+    },
+    {
+      "id": "spectrum-pla-esd-power-tool-dark-green",
+      "brand": "Spectrum",
+      "material": "PLA",
+      "name": "PLA ESD Power Tool Dark Green",
+      "hex": "#06402b",
+      "searchText": "spectrum pla pla esd power tool dark green"
+    },
+    {
+      "id": "spectrum-pla-esd-power-tool-green",
+      "brand": "Spectrum",
+      "material": "PLA",
+      "name": "PLA ESD Power Tool Green",
+      "hex": "#1f4e3a",
+      "searchText": "spectrum pla pla esd power tool green"
+    },
+    {
+      "id": "spectrum-pla-esd-power-tool-turquoise",
+      "brand": "Spectrum",
+      "material": "PLA",
+      "name": "PLA ESD Power Tool Turquoise",
+      "hex": "#178b9f",
+      "searchText": "spectrum pla pla esd power tool turquoise"
+    },
+    {
+      "id": "spectrum-pla-esd-pure-white",
+      "brand": "Spectrum",
+      "material": "PLA",
+      "name": "PLA ESD Pure White",
+      "hex": "#efefef",
+      "searchText": "spectrum pla pla esd pure white"
+    },
+    {
+      "id": "spectrum-pla-esd-traffic-black",
+      "brand": "Spectrum",
+      "material": "PLA",
+      "name": "PLA ESD Traffic Black",
+      "hex": "#3b3e3f",
+      "searchText": "spectrum pla pla esd traffic black"
+    },
+    {
       "id": "spectrum-pla-glitter-aurora-gold",
       "brand": "Spectrum",
       "material": "PLA",
@@ -87042,7 +88194,7 @@
       "brand": "Spectrum",
       "material": "PLA",
       "name": "PLA Glitter Aztec Gold",
-      "hex": "#bca463",
+      "hex": "#bab3a1",
       "searchText": "spectrum pla pla glitter aztec gold"
     },
     {
@@ -87514,7 +88666,7 @@
       "brand": "Spectrum",
       "material": "PLA",
       "name": "PLA Premium Fluo Green",
-      "hex": "#b4e657",
+      "hex": "#7cef83",
       "searchText": "spectrum pla pla premium fluo green"
     },
     {
@@ -87530,7 +88682,7 @@
       "brand": "Spectrum",
       "material": "PLA",
       "name": "PLA Premium Fluorescent Yellow",
-      "hex": "#e4ff33",
+      "hex": "#d7f988",
       "searchText": "spectrum pla pla premium fluorescent yellow"
     },
     {
@@ -87564,6 +88716,14 @@
       "name": "PLA Premium Lavender Violet",
       "hex": "#a288b6",
       "searchText": "spectrum pla pla premium lavender violet"
+    },
+    {
+      "id": "spectrum-pla-premium-light-grey",
+      "brand": "Spectrum",
+      "material": "PLA",
+      "name": "PLA Premium Light Grey",
+      "hex": "#cccccc",
+      "searchText": "spectrum pla pla premium light grey"
     },
     {
       "id": "spectrum-pla-premium-lime-green",
@@ -87622,6 +88782,14 @@
       "searchText": "spectrum pla pla premium pacific blue"
     },
     {
+      "id": "spectrum-pla-premium-pastel-turquoise",
+      "brand": "Spectrum",
+      "material": "PLA",
+      "name": "PLA Premium Pastel Turquoise",
+      "hex": "#b2d6d0",
+      "searchText": "spectrum pla pla premium pastel turquoise"
+    },
+    {
       "id": "spectrum-pla-premium-pearl-bronze",
       "brand": "Spectrum",
       "material": "PLA",
@@ -87654,6 +88822,14 @@
       "searchText": "spectrum pla pla premium polar white"
     },
     {
+      "id": "spectrum-pla-premium-rust-copper",
+      "brand": "Spectrum",
+      "material": "PLA",
+      "name": "PLA Premium Rust Copper",
+      "hex": "#af784d",
+      "searchText": "spectrum pla pla premium rust copper"
+    },
+    {
       "id": "spectrum-pla-premium-silver-star",
       "brand": "Spectrum",
       "material": "PLA",
@@ -87670,12 +88846,28 @@
       "searchText": "spectrum pla pla premium translucent"
     },
     {
-      "id": "spectrum-pla-pro",
+      "id": "spectrum-pla-premium-wizard-charcoal",
       "brand": "Spectrum",
       "material": "PLA",
-      "name": "PLA Pro",
-      "hex": "#ab713e",
-      "searchText": "spectrum pla pla pro"
+      "name": "PLA Premium Wizard Charcoal",
+      "hex": "#595959",
+      "searchText": "spectrum pla pla premium wizard charcoal"
+    },
+    {
+      "id": "spectrum-pla-premium-wizard-green",
+      "brand": "Spectrum",
+      "material": "PLA",
+      "name": "PLA Premium Wizard Green",
+      "hex": "#4f3638",
+      "searchText": "spectrum pla pla premium wizard green"
+    },
+    {
+      "id": "spectrum-pla-premium-wizard-indigo",
+      "brand": "Spectrum",
+      "material": "PLA",
+      "name": "PLA Premium Wizard Indigo",
+      "hex": "#253f56",
+      "searchText": "spectrum pla pla premium wizard indigo"
     },
     {
       "id": "spectrum-pla-pro-arctic-white",
@@ -87830,6 +89022,14 @@
       "searchText": "spectrum pla pla pro pacific blue"
     },
     {
+      "id": "spectrum-pla-pro-pastel-turquoise",
+      "brand": "Spectrum",
+      "material": "PLA",
+      "name": "PLA Pro Pastel Turquoise",
+      "hex": "#b2d6d0",
+      "searchText": "spectrum pla pla pro pastel turquoise"
+    },
+    {
       "id": "spectrum-pla-pro-pearl-bronze",
       "brand": "Spectrum",
       "material": "PLA",
@@ -87860,6 +89060,14 @@
       "name": "PLA Pro Polar White",
       "hex": "#efefef",
       "searchText": "spectrum pla pla pro polar white"
+    },
+    {
+      "id": "spectrum-pla-pro-rust-copper",
+      "brand": "Spectrum",
+      "material": "PLA",
+      "name": "PLA Pro Rust Copper",
+      "hex": "#af784d",
+      "searchText": "spectrum pla pla pro rust copper"
     },
     {
       "id": "spectrum-pla-pro-silver-star",
@@ -87990,6 +89198,14 @@
       "searchText": "spectrum pla pla silk tropical green"
     },
     {
+      "id": "spectrum-pla-silk-unmellow-yellow",
+      "brand": "Spectrum",
+      "material": "PLA",
+      "name": "PLA SILK Unmellow Yellow",
+      "hex": "#e8ca51",
+      "searchText": "spectrum pla pla silk unmellow yellow"
+    },
+    {
       "id": "spectrum-pla-stone-age-ace-light",
       "brand": "Spectrum",
       "material": "PLA",
@@ -88036,6 +89252,22 @@
       "name": "PLA Tough Polar White",
       "hex": "#efefef",
       "searchText": "spectrum pla pla tough polar white"
+    },
+    {
+      "id": "spectrum-prografen-pla-graphene-light-jet-black",
+      "brand": "Spectrum",
+      "material": "PLA",
+      "name": "Prografen PLA Graphene Light Jet Black",
+      "hex": "#0f1314",
+      "searchText": "spectrum pla prografen pla graphene light jet black"
+    },
+    {
+      "id": "spectrum-prografen-pla-graphene-strong-jet-black",
+      "brand": "Spectrum",
+      "material": "PLA",
+      "name": "Prografen PLA Graphene Strong Jet Black",
+      "hex": "#0f1314",
+      "searchText": "spectrum pla prografen pla graphene strong jet black"
     },
     {
       "id": "spectrum-rpla-basalt-grey",
@@ -88106,7 +89338,7 @@
       "brand": "Spectrum",
       "material": "PLA",
       "name": "Safeguard PLA Bahama Yellow",
-      "hex": "#f2de00",
+      "hex": "#efd00b",
       "searchText": "spectrum pla safeguard pla bahama yellow"
     },
     {
@@ -93006,12 +94238,220 @@
       "searchText": "verbatim tpe tefabloc tpe white"
     },
     {
+      "id": "voolt3d-abs-aluminio-metalizado-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "ABS",
+      "name": "ABS Alumínio Metalizado High Speed Premium",
+      "hex": "#c3ccd5",
+      "searchText": "voolt3d abs abs alumínio metalizado high speed premium"
+    },
+    {
+      "id": "voolt3d-abs-amarelo-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "ABS",
+      "name": "ABS Amarelo High Speed Premium",
+      "hex": "#f4ee2a",
+      "searchText": "voolt3d abs abs amarelo high speed premium"
+    },
+    {
+      "id": "voolt3d-abs-azul-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "ABS",
+      "name": "ABS Azul High Speed Premium",
+      "hex": "#0022ff",
+      "searchText": "voolt3d abs abs azul high speed premium"
+    },
+    {
+      "id": "voolt3d-abs-bege-caucasiano-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "ABS",
+      "name": "ABS Bege Caucasiano High Speed Premium",
+      "hex": "#cca897",
+      "searchText": "voolt3d abs abs bege caucasiano high speed premium"
+    },
+    {
+      "id": "voolt3d-abs-branco-dental-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "ABS",
+      "name": "ABS Branco Dental High Speed Premium",
+      "hex": "#eaecf5",
+      "searchText": "voolt3d abs abs branco dental high speed premium"
+    },
+    {
+      "id": "voolt3d-abs-cinza-claro-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "ABS",
+      "name": "ABS Cinza Claro High Speed Premium",
+      "hex": "#8b98ac",
+      "searchText": "voolt3d abs abs cinza claro high speed premium"
+    },
+    {
+      "id": "voolt3d-abs-cinza-grafite-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "ABS",
+      "name": "ABS Cinza Grafite High Speed Premium",
+      "hex": "#787882",
+      "searchText": "voolt3d abs abs cinza grafite high speed premium"
+    },
+    {
+      "id": "voolt3d-abs-cobre-metalizado-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "ABS",
+      "name": "ABS Cobre Metalizado High Speed Premium",
+      "hex": "#904029",
+      "searchText": "voolt3d abs abs cobre metalizado high speed premium"
+    },
+    {
+      "id": "voolt3d-abs-laranja-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "ABS",
+      "name": "ABS Laranja High Speed Premium",
+      "hex": "#ff7800",
+      "searchText": "voolt3d abs abs laranja high speed premium"
+    },
+    {
+      "id": "voolt3d-abs-marmorizado-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "ABS",
+      "name": "ABS Marmorizado High Speed Premium",
+      "hex": "#d9dfe5",
+      "searchText": "voolt3d abs abs marmorizado high speed premium"
+    },
+    {
+      "id": "voolt3d-abs-marrom-caramelo-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "ABS",
+      "name": "ABS Marrom Caramelo High Speed Premium",
+      "hex": "#b76e34",
+      "searchText": "voolt3d abs abs marrom caramelo high speed premium"
+    },
+    {
+      "id": "voolt3d-abs-marrom-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "ABS",
+      "name": "ABS Marrom High Speed Premium",
+      "hex": "#6d3f2b",
+      "searchText": "voolt3d abs abs marrom high speed premium"
+    },
+    {
+      "id": "voolt3d-abs-natural-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "ABS",
+      "name": "ABS Natural High Speed Premium",
+      "hex": "#f3f3f1",
+      "searchText": "voolt3d abs abs natural high speed premium"
+    },
+    {
+      "id": "voolt3d-abs-preto-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "ABS",
+      "name": "ABS Preto High Speed Premium",
+      "hex": "#27292b",
+      "searchText": "voolt3d abs abs preto high speed premium"
+    },
+    {
+      "id": "voolt3d-abs-rosa-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "ABS",
+      "name": "ABS Rosa High Speed Premium",
+      "hex": "#ff67f5",
+      "searchText": "voolt3d abs abs rosa high speed premium"
+    },
+    {
+      "id": "voolt3d-abs-verde-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "ABS",
+      "name": "ABS Verde High Speed Premium",
+      "hex": "#02a76b",
+      "searchText": "voolt3d abs abs verde high speed premium"
+    },
+    {
+      "id": "voolt3d-abs-verde-neon-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "ABS",
+      "name": "ABS Verde Neon High Speed Premium",
+      "hex": "#9bff2e",
+      "searchText": "voolt3d abs abs verde neon high speed premium"
+    },
+    {
+      "id": "voolt3d-abs-vermelho-high-speed-premium",
+      "brand": "Voolt3D",
+      "material": "ABS",
+      "name": "ABS Vermelho High Speed Premium",
+      "hex": "#d60212",
+      "searchText": "voolt3d abs abs vermelho high speed premium"
+    },
+    {
+      "id": "voolt3d-pa6-fc",
+      "brand": "Voolt3D",
+      "material": "PA6",
+      "name": "PA6-FC",
+      "hex": "#000000",
+      "searchText": "voolt3d pa6 pa6-fc"
+    },
+    {
+      "id": "voolt3d-poliamida-6-imida-pa6-branco",
+      "brand": "Voolt3D",
+      "material": "PA6",
+      "name": "Poliamida 6-Imida (PA6) Branco",
+      "hex": "#e9e9e7",
+      "searchText": "voolt3d pa6 poliamida 6-imida (pa6) branco"
+    },
+    {
+      "id": "voolt3d-poliamida-6-imida-pa6-cinza",
+      "brand": "Voolt3D",
+      "material": "PA6",
+      "name": "Poliamida 6-Imida (PA6) Cinza",
+      "hex": "#b2b2b2",
+      "searchText": "voolt3d pa6 poliamida 6-imida (pa6) cinza"
+    },
+    {
+      "id": "voolt3d-poliamida-6-imida-pa6-natural",
+      "brand": "Voolt3D",
+      "material": "PA6",
+      "name": "Poliamida 6-Imida (PA6) Natural",
+      "hex": "#e2dedb",
+      "searchText": "voolt3d pa6 poliamida 6-imida (pa6) natural"
+    },
+    {
+      "id": "voolt3d-pctg-branco-alta-performance",
+      "brand": "Voolt3D",
+      "material": "PCTG",
+      "name": "PCTG Branco Alta Performance",
+      "hex": "#eaecf5",
+      "searchText": "voolt3d pctg pctg branco alta performance"
+    },
+    {
+      "id": "voolt3d-pctg-natural-alta-performance",
+      "brand": "Voolt3D",
+      "material": "PCTG",
+      "name": "PCTG Natural Alta Performance",
+      "hex": "#f2efe9",
+      "searchText": "voolt3d pctg pctg natural alta performance"
+    },
+    {
+      "id": "voolt3d-pctg-preto-alta-performance",
+      "brand": "Voolt3D",
+      "material": "PCTG",
+      "name": "PCTG Preto Alta Performance",
+      "hex": "#16161a",
+      "searchText": "voolt3d pctg pctg preto alta performance"
+    },
+    {
       "id": "voolt3d-petg-fibra-de-carbono",
       "brand": "Voolt3D",
       "material": "PETG",
       "name": "PETG Fibra de Carbono",
       "hex": "#000000",
       "searchText": "voolt3d petg petg fibra de carbono"
+    },
+    {
+      "id": "voolt3d-petg-grafeno",
+      "brand": "Voolt3D",
+      "material": "PETG",
+      "name": "PETG Grafeno",
+      "hex": "#2b2b2c",
+      "searchText": "voolt3d petg petg grafeno"
     },
     {
       "id": "voolt3d-petg-hf-amarelo-high-fluidity-premium",
@@ -93396,6 +94836,14 @@
       "name": "PLA Cobre V-Silk High Speed Premium",
       "hex": "#c45d24",
       "searchText": "voolt3d pla pla cobre v-silk high speed premium"
+    },
+    {
+      "id": "voolt3d-pla-com-grafeno-condutivo",
+      "brand": "Voolt3D",
+      "material": "PLA",
+      "name": "PLA com Grafeno Condutivo",
+      "hex": "#161619",
+      "searchText": "voolt3d pla pla com grafeno condutivo"
     },
     {
       "id": "voolt3d-pla-crema-marfil-stone-high-speed-premium",
