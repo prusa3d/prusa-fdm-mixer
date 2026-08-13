@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-08-12T04:55:46.296Z",
-  "entryCount": 12255,
+  "lastSynced": "2026-08-13T04:57:52.161Z",
+  "entryCount": 12275,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -86202,7 +86202,7 @@
       "brand": "Spectrum",
       "material": "ABS",
       "name": "ABS GP450™ Silver",
-      "hex": "#9f9f9f",
+      "hex": "#b0ada1",
       "searchText": "spectrum abs abs gp450™ silver"
     },
     {
@@ -86446,6 +86446,14 @@
       "searchText": "spectrum asa asa-x cf10™"
     },
     {
+      "id": "spectrum-asa-x-cf10-bk",
+      "brand": "Spectrum",
+      "material": "ASA",
+      "name": "ASA-X CF10™ BK",
+      "hex": "#000000",
+      "searchText": "spectrum asa asa-x cf10™ bk"
+    },
+    {
       "id": "spectrum-asa-x-gf10-black",
       "brand": "Spectrum",
       "material": "ASA",
@@ -86460,6 +86468,14 @@
       "name": "ASA-X GF10 Natural",
       "hex": "#dfdfd3",
       "searchText": "spectrum asa asa-x gf10 natural"
+    },
+    {
+      "id": "spectrum-asa-x-gf10-traffic-black",
+      "brand": "Spectrum",
+      "material": "ASA",
+      "name": "ASA-X GF10 Traffic Black",
+      "hex": "#000000",
+      "searchText": "spectrum asa asa-x gf10 traffic black"
     },
     {
       "id": "spectrum-flameguard-asa-275-bloody-red",
@@ -86774,12 +86790,28 @@
       "searchText": "spectrum pa6 pa6 low warp™ natural"
     },
     {
+      "id": "spectrum-pc-abs-fr-v0-black",
+      "brand": "Spectrum",
+      "material": "PC",
+      "name": "PC/ABS FR V0 Black",
+      "hex": "#000000",
+      "searchText": "spectrum pc pc/abs fr v0 black"
+    },
+    {
       "id": "spectrum-pcabs-fr-v0-black",
       "brand": "Spectrum",
       "material": "PC",
       "name": "PC/ABS FR V0 Black",
       "hex": "#000000",
       "searchText": "spectrum pc pc/abs fr v0 black"
+    },
+    {
+      "id": "spectrum-pc-abs-fr-v0-white",
+      "brand": "Spectrum",
+      "material": "PC",
+      "name": "PC/ABS FR V0 White",
+      "hex": "#efefef",
+      "searchText": "spectrum pc pc/abs fr v0 white"
     },
     {
       "id": "spectrum-pcabs-fr-v0-white",
@@ -86926,12 +86958,20 @@
       "searchText": "spectrum pctg pctg premium transparent yellow"
     },
     {
-      "id": "spectrum-pet-g-carbon",
+      "id": "spectrum-pet-cf15",
+      "brand": "Spectrum",
+      "material": "PET",
+      "name": "PET CF15",
+      "hex": "#080a0d",
+      "searchText": "spectrum pet pet cf15"
+    },
+    {
+      "id": "spectrum-pet-g-carbon-black",
       "brand": "Spectrum",
       "material": "PETG",
-      "name": "PET-G Carbon",
+      "name": "PET-G Carbon Black",
       "hex": "#000000",
-      "searchText": "spectrum petg pet-g carbon"
+      "searchText": "spectrum petg pet-g carbon black"
     },
     {
       "id": "spectrum-pet-g-fr-v0-black",
@@ -87202,7 +87242,7 @@
       "brand": "Spectrum",
       "material": "PETG",
       "name": "PET-G Premium Iceland Blue",
-      "hex": "#82e3ec",
+      "hex": "#9fdae0",
       "searchText": "spectrum petg pet-g premium iceland blue"
     },
     {
@@ -87342,6 +87382,62 @@
       "searchText": "spectrum petg pet-g premium turquoise blue"
     },
     {
+      "id": "spectrum-petg-esd-light-grey",
+      "brand": "Spectrum",
+      "material": "PETG",
+      "name": "PETG ESD Light Grey",
+      "hex": "#d6d7d8",
+      "searchText": "spectrum petg petg esd light grey"
+    },
+    {
+      "id": "spectrum-petg-esd-power-tool-blue",
+      "brand": "Spectrum",
+      "material": "PETG",
+      "name": "PETG ESD Power Tool Blue",
+      "hex": "#2a4552",
+      "searchText": "spectrum petg petg esd power tool blue"
+    },
+    {
+      "id": "spectrum-petg-esd-power-tool-dark-green",
+      "brand": "Spectrum",
+      "material": "PETG",
+      "name": "PETG ESD Power Tool Dark Green",
+      "hex": "#2e5448",
+      "searchText": "spectrum petg petg esd power tool dark green"
+    },
+    {
+      "id": "spectrum-petg-esd-power-tool-green",
+      "brand": "Spectrum",
+      "material": "PETG",
+      "name": "PETG ESD Power Tool Green",
+      "hex": "#3b665e",
+      "searchText": "spectrum petg petg esd power tool green"
+    },
+    {
+      "id": "spectrum-petg-esd-power-tool-turquoise",
+      "brand": "Spectrum",
+      "material": "PETG",
+      "name": "PETG ESD Power Tool Turquoise",
+      "hex": "#007987",
+      "searchText": "spectrum petg petg esd power tool turquoise"
+    },
+    {
+      "id": "spectrum-petg-esd-pure-white",
+      "brand": "Spectrum",
+      "material": "PETG",
+      "name": "PETG ESD Pure White",
+      "hex": "#e8e8e6",
+      "searchText": "spectrum petg petg esd pure white"
+    },
+    {
+      "id": "spectrum-petg-esd-traffic-black",
+      "brand": "Spectrum",
+      "material": "PETG",
+      "name": "PETG ESD Traffic Black",
+      "hex": "#363538",
+      "searchText": "spectrum petg petg esd traffic black"
+    },
+    {
       "id": "spectrum-petg-premium-high-speed-arctic-white",
       "brand": "Spectrum",
       "material": "PETG",
@@ -87454,12 +87550,68 @@
       "searchText": "spectrum petg petg premium high speed transparet red"
     },
     {
+      "id": "spectrum-petg-ptfe-iron-grey",
+      "brand": "Spectrum",
+      "material": "PETG",
+      "name": "PETG/PTFE Iron Grey",
+      "hex": "#75787b",
+      "searchText": "spectrum petg petg/ptfe iron grey"
+    },
+    {
+      "id": "spectrum-petg-ptfe-light-blue",
+      "brand": "Spectrum",
+      "material": "PETG",
+      "name": "PETG/PTFE Light Blue",
+      "hex": "#008dc3",
+      "searchText": "spectrum petg petg/ptfe light blue"
+    },
+    {
+      "id": "spectrum-petg-ptfe-signal-white",
+      "brand": "Spectrum",
+      "material": "PETG",
+      "name": "PETG/PTFE Signal White",
+      "hex": "#efefef",
+      "searchText": "spectrum petg petg/ptfe signal white"
+    },
+    {
       "id": "spectrum-petgptfe-signal-white",
       "brand": "Spectrum",
       "material": "PETG",
       "name": "PETG/PTFE Signal White",
       "hex": "#efefef",
       "searchText": "spectrum petg petg/ptfe signal white"
+    },
+    {
+      "id": "spectrum-petg-ptfe-traffic-black",
+      "brand": "Spectrum",
+      "material": "PETG",
+      "name": "PETG/PTFE Traffic Black",
+      "hex": "#283333",
+      "searchText": "spectrum petg petg/ptfe traffic black"
+    },
+    {
+      "id": "spectrum-petg-ptfe-traffic-red",
+      "brand": "Spectrum",
+      "material": "PETG",
+      "name": "PETG/PTFE Traffic Red",
+      "hex": "#d33d3d",
+      "searchText": "spectrum petg petg/ptfe traffic red"
+    },
+    {
+      "id": "spectrum-prografen-pet-g-graphene-light-jet-black",
+      "brand": "Spectrum",
+      "material": "PETG",
+      "name": "Prografen PET-G Graphene Light Jet Black",
+      "hex": "#1d1d1d",
+      "searchText": "spectrum petg prografen pet-g graphene light jet black"
+    },
+    {
+      "id": "spectrum-prografen-pet-g-graphene-strong-jet-black",
+      "brand": "Spectrum",
+      "material": "PETG",
+      "name": "Prografen PET-G Graphene Strong Jet Black",
+      "hex": "#1d1d1d",
+      "searchText": "spectrum petg prografen pet-g graphene strong jet black"
     },
     {
       "id": "spectrum-rpetg-carmine-red",
@@ -87490,7 +87642,7 @@
       "brand": "Spectrum",
       "material": "PETG",
       "name": "rPETG Porcelain White",
-      "hex": "#efefef",
+      "hex": "#eaedf2",
       "searchText": "spectrum petg rpetg porcelain white"
     },
     {
@@ -87524,6 +87676,14 @@
       "name": "rPETG Traffic Green",
       "hex": "#26a648",
       "searchText": "spectrum petg rpetg traffic green"
+    },
+    {
+      "id": "spectrum-rpetg-yellow-orange",
+      "brand": "Spectrum",
+      "material": "PETG",
+      "name": "rPETG Yellow Orange",
+      "hex": "#ff8133",
+      "searchText": "spectrum petg rpetg yellow orange"
     },
     {
       "id": "spectrum-the-filament-petg-basalt-grey",
@@ -89856,178 +90016,178 @@
     {
       "id": "spectrum-s-flex-85a-bahama-yellow",
       "brand": "Spectrum",
-      "material": "S-Flex",
+      "material": "TPU",
       "name": "S-Flex 85A™ Bahama Yellow",
       "hex": "#fadb24",
-      "searchText": "spectrum s-flex s-flex 85a™ bahama yellow"
+      "searchText": "spectrum tpu s-flex 85a™ bahama yellow"
     },
     {
       "id": "spectrum-s-flex-85a-bloody-red",
       "brand": "Spectrum",
-      "material": "S-Flex",
+      "material": "TPU",
       "name": "S-Flex 85A™ Bloody Red",
       "hex": "#ac1a17",
-      "searchText": "spectrum s-flex s-flex 85a™ bloody red"
+      "searchText": "spectrum tpu s-flex 85a™ bloody red"
     },
     {
       "id": "spectrum-s-flex-85a-deep-black",
       "brand": "Spectrum",
-      "material": "S-Flex",
+      "material": "TPU",
       "name": "S-Flex 85A™ Deep Black",
       "hex": "#000000",
-      "searchText": "spectrum s-flex s-flex 85a™ deep black"
+      "searchText": "spectrum tpu s-flex 85a™ deep black"
     },
     {
       "id": "spectrum-s-flex-85a-lime-green",
       "brand": "Spectrum",
-      "material": "S-Flex",
+      "material": "TPU",
       "name": "S-Flex 85A™ Lime Green",
       "hex": "#58c91b",
-      "searchText": "spectrum s-flex s-flex 85a™ lime green"
+      "searchText": "spectrum tpu s-flex 85a™ lime green"
     },
     {
       "id": "spectrum-s-flex-85a-lion-orange",
       "brand": "Spectrum",
-      "material": "S-Flex",
+      "material": "TPU",
       "name": "S-Flex 85A™ Lion Orange",
       "hex": "#ff5f2e",
-      "searchText": "spectrum s-flex s-flex 85a™ lion orange"
+      "searchText": "spectrum tpu s-flex 85a™ lion orange"
     },
     {
       "id": "spectrum-s-flex-85a-pacific-blue",
       "brand": "Spectrum",
-      "material": "S-Flex",
+      "material": "TPU",
       "name": "S-Flex 85A™ Pacific Blue",
       "hex": "#0378d0",
-      "searchText": "spectrum s-flex s-flex 85a™ pacific blue"
+      "searchText": "spectrum tpu s-flex 85a™ pacific blue"
     },
     {
       "id": "spectrum-s-flex-85a-polar-white",
       "brand": "Spectrum",
-      "material": "S-Flex",
+      "material": "TPU",
       "name": "S-Flex 85A™ Polar White",
       "hex": "#efefef",
-      "searchText": "spectrum s-flex s-flex 85a™ polar white"
+      "searchText": "spectrum tpu s-flex 85a™ polar white"
     },
     {
       "id": "spectrum-s-flex-90a-bahama-yellow",
       "brand": "Spectrum",
-      "material": "S-Flex",
+      "material": "TPU",
       "name": "S-Flex 90A™ Bahama Yellow",
       "hex": "#fadb24",
-      "searchText": "spectrum s-flex s-flex 90a™ bahama yellow"
+      "searchText": "spectrum tpu s-flex 90a™ bahama yellow"
     },
     {
       "id": "spectrum-s-flex-90a-bloody-red",
       "brand": "Spectrum",
-      "material": "S-Flex",
+      "material": "TPU",
       "name": "S-Flex 90A™ Bloody Red",
       "hex": "#ac1a17",
-      "searchText": "spectrum s-flex s-flex 90a™ bloody red"
+      "searchText": "spectrum tpu s-flex 90a™ bloody red"
     },
     {
       "id": "spectrum-s-flex-90a-deep-black",
       "brand": "Spectrum",
-      "material": "S-Flex",
+      "material": "TPU",
       "name": "S-Flex 90A™ Deep Black",
       "hex": "#000000",
-      "searchText": "spectrum s-flex s-flex 90a™ deep black"
+      "searchText": "spectrum tpu s-flex 90a™ deep black"
     },
     {
       "id": "spectrum-s-flex-90a-lime-green",
       "brand": "Spectrum",
-      "material": "S-Flex",
+      "material": "TPU",
       "name": "S-Flex 90A™ Lime Green",
       "hex": "#58c91b",
-      "searchText": "spectrum s-flex s-flex 90a™ lime green"
+      "searchText": "spectrum tpu s-flex 90a™ lime green"
     },
     {
       "id": "spectrum-s-flex-90a-lion-orange",
       "brand": "Spectrum",
-      "material": "S-Flex",
+      "material": "TPU",
       "name": "S-Flex 90A™ Lion Orange",
       "hex": "#ff5f2e",
-      "searchText": "spectrum s-flex s-flex 90a™ lion orange"
+      "searchText": "spectrum tpu s-flex 90a™ lion orange"
     },
     {
       "id": "spectrum-s-flex-90a-pacific-blue",
       "brand": "Spectrum",
-      "material": "S-Flex",
+      "material": "TPU",
       "name": "S-Flex 90A™ Pacific Blue",
       "hex": "#0378d0",
-      "searchText": "spectrum s-flex s-flex 90a™ pacific blue"
+      "searchText": "spectrum tpu s-flex 90a™ pacific blue"
     },
     {
       "id": "spectrum-s-flex-90a-polar-white",
       "brand": "Spectrum",
-      "material": "S-Flex",
+      "material": "TPU",
       "name": "S-Flex 90A™ Polar White",
       "hex": "#efefef",
-      "searchText": "spectrum s-flex s-flex 90a™ polar white"
+      "searchText": "spectrum tpu s-flex 90a™ polar white"
     },
     {
       "id": "spectrum-s-flex-98a-bahama-yellow",
       "brand": "Spectrum",
-      "material": "S-Flex",
+      "material": "TPU",
       "name": "S-Flex 98A™ Bahama Yellow",
       "hex": "#fadb24",
-      "searchText": "spectrum s-flex s-flex 98a™ bahama yellow"
+      "searchText": "spectrum tpu s-flex 98a™ bahama yellow"
     },
     {
       "id": "spectrum-s-flex-98a-bloody-red",
       "brand": "Spectrum",
-      "material": "S-Flex",
+      "material": "TPU",
       "name": "S-Flex 98A™ Bloody Red",
       "hex": "#ac1a17",
-      "searchText": "spectrum s-flex s-flex 98a™ bloody red"
+      "searchText": "spectrum tpu s-flex 98a™ bloody red"
     },
     {
       "id": "spectrum-s-flex-98a-deep-black",
       "brand": "Spectrum",
-      "material": "S-Flex",
+      "material": "TPU",
       "name": "S-Flex 98A™ Deep Black",
       "hex": "#000000",
-      "searchText": "spectrum s-flex s-flex 98a™ deep black"
+      "searchText": "spectrum tpu s-flex 98a™ deep black"
     },
     {
       "id": "spectrum-s-flex-98a-lime-green",
       "brand": "Spectrum",
-      "material": "S-Flex",
+      "material": "TPU",
       "name": "S-Flex 98A™ Lime Green",
       "hex": "#58c91b",
-      "searchText": "spectrum s-flex s-flex 98a™ lime green"
+      "searchText": "spectrum tpu s-flex 98a™ lime green"
     },
     {
       "id": "spectrum-s-flex-98a-lion-orange",
       "brand": "Spectrum",
-      "material": "S-Flex",
+      "material": "TPU",
       "name": "S-Flex 98A™ Lion Orange",
       "hex": "#ff5f2e",
-      "searchText": "spectrum s-flex s-flex 98a™ lion orange"
+      "searchText": "spectrum tpu s-flex 98a™ lion orange"
     },
     {
       "id": "spectrum-s-flex-98a-pacific-blue",
       "brand": "Spectrum",
-      "material": "S-Flex",
+      "material": "TPU",
       "name": "S-Flex 98A™ Pacific Blue",
       "hex": "#0378d0",
-      "searchText": "spectrum s-flex s-flex 98a™ pacific blue"
+      "searchText": "spectrum tpu s-flex 98a™ pacific blue"
     },
     {
       "id": "spectrum-s-flex-98a-polar-white",
       "brand": "Spectrum",
-      "material": "S-Flex",
+      "material": "TPU",
       "name": "S-Flex 98A™ Polar White",
       "hex": "#efefef",
-      "searchText": "spectrum s-flex s-flex 98a™ polar white"
+      "searchText": "spectrum tpu s-flex 98a™ polar white"
     },
     {
       "id": "spectrum-s-flex-carbon",
       "brand": "Spectrum",
-      "material": "S-Flex",
+      "material": "TPU",
       "name": "S-Flex Carbon",
       "hex": "#595959",
-      "searchText": "spectrum s-flex s-flex carbon"
+      "searchText": "spectrum tpu s-flex carbon"
     },
     {
       "id": "spectrum-the-filament-tpu-82a-black",
