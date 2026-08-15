@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-08-14T04:56:04.891Z",
-  "entryCount": 12275,
+  "lastSynced": "2026-08-15T04:29:11.529Z",
+  "entryCount": 12314,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -86774,6 +86774,78 @@
       "searchText": "spectrum hips hips-x™ gypsum white"
     },
     {
+      "id": "spectrum-thermatech-pa-black",
+      "brand": "Spectrum",
+      "material": "PA",
+      "name": "ThermaTech PA Black",
+      "hex": "#272e29",
+      "searchText": "spectrum pa thermatech pa black"
+    },
+    {
+      "id": "spectrum-thermatech-pa-natural",
+      "brand": "Spectrum",
+      "material": "PA",
+      "name": "ThermaTech PA Natural",
+      "hex": "#f3f3f1",
+      "searchText": "spectrum pa thermatech pa natural"
+    },
+    {
+      "id": "spectrum-pa12-cf15-carbon-black",
+      "brand": "Spectrum",
+      "material": "PA12",
+      "name": "PA12 CF15 Carbon Black",
+      "hex": "#1d1d1d",
+      "searchText": "spectrum pa12 pa12 cf15 carbon black"
+    },
+    {
+      "id": "spectrum-pa6-cf15",
+      "brand": "Spectrum",
+      "material": "PA6",
+      "name": "PA6 CF15",
+      "hex": "#1d1d1d",
+      "searchText": "spectrum pa6 pa6 cf15"
+    },
+    {
+      "id": "spectrum-pa6-cs20-fr-v0-black",
+      "brand": "Spectrum",
+      "material": "PA6",
+      "name": "PA6 CS20 FR V0 Black",
+      "hex": "#3f4444",
+      "searchText": "spectrum pa6 pa6 cs20 fr v0 black"
+    },
+    {
+      "id": "spectrum-pa6-gk10-natural",
+      "brand": "Spectrum",
+      "material": "PA6",
+      "name": "PA6 GK10 Natural",
+      "hex": "#ecece7",
+      "searchText": "spectrum pa6 pa6 gk10 natural"
+    },
+    {
+      "id": "spectrum-pa6-low-warp-cf15s-black",
+      "brand": "Spectrum",
+      "material": "PA6",
+      "name": "PA6 Low Warp CF15S Black",
+      "hex": "#0f1314",
+      "searchText": "spectrum pa6 pa6 low warp cf15s black"
+    },
+    {
+      "id": "spectrum-pa6-low-warp-gf30-black",
+      "brand": "Spectrum",
+      "material": "PA6",
+      "name": "PA6 Low Warp GF30™ Black",
+      "hex": "#0f1314",
+      "searchText": "spectrum pa6 pa6 low warp gf30™ black"
+    },
+    {
+      "id": "spectrum-pa6-low-warp-gf30-natural",
+      "brand": "Spectrum",
+      "material": "PA6",
+      "name": "PA6 Low Warp GF30™ Natural",
+      "hex": "#d6d6cd",
+      "searchText": "spectrum pa6 pa6 low warp gf30™ natural"
+    },
+    {
       "id": "spectrum-pa6-low-warp-black",
       "brand": "Spectrum",
       "material": "PA6",
@@ -86788,6 +86860,134 @@
       "name": "PA6 Low Warp™ Natural",
       "hex": "#dfdfd3",
       "searchText": "spectrum pa6 pa6 low warp™ natural"
+    },
+    {
+      "id": "spectrum-pa6-neat-bk",
+      "brand": "Spectrum",
+      "material": "PA6",
+      "name": "PA6 Neat BK",
+      "hex": "#16161a",
+      "searchText": "spectrum pa6 pa6 neat bk"
+    },
+    {
+      "id": "spectrum-pa6-neat-nt",
+      "brand": "Spectrum",
+      "material": "PA6",
+      "name": "PA6 Neat NT",
+      "hex": "#e8e5cd",
+      "searchText": "spectrum pa6 pa6 neat nt"
+    },
+    {
+      "id": "spectrum-pc-275-iron-grey",
+      "brand": "Spectrum",
+      "material": "PC",
+      "name": "PC 275 Iron Grey",
+      "hex": "#4c5051",
+      "searchText": "spectrum pc pc 275 iron grey"
+    },
+    {
+      "id": "spectrum-pc-275-lime-green",
+      "brand": "Spectrum",
+      "material": "PC",
+      "name": "PC 275 Lime Green",
+      "hex": "#b3df3a",
+      "searchText": "spectrum pc pc 275 lime green"
+    },
+    {
+      "id": "spectrum-pc-275-lion-orange",
+      "brand": "Spectrum",
+      "material": "PC",
+      "name": "PC 275 Lion Orange",
+      "hex": "#f59144",
+      "searchText": "spectrum pc pc 275 lion orange"
+    },
+    {
+      "id": "spectrum-pc-275-natural",
+      "brand": "Spectrum",
+      "material": "PC",
+      "name": "PC 275 Natural",
+      "hex": "#d9dfe5",
+      "searchText": "spectrum pc pc 275 natural"
+    },
+    {
+      "id": "spectrum-pc-275-navy-blue",
+      "brand": "Spectrum",
+      "material": "PC",
+      "name": "PC 275 Navy Blue",
+      "hex": "#39699e",
+      "searchText": "spectrum pc pc 275 navy blue"
+    },
+    {
+      "id": "spectrum-pc-275-signal-yellow",
+      "brand": "Spectrum",
+      "material": "PC",
+      "name": "PC 275 Signal Yellow",
+      "hex": "#ffcd61",
+      "searchText": "spectrum pc pc 275 signal yellow"
+    },
+    {
+      "id": "spectrum-pc-275-traffic-black",
+      "brand": "Spectrum",
+      "material": "PC",
+      "name": "PC 275 Traffic Black",
+      "hex": "#1d1d1d",
+      "searchText": "spectrum pc pc 275 traffic black"
+    },
+    {
+      "id": "spectrum-pc-275-traffic-red",
+      "brand": "Spectrum",
+      "material": "PC",
+      "name": "PC 275 Traffic Red",
+      "hex": "#ed2f2e",
+      "searchText": "spectrum pc pc 275 traffic red"
+    },
+    {
+      "id": "spectrum-pc-275-traffic-white",
+      "brand": "Spectrum",
+      "material": "PC",
+      "name": "PC 275 Traffic White",
+      "hex": "#f0f1ea",
+      "searchText": "spectrum pc pc 275 traffic white"
+    },
+    {
+      "id": "spectrum-pc-275-transparent-blue",
+      "brand": "Spectrum",
+      "material": "PC",
+      "name": "PC 275 Transparent Blue",
+      "hex": "#2941bd",
+      "searchText": "spectrum pc pc 275 transparent blue"
+    },
+    {
+      "id": "spectrum-pc-275-transparent-orange",
+      "brand": "Spectrum",
+      "material": "PC",
+      "name": "PC 275 Transparent Orange",
+      "hex": "#ff6244",
+      "searchText": "spectrum pc pc 275 transparent orange"
+    },
+    {
+      "id": "spectrum-pc-275-transparent-red",
+      "brand": "Spectrum",
+      "material": "PC",
+      "name": "PC 275 Transparent Red",
+      "hex": "#e4002b",
+      "searchText": "spectrum pc pc 275 transparent red"
+    },
+    {
+      "id": "spectrum-pc-275-transparent-yellow",
+      "brand": "Spectrum",
+      "material": "PC",
+      "name": "PC 275 Transparent Yellow",
+      "hex": "#fad61b",
+      "searchText": "spectrum pc pc 275 transparent yellow"
+    },
+    {
+      "id": "spectrum-pc-cf-carbon-black",
+      "brand": "Spectrum",
+      "material": "PC",
+      "name": "PC CF Carbon Black",
+      "hex": "#16161a",
+      "searchText": "spectrum pc pc cf carbon black"
     },
     {
       "id": "spectrum-pc-abs-fr-v0-black",
@@ -86820,6 +87020,14 @@
       "name": "PC/ABS FR V0 White",
       "hex": "#efefef",
       "searchText": "spectrum pc pc/abs fr v0 white"
+    },
+    {
+      "id": "spectrum-pc-ptfe-natural",
+      "brand": "Spectrum",
+      "material": "PC",
+      "name": "PC/PTFE Natural",
+      "hex": "#f8faf8",
+      "searchText": "spectrum pc pc/ptfe natural"
     },
     {
       "id": "spectrum-pctg-cf10-black",
@@ -86956,6 +87164,54 @@
       "name": "PCTG Premium Transparent Yellow",
       "hex": "#fadb24",
       "searchText": "spectrum pctg pctg premium transparent yellow"
+    },
+    {
+      "id": "spectrum-peba-dark-grey",
+      "brand": "Spectrum",
+      "material": "PEBA",
+      "name": "PEBA Dark Grey",
+      "hex": "#75787b",
+      "searchText": "spectrum peba peba dark grey"
+    },
+    {
+      "id": "spectrum-peba-deep-black",
+      "brand": "Spectrum",
+      "material": "PEBA",
+      "name": "PEBA Deep Black",
+      "hex": "#0f1314",
+      "searchText": "spectrum peba peba deep black"
+    },
+    {
+      "id": "spectrum-peba-forest-green",
+      "brand": "Spectrum",
+      "material": "PEBA",
+      "name": "PEBA Forest Green",
+      "hex": "#089a45",
+      "searchText": "spectrum peba peba forest green"
+    },
+    {
+      "id": "spectrum-peba-pure-red",
+      "brand": "Spectrum",
+      "material": "PEBA",
+      "name": "PEBA Pure Red",
+      "hex": "#cc393f",
+      "searchText": "spectrum peba peba pure red"
+    },
+    {
+      "id": "spectrum-peba-pure-white",
+      "brand": "Spectrum",
+      "material": "PEBA",
+      "name": "PEBA Pure White",
+      "hex": "#efefef",
+      "searchText": "spectrum peba peba pure white"
+    },
+    {
+      "id": "spectrum-peba-sky-blue",
+      "brand": "Spectrum",
+      "material": "PEBA",
+      "name": "PEBA Sky Blue",
+      "hex": "#008dc3",
+      "searchText": "spectrum peba peba sky blue"
     },
     {
       "id": "spectrum-pet-cf15",
@@ -90004,6 +90260,62 @@
       "name": "The Filament PLA Wood Ash",
       "hex": "#dac7a0",
       "searchText": "spectrum pla the filament pla wood ash"
+    },
+    {
+      "id": "spectrum-wood-ebony-black",
+      "brand": "Spectrum",
+      "material": "PLA",
+      "name": "WOOD Ebony Black",
+      "hex": "#43403d",
+      "searchText": "spectrum pla wood ebony black"
+    },
+    {
+      "id": "spectrum-wood-natural",
+      "brand": "Spectrum",
+      "material": "PLA",
+      "name": "WOOD Natural",
+      "hex": "#da995f",
+      "searchText": "spectrum pla wood natural"
+    },
+    {
+      "id": "spectrum-wood-oak",
+      "brand": "Spectrum",
+      "material": "PLA",
+      "name": "WOOD Oak",
+      "hex": "#d4b6a3",
+      "searchText": "spectrum pla wood oak"
+    },
+    {
+      "id": "spectrum-pp-black",
+      "brand": "Spectrum",
+      "material": "PP",
+      "name": "PP Black",
+      "hex": "#262727",
+      "searchText": "spectrum pp pp black"
+    },
+    {
+      "id": "spectrum-pp-natural",
+      "brand": "Spectrum",
+      "material": "PP",
+      "name": "PP Natural",
+      "hex": "#f3f3f1",
+      "searchText": "spectrum pp pp natural"
+    },
+    {
+      "id": "spectrum-pp-white",
+      "brand": "Spectrum",
+      "material": "PP",
+      "name": "PP White",
+      "hex": "#ecece7",
+      "searchText": "spectrum pp pp white"
+    },
+    {
+      "id": "spectrum-pps-am230-natural",
+      "brand": "Spectrum",
+      "material": "PPS",
+      "name": "PPS AM230™ Natural",
+      "hex": "#50483d",
+      "searchText": "spectrum pps pps am230™ natural"
     },
     {
       "id": "spectrum-premium-s-flex-glow-in-the-dark",
