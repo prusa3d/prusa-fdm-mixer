@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-08-17T04:30:57.594Z",
-  "entryCount": 12314,
+  "lastSynced": "2026-08-18T04:29:57.704Z",
+  "entryCount": 12324,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -85734,7 +85734,7 @@
       "searchText": "sovb 3d abs fil abs blanc"
     },
     {
-      "id": "sovb-3d-fil-abs-blanc-crme",
+      "id": "sovb-3d-fil-abs-blanc-creme",
       "brand": "SOVB 3D",
       "material": "ABS",
       "name": "Fil ABS Blanc Crème",
@@ -85878,7 +85878,7 @@
       "searchText": "sovb 3d abs fil abs vert clair"
     },
     {
-      "id": "sovb-3d-fil-abs-vert-fonc",
+      "id": "sovb-3d-fil-abs-vert-fonce",
       "brand": "SOVB 3D",
       "material": "ABS",
       "name": "Fil ABS Vert Foncé",
@@ -85918,7 +85918,31 @@
       "searchText": "sovb 3d abs fil abs-pc noir"
     },
     {
-      "id": "sovb-3d-fil-pla-beige-nacr",
+      "id": "sovb-3d-fil-petg-blanc",
+      "brand": "SOVB 3D",
+      "material": "PETG",
+      "name": "Fil PETG Blanc",
+      "hex": "#f5f5f5",
+      "searchText": "sovb 3d petg fil petg blanc"
+    },
+    {
+      "id": "sovb-3d-fil-petg-noir",
+      "brand": "SOVB 3D",
+      "material": "PETG",
+      "name": "Fil PETG Noir",
+      "hex": "#000000",
+      "searchText": "sovb 3d petg fil petg noir"
+    },
+    {
+      "id": "sovb-3d-fil-petg-rouge",
+      "brand": "SOVB 3D",
+      "material": "PETG",
+      "name": "Fil PETG Rouge",
+      "hex": "#ab2614",
+      "searchText": "sovb 3d petg fil petg rouge"
+    },
+    {
+      "id": "sovb-3d-fil-pla-beige-nacre",
       "brand": "SOVB 3D",
       "material": "PLA",
       "name": "Fil PLA Beige Nacré",
@@ -85926,7 +85950,7 @@
       "searchText": "sovb 3d pla fil pla beige nacré"
     },
     {
-      "id": "sovb-3d-fil-pla-beige-nacr-alumine",
+      "id": "sovb-3d-fil-pla-beige-nacre-alumine",
       "brand": "SOVB 3D",
       "material": "PLA",
       "name": "Fil PLA Beige Nacré Alumine",
@@ -85950,7 +85974,7 @@
       "searchText": "sovb 3d pla fil pla bleu ciel"
     },
     {
-      "id": "sovb-3d-fil-pla-bleu-nacr",
+      "id": "sovb-3d-fil-pla-bleu-nacre",
       "brand": "SOVB 3D",
       "material": "PLA",
       "name": "Fil PLA Bleu Nacré",
@@ -85958,7 +85982,7 @@
       "searchText": "sovb 3d pla fil pla bleu nacré"
     },
     {
-      "id": "sovb-3d-fil-pla-bleu-nacr-alumine",
+      "id": "sovb-3d-fil-pla-bleu-nacre-alumine",
       "brand": "SOVB 3D",
       "material": "PLA",
       "name": "Fil PLA Bleu Nacré Alumine",
@@ -85980,6 +86004,14 @@
       "name": "Fil PLA Bleu nuit alumine",
       "hex": "#09048e",
       "searchText": "sovb 3d pla fil pla bleu nuit alumine"
+    },
+    {
+      "id": "sovb-3d-fil-pla-bleu-pastel",
+      "brand": "SOVB 3D",
+      "material": "PLA",
+      "name": "Fil PLA Bleu pastel",
+      "hex": "#a8c8f0",
+      "searchText": "sovb 3d pla fil pla bleu pastel"
     },
     {
       "id": "sovb-3d-fil-pla-bleu-turquoise",
@@ -86022,6 +86054,14 @@
       "searchText": "sovb 3d pla fil pla jaune"
     },
     {
+      "id": "sovb-3d-fil-pla-jaune-pastel",
+      "brand": "SOVB 3D",
+      "material": "PLA",
+      "name": "Fil PLA Jaune pastel",
+      "hex": "#fff4a3",
+      "searchText": "sovb 3d pla fil pla jaune pastel"
+    },
+    {
       "id": "sovb-3d-fil-pla-marron-clair",
       "brand": "SOVB 3D",
       "material": "PLA",
@@ -86030,7 +86070,7 @@
       "searchText": "sovb 3d pla fil pla marron clair"
     },
     {
-      "id": "sovb-3d-fil-pla-marron-fonc",
+      "id": "sovb-3d-fil-pla-marron-fonce",
       "brand": "SOVB 3D",
       "material": "PLA",
       "name": "Fil PLA Marron foncé",
@@ -86062,7 +86102,7 @@
       "searchText": "sovb 3d pla fil pla noir alumine"
     },
     {
-      "id": "sovb-3d-fil-pla-noir-bleut",
+      "id": "sovb-3d-fil-pla-noir-bleute",
       "brand": "SOVB 3D",
       "material": "PLA",
       "name": "Fil PLA Noir Bleuté",
@@ -86076,6 +86116,22 @@
       "name": "Fil PLA Orange Fluo",
       "hex": "#eb5405",
       "searchText": "sovb 3d pla fil pla orange fluo"
+    },
+    {
+      "id": "sovb-3d-fil-pla-orange-pastel",
+      "brand": "SOVB 3D",
+      "material": "PLA",
+      "name": "Fil PLA Orange pastel",
+      "hex": "#ffc6a3",
+      "searchText": "sovb 3d pla fil pla orange pastel"
+    },
+    {
+      "id": "sovb-3d-fil-pla-rose-pastel",
+      "brand": "SOVB 3D",
+      "material": "PLA",
+      "name": "Fil PLA Rose pastel",
+      "hex": "#ffc6d9",
+      "searchText": "sovb 3d pla fil pla rose pastel"
     },
     {
       "id": "sovb-3d-fil-pla-rouge",
@@ -86092,6 +86148,14 @@
       "name": "Fil PLA Rouge alumine",
       "hex": "#ab2614",
       "searchText": "sovb 3d pla fil pla rouge alumine"
+    },
+    {
+      "id": "sovb-3d-fil-pla-rouge-terracotta-pastel",
+      "brand": "SOVB 3D",
+      "material": "PLA",
+      "name": "Fil PLA Rouge Terracotta pastel",
+      "hex": "#d8a895",
+      "searchText": "sovb 3d pla fil pla rouge terracotta pastel"
     },
     {
       "id": "sovb-3d-fil-pla-vert-fluo",
@@ -86126,7 +86190,7 @@
       "searchText": "sovb 3d pla fil pla vert militaire"
     },
     {
-      "id": "sovb-3d-fil-pla-vert-nacr",
+      "id": "sovb-3d-fil-pla-vert-nacre",
       "brand": "SOVB 3D",
       "material": "PLA",
       "name": "Fil PLA Vert Nacré",
@@ -86134,12 +86198,20 @@
       "searchText": "sovb 3d pla fil pla vert nacré"
     },
     {
-      "id": "sovb-3d-fil-pla-vert-nacr-alumine",
+      "id": "sovb-3d-fil-pla-vert-nacre-alumine",
       "brand": "SOVB 3D",
       "material": "PLA",
       "name": "Fil PLA Vert Nacré Alumine",
       "hex": "#23668c",
       "searchText": "sovb 3d pla fil pla vert nacré alumine"
+    },
+    {
+      "id": "sovb-3d-fil-pla-vert-pastel",
+      "brand": "SOVB 3D",
+      "material": "PLA",
+      "name": "Fil PLA Vert pastel",
+      "hex": "#bfe2a8",
+      "searchText": "sovb 3d pla fil pla vert pastel"
     },
     {
       "id": "sovb-3d-fil-pla-violet",
@@ -86156,6 +86228,14 @@
       "name": "Fil PLA Violet alumine",
       "hex": "#7f068c",
       "searchText": "sovb 3d pla fil pla violet alumine"
+    },
+    {
+      "id": "sovb-3d-fil-pla-violet-pastel",
+      "brand": "SOVB 3D",
+      "material": "PLA",
+      "name": "Fil PLA Violet pastel",
+      "hex": "#c8a8d8",
+      "searchText": "sovb 3d pla fil pla violet pastel"
     },
     {
       "id": "spectrum-abs-gp450-dark-blue",
