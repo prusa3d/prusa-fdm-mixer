@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-08-18T04:29:57.704Z",
-  "entryCount": 12324,
+  "lastSynced": "2026-08-19T04:30:11.767Z",
+  "entryCount": 12449,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -40198,6 +40198,14 @@
       "searchText": "formfutura abs easyfil abs yellow"
     },
     {
+      "id": "formfutura-premium-abs-medical",
+      "brand": "FormFutura",
+      "material": "ABS",
+      "name": "Premium ABS Medical",
+      "hex": "#f7e2c1",
+      "searchText": "formfutura abs premium abs medical"
+    },
+    {
       "id": "formfutura-reform-rtitan-anthracite-grey",
       "brand": "FormFutura",
       "material": "ABS",
@@ -40302,6 +40310,38 @@
       "searchText": "formfutura asa apollox dark blue"
     },
     {
+      "id": "formfutura-apollox-flame-retardant-traffic-black",
+      "brand": "FormFutura",
+      "material": "ASA",
+      "name": "ApolloX Flame Retardant Traffic Black",
+      "hex": "#1d1d1d",
+      "searchText": "formfutura asa apollox flame retardant traffic black"
+    },
+    {
+      "id": "formfutura-apollox-flame-retardant-traffic-white",
+      "brand": "FormFutura",
+      "material": "ASA",
+      "name": "ApolloX Flame Retardant Traffic White",
+      "hex": "#f5f5f5",
+      "searchText": "formfutura asa apollox flame retardant traffic white"
+    },
+    {
+      "id": "formfutura-apollox-foaming-black",
+      "brand": "FormFutura",
+      "material": "ASA",
+      "name": "ApolloX Foaming Black",
+      "hex": "#1d1d1d",
+      "searchText": "formfutura asa apollox foaming black"
+    },
+    {
+      "id": "formfutura-apollox-foaming-white",
+      "brand": "FormFutura",
+      "material": "ASA",
+      "name": "ApolloX Foaming White",
+      "hex": "#f5f5f5",
+      "searchText": "formfutura asa apollox foaming white"
+    },
+    {
       "id": "formfutura-apollox-grey",
       "brand": "FormFutura",
       "material": "ASA",
@@ -40334,6 +40374,14 @@
       "searchText": "formfutura asa apollox light grey"
     },
     {
+      "id": "formfutura-apollox-light-greyish-cyan",
+      "brand": "FormFutura",
+      "material": "ASA",
+      "name": "ApolloX Light Greyish Cyan",
+      "hex": "#e8ebeb",
+      "searchText": "formfutura asa apollox light greyish cyan"
+    },
+    {
       "id": "formfutura-apollox-natural",
       "brand": "FormFutura",
       "material": "ASA",
@@ -40364,6 +40412,30 @@
       "name": "ApolloX White",
       "hex": "#ffffff",
       "searchText": "formfutura asa apollox white"
+    },
+    {
+      "id": "formfutura-premium-asa-iron-grey",
+      "brand": "FormFutura",
+      "material": "ASA",
+      "name": "Premium ASA Iron Grey",
+      "hex": "#3f4647",
+      "searchText": "formfutura asa premium asa iron grey"
+    },
+    {
+      "id": "formfutura-premium-asa-traffic-black",
+      "brand": "FormFutura",
+      "material": "ASA",
+      "name": "Premium ASA Traffic Black",
+      "hex": "#1d1d1d",
+      "searchText": "formfutura asa premium asa traffic black"
+    },
+    {
+      "id": "formfutura-premium-asa-traffic-white",
+      "brand": "FormFutura",
+      "material": "ASA",
+      "name": "Premium ASA Traffic White",
+      "hex": "#f5f5f5",
+      "searchText": "formfutura asa premium asa traffic white"
     },
     {
       "id": "formfutura-reform-rapollo-black",
@@ -40462,12 +40534,28 @@
       "searchText": "formfutura pa6 luvocom 3f paht 9936 black"
     },
     {
+      "id": "formfutura-luvocom-3f-paht-cf-9742",
+      "brand": "FormFutura",
+      "material": "PA6",
+      "name": "LUVOCOM 3F PAHT CF 9742",
+      "hex": "#3b3e3f",
+      "searchText": "formfutura pa6 luvocom 3f paht cf 9742"
+    },
+    {
       "id": "formfutura-luvocom-3f-paht-cf-9891-black",
       "brand": "FormFutura",
       "material": "PA6",
       "name": "LUVOCOM 3F PAHT CF 9891 Black",
       "hex": "#000000",
       "searchText": "formfutura pa6 luvocom 3f paht cf 9891 black"
+    },
+    {
+      "id": "formfutura-luvocom-3f-paht-kk-50056-fr",
+      "brand": "FormFutura",
+      "material": "PA6",
+      "name": "LUVOCOM 3F PAHT KK 50056 FR",
+      "hex": "#363538",
+      "searchText": "formfutura pa6 luvocom 3f paht kk 50056 fr"
     },
     {
       "id": "formfutura-luvocom-3f-paht-kk-50056-fr-black",
@@ -40510,12 +40598,12 @@
       "searchText": "formfutura pa6 styx pa6-cf15 black"
     },
     {
-      "id": "formfutura-styx-pa6-gf30",
+      "id": "formfutura-styx-pa6-gf30-black",
       "brand": "FormFutura",
       "material": "PA6",
-      "name": "STYX PA6-GF30",
+      "name": "STYX PA6-GF30 Black",
       "hex": "#000000",
-      "searchText": "formfutura pa6 styx pa6-gf30"
+      "searchText": "formfutura pa6 styx pa6-gf30 black"
     },
     {
       "id": "formfutura-styx-pa6-gf30-natural",
@@ -40524,14 +40612,6 @@
       "name": "STYX PA6-GF30 Natural",
       "hex": "#dfdfd3",
       "searchText": "formfutura pa6 styx pa6-gf30 natural"
-    },
-    {
-      "id": "formfutura-kratos-pc-black",
-      "brand": "FormFutura",
-      "material": "PC",
-      "name": "Kratos PC Black",
-      "hex": "#000000",
-      "searchText": "formfutura pc kratos pc black"
     },
     {
       "id": "formfutura-kratos-pc-cf10-black",
@@ -40558,6 +40638,14 @@
       "searchText": "formfutura pc kratos pc iron grey"
     },
     {
+      "id": "formfutura-kratos-pc-traffic-black",
+      "brand": "FormFutura",
+      "material": "PC",
+      "name": "Kratos PC Traffic Black",
+      "hex": "#000000",
+      "searchText": "formfutura pc kratos pc traffic black"
+    },
+    {
       "id": "formfutura-kratos-pc-traffic-white",
       "brand": "FormFutura",
       "material": "PC",
@@ -40566,28 +40654,52 @@
       "searchText": "formfutura pc kratos pc traffic white"
     },
     {
+      "id": "formfutura-biofil-wood-black-washed",
+      "brand": "FormFutura",
+      "material": "PCL",
+      "name": "BioFil - Wood Black Washed",
+      "hex": "#292929",
+      "searchText": "formfutura pcl biofil - wood black washed"
+    },
+    {
+      "id": "formfutura-biofil-wood-brown-washed",
+      "brand": "FormFutura",
+      "material": "PCL",
+      "name": "BioFil - Wood Brown Washed",
+      "hex": "#6d6552",
+      "searchText": "formfutura pcl biofil - wood brown washed"
+    },
+    {
+      "id": "formfutura-biofil-wood-natural",
+      "brand": "FormFutura",
+      "material": "PCL",
+      "name": "BioFil - Wood Natural",
+      "hex": "#f9fddd",
+      "searchText": "formfutura pcl biofil - wood natural"
+    },
+    {
+      "id": "formfutura-biofil-wood-ochre-washed",
+      "brand": "FormFutura",
+      "material": "PCL",
+      "name": "BioFil - Wood Ochre Washed",
+      "hex": "#8a6642",
+      "searchText": "formfutura pcl biofil - wood ochre washed"
+    },
+    {
+      "id": "formfutura-biofil-wood-white-washed",
+      "brand": "FormFutura",
+      "material": "PCL",
+      "name": "BioFil - Wood White Washed",
+      "hex": "#fdf4e3",
+      "searchText": "formfutura pcl biofil - wood white washed"
+    },
+    {
       "id": "formfutura-biofil-pcl-natural",
       "brand": "FormFutura",
       "material": "PCL",
       "name": "BioFil – PCL Natural",
       "hex": "#d9d8de",
       "searchText": "formfutura pcl biofil – pcl natural"
-    },
-    {
-      "id": "formfutura-athena-gf10-black",
-      "brand": "FormFutura",
-      "material": "PCTG",
-      "name": "Athena GF10 Black",
-      "hex": "#000000",
-      "searchText": "formfutura pctg athena gf10 black"
-    },
-    {
-      "id": "formfutura-athena-gf10-natural",
-      "brand": "FormFutura",
-      "material": "PCTG",
-      "name": "Athena GF10 Natural",
-      "hex": "#f2efe9",
-      "searchText": "formfutura pctg athena gf10 natural"
     },
     {
       "id": "formfutura-athenax-black",
@@ -40612,6 +40724,38 @@
       "name": "AthenaX Clear",
       "hex": "#e4e7e5",
       "searchText": "formfutura pctg athenax clear"
+    },
+    {
+      "id": "formfutura-athenax-gf10-black",
+      "brand": "FormFutura",
+      "material": "PCTG",
+      "name": "AthenaX GF10 Black",
+      "hex": "#1d1d1d",
+      "searchText": "formfutura pctg athenax gf10 black"
+    },
+    {
+      "id": "formfutura-athenax-gf10-natural",
+      "brand": "FormFutura",
+      "material": "PCTG",
+      "name": "AthenaX GF10 Natural",
+      "hex": "#f5f3d1",
+      "searchText": "formfutura pctg athenax gf10 natural"
+    },
+    {
+      "id": "formfutura-athenax-traffic-black",
+      "brand": "FormFutura",
+      "material": "PCTG",
+      "name": "AthenaX Traffic Black",
+      "hex": "#000000",
+      "searchText": "formfutura pctg athenax traffic black"
+    },
+    {
+      "id": "formfutura-athenax-traffic-white",
+      "brand": "FormFutura",
+      "material": "PCTG",
+      "name": "AthenaX Traffic White",
+      "hex": "#ffffff",
+      "searchText": "formfutura pctg athenax traffic white"
     },
     {
       "id": "formfutura-athenax-white",
@@ -40758,116 +40902,20 @@
       "searchText": "formfutura pet high precision pet yellow green"
     },
     {
-      "id": "formfutura-reform-rpet-black",
-      "brand": "FormFutura",
-      "material": "PET",
-      "name": "ReForm – rPET Black",
-      "hex": "#000000",
-      "searchText": "formfutura pet reform – rpet black"
-    },
-    {
-      "id": "formfutura-reform-rpet-clear",
-      "brand": "FormFutura",
-      "material": "PET",
-      "name": "ReForm – rPET Clear",
-      "hex": "#9a9ba0",
-      "searchText": "formfutura pet reform – rpet clear"
-    },
-    {
-      "id": "formfutura-reform-rpet-cream-white",
-      "brand": "FormFutura",
-      "material": "PET",
-      "name": "ReForm – rPET Cream White",
-      "hex": "#f6dfb7",
-      "searchText": "formfutura pet reform – rpet cream white"
-    },
-    {
-      "id": "formfutura-reform-rpet-dark-blue",
-      "brand": "FormFutura",
-      "material": "PET",
-      "name": "ReForm – rPET Dark Blue",
-      "hex": "#003287",
-      "searchText": "formfutura pet reform – rpet dark blue"
-    },
-    {
-      "id": "formfutura-reform-rpet-grey",
-      "brand": "FormFutura",
-      "material": "PET",
-      "name": "ReForm – rPET Grey",
-      "hex": "#727376",
-      "searchText": "formfutura pet reform – rpet grey"
-    },
-    {
-      "id": "formfutura-reform-rpet-light-blue",
-      "brand": "FormFutura",
-      "material": "PET",
-      "name": "ReForm – rPET Light Blue",
-      "hex": "#005da4",
-      "searchText": "formfutura pet reform – rpet light blue"
-    },
-    {
-      "id": "formfutura-reform-rpet-light-green",
-      "brand": "FormFutura",
-      "material": "PET",
-      "name": "ReForm – rPET Light Green",
-      "hex": "#91c500",
-      "searchText": "formfutura pet reform – rpet light green"
-    },
-    {
-      "id": "formfutura-reform-rpet-orange",
-      "brand": "FormFutura",
-      "material": "PET",
-      "name": "ReForm – rPET Orange",
-      "hex": "#ff7a33",
-      "searchText": "formfutura pet reform – rpet orange"
-    },
-    {
-      "id": "formfutura-reform-rpet-red",
-      "brand": "FormFutura",
-      "material": "PET",
-      "name": "ReForm – rPET Red",
-      "hex": "#e72f1d",
-      "searchText": "formfutura pet reform – rpet red"
-    },
-    {
-      "id": "formfutura-reform-rpet-silver",
-      "brand": "FormFutura",
-      "material": "PET",
-      "name": "ReForm – rPET Silver",
-      "hex": "#abacb0",
-      "searchText": "formfutura pet reform – rpet silver"
-    },
-    {
-      "id": "formfutura-reform-rpet-violet",
-      "brand": "FormFutura",
-      "material": "PET",
-      "name": "ReForm – rPET Violet",
-      "hex": "#a048f2",
-      "searchText": "formfutura pet reform – rpet violet"
-    },
-    {
-      "id": "formfutura-reform-rpet-white",
-      "brand": "FormFutura",
-      "material": "PET",
-      "name": "ReForm – rPET White",
-      "hex": "#ffffff",
-      "searchText": "formfutura pet reform – rpet white"
-    },
-    {
-      "id": "formfutura-reform-rpet-yellow",
-      "brand": "FormFutura",
-      "material": "PET",
-      "name": "ReForm – rPET Yellow",
-      "hex": "#f3c102",
-      "searchText": "formfutura pet reform – rpet yellow"
-    },
-    {
       "id": "formfutura-carbonfil-black",
       "brand": "FormFutura",
       "material": "PETG",
       "name": "CarbonFil Black",
       "hex": "#000000",
       "searchText": "formfutura petg carbonfil black"
+    },
+    {
+      "id": "formfutura-carbonfil-cf03",
+      "brand": "FormFutura",
+      "material": "PETG",
+      "name": "CarbonFil CF03",
+      "hex": "#474747",
+      "searchText": "formfutura petg carbonfil cf03"
     },
     {
       "id": "formfutura-carbonfil-green",
@@ -41238,19 +41286,219 @@
       "searchText": "formfutura petg hdglass see through yellow"
     },
     {
-      "id": "formfutura-easyfil-epla",
+      "id": "formfutura-petg-clear",
       "brand": "FormFutura",
-      "material": "PLA",
-      "name": "EasyFil ePLA",
+      "material": "PETG",
+      "name": "PETG Clear",
+      "hex": "#e9e7e7",
+      "searchText": "formfutura petg petg clear"
+    },
+    {
+      "id": "formfutura-petg-iron-grey",
+      "brand": "FormFutura",
+      "material": "PETG",
+      "name": "PETG Iron Grey",
+      "hex": "#3f4647",
+      "searchText": "formfutura petg petg iron grey"
+    },
+    {
+      "id": "formfutura-petg-light-blue",
+      "brand": "FormFutura",
+      "material": "PETG",
+      "name": "PETG Light Blue",
+      "hex": "#0074bc",
+      "searchText": "formfutura petg petg light blue"
+    },
+    {
+      "id": "formfutura-petg-light-grey",
+      "brand": "FormFutura",
+      "material": "PETG",
+      "name": "PETG Light Grey",
+      "hex": "#cbd0cc",
+      "searchText": "formfutura petg petg light grey"
+    },
+    {
+      "id": "formfutura-petg-signal-blue",
+      "brand": "FormFutura",
+      "material": "PETG",
+      "name": "PETG Signal Blue",
+      "hex": "#1e2460",
+      "searchText": "formfutura petg petg signal blue"
+    },
+    {
+      "id": "formfutura-petg-signal-white",
+      "brand": "FormFutura",
+      "material": "PETG",
+      "name": "PETG Signal White",
+      "hex": "#f5f5f5",
+      "searchText": "formfutura petg petg signal white"
+    },
+    {
+      "id": "formfutura-petg-traffic-black",
+      "brand": "FormFutura",
+      "material": "PETG",
+      "name": "PETG Traffic Black",
+      "hex": "#1d1d1d",
+      "searchText": "formfutura petg petg traffic black"
+    },
+    {
+      "id": "formfutura-petg-traffic-green",
+      "brand": "FormFutura",
+      "material": "PETG",
+      "name": "PETG Traffic Green",
+      "hex": "#358b49",
+      "searchText": "formfutura petg petg traffic green"
+    },
+    {
+      "id": "formfutura-petg-traffic-red",
+      "brand": "FormFutura",
+      "material": "PETG",
+      "name": "PETG Traffic Red",
+      "hex": "#cc0201",
+      "searchText": "formfutura petg petg traffic red"
+    },
+    {
+      "id": "formfutura-petg-yellow-green",
+      "brand": "FormFutura",
+      "material": "PETG",
+      "name": "PETG Yellow Green",
+      "hex": "#57a639",
+      "searchText": "formfutura petg petg yellow green"
+    },
+    {
+      "id": "formfutura-petg-zinc-yellow",
+      "brand": "FormFutura",
+      "material": "PETG",
+      "name": "PETG Zinc Yellow",
+      "hex": "#f4ee2a",
+      "searchText": "formfutura petg petg zinc yellow"
+    },
+    {
+      "id": "formfutura-premium-petg-flame-retardant-traffic-black",
+      "brand": "FormFutura",
+      "material": "PETG",
+      "name": "Premium PETG Flame Retardant Traffic Black",
+      "hex": "#141414",
+      "searchText": "formfutura petg premium petg flame retardant traffic black"
+    },
+    {
+      "id": "formfutura-premium-petg-flame-retardant-traffic-white",
+      "brand": "FormFutura",
+      "material": "PETG",
+      "name": "Premium PETG Flame Retardant Traffic White",
+      "hex": "#f5f5f5",
+      "searchText": "formfutura petg premium petg flame retardant traffic white"
+    },
+    {
+      "id": "formfutura-reform-rpet-black",
+      "brand": "FormFutura",
+      "material": "PETG",
+      "name": "ReForm – rPET Black",
       "hex": "#000000",
-      "searchText": "formfutura pla easyfil epla"
+      "searchText": "formfutura petg reform – rpet black"
+    },
+    {
+      "id": "formfutura-reform-rpet-clear",
+      "brand": "FormFutura",
+      "material": "PETG",
+      "name": "ReForm – rPET Clear",
+      "hex": "#e6e6e6",
+      "searchText": "formfutura petg reform – rpet clear"
+    },
+    {
+      "id": "formfutura-reform-rpet-cream-white",
+      "brand": "FormFutura",
+      "material": "PETG",
+      "name": "ReForm – rPET Cream White",
+      "hex": "#f6dfb7",
+      "searchText": "formfutura petg reform – rpet cream white"
+    },
+    {
+      "id": "formfutura-reform-rpet-dark-blue",
+      "brand": "FormFutura",
+      "material": "PETG",
+      "name": "ReForm – rPET Dark Blue",
+      "hex": "#003287",
+      "searchText": "formfutura petg reform – rpet dark blue"
+    },
+    {
+      "id": "formfutura-reform-rpet-grey",
+      "brand": "FormFutura",
+      "material": "PETG",
+      "name": "ReForm – rPET Grey",
+      "hex": "#727376",
+      "searchText": "formfutura petg reform – rpet grey"
+    },
+    {
+      "id": "formfutura-reform-rpet-light-blue",
+      "brand": "FormFutura",
+      "material": "PETG",
+      "name": "ReForm – rPET Light Blue",
+      "hex": "#005da4",
+      "searchText": "formfutura petg reform – rpet light blue"
+    },
+    {
+      "id": "formfutura-reform-rpet-light-green",
+      "brand": "FormFutura",
+      "material": "PETG",
+      "name": "ReForm – rPET Light Green",
+      "hex": "#91c500",
+      "searchText": "formfutura petg reform – rpet light green"
+    },
+    {
+      "id": "formfutura-reform-rpet-orange",
+      "brand": "FormFutura",
+      "material": "PETG",
+      "name": "ReForm – rPET Orange",
+      "hex": "#ff7a33",
+      "searchText": "formfutura petg reform – rpet orange"
+    },
+    {
+      "id": "formfutura-reform-rpet-red",
+      "brand": "FormFutura",
+      "material": "PETG",
+      "name": "ReForm – rPET Red",
+      "hex": "#e72f1d",
+      "searchText": "formfutura petg reform – rpet red"
+    },
+    {
+      "id": "formfutura-reform-rpet-silver",
+      "brand": "FormFutura",
+      "material": "PETG",
+      "name": "ReForm – rPET Silver",
+      "hex": "#abacb0",
+      "searchText": "formfutura petg reform – rpet silver"
+    },
+    {
+      "id": "formfutura-reform-rpet-violet",
+      "brand": "FormFutura",
+      "material": "PETG",
+      "name": "ReForm – rPET Violet",
+      "hex": "#a048f2",
+      "searchText": "formfutura petg reform – rpet violet"
+    },
+    {
+      "id": "formfutura-reform-rpet-white",
+      "brand": "FormFutura",
+      "material": "PETG",
+      "name": "ReForm – rPET White",
+      "hex": "#ffffff",
+      "searchText": "formfutura petg reform – rpet white"
+    },
+    {
+      "id": "formfutura-reform-rpet-yellow",
+      "brand": "FormFutura",
+      "material": "PETG",
+      "name": "ReForm – rPET Yellow",
+      "hex": "#f3c102",
+      "searchText": "formfutura petg reform – rpet yellow"
     },
     {
       "id": "formfutura-easyfil-epla-anthracite-grey",
       "brand": "FormFutura",
       "material": "PLA",
       "name": "EasyFil ePLA Anthracite Grey",
-      "hex": "#373737",
+      "hex": "#292824",
       "searchText": "formfutura pla easyfil epla anthracite grey"
     },
     {
@@ -41364,6 +41612,14 @@
       "name": "EasyFil ePLA Matt Apricot",
       "hex": "#eac2b7",
       "searchText": "formfutura pla easyfil epla matt apricot"
+    },
+    {
+      "id": "formfutura-easyfil-epla-matt-black",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "EasyFil ePLA Matt Black",
+      "hex": "#1d1d1d",
+      "searchText": "formfutura pla easyfil epla matt black"
     },
     {
       "id": "formfutura-easyfil-epla-matt-light-grey",
@@ -41842,7 +42098,7 @@
       "brand": "FormFutura",
       "material": "PLA",
       "name": "Galaxy PLA Callisto Yellow",
-      "hex": "#c4c67d",
+      "hex": "#d1b48d",
       "searchText": "formfutura pla galaxy pla callisto yellow"
     },
     {
@@ -41874,7 +42130,7 @@
       "brand": "FormFutura",
       "material": "PLA",
       "name": "Galaxy PLA Jupiter Brown",
-      "hex": "#c38c7b",
+      "hex": "#ae7749",
       "searchText": "formfutura pla galaxy pla jupiter brown"
     },
     {
@@ -41914,7 +42170,7 @@
       "brand": "FormFutura",
       "material": "PLA",
       "name": "Galaxy PLA Space Grey",
-      "hex": "#76797d",
+      "hex": "#b2b8b8",
       "searchText": "formfutura pla galaxy pla space grey"
     },
     {
@@ -41962,7 +42218,7 @@
       "brand": "FormFutura",
       "material": "PLA",
       "name": "High Gloss PLA Gold",
-      "hex": "#ce8d00",
+      "hex": "#f4ac23",
       "searchText": "formfutura pla high gloss pla gold"
     },
     {
@@ -42150,6 +42406,14 @@
       "searchText": "formfutura pla matt pla desert sand camouflage"
     },
     {
+      "id": "formfutura-matt-pla-earth",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "Matt PLA Earth",
+      "hex": "#7d6e5f",
+      "searchText": "formfutura pla matt pla earth"
+    },
+    {
       "id": "formfutura-matt-pla-earth-red-camouflage",
       "brand": "FormFutura",
       "material": "PLA",
@@ -42162,8 +42426,16 @@
       "brand": "FormFutura",
       "material": "PLA",
       "name": "Matt PLA Gunmetal Grey Camouflage",
-      "hex": "#828e88",
+      "hex": "#0f1314",
       "searchText": "formfutura pla matt pla gunmetal grey camouflage"
+    },
+    {
+      "id": "formfutura-matt-pla-medium-grey",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "Matt PLA Medium Grey",
+      "hex": "#bcbabb",
+      "searchText": "formfutura pla matt pla medium grey"
     },
     {
       "id": "formfutura-matt-pla-olive-camouflage",
@@ -42180,6 +42452,14 @@
       "name": "Matt PLA Purple Camouflage",
       "hex": "#9d7185",
       "searchText": "formfutura pla matt pla purple camouflage"
+    },
+    {
+      "id": "formfutura-matt-pla-sage",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "Matt PLA Sage",
+      "hex": "#b3c2ab",
+      "searchText": "formfutura pla matt pla sage"
     },
     {
       "id": "formfutura-matt-pla-stealth-black",
@@ -42222,12 +42502,140 @@
       "searchText": "formfutura pla metalfil – brass"
     },
     {
+      "id": "formfutura-metalfil-classic-copper",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "MetalFil – Classic Copper",
+      "hex": "#8d5d4f",
+      "searchText": "formfutura pla metalfil – classic copper"
+    },
+    {
       "id": "formfutura-metalfil-classic-copper-natural",
       "brand": "FormFutura",
       "material": "PLA",
       "name": "MetalFil – Classic Copper Natural",
       "hex": "#8d5d4f",
       "searchText": "formfutura pla metalfil – classic copper natural"
+    },
+    {
+      "id": "formfutura-pla-army-green",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "PLA Army Green",
+      "hex": "#3d441e",
+      "searchText": "formfutura pla pla army green"
+    },
+    {
+      "id": "formfutura-pla-basalt-grey",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "PLA Basalt Grey",
+      "hex": "#4e5658",
+      "searchText": "formfutura pla pla basalt grey"
+    },
+    {
+      "id": "formfutura-pla-dark-blue",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "PLA Dark Blue",
+      "hex": "#0266bb",
+      "searchText": "formfutura pla pla dark blue"
+    },
+    {
+      "id": "formfutura-pla-grey-beige",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "PLA Grey Beige",
+      "hex": "#9e9764",
+      "searchText": "formfutura pla pla grey beige"
+    },
+    {
+      "id": "formfutura-pla-light-blue",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "PLA Light Blue",
+      "hex": "#0074bc",
+      "searchText": "formfutura pla pla light blue"
+    },
+    {
+      "id": "formfutura-pla-natural",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "PLA Natural",
+      "hex": "#f5f3d1",
+      "searchText": "formfutura pla pla natural"
+    },
+    {
+      "id": "formfutura-pla-pastel-blue",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "PLA Pastel Blue",
+      "hex": "#92c1e9",
+      "searchText": "formfutura pla pla pastel blue"
+    },
+    {
+      "id": "formfutura-pla-pastel-orange",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "PLA Pastel Orange",
+      "hex": "#f67405",
+      "searchText": "formfutura pla pla pastel orange"
+    },
+    {
+      "id": "formfutura-pla-salmon-orange",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "PLA Salmon Orange",
+      "hex": "#e55137",
+      "searchText": "formfutura pla pla salmon orange"
+    },
+    {
+      "id": "formfutura-pla-signal-black",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "PLA Signal Black",
+      "hex": "#292929",
+      "searchText": "formfutura pla pla signal black"
+    },
+    {
+      "id": "formfutura-pla-signal-violet",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "PLA Signal Violet",
+      "hex": "#924e7d",
+      "searchText": "formfutura pla pla signal violet"
+    },
+    {
+      "id": "formfutura-pla-traffic-red",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "PLA Traffic Red",
+      "hex": "#cc0201",
+      "searchText": "formfutura pla pla traffic red"
+    },
+    {
+      "id": "formfutura-pla-traffic-white",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "PLA Traffic White",
+      "hex": "#f5f5f5",
+      "searchText": "formfutura pla pla traffic white"
+    },
+    {
+      "id": "formfutura-pla-yellow-green",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "PLA Yellow Green",
+      "hex": "#57a639",
+      "searchText": "formfutura pla pla yellow green"
+    },
+    {
+      "id": "formfutura-pla-zinc-yellow",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "PLA Zinc Yellow",
+      "hex": "#f4ee2a",
+      "searchText": "formfutura pla pla zinc yellow"
     },
     {
       "id": "formfutura-plactive-apple-green",
@@ -42266,8 +42674,16 @@
       "brand": "FormFutura",
       "material": "PLA",
       "name": "Premium PLA C.C.Transparent",
-      "hex": "#d9d8de",
+      "hex": "#c9d0d4",
       "searchText": "formfutura pla premium pla c.c.transparent"
+    },
+    {
+      "id": "formfutura-premium-pla-cf03",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "Premium PLA CF03",
+      "hex": "#4c5051",
+      "searchText": "formfutura pla premium pla cf03"
     },
     {
       "id": "formfutura-premium-pla-dutch-orange",
@@ -42276,6 +42692,22 @@
       "name": "Premium PLA Dutch Orange",
       "hex": "#e0493e",
       "searchText": "formfutura pla premium pla dutch orange"
+    },
+    {
+      "id": "formfutura-premium-pla-flame-retardant-cream-white",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "Premium PLA Flame Retardant Cream White",
+      "hex": "#fdf4e3",
+      "searchText": "formfutura pla premium pla flame retardant cream white"
+    },
+    {
+      "id": "formfutura-premium-pla-flame-retardant-traffic-black",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "Premium PLA Flame Retardant Traffic Black",
+      "hex": "#1d1d1d",
+      "searchText": "formfutura pla premium pla flame retardant traffic black"
     },
     {
       "id": "formfutura-premium-pla-flaming-red",
@@ -42332,6 +42764,38 @@
       "name": "Premium PLA Sweet Purple",
       "hex": "#963877",
       "searchText": "formfutura pla premium pla sweet purple"
+    },
+    {
+      "id": "formfutura-reform-organic-rpla-blond-beer",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "ReForm - Organic rPLA Blond Beer",
+      "hex": "#c3a741",
+      "searchText": "formfutura pla reform - organic rpla blond beer"
+    },
+    {
+      "id": "formfutura-reform-organic-rpla-dark-ale",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "ReForm - Organic rPLA Dark Ale",
+      "hex": "#946f4a",
+      "searchText": "formfutura pla reform - organic rpla dark ale"
+    },
+    {
+      "id": "formfutura-reform-organic-rpla-hemp",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "ReForm - Organic rPLA Hemp",
+      "hex": "#9cbf60",
+      "searchText": "formfutura pla reform - organic rpla hemp"
+    },
+    {
+      "id": "formfutura-reform-organic-rpla-linen",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "ReForm - Organic rPLA Linen",
+      "hex": "#dc9c43",
+      "searchText": "formfutura pla reform - organic rpla linen"
     },
     {
       "id": "formfutura-reform-rpla-black",
@@ -42426,7 +42890,7 @@
       "brand": "FormFutura",
       "material": "PLA",
       "name": "StoneFil Terracotta",
-      "hex": "#cd5a2e",
+      "hex": "#d99773",
       "searchText": "formfutura pla stonefil terracotta"
     },
     {
@@ -42454,6 +42918,14 @@
       "searchText": "formfutura pla tough pla grey"
     },
     {
+      "id": "formfutura-tough-pla-light-grey",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "Tough PLA Light Grey",
+      "hex": "#d1d1d1",
+      "searchText": "formfutura pla tough pla light grey"
+    },
+    {
       "id": "formfutura-tough-pla-natural",
       "brand": "FormFutura",
       "material": "PLA",
@@ -42478,12 +42950,180 @@
       "searchText": "formfutura pla tough pla white"
     },
     {
+      "id": "formfutura-transparent-pla-arctic-blue",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "Transparent PLA Arctic Blue",
+      "hex": "#7894f2",
+      "searchText": "formfutura pla transparent pla arctic blue"
+    },
+    {
+      "id": "formfutura-transparent-pla-clear",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "Transparent PLA Clear",
+      "hex": "#e9e7e7",
+      "searchText": "formfutura pla transparent pla clear"
+    },
+    {
+      "id": "formfutura-transparent-pla-grapefruit",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "Transparent PLA Grapefruit",
+      "hex": "#ef6063",
+      "searchText": "formfutura pla transparent pla grapefruit"
+    },
+    {
+      "id": "formfutura-transparent-pla-lime",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "Transparent PLA Lime",
+      "hex": "#82e392",
+      "searchText": "formfutura pla transparent pla lime"
+    },
+    {
+      "id": "formfutura-transparent-pla-orange",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "Transparent PLA Orange",
+      "hex": "#fe602b",
+      "searchText": "formfutura pla transparent pla orange"
+    },
+    {
+      "id": "formfutura-transparent-pla-pineapple",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "Transparent PLA Pineapple",
+      "hex": "#f1ff6c",
+      "searchText": "formfutura pla transparent pla pineapple"
+    },
+    {
+      "id": "formfutura-transparent-pla-raspberry",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "Transparent PLA Raspberry",
+      "hex": "#c4618c",
+      "searchText": "formfutura pla transparent pla raspberry"
+    },
+    {
       "id": "formfutura-volcano-pla",
       "brand": "FormFutura",
       "material": "PLA",
       "name": "Volcano PLA",
       "hex": "#000000",
       "searchText": "formfutura pla volcano pla"
+    },
+    {
+      "id": "formfutura-volcano-pla-150c-diy-dark-green",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "Volcano PLA 150C DIY Dark Green",
+      "hex": "#0a4e09",
+      "searchText": "formfutura pla volcano pla 150c diy dark green"
+    },
+    {
+      "id": "formfutura-volcano-pla-150c-diy-grass-green",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "Volcano PLA 150C DIY Grass Green",
+      "hex": "#006634",
+      "searchText": "formfutura pla volcano pla 150c diy grass green"
+    },
+    {
+      "id": "formfutura-volcano-pla-150c-diy-industrial-blue",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "Volcano PLA 150C DIY Industrial Blue",
+      "hex": "#3147a0",
+      "searchText": "formfutura pla volcano pla 150c diy industrial blue"
+    },
+    {
+      "id": "formfutura-volcano-pla-150c-diy-industrial-yellow",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "Volcano PLA 150C DIY Industrial Yellow",
+      "hex": "#f3ff52",
+      "searchText": "formfutura pla volcano pla 150c diy industrial yellow"
+    },
+    {
+      "id": "formfutura-volcano-pla-150c-diy-lime-green",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "Volcano PLA 150C DIY Lime Green",
+      "hex": "#3ab916",
+      "searchText": "formfutura pla volcano pla 150c diy lime green"
+    },
+    {
+      "id": "formfutura-volcano-pla-150c-diy-orange",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "Volcano PLA 150C DIY Orange",
+      "hex": "#fe6601",
+      "searchText": "formfutura pla volcano pla 150c diy orange"
+    },
+    {
+      "id": "formfutura-volcano-pla-150c-diy-pure-yellow",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "Volcano PLA 150C DIY Pure Yellow",
+      "hex": "#fcb712",
+      "searchText": "formfutura pla volcano pla 150c diy pure yellow"
+    },
+    {
+      "id": "formfutura-volcano-pla-150c-diy-red",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "Volcano PLA 150C DIY Red",
+      "hex": "#da011c",
+      "searchText": "formfutura pla volcano pla 150c diy red"
+    },
+    {
+      "id": "formfutura-volcano-pla-150c-diy-teal-blue",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "Volcano PLA 150C DIY Teal Blue",
+      "hex": "#158ca6",
+      "searchText": "formfutura pla volcano pla 150c diy teal blue"
+    },
+    {
+      "id": "formfutura-volcano-pla-150c-iron-grey",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "Volcano PLA 150C Iron Grey",
+      "hex": "#3f4647",
+      "searchText": "formfutura pla volcano pla 150c iron grey"
+    },
+    {
+      "id": "formfutura-volcano-pla-150c-light-grey",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "Volcano PLA 150C Light Grey",
+      "hex": "#cbd0cc",
+      "searchText": "formfutura pla volcano pla 150c light grey"
+    },
+    {
+      "id": "formfutura-volcano-pla-150c-traffic-black",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "Volcano PLA 150C Traffic Black",
+      "hex": "#1d1d1d",
+      "searchText": "formfutura pla volcano pla 150c traffic black"
+    },
+    {
+      "id": "formfutura-volcano-pla-150c-traffic-white",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "Volcano PLA 150C Traffic White",
+      "hex": "#f5f5f5",
+      "searchText": "formfutura pla volcano pla 150c traffic white"
+    },
+    {
+      "id": "formfutura-volcano-pla-black",
+      "brand": "FormFutura",
+      "material": "PLA",
+      "name": "Volcano PLA Black",
+      "hex": "#000000",
+      "searchText": "formfutura pla volcano pla black"
     },
     {
       "id": "formfutura-volcano-pla-dark-blue",
@@ -42506,7 +43146,7 @@
       "brand": "FormFutura",
       "material": "PLA",
       "name": "Volcano PLA Gold",
-      "hex": "#ce8d00",
+      "hex": "#f4ac23",
       "searchText": "formfutura pla volcano pla gold"
     },
     {
@@ -42622,14 +43262,6 @@
       "searchText": "formfutura tpc flexifil tpc 30d white"
     },
     {
-      "id": "formfutura-flexifil-tpc-40d",
-      "brand": "FormFutura",
-      "material": "TPC",
-      "name": "FlexiFil TPC 40D",
-      "hex": "#000000",
-      "searchText": "formfutura tpc flexifil tpc 40d"
-    },
-    {
       "id": "formfutura-flexifil-tpc-40d-black",
       "brand": "FormFutura",
       "material": "TPC",
@@ -42682,7 +43314,7 @@
       "brand": "FormFutura",
       "material": "TPU",
       "name": "Python Flex TPU 90A Skin Tone ID2",
-      "hex": "#f0ddc2",
+      "hex": "#f7dec2",
       "searchText": "formfutura tpu python flex tpu 90a skin tone id2"
     },
     {
@@ -42690,7 +43322,7 @@
       "brand": "FormFutura",
       "material": "TPU",
       "name": "Python Flex TPU 90A Skin Tone ID4",
-      "hex": "#e6ba83",
+      "hex": "#e6be92",
       "searchText": "formfutura tpu python flex tpu 90a skin tone id4"
     },
     {
@@ -42698,7 +43330,7 @@
       "brand": "FormFutura",
       "material": "TPU",
       "name": "Python Flex TPU 90A Skin Tone ID8",
-      "hex": "#613919",
+      "hex": "#94613c",
       "searchText": "formfutura tpu python flex tpu 90a skin tone id8"
     },
     {
@@ -42738,7 +43370,7 @@
       "brand": "FormFutura",
       "material": "TPU",
       "name": "Python Flex TPU 98A Skin Tone ID2",
-      "hex": "#f0ddc2",
+      "hex": "#f7dec2",
       "searchText": "formfutura tpu python flex tpu 98a skin tone id2"
     },
     {
@@ -42746,7 +43378,7 @@
       "brand": "FormFutura",
       "material": "TPU",
       "name": "Python Flex TPU 98A Skin Tone ID4",
-      "hex": "#eccea7",
+      "hex": "#e6be92",
       "searchText": "formfutura tpu python flex tpu 98a skin tone id4"
     },
     {
@@ -42762,7 +43394,7 @@
       "brand": "FormFutura",
       "material": "TPU",
       "name": "Python Flex TPU 98A Skin Tone ID8",
-      "hex": "#613919",
+      "hex": "#94613c",
       "searchText": "formfutura tpu python flex tpu 98a skin tone id8"
     },
     {
@@ -42772,6 +43404,54 @@
       "name": "Python Flex TPU 98A White",
       "hex": "#ffffff",
       "searchText": "formfutura tpu python flex tpu 98a white"
+    },
+    {
+      "id": "formfutura-reform-rtpu-85a-traffic-black",
+      "brand": "FormFutura",
+      "material": "TPU",
+      "name": "ReForm - rTPU 85A Traffic Black",
+      "hex": "#1d1d1d",
+      "searchText": "formfutura tpu reform - rtpu 85a traffic black"
+    },
+    {
+      "id": "formfutura-reform-rtpu-85a-traffic-white",
+      "brand": "FormFutura",
+      "material": "TPU",
+      "name": "ReForm - rTPU 85A Traffic White",
+      "hex": "#f5f5f5",
+      "searchText": "formfutura tpu reform - rtpu 85a traffic white"
+    },
+    {
+      "id": "formfutura-reform-rtpu-90a-traffic-black",
+      "brand": "FormFutura",
+      "material": "TPU",
+      "name": "ReForm - rTPU 90A Traffic Black",
+      "hex": "#1d1d1d",
+      "searchText": "formfutura tpu reform - rtpu 90a traffic black"
+    },
+    {
+      "id": "formfutura-reform-rtpu-90a-traffic-white",
+      "brand": "FormFutura",
+      "material": "TPU",
+      "name": "ReForm - rTPU 90A Traffic White",
+      "hex": "#f5f5f5",
+      "searchText": "formfutura tpu reform - rtpu 90a traffic white"
+    },
+    {
+      "id": "formfutura-reform-rtpu-95a-traffic-black",
+      "brand": "FormFutura",
+      "material": "TPU",
+      "name": "ReForm - rTPU 95A Traffic Black",
+      "hex": "#1d1d1d",
+      "searchText": "formfutura tpu reform - rtpu 95a traffic black"
+    },
+    {
+      "id": "formfutura-reform-rtpu-95a-traffic-white",
+      "brand": "FormFutura",
+      "material": "TPU",
+      "name": "ReForm - rTPU 95A Traffic White",
+      "hex": "#f5f5f5",
+      "searchText": "formfutura tpu reform - rtpu 95a traffic white"
     },
     {
       "id": "francofil-abs-black",
@@ -84324,6 +85004,326 @@
       "name": "Yellow TPU 95A HF",
       "hex": "#fff200",
       "searchText": "siddament tpu yellow tpu 95a hf"
+    },
+    {
+      "id": "siraya-tech-fibreheart-abs-ht-hf-black",
+      "brand": "Siraya Tech",
+      "material": "ABS",
+      "name": "Fibreheart ABS HT HF Black",
+      "hex": "#020203",
+      "searchText": "siraya tech abs fibreheart abs ht hf black"
+    },
+    {
+      "id": "siraya-tech-fibreheart-abs-ht-hf-white",
+      "brand": "Siraya Tech",
+      "material": "ABS",
+      "name": "Fibreheart ABS HT HF White",
+      "hex": "#f5f5f5",
+      "searchText": "siraya tech abs fibreheart abs ht hf white"
+    },
+    {
+      "id": "siraya-tech-fibreheart-abs-cf-black",
+      "brand": "Siraya Tech",
+      "material": "ABS",
+      "name": "Fibreheart ABS-CF Black",
+      "hex": "#020203",
+      "searchText": "siraya tech abs fibreheart abs-cf black"
+    },
+    {
+      "id": "siraya-tech-fibreheart-abs-cf-core-black",
+      "brand": "Siraya Tech",
+      "material": "ABS",
+      "name": "Fibreheart ABS-CF Core Black",
+      "hex": "#020203",
+      "searchText": "siraya tech abs fibreheart abs-cf core black"
+    },
+    {
+      "id": "siraya-tech-fibreheart-abs-gf-black",
+      "brand": "Siraya Tech",
+      "material": "ABS",
+      "name": "Fibreheart ABS-GF Black",
+      "hex": "#020203",
+      "searchText": "siraya tech abs fibreheart abs-gf black"
+    },
+    {
+      "id": "siraya-tech-fibreheart-abs-gf-grey",
+      "brand": "Siraya Tech",
+      "material": "ABS",
+      "name": "Fibreheart ABS-GF Grey",
+      "hex": "#e0e0dc",
+      "searchText": "siraya tech abs fibreheart abs-gf grey"
+    },
+    {
+      "id": "siraya-tech-fibreheart-abs-gf-white",
+      "brand": "Siraya Tech",
+      "material": "ABS",
+      "name": "Fibreheart ABS-GF White",
+      "hex": "#fafafa",
+      "searchText": "siraya tech abs fibreheart abs-gf white"
+    },
+    {
+      "id": "siraya-tech-fibreheart-asa-gf-black",
+      "brand": "Siraya Tech",
+      "material": "ASA",
+      "name": "Fibreheart ASA-GF Black",
+      "hex": "#020203",
+      "searchText": "siraya tech asa fibreheart asa-gf black"
+    },
+    {
+      "id": "siraya-tech-fibreheart-asa-gf-white",
+      "brand": "Siraya Tech",
+      "material": "ASA",
+      "name": "Fibreheart ASA-GF White",
+      "hex": "#fafafa",
+      "searchText": "siraya tech asa fibreheart asa-gf white"
+    },
+    {
+      "id": "siraya-tech-rebound-peba-85a-black",
+      "brand": "Siraya Tech",
+      "material": "PEBA",
+      "name": "Rebound PEBA 85A Black",
+      "hex": "#020203",
+      "searchText": "siraya tech peba rebound peba 85a black"
+    },
+    {
+      "id": "siraya-tech-rebound-peba-95a-black",
+      "brand": "Siraya Tech",
+      "material": "PEBA",
+      "name": "Rebound PEBA 95A Black",
+      "hex": "#020203",
+      "searchText": "siraya tech peba rebound peba 95a black"
+    },
+    {
+      "id": "siraya-tech-rebound-peba-air-70a-95a-black",
+      "brand": "Siraya Tech",
+      "material": "PEBA",
+      "name": "Rebound PEBA Air 70A-95A Black",
+      "hex": "#020203",
+      "searchText": "siraya tech peba rebound peba air 70a-95a black"
+    },
+    {
+      "id": "siraya-tech-fibreheart-pet-cf-black",
+      "brand": "Siraya Tech",
+      "material": "PET",
+      "name": "Fibreheart PET-CF Black",
+      "hex": "#595959",
+      "searchText": "siraya tech pet fibreheart pet-cf black"
+    },
+    {
+      "id": "siraya-tech-fibreheart-pet-gf-black",
+      "brand": "Siraya Tech",
+      "material": "PET",
+      "name": "Fibreheart PET-GF Black",
+      "hex": "#020203",
+      "searchText": "siraya tech pet fibreheart pet-gf black"
+    },
+    {
+      "id": "siraya-tech-fibreheart-pet-gf-flat-dark-earth",
+      "brand": "Siraya Tech",
+      "material": "PET",
+      "name": "Fibreheart PET-GF Flat Dark Earth",
+      "hex": "#737254",
+      "searchText": "siraya tech pet fibreheart pet-gf flat dark earth"
+    },
+    {
+      "id": "siraya-tech-fibreheart-pet-gf-olive-green",
+      "brand": "Siraya Tech",
+      "material": "PET",
+      "name": "Fibreheart PET-GF Olive Green",
+      "hex": "#67785a",
+      "searchText": "siraya tech pet fibreheart pet-gf olive green"
+    },
+    {
+      "id": "siraya-tech-fibreheart-pet-gf-white",
+      "brand": "Siraya Tech",
+      "material": "PET",
+      "name": "Fibreheart PET-GF White",
+      "hex": "#f5f5f5",
+      "searchText": "siraya tech pet fibreheart pet-gf white"
+    },
+    {
+      "id": "siraya-tech-fibreheart-petg-cf-pro-hf-high-flow-black",
+      "brand": "Siraya Tech",
+      "material": "PETG",
+      "name": "Fibreheart™ PETG-CF Pro HF High Flow Black",
+      "hex": "#020203",
+      "searchText": "siraya tech petg fibreheart™ petg-cf pro hf high flow black"
+    },
+    {
+      "id": "siraya-tech-fibreheart-ppa-black",
+      "brand": "Siraya Tech",
+      "material": "PPA",
+      "name": "Fibreheart PPA Black",
+      "hex": "#020203",
+      "searchText": "siraya tech ppa fibreheart ppa black"
+    },
+    {
+      "id": "siraya-tech-fibreheart-ppa-cf-core-black",
+      "brand": "Siraya Tech",
+      "material": "PPA",
+      "name": "Fibreheart PPA-CF Core Black",
+      "hex": "#000000",
+      "searchText": "siraya tech ppa fibreheart ppa-cf core black"
+    },
+    {
+      "id": "siraya-tech-fibreheart-ppa-gf-black",
+      "brand": "Siraya Tech",
+      "material": "PPA",
+      "name": "Fibreheart PPA-GF Black",
+      "hex": "#020203",
+      "searchText": "siraya tech ppa fibreheart ppa-gf black"
+    },
+    {
+      "id": "siraya-tech-fibreheart-ppa-gf-white",
+      "brand": "Siraya Tech",
+      "material": "PPA",
+      "name": "Fibreheart PPA-GF White",
+      "hex": "#efefef",
+      "searchText": "siraya tech ppa fibreheart ppa-gf white"
+    },
+    {
+      "id": "siraya-tech-fibreheart-ppa-cf-black",
+      "brand": "Siraya Tech",
+      "material": "PPA",
+      "name": "Fibreheart™ PPA-CF Black",
+      "hex": "#020203",
+      "searchText": "siraya tech ppa fibreheart™ ppa-cf black"
+    },
+    {
+      "id": "siraya-tech-fibreheart-tpu-gf-black",
+      "brand": "Siraya Tech",
+      "material": "TPU",
+      "name": "Fibreheart™ TPU-GF Black",
+      "hex": "#020203",
+      "searchText": "siraya tech tpu fibreheart™ tpu-gf black"
+    },
+    {
+      "id": "siraya-tech-flex-tpu-64d-black",
+      "brand": "Siraya Tech",
+      "material": "TPU",
+      "name": "Flex TPU 64D Black",
+      "hex": "#020203",
+      "searchText": "siraya tech tpu flex tpu 64d black"
+    },
+    {
+      "id": "siraya-tech-flex-tpu-64d-white",
+      "brand": "Siraya Tech",
+      "material": "TPU",
+      "name": "Flex TPU 64D White",
+      "hex": "#fffefa",
+      "searchText": "siraya tech tpu flex tpu 64d white"
+    },
+    {
+      "id": "siraya-tech-flex-tpu-85a-black",
+      "brand": "Siraya Tech",
+      "material": "TPU",
+      "name": "Flex TPU 85A Black",
+      "hex": "#020203",
+      "searchText": "siraya tech tpu flex tpu 85a black"
+    },
+    {
+      "id": "siraya-tech-flex-tpu-85a-clear",
+      "brand": "Siraya Tech",
+      "material": "TPU",
+      "name": "Flex TPU 85A Clear",
+      "hex": "#efefef",
+      "searchText": "siraya tech tpu flex tpu 85a clear"
+    },
+    {
+      "id": "siraya-tech-flex-tpu-85a-green",
+      "brand": "Siraya Tech",
+      "material": "TPU",
+      "name": "Flex TPU 85A Green",
+      "hex": "#a0fd62",
+      "searchText": "siraya tech tpu flex tpu 85a green"
+    },
+    {
+      "id": "siraya-tech-flex-tpu-85a-white",
+      "brand": "Siraya Tech",
+      "material": "TPU",
+      "name": "Flex TPU 85A White",
+      "hex": "#f5f5f4",
+      "searchText": "siraya tech tpu flex tpu 85a white"
+    },
+    {
+      "id": "siraya-tech-flex-tpu-95a-black",
+      "brand": "Siraya Tech",
+      "material": "TPU",
+      "name": "Flex TPU 95A Black",
+      "hex": "#020203",
+      "searchText": "siraya tech tpu flex tpu 95a black"
+    },
+    {
+      "id": "siraya-tech-flex-tpu-air-65a-82a-black",
+      "brand": "Siraya Tech",
+      "material": "TPU",
+      "name": "Flex TPU Air 65A-82A Black",
+      "hex": "#020203",
+      "searchText": "siraya tech tpu flex tpu air 65a-82a black"
+    },
+    {
+      "id": "siraya-tech-flex-tpu-air-65a-82a-blush",
+      "brand": "Siraya Tech",
+      "material": "TPU",
+      "name": "Flex TPU Air 65A-82A Blush",
+      "hex": "#f1bdc8",
+      "searchText": "siraya tech tpu flex tpu air 65a-82a blush"
+    },
+    {
+      "id": "siraya-tech-flex-tpu-air-65a-82a-green",
+      "brand": "Siraya Tech",
+      "material": "TPU",
+      "name": "Flex TPU Air 65A-82A Green",
+      "hex": "#8ef97c",
+      "searchText": "siraya tech tpu flex tpu air 65a-82a green"
+    },
+    {
+      "id": "siraya-tech-flex-tpu-air-65a-82a-icy-blue",
+      "brand": "Siraya Tech",
+      "material": "TPU",
+      "name": "Flex TPU Air 65A-82A Icy Blue",
+      "hex": "#6adcf7",
+      "searchText": "siraya tech tpu flex tpu air 65a-82a icy blue"
+    },
+    {
+      "id": "siraya-tech-flex-tpu-air-65a-82a-white",
+      "brand": "Siraya Tech",
+      "material": "TPU",
+      "name": "Flex TPU Air 65A-82A White",
+      "hex": "#ebece9",
+      "searchText": "siraya tech tpu flex tpu air 65a-82a white"
+    },
+    {
+      "id": "siraya-tech-roamr-tpu-air-hr-80a-beige",
+      "brand": "Siraya Tech",
+      "material": "TPU",
+      "name": "Roamr TPU Air HR 80A Beige",
+      "hex": "#e3ecd3",
+      "searchText": "siraya tech tpu roamr tpu air hr 80a beige"
+    },
+    {
+      "id": "siraya-tech-roamr-tpu-air-hr-80a-lilac",
+      "brand": "Siraya Tech",
+      "material": "TPU",
+      "name": "Roamr TPU Air HR 80A Lilac",
+      "hex": "#b967cd",
+      "searchText": "siraya tech tpu roamr tpu air hr 80a lilac"
+    },
+    {
+      "id": "siraya-tech-roamr-tpu-air-hr-80a-noir",
+      "brand": "Siraya Tech",
+      "material": "TPU",
+      "name": "Roamr TPU Air HR 80A Noir",
+      "hex": "#2f2e30",
+      "searchText": "siraya tech tpu roamr tpu air hr 80a noir"
+    },
+    {
+      "id": "siraya-tech-roamr-tpu-air-hr-85a-noir",
+      "brand": "Siraya Tech",
+      "material": "TPU",
+      "name": "Roamr TPU Air HR 85A Noir",
+      "hex": "#020203",
+      "searchText": "siraya tech tpu roamr tpu air hr 85a noir"
     },
     {
       "id": "smart-materials-3d-abs-antracite",
