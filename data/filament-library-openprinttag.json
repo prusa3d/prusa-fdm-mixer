@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-08-24T04:31:41.804Z",
-  "entryCount": 12449,
+  "lastSynced": "2026-08-25T04:30:22.544Z",
+  "entryCount": 12450,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -73964,6 +73964,14 @@
       "name": "TPU 95A Ultramarine Blue",
       "hex": "#1a0076",
       "searchText": "prusament tpu tpu 95a ultramarine blue"
+    },
+    {
+      "id": "prusament-tpu-95a-urban-grey",
+      "brand": "Prusament",
+      "material": "TPU",
+      "name": "TPU 95A Urban Grey",
+      "hex": "#656d73",
+      "searchText": "prusament tpu tpu 95a urban grey"
     },
     {
       "id": "prusament-woodfill-birch-white",
