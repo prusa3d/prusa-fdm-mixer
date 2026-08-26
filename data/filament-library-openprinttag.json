@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-08-25T04:30:22.544Z",
-  "entryCount": 12450,
+  "lastSynced": "2026-08-26T04:30:40.024Z",
+  "entryCount": 12479,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -33366,6 +33366,14 @@
       "searchText": "fiberlogy pla easy pla brick"
     },
     {
+      "id": "fiberlogy-easy-pla-briliant-blue",
+      "brand": "Fiberlogy",
+      "material": "PLA",
+      "name": "Easy PLA Briliant Blue",
+      "hex": "#718292",
+      "searchText": "fiberlogy pla easy pla briliant blue"
+    },
+    {
       "id": "fiberlogy-easy-pla-brown",
       "brand": "Fiberlogy",
       "material": "PLA",
@@ -33388,6 +33396,22 @@
       "name": "Easy PLA Candy",
       "hex": "#ed1536",
       "searchText": "fiberlogy pla easy pla candy"
+    },
+    {
+      "id": "fiberlogy-easy-pla-cyan",
+      "brand": "Fiberlogy",
+      "material": "PLA",
+      "name": "Easy PLA Cyan",
+      "hex": "#006ec9",
+      "searchText": "fiberlogy pla easy pla cyan"
+    },
+    {
+      "id": "fiberlogy-easy-pla-granite",
+      "brand": "Fiberlogy",
+      "material": "PLA",
+      "name": "Easy PLA Granite",
+      "hex": "#605f5c",
+      "searchText": "fiberlogy pla easy pla granite"
     },
     {
       "id": "fiberlogy-easy-pla-graphite",
@@ -33436,6 +33460,22 @@
       "name": "Easy PLA Light Green",
       "hex": "#b3df3a",
       "searchText": "fiberlogy pla easy pla light green"
+    },
+    {
+      "id": "fiberlogy-easy-pla-lithophane-white",
+      "brand": "Fiberlogy",
+      "material": "PLA",
+      "name": "Easy PLA Lithophane White",
+      "hex": "#f5f5f4",
+      "searchText": "fiberlogy pla easy pla lithophane white"
+    },
+    {
+      "id": "fiberlogy-easy-pla-magenta",
+      "brand": "Fiberlogy",
+      "material": "PLA",
+      "name": "Easy PLA Magenta",
+      "hex": "#fe0193",
+      "searchText": "fiberlogy pla easy pla magenta"
     },
     {
       "id": "fiberlogy-easy-pla-midnight-sky",
@@ -33550,6 +33590,14 @@
       "searchText": "fiberlogy pla easy pla pink"
     },
     {
+      "id": "fiberlogy-easy-pla-purple",
+      "brand": "Fiberlogy",
+      "material": "PLA",
+      "name": "Easy PLA Purple",
+      "hex": "#743063",
+      "searchText": "fiberlogy pla easy pla purple"
+    },
+    {
       "id": "fiberlogy-easy-pla-red",
       "brand": "Fiberlogy",
       "material": "PLA",
@@ -33582,28 +33630,28 @@
       "searchText": "fiberlogy pla easy pla sandstone"
     },
     {
-      "id": "fiberlogy-easy-pla-skin",
+      "id": "fiberlogy-easy-pla-skin-tone-1",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "Easy PLA Skin",
+      "name": "Easy PLA Skin Tone 1",
       "hex": "#e5c7bb",
-      "searchText": "fiberlogy pla easy pla skin"
+      "searchText": "fiberlogy pla easy pla skin tone 1"
     },
     {
-      "id": "fiberlogy-easy-pla-skin-2",
+      "id": "fiberlogy-easy-pla-skin-tone-2",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "Easy PLA Skin 2",
+      "name": "Easy PLA Skin Tone 2",
       "hex": "#e6ba83",
-      "searchText": "fiberlogy pla easy pla skin 2"
+      "searchText": "fiberlogy pla easy pla skin tone 2"
     },
     {
-      "id": "fiberlogy-easy-pla-skin-3",
+      "id": "fiberlogy-easy-pla-skin-tone-3",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "Easy PLA Skin 3",
+      "name": "Easy PLA Skin Tone 3",
       "hex": "#b58971",
-      "searchText": "fiberlogy pla easy pla skin 3"
+      "searchText": "fiberlogy pla easy pla skin tone 3"
     },
     {
       "id": "fiberlogy-easy-pla-spectra-blue",
@@ -33654,132 +33702,164 @@
       "searchText": "fiberlogy pla easy pla yellow"
     },
     {
-      "id": "fiberlogy-fibersatin-black",
+      "id": "fiberlogy-fibersatin-pla-black",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "FiberSatin Black",
+      "name": "FiberSatin PLA Black",
       "hex": "#000000",
-      "searchText": "fiberlogy pla fibersatin black"
+      "searchText": "fiberlogy pla fibersatin pla black"
     },
     {
-      "id": "fiberlogy-fibersatin-blue",
+      "id": "fiberlogy-fibersatin-pla-blue",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "FiberSatin Blue",
+      "name": "FiberSatin PLA Blue",
       "hex": "#0099e6",
-      "searchText": "fiberlogy pla fibersatin blue"
+      "searchText": "fiberlogy pla fibersatin pla blue"
     },
     {
-      "id": "fiberlogy-fibersatin-green",
+      "id": "fiberlogy-fibersatin-pla-green",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "FiberSatin Green",
+      "name": "FiberSatin PLA Green",
       "hex": "#83e665",
-      "searchText": "fiberlogy pla fibersatin green"
+      "searchText": "fiberlogy pla fibersatin pla green"
     },
     {
-      "id": "fiberlogy-fibersatin-pearl",
+      "id": "fiberlogy-fibersatin-pla-pearl",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "FiberSatin Pearl",
+      "name": "FiberSatin PLA Pearl",
       "hex": "#f5f5f4",
-      "searchText": "fiberlogy pla fibersatin pearl"
+      "searchText": "fiberlogy pla fibersatin pla pearl"
     },
     {
-      "id": "fiberlogy-fibersatin-pink",
+      "id": "fiberlogy-fibersatin-pla-pink",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "FiberSatin Pink",
+      "name": "FiberSatin PLA Pink",
       "hex": "#ff72b6",
-      "searchText": "fiberlogy pla fibersatin pink"
+      "searchText": "fiberlogy pla fibersatin pla pink"
     },
     {
-      "id": "fiberlogy-fibersatin-red",
+      "id": "fiberlogy-fibersatin-pla-red",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "FiberSatin Red",
+      "name": "FiberSatin PLA Red",
       "hex": "#bf1d2d",
-      "searchText": "fiberlogy pla fibersatin red"
+      "searchText": "fiberlogy pla fibersatin pla red"
     },
     {
-      "id": "fiberlogy-fibersilk-metallic-blue",
+      "id": "fiberlogy-fibersilk-pla-anthracite",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "FiberSilk Metallic Blue",
+      "name": "FiberSilk PLA Anthracite",
+      "hex": "#363538",
+      "searchText": "fiberlogy pla fibersilk pla anthracite"
+    },
+    {
+      "id": "fiberlogy-fibersilk-pla-blue",
+      "brand": "Fiberlogy",
+      "material": "PLA",
+      "name": "FiberSilk PLA Blue",
       "hex": "#0378d0",
-      "searchText": "fiberlogy pla fibersilk metallic blue"
+      "searchText": "fiberlogy pla fibersilk pla blue"
     },
     {
-      "id": "fiberlogy-fibersilk-metallic-bronze",
+      "id": "fiberlogy-fibersilk-pla-brass",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "FiberSilk Metallic Bronze",
-      "hex": "#c79114",
-      "searchText": "fiberlogy pla fibersilk metallic bronze"
+      "name": "FiberSilk PLA Brass",
+      "hex": "#bc911e",
+      "searchText": "fiberlogy pla fibersilk pla brass"
     },
     {
-      "id": "fiberlogy-fibersilk-metallic-copper",
+      "id": "fiberlogy-fibersilk-pla-bronze",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "FiberSilk Metallic Copper",
+      "name": "FiberSilk PLA Bronze",
+      "hex": "#ae6725",
+      "searchText": "fiberlogy pla fibersilk pla bronze"
+    },
+    {
+      "id": "fiberlogy-fibersilk-pla-copper",
+      "brand": "Fiberlogy",
+      "material": "PLA",
+      "name": "FiberSilk PLA Copper",
       "hex": "#c66547",
-      "searchText": "fiberlogy pla fibersilk metallic copper"
+      "searchText": "fiberlogy pla fibersilk pla copper"
     },
     {
-      "id": "fiberlogy-fibersilk-metallic-gold",
+      "id": "fiberlogy-fibersilk-pla-gold",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "FiberSilk Metallic Gold",
+      "name": "FiberSilk PLA Gold",
       "hex": "#e3b145",
-      "searchText": "fiberlogy pla fibersilk metallic gold"
+      "searchText": "fiberlogy pla fibersilk pla gold"
     },
     {
-      "id": "fiberlogy-fibersilk-metallic-inox",
+      "id": "fiberlogy-fibersilk-pla-green",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "FiberSilk Metallic Inox",
+      "name": "FiberSilk PLA Green",
+      "hex": "#38c04e",
+      "searchText": "fiberlogy pla fibersilk pla green"
+    },
+    {
+      "id": "fiberlogy-fibersilk-pla-inox",
+      "brand": "Fiberlogy",
+      "material": "PLA",
+      "name": "FiberSilk PLA Inox",
       "hex": "#bcbfc2",
-      "searchText": "fiberlogy pla fibersilk metallic inox"
+      "searchText": "fiberlogy pla fibersilk pla inox"
     },
     {
-      "id": "fiberlogy-fibersilk-metallic-navy-blue",
+      "id": "fiberlogy-fibersilk-pla-light-green",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "FiberSilk Metallic Navy Blue",
-      "hex": "#2e56f1",
-      "searchText": "fiberlogy pla fibersilk metallic navy blue"
+      "name": "FiberSilk PLA Light Green",
+      "hex": "#b3df3a",
+      "searchText": "fiberlogy pla fibersilk pla light green"
     },
     {
-      "id": "fiberlogy-fibersilk-metallic-orange",
+      "id": "fiberlogy-fibersilk-pla-navy-blue",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "FiberSilk Metallic Orange",
+      "name": "FiberSilk PLA Navy Blue",
+      "hex": "#0047bb",
+      "searchText": "fiberlogy pla fibersilk pla navy blue"
+    },
+    {
+      "id": "fiberlogy-fibersilk-pla-orange",
+      "brand": "Fiberlogy",
+      "material": "PLA",
+      "name": "FiberSilk PLA Orange",
       "hex": "#f67405",
-      "searchText": "fiberlogy pla fibersilk metallic orange"
+      "searchText": "fiberlogy pla fibersilk pla orange"
     },
     {
-      "id": "fiberlogy-fibersilk-metallic-pearl",
+      "id": "fiberlogy-fibersilk-pla-pearl",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "FiberSilk Metallic Pearl",
+      "name": "FiberSilk PLA Pearl",
       "hex": "#f5f5f4",
-      "searchText": "fiberlogy pla fibersilk metallic pearl"
+      "searchText": "fiberlogy pla fibersilk pla pearl"
     },
     {
-      "id": "fiberlogy-fibersilk-metallic-red",
+      "id": "fiberlogy-fibersilk-pla-red",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "FiberSilk Metallic Red",
+      "name": "FiberSilk PLA Red",
       "hex": "#bf1d2d",
-      "searchText": "fiberlogy pla fibersilk metallic red"
+      "searchText": "fiberlogy pla fibersilk pla red"
     },
     {
-      "id": "fiberlogy-fibersilk-metallic-silver",
+      "id": "fiberlogy-fibersilk-pla-silver",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "FiberSilk Metallic Silver",
+      "name": "FiberSilk PLA Silver",
       "hex": "#c9d0d4",
-      "searchText": "fiberlogy pla fibersilk metallic silver"
+      "searchText": "fiberlogy pla fibersilk pla silver"
     },
     {
       "id": "fiberlogy-fiberwood-black",
@@ -33902,116 +33982,244 @@
       "searchText": "fiberlogy pla hs pla clear turquoise"
     },
     {
-      "id": "fiberlogy-impact-pla-army-green",
+      "id": "fiberlogy-matte-pla-beige",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "Impact PLA Army Green",
+      "name": "Matte PLA Beige",
+      "hex": "#e6d2b5",
+      "searchText": "fiberlogy pla matte pla beige"
+    },
+    {
+      "id": "fiberlogy-matte-pla-black",
+      "brand": "Fiberlogy",
+      "material": "PLA",
+      "name": "Matte PLA Black",
+      "hex": "#020203",
+      "searchText": "fiberlogy pla matte pla black"
+    },
+    {
+      "id": "fiberlogy-matte-pla-blue",
+      "brand": "Fiberlogy",
+      "material": "PLA",
+      "name": "Matte PLA Blue",
+      "hex": "#0079a7",
+      "searchText": "fiberlogy pla matte pla blue"
+    },
+    {
+      "id": "fiberlogy-matte-pla-gray",
+      "brand": "Fiberlogy",
+      "material": "PLA",
+      "name": "Matte PLA Gray",
+      "hex": "#c1c1c1",
+      "searchText": "fiberlogy pla matte pla gray"
+    },
+    {
+      "id": "fiberlogy-matte-pla-pastel-blue",
+      "brand": "Fiberlogy",
+      "material": "PLA",
+      "name": "Matte PLA Pastel Blue",
+      "hex": "#a4d0df",
+      "searchText": "fiberlogy pla matte pla pastel blue"
+    },
+    {
+      "id": "fiberlogy-matte-pla-pastel-lilac",
+      "brand": "Fiberlogy",
+      "material": "PLA",
+      "name": "Matte PLA Pastel Lilac",
+      "hex": "#b967cd",
+      "searchText": "fiberlogy pla matte pla pastel lilac"
+    },
+    {
+      "id": "fiberlogy-matte-pla-pastel-mint",
+      "brand": "Fiberlogy",
+      "material": "PLA",
+      "name": "Matte PLA Pastel Mint",
+      "hex": "#7be0d0",
+      "searchText": "fiberlogy pla matte pla pastel mint"
+    },
+    {
+      "id": "fiberlogy-matte-pla-pastel-pink",
+      "brand": "Fiberlogy",
+      "material": "PLA",
+      "name": "Matte PLA Pastel Pink",
+      "hex": "#f092b3",
+      "searchText": "fiberlogy pla matte pla pastel pink"
+    },
+    {
+      "id": "fiberlogy-matte-pla-pastel-yellow",
+      "brand": "Fiberlogy",
+      "material": "PLA",
+      "name": "Matte PLA Pastel Yellow",
+      "hex": "#f7e2c1",
+      "searchText": "fiberlogy pla matte pla pastel yellow"
+    },
+    {
+      "id": "fiberlogy-matte-pla-red",
+      "brand": "Fiberlogy",
+      "material": "PLA",
+      "name": "Matte PLA Red",
+      "hex": "#ed1536",
+      "searchText": "fiberlogy pla matte pla red"
+    },
+    {
+      "id": "fiberlogy-matte-pla-skin-tone-1",
+      "brand": "Fiberlogy",
+      "material": "PLA",
+      "name": "Matte PLA Skin Tone 1",
+      "hex": "#e3b6ac",
+      "searchText": "fiberlogy pla matte pla skin tone 1"
+    },
+    {
+      "id": "fiberlogy-matte-pla-skin-tone-2",
+      "brand": "Fiberlogy",
+      "material": "PLA",
+      "name": "Matte PLA Skin Tone 2",
+      "hex": "#dda68e",
+      "searchText": "fiberlogy pla matte pla skin tone 2"
+    },
+    {
+      "id": "fiberlogy-matte-pla-skin-tone-3",
+      "brand": "Fiberlogy",
+      "material": "PLA",
+      "name": "Matte PLA Skin Tone 3",
+      "hex": "#b38875",
+      "searchText": "fiberlogy pla matte pla skin tone 3"
+    },
+    {
+      "id": "fiberlogy-matte-pla-white",
+      "brand": "Fiberlogy",
+      "material": "PLA",
+      "name": "Matte PLA White",
+      "hex": "#efefef",
+      "searchText": "fiberlogy pla matte pla white"
+    },
+    {
+      "id": "fiberlogy-pla-impact-army-green",
+      "brand": "Fiberlogy",
+      "material": "PLA",
+      "name": "PLA Impact Army Green",
       "hex": "#404720",
-      "searchText": "fiberlogy pla impact pla army green"
+      "searchText": "fiberlogy pla pla impact army green"
     },
     {
-      "id": "fiberlogy-impact-pla-black",
+      "id": "fiberlogy-pla-impact-black",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "Impact PLA Black",
+      "name": "PLA Impact Black",
       "hex": "#000000",
-      "searchText": "fiberlogy pla impact pla black"
+      "searchText": "fiberlogy pla pla impact black"
     },
     {
-      "id": "fiberlogy-impact-pla-blue",
+      "id": "fiberlogy-pla-impact-blue",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "Impact PLA Blue",
+      "name": "PLA Impact Blue",
       "hex": "#0378d0",
-      "searchText": "fiberlogy pla impact pla blue"
+      "searchText": "fiberlogy pla pla impact blue"
     },
     {
-      "id": "fiberlogy-impact-pla-graphite",
+      "id": "fiberlogy-pla-impact-graphite",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "Impact PLA Graphite",
+      "name": "PLA Impact Graphite",
       "hex": "#55555e",
-      "searchText": "fiberlogy pla impact pla graphite"
+      "searchText": "fiberlogy pla pla impact graphite"
     },
     {
-      "id": "fiberlogy-impact-pla-grey",
+      "id": "fiberlogy-pla-impact-grey",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "Impact PLA Grey",
+      "name": "PLA Impact Grey",
       "hex": "#c5c5bf",
-      "searchText": "fiberlogy pla impact pla grey"
+      "searchText": "fiberlogy pla pla impact grey"
     },
     {
-      "id": "fiberlogy-impact-pla-khaki",
+      "id": "fiberlogy-pla-impact-khaki",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "Impact PLA Khaki",
+      "name": "PLA Impact Khaki",
       "hex": "#6f673a",
-      "searchText": "fiberlogy pla impact pla khaki"
+      "searchText": "fiberlogy pla pla impact khaki"
     },
     {
-      "id": "fiberlogy-impact-pla-light-green",
+      "id": "fiberlogy-pla-impact-light-green",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "Impact PLA Light Green",
+      "name": "PLA Impact Light Green",
       "hex": "#b3df3a",
-      "searchText": "fiberlogy pla impact pla light green"
+      "searchText": "fiberlogy pla pla impact light green"
     },
     {
-      "id": "fiberlogy-impact-pla-olive-green",
+      "id": "fiberlogy-pla-impact-olive-green",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "Impact PLA Olive Green",
+      "name": "PLA Impact Olive Green",
       "hex": "#606935",
-      "searchText": "fiberlogy pla impact pla olive green"
+      "searchText": "fiberlogy pla pla impact olive green"
     },
     {
-      "id": "fiberlogy-impact-pla-onyx",
+      "id": "fiberlogy-pla-impact-onyx",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "Impact PLA Onyx",
+      "name": "PLA Impact Onyx",
       "hex": "#000000",
-      "searchText": "fiberlogy pla impact pla onyx"
+      "searchText": "fiberlogy pla pla impact onyx"
     },
     {
-      "id": "fiberlogy-impact-pla-orange",
+      "id": "fiberlogy-pla-impact-orange",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "Impact PLA Orange",
+      "name": "PLA Impact Orange",
       "hex": "#f67405",
-      "searchText": "fiberlogy pla impact pla orange"
+      "searchText": "fiberlogy pla pla impact orange"
     },
     {
-      "id": "fiberlogy-impact-pla-red",
+      "id": "fiberlogy-pla-impact-red",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "Impact PLA Red",
+      "name": "PLA Impact Red",
       "hex": "#e20010",
-      "searchText": "fiberlogy pla impact pla red"
+      "searchText": "fiberlogy pla pla impact red"
     },
     {
-      "id": "fiberlogy-impact-pla-vertigo",
+      "id": "fiberlogy-pla-impact-vertigo",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "Impact PLA Vertigo",
+      "name": "PLA Impact Vertigo",
       "hex": "#55555e",
-      "searchText": "fiberlogy pla impact pla vertigo"
+      "searchText": "fiberlogy pla pla impact vertigo"
     },
     {
-      "id": "fiberlogy-impact-pla-white",
+      "id": "fiberlogy-pla-impact-white",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "Impact PLA White",
+      "name": "PLA Impact White",
       "hex": "#ffffff",
-      "searchText": "fiberlogy pla impact pla white"
+      "searchText": "fiberlogy pla pla impact white"
     },
     {
-      "id": "fiberlogy-impact-pla-yellow",
+      "id": "fiberlogy-pla-impact-yellow",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "Impact PLA Yellow",
+      "name": "PLA Impact Yellow",
       "hex": "#ffc946",
-      "searchText": "fiberlogy pla impact pla yellow"
+      "searchText": "fiberlogy pla pla impact yellow"
+    },
+    {
+      "id": "fiberlogy-pla-mineral-black",
+      "brand": "Fiberlogy",
+      "material": "PLA",
+      "name": "PLA Mineral Black",
+      "hex": "#1d1d1d",
+      "searchText": "fiberlogy pla pla mineral black"
+    },
+    {
+      "id": "fiberlogy-pla-mineral-concrete",
+      "brand": "Fiberlogy",
+      "material": "PLA",
+      "name": "PLA Mineral Concrete",
+      "hex": "#75787b",
+      "searchText": "fiberlogy pla pla mineral concrete"
     },
     {
       "id": "fiberlogy-pla-mineral-marble",
@@ -34022,20 +34230,44 @@
       "searchText": "fiberlogy pla pla mineral marble"
     },
     {
+      "id": "fiberlogy-pla-mineral-natural",
+      "brand": "Fiberlogy",
+      "material": "PLA",
+      "name": "PLA Mineral Natural",
+      "hex": "#ddd4ca",
+      "searchText": "fiberlogy pla pla mineral natural"
+    },
+    {
       "id": "fiberlogy-pla-mineral-white",
       "brand": "Fiberlogy",
       "material": "PLA",
       "name": "PLA Mineral White",
-      "hex": "#e6dddb",
+      "hex": "#e8e8e6",
       "searchText": "fiberlogy pla pla mineral white"
     },
     {
-      "id": "fiberlogy-r-pla-anthracite",
+      "id": "fiberlogy-pla-velvet-black",
       "brand": "Fiberlogy",
       "material": "PLA",
-      "name": "R PLA Anthracite",
+      "name": "PLA Velvet Black",
+      "hex": "#232323",
+      "searchText": "fiberlogy pla pla velvet black"
+    },
+    {
+      "id": "fiberlogy-pla-cf-black",
+      "brand": "Fiberlogy",
+      "material": "PLA",
+      "name": "PLA+CF Black",
+      "hex": "#070908",
+      "searchText": "fiberlogy pla pla+cf black"
+    },
+    {
+      "id": "fiberlogy-rpla-anthracite",
+      "brand": "Fiberlogy",
+      "material": "PLA",
+      "name": "rPLA Anthracite",
       "hex": "#26272b",
-      "searchText": "fiberlogy pla r pla anthracite"
+      "searchText": "fiberlogy pla rpla anthracite"
     },
     {
       "id": "fiberlogy-pp-black",
