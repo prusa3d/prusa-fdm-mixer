@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-08-26T04:30:40.024Z",
-  "entryCount": 12479,
+  "lastSynced": "2026-08-27T06:29:53.388Z",
+  "entryCount": 12522,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -32326,12 +32326,12 @@
       "searchText": "fiberlogy abs abs burgundy"
     },
     {
-      "id": "fiberlogy-abs-esd",
+      "id": "fiberlogy-abs-esd-black",
       "brand": "Fiberlogy",
       "material": "ABS",
-      "name": "ABS ESD",
+      "name": "ABS ESD Black",
       "hex": "#000000",
-      "searchText": "fiberlogy abs abs esd"
+      "searchText": "fiberlogy abs abs esd black"
     },
     {
       "id": "fiberlogy-abs-graphite",
@@ -32462,6 +32462,14 @@
       "searchText": "fiberlogy abs abs red"
     },
     {
+      "id": "fiberlogy-abs-vertigo",
+      "brand": "Fiberlogy",
+      "material": "ABS",
+      "name": "ABS Vertigo",
+      "hex": "#63646b",
+      "searchText": "fiberlogy abs abs vertigo"
+    },
+    {
       "id": "fiberlogy-abs-white",
       "brand": "Fiberlogy",
       "material": "ABS",
@@ -32476,6 +32484,46 @@
       "name": "ABS Yellow",
       "hex": "#fbe200",
       "searchText": "fiberlogy abs abs yellow"
+    },
+    {
+      "id": "fiberlogy-abs-gf-black",
+      "brand": "Fiberlogy",
+      "material": "ABS",
+      "name": "ABS+GF Black",
+      "hex": "#1d1d1d",
+      "searchText": "fiberlogy abs abs+gf black"
+    },
+    {
+      "id": "fiberlogy-abs-gf-gray",
+      "brand": "Fiberlogy",
+      "material": "ABS",
+      "name": "ABS+GF Gray",
+      "hex": "#bcbebe",
+      "searchText": "fiberlogy abs abs+gf gray"
+    },
+    {
+      "id": "fiberlogy-abs-gf-light-green",
+      "brand": "Fiberlogy",
+      "material": "ABS",
+      "name": "ABS+GF Light Green",
+      "hex": "#b4e657",
+      "searchText": "fiberlogy abs abs+gf light green"
+    },
+    {
+      "id": "fiberlogy-abs-gf-natural",
+      "brand": "Fiberlogy",
+      "material": "ABS",
+      "name": "ABS+GF Natural",
+      "hex": "#eeeae6",
+      "searchText": "fiberlogy abs abs+gf natural"
+    },
+    {
+      "id": "fiberlogy-abs-gf-red",
+      "brand": "Fiberlogy",
+      "material": "ABS",
+      "name": "ABS+GF Red",
+      "hex": "#d21b31",
+      "searchText": "fiberlogy abs abs+gf red"
     },
     {
       "id": "fiberlogy-easy-abs-pure-transparent",
@@ -32526,12 +32574,12 @@
       "searchText": "fiberlogy abs easy abs navy blue transparent"
     },
     {
-      "id": "fiberlogy-r-abs-anthracite",
+      "id": "fiberlogy-rabs-anthracite",
       "brand": "Fiberlogy",
       "material": "ABS",
-      "name": "R ABS Anthracite",
+      "name": "rABS Anthracite",
       "hex": "#26272b",
-      "searchText": "fiberlogy abs r abs anthracite"
+      "searchText": "fiberlogy abs rabs anthracite"
     },
     {
       "id": "fiberlogy-asa-black",
@@ -32580,6 +32628,46 @@
       "name": "ASA Light Green",
       "hex": "#91c500",
       "searchText": "fiberlogy asa asa light green"
+    },
+    {
+      "id": "fiberlogy-asa-matte-black",
+      "brand": "Fiberlogy",
+      "material": "ASA",
+      "name": "ASA Matte Black",
+      "hex": "#000000",
+      "searchText": "fiberlogy asa asa matte black"
+    },
+    {
+      "id": "fiberlogy-asa-matte-graphite",
+      "brand": "Fiberlogy",
+      "material": "ASA",
+      "name": "ASA Matte Graphite",
+      "hex": "#8c9099",
+      "searchText": "fiberlogy asa asa matte graphite"
+    },
+    {
+      "id": "fiberlogy-asa-matte-grey",
+      "brand": "Fiberlogy",
+      "material": "ASA",
+      "name": "ASA Matte Grey",
+      "hex": "#c5c5bf",
+      "searchText": "fiberlogy asa asa matte grey"
+    },
+    {
+      "id": "fiberlogy-asa-matte-natural",
+      "brand": "Fiberlogy",
+      "material": "ASA",
+      "name": "ASA Matte Natural",
+      "hex": "#eadac2",
+      "searchText": "fiberlogy asa asa matte natural"
+    },
+    {
+      "id": "fiberlogy-asa-matte-olive-green",
+      "brand": "Fiberlogy",
+      "material": "ASA",
+      "name": "ASA Matte Olive Green",
+      "hex": "#606935",
+      "searchText": "fiberlogy asa asa matte olive green"
     },
     {
       "id": "fiberlogy-asa-natural",
@@ -32646,44 +32734,12 @@
       "searchText": "fiberlogy asa asa yellow"
     },
     {
-      "id": "fiberlogy-matte-asa-black",
+      "id": "fiberlogy-asa-af-natural",
       "brand": "Fiberlogy",
       "material": "ASA",
-      "name": "Matte ASA Black",
-      "hex": "#000000",
-      "searchText": "fiberlogy asa matte asa black"
-    },
-    {
-      "id": "fiberlogy-matte-asa-graphite",
-      "brand": "Fiberlogy",
-      "material": "ASA",
-      "name": "Matte ASA Graphite",
-      "hex": "#8c9099",
-      "searchText": "fiberlogy asa matte asa graphite"
-    },
-    {
-      "id": "fiberlogy-matte-asa-grey",
-      "brand": "Fiberlogy",
-      "material": "ASA",
-      "name": "Matte ASA Grey",
-      "hex": "#c5c5bf",
-      "searchText": "fiberlogy asa matte asa grey"
-    },
-    {
-      "id": "fiberlogy-matte-asa-natural",
-      "brand": "Fiberlogy",
-      "material": "ASA",
-      "name": "Matte ASA Natural",
-      "hex": "#eadac2",
-      "searchText": "fiberlogy asa matte asa natural"
-    },
-    {
-      "id": "fiberlogy-matte-asa-olive-green",
-      "brand": "Fiberlogy",
-      "material": "ASA",
-      "name": "Matte ASA Olive Green",
-      "hex": "#606935",
-      "searchText": "fiberlogy asa matte asa olive green"
+      "name": "ASA+AF Natural",
+      "hex": "#d1b48d",
+      "searchText": "fiberlogy asa asa+af natural"
     },
     {
       "id": "fiberlogy-bvoh-natural",
@@ -32692,14 +32748,6 @@
       "name": "BVOH Natural",
       "hex": "#f1e6b2",
       "searchText": "fiberlogy bvoh bvoh natural"
-    },
-    {
-      "id": "fiberlogy-cpe-antibac-natural",
-      "brand": "Fiberlogy",
-      "material": "CPE",
-      "name": "CPE ANTIBAC Natural",
-      "hex": "#eadac2",
-      "searchText": "fiberlogy cpe cpe antibac natural"
     },
     {
       "id": "fiberlogy-cpe-ht-black",
@@ -32716,6 +32764,14 @@
       "name": "CPE HT Pure Transparent",
       "hex": "#e4e7e5",
       "searchText": "fiberlogy cpe cpe ht pure transparent"
+    },
+    {
+      "id": "fiberlogy-cpe-ht-ag-antibac-natural",
+      "brand": "Fiberlogy",
+      "material": "CPE",
+      "name": "CPE HT+Ag Antibac Natural",
+      "hex": "#eadac2",
+      "searchText": "fiberlogy cpe cpe ht+ag antibac natural"
     },
     {
       "id": "fiberlogy-hips-black",
@@ -32750,30 +32806,6 @@
       "searchText": "fiberlogy hips hips white"
     },
     {
-      "id": "fiberlogy-nylon-pa12-cf15-black",
-      "brand": "Fiberlogy",
-      "material": "PA12",
-      "name": "Nylon PA12 + CF15 black",
-      "hex": "#000000",
-      "searchText": "fiberlogy pa12 nylon pa12 + cf15 black"
-    },
-    {
-      "id": "fiberlogy-nylon-pa12-gf15-black",
-      "brand": "Fiberlogy",
-      "material": "PA12",
-      "name": "Nylon PA12 + GF15 Black",
-      "hex": "#000000",
-      "searchText": "fiberlogy pa12 nylon pa12 + gf15 black"
-    },
-    {
-      "id": "fiberlogy-nylon-pa12-gf15-natural",
-      "brand": "Fiberlogy",
-      "material": "PA12",
-      "name": "Nylon PA12 + GF15 Natural",
-      "hex": "#efe8d8",
-      "searchText": "fiberlogy pa12 nylon pa12 + gf15 natural"
-    },
-    {
       "id": "fiberlogy-nylon-pa12-black",
       "brand": "Fiberlogy",
       "material": "PA12",
@@ -32785,7 +32817,7 @@
       "id": "fiberlogy-nylon-pa12-blue",
       "brand": "Fiberlogy",
       "material": "PA12",
-      "name": "Nylon PA12 blue",
+      "name": "Nylon PA12 Blue",
       "hex": "#0099e6",
       "searchText": "fiberlogy pa12 nylon pa12 blue"
     },
@@ -32846,6 +32878,46 @@
       "searchText": "fiberlogy pa12 nylon pa12 yellow"
     },
     {
+      "id": "fiberlogy-nylon-pa12-cf-black",
+      "brand": "Fiberlogy",
+      "material": "PA12",
+      "name": "Nylon PA12+CF black",
+      "hex": "#000000",
+      "searchText": "fiberlogy pa12 nylon pa12+cf black"
+    },
+    {
+      "id": "fiberlogy-nylon-pa12-gf-black",
+      "brand": "Fiberlogy",
+      "material": "PA12",
+      "name": "Nylon PA12+GF Black",
+      "hex": "#000000",
+      "searchText": "fiberlogy pa12 nylon pa12+gf black"
+    },
+    {
+      "id": "fiberlogy-nylon-pa12-gf-light-green",
+      "brand": "Fiberlogy",
+      "material": "PA12",
+      "name": "Nylon PA12+GF Light Green",
+      "hex": "#b3df3a",
+      "searchText": "fiberlogy pa12 nylon pa12+gf light green"
+    },
+    {
+      "id": "fiberlogy-nylon-pa12-gf-natural",
+      "brand": "Fiberlogy",
+      "material": "PA12",
+      "name": "Nylon PA12+GF Natural",
+      "hex": "#efe8d8",
+      "searchText": "fiberlogy pa12 nylon pa12+gf natural"
+    },
+    {
+      "id": "fiberlogy-nylon-pa12-gf-red",
+      "brand": "Fiberlogy",
+      "material": "PA12",
+      "name": "Nylon PA12+GF Red",
+      "hex": "#c01616",
+      "searchText": "fiberlogy pa12 nylon pa12+gf red"
+    },
+    {
       "id": "fiberlogy-nylon-pa12gf15-light-green",
       "brand": "Fiberlogy",
       "material": "PA12",
@@ -32862,28 +32934,28 @@
       "searchText": "fiberlogy pa12 nylon pa12+gf15 red"
     },
     {
-      "id": "fiberlogy-r-pa12-anthracite",
+      "id": "fiberlogy-rnylon-anthracite",
       "brand": "Fiberlogy",
       "material": "PA12",
-      "name": "R PA12 Anthracite",
+      "name": "rNylon Anthracite",
       "hex": "#26272b",
-      "searchText": "fiberlogy pa12 r pa12 anthracite"
+      "searchText": "fiberlogy pa12 rnylon anthracite"
     },
     {
-      "id": "fiberlogy-pcabs-black",
+      "id": "fiberlogy-pc-abs-black",
       "brand": "Fiberlogy",
       "material": "PC",
-      "name": "PC/ABS Black",
+      "name": "PC-ABS Black",
       "hex": "#000000",
-      "searchText": "fiberlogy pc pc/abs black"
+      "searchText": "fiberlogy pc pc-abs black"
     },
     {
-      "id": "fiberlogy-pcabs-natural",
+      "id": "fiberlogy-pc-abs-natural",
       "brand": "Fiberlogy",
       "material": "PC",
-      "name": "PC/ABS Natural",
+      "name": "PC-ABS Natural",
       "hex": "#efe8d8",
-      "searchText": "fiberlogy pc pc/abs natural"
+      "searchText": "fiberlogy pc pc-abs natural"
     },
     {
       "id": "fiberlogy-pctg-black",
@@ -32924,6 +32996,22 @@
       "name": "PCTG Grey",
       "hex": "#c5c5bf",
       "searchText": "fiberlogy pctg pctg grey"
+    },
+    {
+      "id": "fiberlogy-pctg-inox",
+      "brand": "Fiberlogy",
+      "material": "PCTG",
+      "name": "PCTG Inox",
+      "hex": "#85898b",
+      "searchText": "fiberlogy pctg pctg inox"
+    },
+    {
+      "id": "fiberlogy-pctg-light-green-transparent",
+      "brand": "Fiberlogy",
+      "material": "PCTG",
+      "name": "PCTG Light Green Transparent",
+      "hex": "#58c91b",
+      "searchText": "fiberlogy pctg pctg light green transparent"
     },
     {
       "id": "fiberlogy-pctg-navy-blue-transparent",
@@ -32990,12 +33078,36 @@
       "searchText": "fiberlogy pctg pctg white"
     },
     {
+      "id": "fiberlogy-pctg-cf-black",
+      "brand": "Fiberlogy",
+      "material": "PCTG",
+      "name": "PCTG+CF Black",
+      "hex": "#000000",
+      "searchText": "fiberlogy pctg pctg+cf black"
+    },
+    {
       "id": "fiberlogy-pctgcf-black",
       "brand": "Fiberlogy",
       "material": "PCTG",
       "name": "PCTG+CF Black",
       "hex": "#000000",
       "searchText": "fiberlogy pctg pctg+cf black"
+    },
+    {
+      "id": "fiberlogy-pctg-gf-black",
+      "brand": "Fiberlogy",
+      "material": "PCTG",
+      "name": "PCTG+GF Black",
+      "hex": "#000000",
+      "searchText": "fiberlogy pctg pctg+gf black"
+    },
+    {
+      "id": "fiberlogy-pctg-gf-natural",
+      "brand": "Fiberlogy",
+      "material": "PCTG",
+      "name": "PCTG+GF Natural",
+      "hex": "#efe8d8",
+      "searchText": "fiberlogy pctg pctg+gf natural"
     },
     {
       "id": "fiberlogy-pctggf10-black",
@@ -33030,276 +33142,348 @@
       "searchText": "fiberlogy pei pei 9085 natural"
     },
     {
-      "id": "fiberlogy-easy-pet-g-black",
+      "id": "fiberlogy-easy-petg-black",
       "brand": "Fiberlogy",
       "material": "PETG",
-      "name": "Easy PET-G Black",
+      "name": "Easy PETG Black",
       "hex": "#000000",
-      "searchText": "fiberlogy petg easy pet-g black"
+      "searchText": "fiberlogy petg easy petg black"
     },
     {
-      "id": "fiberlogy-easy-pet-g-blue",
+      "id": "fiberlogy-easy-petg-blue",
       "brand": "Fiberlogy",
       "material": "PETG",
-      "name": "Easy PET-G Blue",
+      "name": "Easy PETG Blue",
       "hex": "#0099e6",
-      "searchText": "fiberlogy petg easy pet-g blue"
+      "searchText": "fiberlogy petg easy petg blue"
     },
     {
-      "id": "fiberlogy-easy-pet-g-bottle-green-transparent",
+      "id": "fiberlogy-easy-petg-bottle-green-transparent",
       "brand": "Fiberlogy",
       "material": "PETG",
-      "name": "Easy PET-G Bottle Green Transparent",
+      "name": "Easy PETG Bottle Green Transparent",
       "hex": "#214327",
-      "searchText": "fiberlogy petg easy pet-g bottle green transparent"
+      "searchText": "fiberlogy petg easy petg bottle green transparent"
     },
     {
-      "id": "fiberlogy-easy-pet-g-graphite",
+      "id": "fiberlogy-easy-petg-graphite",
       "brand": "Fiberlogy",
       "material": "PETG",
-      "name": "Easy PET-G Graphite",
+      "name": "Easy PETG Graphite",
       "hex": "#55555e",
-      "searchText": "fiberlogy petg easy pet-g graphite"
+      "searchText": "fiberlogy petg easy petg graphite"
     },
     {
-      "id": "fiberlogy-easy-pet-g-grey",
+      "id": "fiberlogy-easy-petg-grey",
       "brand": "Fiberlogy",
       "material": "PETG",
-      "name": "Easy PET-G Grey",
+      "name": "Easy PETG Grey",
       "hex": "#c5c5bf",
-      "searchText": "fiberlogy petg easy pet-g grey"
+      "searchText": "fiberlogy petg easy petg grey"
     },
     {
-      "id": "fiberlogy-easy-pet-g-onyx",
+      "id": "fiberlogy-easy-petg-onyx",
       "brand": "Fiberlogy",
       "material": "PETG",
-      "name": "Easy PET-G Onyx",
+      "name": "Easy PETG Onyx",
       "hex": "#000000",
-      "searchText": "fiberlogy petg easy pet-g onyx"
+      "searchText": "fiberlogy petg easy petg onyx"
     },
     {
-      "id": "fiberlogy-easy-pet-g-orange",
+      "id": "fiberlogy-easy-petg-orange",
       "brand": "Fiberlogy",
       "material": "PETG",
-      "name": "Easy PET-G Orange",
+      "name": "Easy PETG Orange",
       "hex": "#ff5f2e",
-      "searchText": "fiberlogy petg easy pet-g orange"
+      "searchText": "fiberlogy petg easy petg orange"
     },
     {
-      "id": "fiberlogy-easy-pet-g-pastel-blue",
+      "id": "fiberlogy-easy-petg-pastel-blue",
       "brand": "Fiberlogy",
       "material": "PETG",
-      "name": "Easy PET-G Pastel Blue",
+      "name": "Easy PETG Pastel Blue",
       "hex": "#bed9eb",
-      "searchText": "fiberlogy petg easy pet-g pastel blue"
+      "searchText": "fiberlogy petg easy petg pastel blue"
     },
     {
-      "id": "fiberlogy-easy-pet-g-pastel-lilac",
+      "id": "fiberlogy-easy-petg-pastel-lilac",
       "brand": "Fiberlogy",
       "material": "PETG",
-      "name": "Easy PET-G Pastel Lilac",
+      "name": "Easy PETG Pastel Lilac",
       "hex": "#d6abff",
-      "searchText": "fiberlogy petg easy pet-g pastel lilac"
+      "searchText": "fiberlogy petg easy petg pastel lilac"
     },
     {
-      "id": "fiberlogy-easy-pet-g-pastel-mint",
+      "id": "fiberlogy-easy-petg-pastel-mint",
       "brand": "Fiberlogy",
       "material": "PETG",
-      "name": "Easy PET-G Pastel Mint",
+      "name": "Easy PETG Pastel Mint",
       "hex": "#adebb3",
-      "searchText": "fiberlogy petg easy pet-g pastel mint"
+      "searchText": "fiberlogy petg easy petg pastel mint"
     },
     {
-      "id": "fiberlogy-easy-pet-g-pastel-pink",
+      "id": "fiberlogy-easy-petg-pastel-pink",
       "brand": "Fiberlogy",
       "material": "PETG",
-      "name": "Easy PET-G Pastel Pink",
+      "name": "Easy PETG Pastel Pink",
       "hex": "#ffcccd",
-      "searchText": "fiberlogy petg easy pet-g pastel pink"
+      "searchText": "fiberlogy petg easy petg pastel pink"
     },
     {
-      "id": "fiberlogy-easy-pet-g-pastel-yellow",
+      "id": "fiberlogy-easy-petg-pastel-yellow",
       "brand": "Fiberlogy",
       "material": "PETG",
-      "name": "Easy PET-G Pastel Yellow",
+      "name": "Easy PETG Pastel Yellow",
       "hex": "#fce575",
-      "searchText": "fiberlogy petg easy pet-g pastel yellow"
+      "searchText": "fiberlogy petg easy petg pastel yellow"
     },
     {
-      "id": "fiberlogy-easy-pet-g-pure-transparent",
+      "id": "fiberlogy-easy-petg-pure-transparent",
       "brand": "Fiberlogy",
       "material": "PETG",
-      "name": "Easy PET-G Pure Transparent",
+      "name": "Easy PETG Pure Transparent",
       "hex": "#e4e7e5",
-      "searchText": "fiberlogy petg easy pet-g pure transparent"
+      "searchText": "fiberlogy petg easy petg pure transparent"
     },
     {
-      "id": "fiberlogy-easy-pet-g-red",
+      "id": "fiberlogy-easy-petg-red",
       "brand": "Fiberlogy",
       "material": "PETG",
-      "name": "Easy PET-G Red",
+      "name": "Easy PETG Red",
       "hex": "#de1619",
-      "searchText": "fiberlogy petg easy pet-g red"
+      "searchText": "fiberlogy petg easy petg red"
     },
     {
-      "id": "fiberlogy-easy-pet-g-scarlet",
+      "id": "fiberlogy-easy-petg-scarlet",
       "brand": "Fiberlogy",
       "material": "PETG",
-      "name": "Easy PET-G Scarlet",
+      "name": "Easy PETG Scarlet",
       "hex": "#e20010",
-      "searchText": "fiberlogy petg easy pet-g scarlet"
+      "searchText": "fiberlogy petg easy petg scarlet"
     },
     {
-      "id": "fiberlogy-easy-pet-g-silver",
+      "id": "fiberlogy-easy-petg-silver",
       "brand": "Fiberlogy",
       "material": "PETG",
-      "name": "Easy PET-G Silver",
+      "name": "Easy PETG Silver",
       "hex": "#c3ccd5",
-      "searchText": "fiberlogy petg easy pet-g silver"
+      "searchText": "fiberlogy petg easy petg silver"
     },
     {
-      "id": "fiberlogy-easy-pet-g-transparent-burgundy",
+      "id": "fiberlogy-easy-petg-transparent-burgundy",
       "brand": "Fiberlogy",
       "material": "PETG",
-      "name": "Easy PET-G Transparent Burgundy",
+      "name": "Easy PETG Transparent Burgundy",
       "hex": "#861d2b",
-      "searchText": "fiberlogy petg easy pet-g transparent burgundy"
+      "searchText": "fiberlogy petg easy petg transparent burgundy"
     },
     {
-      "id": "fiberlogy-easy-pet-g-transparent-light-green",
+      "id": "fiberlogy-easy-petg-transparent-light-green",
       "brand": "Fiberlogy",
       "material": "PETG",
-      "name": "Easy PET-G Transparent Light Green",
+      "name": "Easy PETG Transparent Light Green",
       "hex": "#91c500",
-      "searchText": "fiberlogy petg easy pet-g transparent light green"
+      "searchText": "fiberlogy petg easy petg transparent light green"
     },
     {
-      "id": "fiberlogy-easy-pet-g-transparent-navy-blue",
+      "id": "fiberlogy-easy-petg-transparent-navy-blue",
       "brand": "Fiberlogy",
       "material": "PETG",
-      "name": "Easy PET-G Transparent Navy Blue",
+      "name": "Easy PETG Transparent Navy Blue",
       "hex": "#09048e",
-      "searchText": "fiberlogy petg easy pet-g transparent navy blue"
+      "searchText": "fiberlogy petg easy petg transparent navy blue"
     },
     {
-      "id": "fiberlogy-easy-pet-g-transparent-orange",
+      "id": "fiberlogy-easy-petg-transparent-orange",
       "brand": "Fiberlogy",
       "material": "PETG",
-      "name": "Easy PET-G Transparent Orange",
+      "name": "Easy PETG Transparent Orange",
       "hex": "#e03f26",
-      "searchText": "fiberlogy petg easy pet-g transparent orange"
+      "searchText": "fiberlogy petg easy petg transparent orange"
     },
     {
-      "id": "fiberlogy-easy-pet-g-vertigo",
+      "id": "fiberlogy-easy-petg-vertigo",
       "brand": "Fiberlogy",
       "material": "PETG",
-      "name": "Easy PET-G Vertigo",
+      "name": "Easy PETG Vertigo",
       "hex": "#55555e",
-      "searchText": "fiberlogy petg easy pet-g vertigo"
+      "searchText": "fiberlogy petg easy petg vertigo"
     },
     {
-      "id": "fiberlogy-easy-pet-g-white",
+      "id": "fiberlogy-easy-petg-white",
       "brand": "Fiberlogy",
       "material": "PETG",
-      "name": "Easy PET-G White",
+      "name": "Easy PETG White",
       "hex": "#ffffff",
-      "searchText": "fiberlogy petg easy pet-g white"
+      "searchText": "fiberlogy petg easy petg white"
     },
     {
-      "id": "fiberlogy-easy-pet-g-yellow",
+      "id": "fiberlogy-easy-petg-yellow",
       "brand": "Fiberlogy",
       "material": "PETG",
-      "name": "Easy PET-G Yellow",
+      "name": "Easy PETG Yellow",
       "hex": "#fbe200",
-      "searchText": "fiberlogy petg easy pet-g yellow"
+      "searchText": "fiberlogy petg easy petg yellow"
     },
     {
-      "id": "fiberlogy-matt-pet-g-black",
+      "id": "fiberlogy-petg-esd-black",
       "brand": "Fiberlogy",
       "material": "PETG",
-      "name": "Matt PET-G Black",
+      "name": "PETG ESD Black",
       "hex": "#000000",
-      "searchText": "fiberlogy petg matt pet-g black"
+      "searchText": "fiberlogy petg petg esd black"
     },
     {
-      "id": "fiberlogy-matt-pet-g-blue",
+      "id": "fiberlogy-petg-fr-v0-black",
       "brand": "Fiberlogy",
       "material": "PETG",
-      "name": "Matt PET-G Blue",
-      "hex": "#0099e6",
-      "searchText": "fiberlogy petg matt pet-g blue"
+      "name": "PETG FR V0 Black",
+      "hex": "#000000",
+      "searchText": "fiberlogy petg petg fr v0 black"
     },
     {
-      "id": "fiberlogy-matt-pet-g-graphite",
+      "id": "fiberlogy-petg-fr-v0-gray",
       "brand": "Fiberlogy",
       "material": "PETG",
-      "name": "Matt PET-G Graphite",
-      "hex": "#6f727e",
-      "searchText": "fiberlogy petg matt pet-g graphite"
-    },
-    {
-      "id": "fiberlogy-matt-pet-g-grey",
-      "brand": "Fiberlogy",
-      "material": "PETG",
-      "name": "Matt PET-G Grey",
+      "name": "PETG FR V0 Gray",
       "hex": "#c5c5bf",
-      "searchText": "fiberlogy petg matt pet-g grey"
+      "searchText": "fiberlogy petg petg fr v0 gray"
     },
     {
-      "id": "fiberlogy-matt-pet-g-red",
+      "id": "fiberlogy-petg-fr-v0-natural",
       "brand": "Fiberlogy",
       "material": "PETG",
-      "name": "Matt PET-G Red",
-      "hex": "#e20010",
-      "searchText": "fiberlogy petg matt pet-g red"
-    },
-    {
-      "id": "fiberlogy-matt-pet-g-white",
-      "brand": "Fiberlogy",
-      "material": "PETG",
-      "name": "Matt PET-G White",
-      "hex": "#ffffff",
-      "searchText": "fiberlogy petg matt pet-g white"
-    },
-    {
-      "id": "fiberlogy-pet-g-esd-black",
-      "brand": "Fiberlogy",
-      "material": "PETG",
-      "name": "PET-G ESD Black",
-      "hex": "#000000",
-      "searchText": "fiberlogy petg pet-g esd black"
-    },
-    {
-      "id": "fiberlogy-pet-g-v0-black",
-      "brand": "Fiberlogy",
-      "material": "PETG",
-      "name": "PET-G V0 Black",
-      "hex": "#000000",
-      "searchText": "fiberlogy petg pet-g v0 black"
-    },
-    {
-      "id": "fiberlogy-pet-g-v0-grey",
-      "brand": "Fiberlogy",
-      "material": "PETG",
-      "name": "PET-G V0 Grey",
-      "hex": "#c5c5bf",
-      "searchText": "fiberlogy petg pet-g v0 grey"
-    },
-    {
-      "id": "fiberlogy-pet-g-v0-natural",
-      "brand": "Fiberlogy",
-      "material": "PETG",
-      "name": "PET-G V0 Natural",
+      "name": "PETG FR V0 Natural",
       "hex": "#efe8d8",
-      "searchText": "fiberlogy petg pet-g v0 natural"
+      "searchText": "fiberlogy petg petg fr v0 natural"
     },
     {
-      "id": "fiberlogy-pet-gcf-black",
+      "id": "fiberlogy-petg-matte-black",
       "brand": "Fiberlogy",
       "material": "PETG",
-      "name": "PET-G+CF Black",
+      "name": "PETG Matte Black",
       "hex": "#000000",
-      "searchText": "fiberlogy petg pet-g+cf black"
+      "searchText": "fiberlogy petg petg matte black"
+    },
+    {
+      "id": "fiberlogy-petg-matte-blue",
+      "brand": "Fiberlogy",
+      "material": "PETG",
+      "name": "PETG Matte Blue",
+      "hex": "#0099e6",
+      "searchText": "fiberlogy petg petg matte blue"
+    },
+    {
+      "id": "fiberlogy-petg-matte-graphite",
+      "brand": "Fiberlogy",
+      "material": "PETG",
+      "name": "PETG Matte Graphite",
+      "hex": "#6f727e",
+      "searchText": "fiberlogy petg petg matte graphite"
+    },
+    {
+      "id": "fiberlogy-petg-matte-green",
+      "brand": "Fiberlogy",
+      "material": "PETG",
+      "name": "PETG Matte Green",
+      "hex": "#01e041",
+      "searchText": "fiberlogy petg petg matte green"
+    },
+    {
+      "id": "fiberlogy-petg-matte-grey",
+      "brand": "Fiberlogy",
+      "material": "PETG",
+      "name": "PETG Matte Grey",
+      "hex": "#c5c5bf",
+      "searchText": "fiberlogy petg petg matte grey"
+    },
+    {
+      "id": "fiberlogy-petg-matte-light-green",
+      "brand": "Fiberlogy",
+      "material": "PETG",
+      "name": "PETG Matte Light Green",
+      "hex": "#bbdb4b",
+      "searchText": "fiberlogy petg petg matte light green"
+    },
+    {
+      "id": "fiberlogy-petg-matte-pastel-blue",
+      "brand": "Fiberlogy",
+      "material": "PETG",
+      "name": "PETG Matte Pastel Blue",
+      "hex": "#92c1e9",
+      "searchText": "fiberlogy petg petg matte pastel blue"
+    },
+    {
+      "id": "fiberlogy-petg-matte-pastel-lilac",
+      "brand": "Fiberlogy",
+      "material": "PETG",
+      "name": "PETG Matte Pastel Lilac",
+      "hex": "#c791d4",
+      "searchText": "fiberlogy petg petg matte pastel lilac"
+    },
+    {
+      "id": "fiberlogy-petg-matte-pastel-mint",
+      "brand": "Fiberlogy",
+      "material": "PETG",
+      "name": "PETG Matte Pastel Mint",
+      "hex": "#87ebd8",
+      "searchText": "fiberlogy petg petg matte pastel mint"
+    },
+    {
+      "id": "fiberlogy-petg-matte-pastel-pink",
+      "brand": "Fiberlogy",
+      "material": "PETG",
+      "name": "PETG Matte Pastel Pink",
+      "hex": "#eb9eb7",
+      "searchText": "fiberlogy petg petg matte pastel pink"
+    },
+    {
+      "id": "fiberlogy-petg-matte-pastel-yellow",
+      "brand": "Fiberlogy",
+      "material": "PETG",
+      "name": "PETG Matte Pastel Yellow",
+      "hex": "#e7d69b",
+      "searchText": "fiberlogy petg petg matte pastel yellow"
+    },
+    {
+      "id": "fiberlogy-petg-matte-red",
+      "brand": "Fiberlogy",
+      "material": "PETG",
+      "name": "PETG Matte Red",
+      "hex": "#e20010",
+      "searchText": "fiberlogy petg petg matte red"
+    },
+    {
+      "id": "fiberlogy-petg-matte-white",
+      "brand": "Fiberlogy",
+      "material": "PETG",
+      "name": "PETG Matte White",
+      "hex": "#ffffff",
+      "searchText": "fiberlogy petg petg matte white"
+    },
+    {
+      "id": "fiberlogy-petg-cf-black",
+      "brand": "Fiberlogy",
+      "material": "PETG",
+      "name": "PETG+CF Black",
+      "hex": "#000000",
+      "searchText": "fiberlogy petg petg+cf black"
+    },
+    {
+      "id": "fiberlogy-petg-ptfe-black",
+      "brand": "Fiberlogy",
+      "material": "PETG",
+      "name": "PETG+PTFE Black",
+      "hex": "#000000",
+      "searchText": "fiberlogy petg petg+ptfe black"
+    },
+    {
+      "id": "fiberlogy-petg-ptfe-natural",
+      "brand": "Fiberlogy",
+      "material": "PETG",
+      "name": "PETG+PTFE Natural",
+      "hex": "#f5f5f4",
+      "searchText": "fiberlogy petg petg+ptfe natural"
     },
     {
       "id": "fiberlogy-petgptfe-natural",
@@ -33310,12 +33494,12 @@
       "searchText": "fiberlogy petg petg+ptfe natural"
     },
     {
-      "id": "fiberlogy-r-pet-g-anthracite",
+      "id": "fiberlogy-rpetg-anthracite",
       "brand": "Fiberlogy",
       "material": "PETG",
-      "name": "R PET-G Anthracite",
+      "name": "rPETG Anthracite",
       "hex": "#26272b",
-      "searchText": "fiberlogy petg r pet-g anthracite"
+      "searchText": "fiberlogy petg rpetg anthracite"
     },
     {
       "id": "fiberlogy-easy-pla-alien-green",
@@ -34286,6 +34470,14 @@
       "searchText": "fiberlogy pp pp blue"
     },
     {
+      "id": "fiberlogy-pp-brown",
+      "brand": "Fiberlogy",
+      "material": "PP",
+      "name": "PP Brown",
+      "hex": "#5d3b32",
+      "searchText": "fiberlogy pp pp brown"
+    },
+    {
       "id": "fiberlogy-pp-graphite",
       "brand": "Fiberlogy",
       "material": "PP",
@@ -34300,6 +34492,14 @@
       "name": "PP Grey",
       "hex": "#c5c5bf",
       "searchText": "fiberlogy pp pp grey"
+    },
+    {
+      "id": "fiberlogy-pp-irish-green",
+      "brand": "Fiberlogy",
+      "material": "PP",
+      "name": "PP Irish Green",
+      "hex": "#008059",
+      "searchText": "fiberlogy pp pp irish green"
     },
     {
       "id": "fiberlogy-pp-light-green",
@@ -34318,6 +34518,14 @@
       "searchText": "fiberlogy pp pp natural"
     },
     {
+      "id": "fiberlogy-pp-navy-blue",
+      "brand": "Fiberlogy",
+      "material": "PP",
+      "name": "PP Navy Blue",
+      "hex": "#2140b4",
+      "searchText": "fiberlogy pp pp navy blue"
+    },
+    {
       "id": "fiberlogy-pp-orange",
       "brand": "Fiberlogy",
       "material": "PP",
@@ -34326,12 +34534,92 @@
       "searchText": "fiberlogy pp pp orange"
     },
     {
+      "id": "fiberlogy-pp-pastel-blue",
+      "brand": "Fiberlogy",
+      "material": "PP",
+      "name": "PP Pastel Blue",
+      "hex": "#bed9eb",
+      "searchText": "fiberlogy pp pp pastel blue"
+    },
+    {
+      "id": "fiberlogy-pp-pastel-lilac",
+      "brand": "Fiberlogy",
+      "material": "PP",
+      "name": "PP Pastel Lilac",
+      "hex": "#d696ee",
+      "searchText": "fiberlogy pp pp pastel lilac"
+    },
+    {
+      "id": "fiberlogy-pp-pastel-mint",
+      "brand": "Fiberlogy",
+      "material": "PP",
+      "name": "PP Pastel Mint",
+      "hex": "#96d8af",
+      "searchText": "fiberlogy pp pp pastel mint"
+    },
+    {
+      "id": "fiberlogy-pp-pastel-pink",
+      "brand": "Fiberlogy",
+      "material": "PP",
+      "name": "PP Pastel Pink",
+      "hex": "#eb9eb7",
+      "searchText": "fiberlogy pp pp pastel pink"
+    },
+    {
+      "id": "fiberlogy-pp-pastel-yellow",
+      "brand": "Fiberlogy",
+      "material": "PP",
+      "name": "PP Pastel Yellow",
+      "hex": "#e7d69b",
+      "searchText": "fiberlogy pp pp pastel yellow"
+    },
+    {
       "id": "fiberlogy-pp-red",
       "brand": "Fiberlogy",
       "material": "PP",
       "name": "PP Red",
       "hex": "#e20010",
       "searchText": "fiberlogy pp pp red"
+    },
+    {
+      "id": "fiberlogy-pp-sage-green",
+      "brand": "Fiberlogy",
+      "material": "PP",
+      "name": "PP Sage Green",
+      "hex": "#bad0c8",
+      "searchText": "fiberlogy pp pp sage green"
+    },
+    {
+      "id": "fiberlogy-pp-skin-tone-1",
+      "brand": "Fiberlogy",
+      "material": "PP",
+      "name": "PP Skin Tone 1",
+      "hex": "#e3b6ac",
+      "searchText": "fiberlogy pp pp skin tone 1"
+    },
+    {
+      "id": "fiberlogy-pp-skin-tone-2",
+      "brand": "Fiberlogy",
+      "material": "PP",
+      "name": "PP Skin Tone 2",
+      "hex": "#dda68e",
+      "searchText": "fiberlogy pp pp skin tone 2"
+    },
+    {
+      "id": "fiberlogy-pp-skin-tone-3",
+      "brand": "Fiberlogy",
+      "material": "PP",
+      "name": "PP Skin Tone 3",
+      "hex": "#b38875",
+      "searchText": "fiberlogy pp pp skin tone 3"
+    },
+    {
+      "id": "fiberlogy-pp-steel-blue",
+      "brand": "Fiberlogy",
+      "material": "PP",
+      "name": "PP Steel Blue",
+      "hex": "#6992b6",
+      "searchText": "fiberlogy pp pp steel blue"
     },
     {
       "id": "fiberlogy-pp-white",
@@ -34350,12 +34638,12 @@
       "searchText": "fiberlogy pp pp yellow"
     },
     {
-      "id": "fiberlogy-r-pp-anthracite",
+      "id": "fiberlogy-rpp-anthracite",
       "brand": "Fiberlogy",
       "material": "PP",
-      "name": "R PP Anthracite",
+      "name": "rPP Anthracite",
       "hex": "#26272b",
-      "searchText": "fiberlogy pp r pp anthracite"
+      "searchText": "fiberlogy pp rpp anthracite"
     },
     {
       "id": "fiberlogy-fibersmooth-black",
@@ -34470,6 +34758,14 @@
       "searchText": "fiberlogy tpu fiberflex 30d navy blue"
     },
     {
+      "id": "fiberlogy-fiberflex-30d-neon-yellow",
+      "brand": "Fiberlogy",
+      "material": "TPU",
+      "name": "FiberFlex 30D Neon Yellow",
+      "hex": "#c3f929",
+      "searchText": "fiberlogy tpu fiberflex 30d neon yellow"
+    },
+    {
       "id": "fiberlogy-fiberflex-30d-orange",
       "brand": "Fiberlogy",
       "material": "TPU",
@@ -34582,6 +34878,22 @@
       "searchText": "fiberlogy tpu fiberflex 40d light green"
     },
     {
+      "id": "fiberlogy-fiberflex-40d-navy-blue",
+      "brand": "Fiberlogy",
+      "material": "TPU",
+      "name": "FiberFlex 40D Navy Blue",
+      "hex": "#001489",
+      "searchText": "fiberlogy tpu fiberflex 40d navy blue"
+    },
+    {
+      "id": "fiberlogy-fiberflex-40d-neon-yellow",
+      "brand": "Fiberlogy",
+      "material": "TPU",
+      "name": "FiberFlex 40D Neon Yellow",
+      "hex": "#c3f929",
+      "searchText": "fiberlogy tpu fiberflex 40d neon yellow"
+    },
+    {
       "id": "fiberlogy-fiberflex-40d-orange",
       "brand": "Fiberlogy",
       "material": "TPU",
@@ -34662,12 +34974,44 @@
       "searchText": "fiberlogy tpu fiberflex 40d yellow"
     },
     {
+      "id": "fiberlogy-fiberflex-aero-black",
+      "brand": "Fiberlogy",
+      "material": "TPU",
+      "name": "FiberFlex Aero Black",
+      "hex": "#1d1d1d",
+      "searchText": "fiberlogy tpu fiberflex aero black"
+    },
+    {
+      "id": "fiberlogy-fiberflex-aero-gray",
+      "brand": "Fiberlogy",
+      "material": "TPU",
+      "name": "FiberFlex Aero Gray",
+      "hex": "#9f9f9f",
+      "searchText": "fiberlogy tpu fiberflex aero gray"
+    },
+    {
+      "id": "fiberlogy-fiberflex-aero-natural",
+      "brand": "Fiberlogy",
+      "material": "TPU",
+      "name": "FiberFlex Aero Natural",
+      "hex": "#d6d2c4",
+      "searchText": "fiberlogy tpu fiberflex aero natural"
+    },
+    {
+      "id": "fiberlogy-fiberflex-aero-white",
+      "brand": "Fiberlogy",
+      "material": "TPU",
+      "name": "FiberFlex Aero White",
+      "hex": "#fafafa",
+      "searchText": "fiberlogy tpu fiberflex aero white"
+    },
+    {
       "id": "fiberlogy-fiberflex-cf-black",
       "brand": "Fiberlogy",
       "material": "TPU",
-      "name": "FiberFlex CF Black",
+      "name": "FiberFlex+CF Black",
       "hex": "#000000",
-      "searchText": "fiberlogy tpu fiberflex cf black"
+      "searchText": "fiberlogy tpu fiberflex+cf black"
     },
     {
       "id": "fiberlogy-mattflex-40d-black",
