@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-09-02T04:33:44.920Z",
-  "entryCount": 12522,
+  "lastSynced": "2026-09-03T05:25:23.572Z",
+  "entryCount": 12528,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -44038,7 +44038,7 @@
       "searchText": "francofil abs abs black"
     },
     {
-      "id": "francofil-abs-rose-fme-foreign-material-exclusion-pmuc-certified",
+      "id": "francofil-abs-rose-fme-pmuc-certified",
       "brand": "Francofil",
       "material": "ABS",
       "name": "ABS Rose FME (Foreign Material Exclusion) PMUC-certified",
@@ -44070,36 +44070,28 @@
       "searchText": "francofil asa asa black"
     },
     {
-      "id": "francofil-asa-blanc",
+      "id": "francofil-asa-grey",
       "brand": "Francofil",
       "material": "ASA",
-      "name": "ASA Blanc",
-      "hex": "#f5f5f5",
-      "searchText": "francofil asa asa blanc"
-    },
-    {
-      "id": "francofil-asa-gris",
-      "brand": "Francofil",
-      "material": "ASA",
-      "name": "ASA Gris",
+      "name": "ASA Grey",
       "hex": "#6f727e",
-      "searchText": "francofil asa asa gris"
+      "searchText": "francofil asa asa grey"
     },
     {
-      "id": "francofil-asa-rose-fme-foreign-material-exclusion-pmuc-certified",
+      "id": "francofil-asa-red",
+      "brand": "Francofil",
+      "material": "ASA",
+      "name": "ASA Red",
+      "hex": "#e72f1d",
+      "searchText": "francofil asa asa red"
+    },
+    {
+      "id": "francofil-asa-rose-fme-pmuc-certified",
       "brand": "Francofil",
       "material": "ASA",
       "name": "ASA Rose FME (Foreign Material Exclusion) PMUC-certified",
-      "hex": "#e80078",
+      "hex": "#ff00a2",
       "searchText": "francofil asa asa rose fme (foreign material exclusion) pmuc-certified"
-    },
-    {
-      "id": "francofil-asa-rouge",
-      "brand": "Francofil",
-      "material": "ASA",
-      "name": "ASA Rouge",
-      "hex": "#e72f1d",
-      "searchText": "francofil asa asa rouge"
     },
     {
       "id": "francofil-asa-virgin",
@@ -44110,7 +44102,15 @@
       "searchText": "francofil asa asa virgin"
     },
     {
-      "id": "francofil-detectable-petg-m-xr",
+      "id": "francofil-asa-white",
+      "brand": "Francofil",
+      "material": "ASA",
+      "name": "ASA White",
+      "hex": "#f5f5f5",
+      "searchText": "francofil asa asa white"
+    },
+    {
+      "id": "francofil-petg-detectable-m-xr",
       "brand": "Francofil",
       "material": "PETG",
       "name": "Detectable PETG M-XR",
@@ -44166,7 +44166,7 @@
       "searchText": "francofil petg petg red"
     },
     {
-      "id": "francofil-petg-rose-fme-foreign-material-exclusion-pmuc-certified",
+      "id": "francofil-petg-rose-fme-pmuc-certified",
       "brand": "Francofil",
       "material": "PETG",
       "name": "PETG Rose FME (Foreign Material Exclusion) PMUC-certified",
@@ -44182,6 +44182,14 @@
       "searchText": "francofil petg petg virgin"
     },
     {
+      "id": "francofil-petg-virgin-esd",
+      "brand": "Francofil",
+      "material": "PETG",
+      "name": "PETG Virgin ESD",
+      "hex": "#f2efe9",
+      "searchText": "francofil petg petg virgin esd"
+    },
+    {
       "id": "francofil-petg-white",
       "brand": "Francofil",
       "material": "PETG",
@@ -44190,23 +44198,15 @@
       "searchText": "francofil petg petg white"
     },
     {
-      "id": "francofil-virgin-petg-esd",
+      "id": "francofil-petg-white-ptfe",
       "brand": "Francofil",
       "material": "PETG",
-      "name": "Virgin PETG ESD",
-      "hex": "#f2efe9",
-      "searchText": "francofil petg virgin petg esd"
-    },
-    {
-      "id": "francofil-white-petg-ptfe",
-      "brand": "Francofil",
-      "material": "PETG",
-      "name": "White PETG PTFE",
+      "name": "PETG White PTFE",
       "hex": "#f5f5f5",
-      "searchText": "francofil petg white petg ptfe"
+      "searchText": "francofil petg petg white ptfe"
     },
     {
-      "id": "francofil-green-iridescent-glitter-pla",
+      "id": "francofil-pla-green-iridescent-glitter",
       "brand": "Francofil",
       "material": "PLA",
       "name": "Green Iridescent Glitter PLA",
@@ -44214,12 +44214,20 @@
       "searchText": "francofil pla green iridescent glitter pla"
     },
     {
-      "id": "francofil-peacock-blue-pla",
+      "id": "francofil-pla-peacock-blue",
       "brand": "Francofil",
       "material": "PLA",
       "name": "Peacock Blue PLA",
       "hex": "#005da4",
       "searchText": "francofil pla peacock blue pla"
+    },
+    {
+      "id": "francofil-pla-air-heliox-collection",
+      "brand": "Francofil",
+      "material": "PLA",
+      "name": "PLA Air Heliox Collection - The 4 elements",
+      "hex": "#d0b8c8",
+      "searchText": "francofil pla pla air heliox collection - the 4 elements"
     },
     {
       "id": "francofil-pla-anthracite-ral-7016",
@@ -44270,14 +44278,6 @@
       "searchText": "francofil pla pla black metal glitter"
     },
     {
-      "id": "francofil-pla-bleu-pastel-le-glacier",
-      "brand": "Francofil",
-      "material": "PLA",
-      "name": "PLA Bleu Pastel - Le Glacier",
-      "hex": "#bed9eb",
-      "searchText": "francofil pla pla bleu pastel - le glacier"
-    },
-    {
       "id": "francofil-pla-blue-a-110",
       "brand": "Francofil",
       "material": "PLA",
@@ -44302,14 +44302,6 @@
       "searchText": "francofil pla pla blue ral 5015"
     },
     {
-      "id": "francofil-pla-bois-co-produced",
-      "brand": "Francofil",
-      "material": "PLA",
-      "name": "PLA Bois - Co-produced",
-      "hex": "#dc9c43",
-      "searchText": "francofil pla pla bois - co-produced"
-    },
-    {
       "id": "francofil-pla-bronze",
       "brand": "Francofil",
       "material": "PLA",
@@ -44318,12 +44310,12 @@
       "searchText": "francofil pla pla bronze"
     },
     {
-      "id": "francofil-pla-caf-coproduced",
+      "id": "francofil-pla-cafe-coproduced",
       "brand": "Francofil",
       "material": "PLA",
-      "name": "PLA Café - Coproduced",
+      "name": "PLA Coffee - Co-produced",
       "hex": "#3e2617",
-      "searchText": "francofil pla pla café - coproduced"
+      "searchText": "francofil pla pla coffee - co-produced"
     },
     {
       "id": "francofil-pla-copper",
@@ -44332,6 +44324,22 @@
       "name": "PLA Copper",
       "hex": "#c06341",
       "searchText": "francofil pla pla copper"
+    },
+    {
+      "id": "francofil-pla-earth-heliox-collection",
+      "brand": "Francofil",
+      "material": "PLA",
+      "name": "PLA Earth Heliox Collection - The 4 elements",
+      "hex": "#487070",
+      "searchText": "francofil pla pla earth heliox collection - the 4 elements"
+    },
+    {
+      "id": "francofil-pla-fire-heliox-collection",
+      "brand": "Francofil",
+      "material": "PLA",
+      "name": "PLA Fire Heliox Collection - The 4 elements",
+      "hex": "#d83008",
+      "searchText": "francofil pla pla fire heliox collection - the 4 elements"
     },
     {
       "id": "francofil-pla-fluorescent-yellow-ral-1026",
@@ -44462,6 +44470,14 @@
       "searchText": "francofil pla pla oyster - co-produced"
     },
     {
+      "id": "francofil-pla-pastel-blue-le-glacier",
+      "brand": "Francofil",
+      "material": "PLA",
+      "name": "PLA Pastel Blue - Le Glacier",
+      "hex": "#bed9eb",
+      "searchText": "francofil pla pla pastel blue - le glacier"
+    },
+    {
       "id": "francofil-pla-pastel-pink-cotton-candy",
       "brand": "Francofil",
       "material": "PLA",
@@ -44518,12 +44534,28 @@
       "searchText": "francofil pla pla red | pmuc certified"
     },
     {
+      "id": "francofil-pla-red-christmas",
+      "brand": "Francofil",
+      "material": "PLA",
+      "name": "PLA Red Christmas",
+      "hex": "#c03030",
+      "searchText": "francofil pla pla red christmas"
+    },
+    {
       "id": "francofil-pla-red-ral-3020",
       "brand": "Francofil",
       "material": "PLA",
       "name": "PLA Red RAL 3020",
       "hex": "#e72f1d",
       "searchText": "francofil pla pla red ral 3020"
+    },
+    {
+      "id": "francofil-pla-rose-fme-pmuc-certified",
+      "brand": "Francofil",
+      "material": "PLA",
+      "name": "PLA Rose FME (Foreign Material Exclusion) PMUC-certified",
+      "hex": "#ff5786",
+      "searchText": "francofil pla pla rose fme (foreign material exclusion) pmuc-certified"
     },
     {
       "id": "francofil-pla-saint-jacques-coproduced",
@@ -44566,12 +44598,36 @@
       "searchText": "francofil pla pla terre battue - coproduced"
     },
     {
+      "id": "francofil-pla-translucent-blue",
+      "brand": "Francofil",
+      "material": "PLA",
+      "name": "PLA Translucent Blue",
+      "hex": "#183681",
+      "searchText": "francofil pla pla translucent blue"
+    },
+    {
       "id": "francofil-pla-translucent-green",
       "brand": "Francofil",
       "material": "PLA",
       "name": "PLA Translucent Green",
       "hex": "#206233",
       "searchText": "francofil pla pla translucent green"
+    },
+    {
+      "id": "francofil-pla-translucent-orange",
+      "brand": "Francofil",
+      "material": "PLA",
+      "name": "PLA Translucent Orange",
+      "hex": "#f55928",
+      "searchText": "francofil pla pla translucent orange"
+    },
+    {
+      "id": "francofil-pla-turquoise-blue",
+      "brand": "Francofil",
+      "material": "PLA",
+      "name": "PLA Turquoise Blue",
+      "hex": "#39b9db",
+      "searchText": "francofil pla pla turquoise blue"
     },
     {
       "id": "francofil-pla-violet-halloween",
@@ -44598,6 +44654,14 @@
       "searchText": "francofil pla pla virgin"
     },
     {
+      "id": "francofil-pla-water-heliox-collection",
+      "brand": "Francofil",
+      "material": "PLA",
+      "name": "PLA Water Heliox Collection - The 4 elements",
+      "hex": "#50b8e0",
+      "searchText": "francofil pla pla water heliox collection - the 4 elements"
+    },
+    {
       "id": "francofil-pla-wheat-co-product",
       "brand": "Francofil",
       "material": "PLA",
@@ -44622,6 +44686,14 @@
       "searchText": "francofil pla pla white | pmuc certified"
     },
     {
+      "id": "francofil-pla-wood-co-product",
+      "brand": "Francofil",
+      "material": "PLA",
+      "name": "PLA Wood - Co-product",
+      "hex": "#dc9c43",
+      "searchText": "francofil pla pla wood - co-product"
+    },
+    {
       "id": "francofil-pla-yellow-ral-1018",
       "brand": "Francofil",
       "material": "PLA",
@@ -44636,30 +44708,6 @@
       "name": "PLA Yellow Translucent",
       "hex": "#c7b91f",
       "searchText": "francofil pla pla yellow translucent"
-    },
-    {
-      "id": "francofil-translucent-blue-pla",
-      "brand": "Francofil",
-      "material": "PLA",
-      "name": "Translucent Blue PLA",
-      "hex": "#183681",
-      "searchText": "francofil pla translucent blue pla"
-    },
-    {
-      "id": "francofil-translucent-orange-pla",
-      "brand": "Francofil",
-      "material": "PLA",
-      "name": "Translucent Orange PLA",
-      "hex": "#f55928",
-      "searchText": "francofil pla translucent orange pla"
-    },
-    {
-      "id": "francofil-turquoise-blue-pla",
-      "brand": "Francofil",
-      "material": "PLA",
-      "name": "Turquoise Blue PLA",
-      "hex": "#39b9db",
-      "searchText": "francofil pla turquoise blue pla"
     },
     {
       "id": "francofil-tpe-88a-gray",
