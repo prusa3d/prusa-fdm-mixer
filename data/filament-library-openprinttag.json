@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-09-10T04:31:38.957Z",
-  "entryCount": 12604,
+  "lastSynced": "2026-09-11T04:32:01.616Z",
+  "entryCount": 12848,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -19566,12 +19566,380 @@
       "searchText": "colorfabb pla lw-pla-ht white"
     },
     {
+      "id": "colorfabb-pla-agate-grey-ral-7038",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Agate grey RAL 7038",
+      "hex": "#b4b8b0",
+      "searchText": "colorfabb pla pla agate grey ral 7038"
+    },
+    {
+      "id": "colorfabb-pla-anthracite-grey-ral-7016",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Anthracite grey RAL 7016",
+      "hex": "#373f43",
+      "searchText": "colorfabb pla pla anthracite grey ral 7016"
+    },
+    {
+      "id": "colorfabb-pla-antique-pink-ral-3014",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Antique pink RAL 3014",
+      "hex": "#d47479",
+      "searchText": "colorfabb pla pla antique pink ral 3014"
+    },
+    {
+      "id": "colorfabb-pla-azure-blue-ral-5009",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Azure blue RAL 5009",
+      "hex": "#2e5978",
+      "searchText": "colorfabb pla pla azure blue ral 5009"
+    },
+    {
+      "id": "colorfabb-pla-basalt-grey-ral-7012",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Basalt grey RAL 7012",
+      "hex": "#596163",
+      "searchText": "colorfabb pla pla basalt grey ral 7012"
+    },
+    {
+      "id": "colorfabb-pla-beige-brown-ral-8024",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Beige brown RAL 8024",
+      "hex": "#79553c",
+      "searchText": "colorfabb pla pla beige brown ral 8024"
+    },
+    {
+      "id": "colorfabb-pla-beige-grey-ral-7006",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Beige grey RAL 7006",
+      "hex": "#756f61",
+      "searchText": "colorfabb pla pla beige grey ral 7006"
+    },
+    {
+      "id": "colorfabb-pla-beige-ral-1001",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Beige RAL 1001",
+      "hex": "#d0b084",
+      "searchText": "colorfabb pla pla beige ral 1001"
+    },
+    {
+      "id": "colorfabb-pla-beige-red-ral-3012",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Beige red RAL 3012",
+      "hex": "#cb8d73",
+      "searchText": "colorfabb pla pla beige red ral 3012"
+    },
+    {
+      "id": "colorfabb-pla-black-blue-ral-5004",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Black blue RAL 5004",
+      "hex": "#1d1f2a",
+      "searchText": "colorfabb pla pla black blue ral 5004"
+    },
+    {
+      "id": "colorfabb-pla-black-brown-ral-8022",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Black brown RAL 8022",
+      "hex": "#211f20",
+      "searchText": "colorfabb pla pla black brown ral 8022"
+    },
+    {
+      "id": "colorfabb-pla-black-green-ral-6012",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Black green RAL 6012",
+      "hex": "#31403d",
+      "searchText": "colorfabb pla pla black green ral 6012"
+    },
+    {
+      "id": "colorfabb-pla-black-grey-ral-7021",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Black grey RAL 7021",
+      "hex": "#2e3234",
+      "searchText": "colorfabb pla pla black grey ral 7021"
+    },
+    {
+      "id": "colorfabb-pla-black-olive-ral-6015",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Black olive RAL 6015",
+      "hex": "#3d403a",
+      "searchText": "colorfabb pla pla black olive ral 6015"
+    },
+    {
+      "id": "colorfabb-pla-black-red-ral-3007",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Black red RAL 3007",
+      "hex": "#402225",
+      "searchText": "colorfabb pla pla black red ral 3007"
+    },
+    {
+      "id": "colorfabb-pla-blue-green-ral-6004",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Blue green RAL 6004",
+      "hex": "#0e4243",
+      "searchText": "colorfabb pla pla blue green ral 6004"
+    },
+    {
+      "id": "colorfabb-pla-blue-grey-ral-7031",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Blue grey RAL 7031",
+      "hex": "#5d6970",
+      "searchText": "colorfabb pla pla blue grey ral 7031"
+    },
+    {
+      "id": "colorfabb-pla-blue-lilac-ral-4005",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Blue lilac RAL 4005",
+      "hex": "#83639d",
+      "searchText": "colorfabb pla pla blue lilac ral 4005"
+    },
+    {
+      "id": "colorfabb-pla-bottle-green-ral-6007",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Bottle green RAL 6007",
+      "hex": "#283424",
+      "searchText": "colorfabb pla pla bottle green ral 6007"
+    },
+    {
+      "id": "colorfabb-pla-bright-red-orange-ral-2008",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Bright red orange RAL 2008",
+      "hex": "#f3752c",
+      "searchText": "colorfabb pla pla bright red orange ral 2008"
+    },
+    {
+      "id": "colorfabb-pla-brilliant-blue-ral-5007",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Brilliant blue RAL 5007",
+      "hex": "#41678d",
+      "searchText": "colorfabb pla pla brilliant blue ral 5007"
+    },
+    {
+      "id": "colorfabb-pla-broom-yellow-ral-1032",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Broom yellow RAL 1032",
+      "hex": "#e2a300",
+      "searchText": "colorfabb pla pla broom yellow ral 1032"
+    },
+    {
+      "id": "colorfabb-pla-brown-beige-ral-1011",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Brown beige RAL 1011",
+      "hex": "#af804f",
+      "searchText": "colorfabb pla pla brown beige ral 1011"
+    },
+    {
+      "id": "colorfabb-pla-brown-green-ral-6008",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Brown green RAL 6008",
+      "hex": "#35382e",
+      "searchText": "colorfabb pla pla brown green ral 6008"
+    },
+    {
+      "id": "colorfabb-pla-brown-grey-ral-7013",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Brown grey RAL 7013",
+      "hex": "#555548",
+      "searchText": "colorfabb pla pla brown grey ral 7013"
+    },
+    {
+      "id": "colorfabb-pla-brown-red-ral-3011",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Brown red RAL 3011",
+      "hex": "#7e292c",
+      "searchText": "colorfabb pla pla brown red ral 3011"
+    },
+    {
+      "id": "colorfabb-pla-capri-blue-ral-5019",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Capri blue RAL 5019",
+      "hex": "#1a5784",
+      "searchText": "colorfabb pla pla capri blue ral 5019"
+    },
+    {
+      "id": "colorfabb-pla-carmine-red-ral-3002",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Carmine red RAL 3002",
+      "hex": "#a1232b",
+      "searchText": "colorfabb pla pla carmine red ral 3002"
+    },
+    {
+      "id": "colorfabb-pla-cement-grey-ral-7033",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Cement grey RAL 7033",
+      "hex": "#818979",
+      "searchText": "colorfabb pla pla cement grey ral 7033"
+    },
+    {
       "id": "colorfabb-pla-chameleon-nebula",
       "brand": "colorFabb",
       "material": "PLA",
       "name": "PLA Chameleon Nebula",
       "hex": "#444a62",
       "searchText": "colorfabb pla pla chameleon nebula"
+    },
+    {
+      "id": "colorfabb-pla-chestnut-brown-ral-8015",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Chestnut brown RAL 8015",
+      "hex": "#633a34",
+      "searchText": "colorfabb pla pla chestnut brown ral 8015"
+    },
+    {
+      "id": "colorfabb-pla-chocolate-brown-ral-8017",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Chocolate brown RAL 8017",
+      "hex": "#44322d",
+      "searchText": "colorfabb pla pla chocolate brown ral 8017"
+    },
+    {
+      "id": "colorfabb-pla-chrome-green-ral-6020",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Chrome green RAL 6020",
+      "hex": "#354733",
+      "searchText": "colorfabb pla pla chrome green ral 6020"
+    },
+    {
+      "id": "colorfabb-pla-claret-violet-ral-4004",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Claret violet RAL 4004",
+      "hex": "#691639",
+      "searchText": "colorfabb pla pla claret violet ral 4004"
+    },
+    {
+      "id": "colorfabb-pla-clay-brown-ral-8003",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Clay brown RAL 8003",
+      "hex": "#80542f",
+      "searchText": "colorfabb pla pla clay brown ral 8003"
+    },
+    {
+      "id": "colorfabb-pla-cobalt-blue-ral-5013",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Cobalt blue RAL 5013",
+      "hex": "#232d53",
+      "searchText": "colorfabb pla pla cobalt blue ral 5013"
+    },
+    {
+      "id": "colorfabb-pla-colza-yellow-ral-1021",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Colza yellow RAL 1021",
+      "hex": "#f6b600",
+      "searchText": "colorfabb pla pla colza yellow ral 1021"
+    },
+    {
+      "id": "colorfabb-pla-concrete-grey-ral-7023",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Concrete grey RAL 7023",
+      "hex": "#818479",
+      "searchText": "colorfabb pla pla concrete grey ral 7023"
+    },
+    {
+      "id": "colorfabb-pla-copper-brown-ral-8004",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Copper brown RAL 8004",
+      "hex": "#8f4e35",
+      "searchText": "colorfabb pla pla copper brown ral 8004"
+    },
+    {
+      "id": "colorfabb-pla-coral-red-ral-3016",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Coral red RAL 3016",
+      "hex": "#ac4034",
+      "searchText": "colorfabb pla pla coral red ral 3016"
+    },
+    {
+      "id": "colorfabb-pla-cream-ral-9001",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Cream RAL 9001",
+      "hex": "#efebdc",
+      "searchText": "colorfabb pla pla cream ral 9001"
+    },
+    {
+      "id": "colorfabb-pla-curry-ral-1027",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Curry RAL 1027",
+      "hex": "#a77f0e",
+      "searchText": "colorfabb pla pla curry ral 1027"
+    },
+    {
+      "id": "colorfabb-pla-daffodil-yellow-ral-1007",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Daffodil yellow RAL 1007",
+      "hex": "#e88c00",
+      "searchText": "colorfabb pla pla daffodil yellow ral 1007"
+    },
+    {
+      "id": "colorfabb-pla-dahlia-yellow-ral-1033",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Dahlia yellow RAL 1033",
+      "hex": "#f99a1c",
+      "searchText": "colorfabb pla pla dahlia yellow ral 1033"
+    },
+    {
+      "id": "colorfabb-pla-deep-orange-ral-2011",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Deep orange RAL 2011",
+      "hex": "#ec7c25",
+      "searchText": "colorfabb pla pla deep orange ral 2011"
+    },
+    {
+      "id": "colorfabb-pla-distant-blue-ral-5023",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Distant blue RAL 5023",
+      "hex": "#4d668e",
+      "searchText": "colorfabb pla pla distant blue ral 5023"
+    },
+    {
+      "id": "colorfabb-pla-dusty-grey-ral-7037",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Dusty grey RAL 7037",
+      "hex": "#7c7f7e",
+      "searchText": "colorfabb pla pla dusty grey ral 7037"
     },
     {
       "id": "colorfabb-pla-economy-black",
@@ -19620,6 +19988,174 @@
       "name": "PLA Economy White",
       "hex": "#ffffff",
       "searchText": "colorfabb pla pla economy white"
+    },
+    {
+      "id": "colorfabb-pla-emerald-green-ral-6001",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Emerald green RAL 6001",
+      "hex": "#28713e",
+      "searchText": "colorfabb pla pla emerald green ral 6001"
+    },
+    {
+      "id": "colorfabb-pla-fawn-brown-ral-8007",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Fawn brown RAL 8007",
+      "hex": "#6f4a2f",
+      "searchText": "colorfabb pla pla fawn brown ral 8007"
+    },
+    {
+      "id": "colorfabb-pla-fern-green-ral-6025",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Fern green RAL 6025",
+      "hex": "#53753c",
+      "searchText": "colorfabb pla pla fern green ral 6025"
+    },
+    {
+      "id": "colorfabb-pla-fir-green-ral-6009",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Fir green RAL 6009",
+      "hex": "#26392f",
+      "searchText": "colorfabb pla pla fir green ral 6009"
+    },
+    {
+      "id": "colorfabb-pla-flame-red-ral-3000",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Flame red RAL 3000",
+      "hex": "#ab2524",
+      "searchText": "colorfabb pla pla flame red ral 3000"
+    },
+    {
+      "id": "colorfabb-pla-gentian-blue-ral-5010",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Gentian blue RAL 5010",
+      "hex": "#13447c",
+      "searchText": "colorfabb pla pla gentian blue ral 5010"
+    },
+    {
+      "id": "colorfabb-pla-golden-yellow-ral-1004",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Golden yellow RAL 1004",
+      "hex": "#e49e00",
+      "searchText": "colorfabb pla pla golden yellow ral 1004"
+    },
+    {
+      "id": "colorfabb-pla-granite-grey-ral-7026",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Granite grey RAL 7026",
+      "hex": "#374447",
+      "searchText": "colorfabb pla pla granite grey ral 7026"
+    },
+    {
+      "id": "colorfabb-pla-graphite-black-ral-9011",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Graphite black RAL 9011",
+      "hex": "#292c2f",
+      "searchText": "colorfabb pla pla graphite black ral 9011"
+    },
+    {
+      "id": "colorfabb-pla-graphite-grey-ral-7024",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Graphite grey RAL 7024",
+      "hex": "#474a50",
+      "searchText": "colorfabb pla pla graphite grey ral 7024"
+    },
+    {
+      "id": "colorfabb-pla-grass-green-ral-6010",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Grass green RAL 6010",
+      "hex": "#3e753b",
+      "searchText": "colorfabb pla pla grass green ral 6010"
+    },
+    {
+      "id": "colorfabb-pla-green-beige-ral-1000",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Green Beige RAL 1000",
+      "hex": "#cdba88",
+      "searchText": "colorfabb pla pla green beige ral 1000"
+    },
+    {
+      "id": "colorfabb-pla-green-blue-ral-5001",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Green blue RAL 5001",
+      "hex": "#1f4764",
+      "searchText": "colorfabb pla pla green blue ral 5001"
+    },
+    {
+      "id": "colorfabb-pla-green-brown-ral-8000",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Green brown RAL 8000",
+      "hex": "#887142",
+      "searchText": "colorfabb pla pla green brown ral 8000"
+    },
+    {
+      "id": "colorfabb-pla-green-grey-ral-7009",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Green grey RAL 7009",
+      "hex": "#5b6259",
+      "searchText": "colorfabb pla pla green grey ral 7009"
+    },
+    {
+      "id": "colorfabb-pla-grey-beige-ral-1019",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Grey beige RAL 1019",
+      "hex": "#a48f7a",
+      "searchText": "colorfabb pla pla grey beige ral 1019"
+    },
+    {
+      "id": "colorfabb-pla-grey-blue-ral-5008",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Grey blue RAL 5008",
+      "hex": "#313c48",
+      "searchText": "colorfabb pla pla grey blue ral 5008"
+    },
+    {
+      "id": "colorfabb-pla-grey-brown-ral-8019",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Grey brown RAL 8019",
+      "hex": "#3f3a3a",
+      "searchText": "colorfabb pla pla grey brown ral 8019"
+    },
+    {
+      "id": "colorfabb-pla-grey-olive-ral-6006",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Grey olive RAL 6006",
+      "hex": "#40433b",
+      "searchText": "colorfabb pla pla grey olive ral 6006"
+    },
+    {
+      "id": "colorfabb-pla-grey-white-ral-9002",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Grey white RAL 9002",
+      "hex": "#ddded4",
+      "searchText": "colorfabb pla pla grey white ral 9002"
+    },
+    {
+      "id": "colorfabb-pla-heather-violet-ral-4003",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Heather violet RAL 4003",
+      "hex": "#d15b8f",
+      "searchText": "colorfabb pla pla heather violet ral 4003"
     },
     {
       "id": "colorfabb-pla-high-speed-pro-agate-grey",
@@ -19814,12 +20350,572 @@
       "searchText": "colorfabb pla pla high speed pro yellow green"
     },
     {
+      "id": "colorfabb-pla-honey-yellow-ral-1005",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Honey yellow RAL 1005",
+      "hex": "#cb8e00",
+      "searchText": "colorfabb pla pla honey yellow ral 1005"
+    },
+    {
+      "id": "colorfabb-pla-iron-grey-ral-7011",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Iron grey RAL 7011",
+      "hex": "#555d61",
+      "searchText": "colorfabb pla pla iron grey ral 7011"
+    },
+    {
+      "id": "colorfabb-pla-ivory-ral-1014",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Ivory RAL 1014",
+      "hex": "#ddc49a",
+      "searchText": "colorfabb pla pla ivory ral 1014"
+    },
+    {
+      "id": "colorfabb-pla-jet-black-ral-9005",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Jet black RAL 9005",
+      "hex": "#0a0a0d",
+      "searchText": "colorfabb pla pla jet black ral 9005"
+    },
+    {
+      "id": "colorfabb-pla-khaki-grey-ral-7008",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Khaki grey RAL 7008",
+      "hex": "#746643",
+      "searchText": "colorfabb pla pla khaki grey ral 7008"
+    },
+    {
+      "id": "colorfabb-pla-leaf-green-ral-6002",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Leaf green RAL 6002",
+      "hex": "#276235",
+      "searchText": "colorfabb pla pla leaf green ral 6002"
+    },
+    {
+      "id": "colorfabb-pla-lemon-yellow-ral-1012",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Lemon yellow RAL 1012",
+      "hex": "#ddaf27",
+      "searchText": "colorfabb pla pla lemon yellow ral 1012"
+    },
+    {
+      "id": "colorfabb-pla-light-blue-ral-5012",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Light blue RAL 5012",
+      "hex": "#3481b8",
+      "searchText": "colorfabb pla pla light blue ral 5012"
+    },
+    {
+      "id": "colorfabb-pla-light-green-ral-6027",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Light green RAL 6027",
+      "hex": "#81c0bb",
+      "searchText": "colorfabb pla pla light green ral 6027"
+    },
+    {
+      "id": "colorfabb-pla-light-grey-ral-7035",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Light grey RAL 7035",
+      "hex": "#cbd0cc",
+      "searchText": "colorfabb pla pla light grey ral 7035"
+    },
+    {
+      "id": "colorfabb-pla-light-ivory-ral-1015",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Light ivory RAL 1015",
+      "hex": "#e6d2b5",
+      "searchText": "colorfabb pla pla light ivory ral 1015"
+    },
+    {
+      "id": "colorfabb-pla-mahogany-brown-ral-8016",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Mahogany brown RAL 8016",
+      "hex": "#4c2f26",
+      "searchText": "colorfabb pla pla mahogany brown ral 8016"
+    },
+    {
+      "id": "colorfabb-pla-maize-yellow-ral-1006",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Maize yellow RAL 1006",
+      "hex": "#e29000",
+      "searchText": "colorfabb pla pla maize yellow ral 1006"
+    },
+    {
+      "id": "colorfabb-pla-may-green-ral-6017",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA May green RAL 6017",
+      "hex": "#468641",
+      "searchText": "colorfabb pla pla may green ral 6017"
+    },
+    {
+      "id": "colorfabb-pla-melon-yellow-ral-1028",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Melon yellow RAL 1028",
+      "hex": "#ff9b00",
+      "searchText": "colorfabb pla pla melon yellow ral 1028"
+    },
+    {
+      "id": "colorfabb-pla-mint-green-ral-6029",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Mint green RAL 6029",
+      "hex": "#007243",
+      "searchText": "colorfabb pla pla mint green ral 6029"
+    },
+    {
+      "id": "colorfabb-pla-mint-turquoise-ral-6033",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Mint turquoise RAL 6033",
+      "hex": "#478a84",
+      "searchText": "colorfabb pla pla mint turquoise ral 6033"
+    },
+    {
+      "id": "colorfabb-pla-moss-green-ral-6005",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Moss green RAL 6005",
+      "hex": "#0f4336",
+      "searchText": "colorfabb pla pla moss green ral 6005"
+    },
+    {
+      "id": "colorfabb-pla-moss-grey-ral-7003",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Moss grey RAL 7003",
+      "hex": "#7a7b6d",
+      "searchText": "colorfabb pla pla moss grey ral 7003"
+    },
+    {
+      "id": "colorfabb-pla-mouse-grey-ral-7005",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Mouse grey RAL 7005",
+      "hex": "#6b716f",
+      "searchText": "colorfabb pla pla mouse grey ral 7005"
+    },
+    {
+      "id": "colorfabb-pla-night-blue-ral-5022",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Night blue RAL 5022",
+      "hex": "#2f2a5a",
+      "searchText": "colorfabb pla pla night blue ral 5022"
+    },
+    {
+      "id": "colorfabb-pla-nut-brown-ral-8011",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Nut brown RAL 8011",
+      "hex": "#5a3a29",
+      "searchText": "colorfabb pla pla nut brown ral 8011"
+    },
+    {
+      "id": "colorfabb-pla-ocean-blue-ral-5020",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Ocean blue RAL 5020",
+      "hex": "#0b4151",
+      "searchText": "colorfabb pla pla ocean blue ral 5020"
+    },
+    {
+      "id": "colorfabb-pla-ochre-brown-ral-8001",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Ochre brown RAL 8001",
+      "hex": "#9c6b30",
+      "searchText": "colorfabb pla pla ochre brown ral 8001"
+    },
+    {
+      "id": "colorfabb-pla-ochre-yellow-ral-1024",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Ochre yellow RAL 1024",
+      "hex": "#ba8f4c",
+      "searchText": "colorfabb pla pla ochre yellow ral 1024"
+    },
+    {
+      "id": "colorfabb-pla-oliv-drab-ral-6022",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Oliv drab RAL 6022",
+      "hex": "#3e3c32",
+      "searchText": "colorfabb pla pla oliv drab ral 6022"
+    },
+    {
+      "id": "colorfabb-pla-olive-brown-ral-8008",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Olive brown RAL 8008",
+      "hex": "#6f4f28",
+      "searchText": "colorfabb pla pla olive brown ral 8008"
+    },
+    {
+      "id": "colorfabb-pla-olive-green-ral-6003",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Olive green RAL 6003",
+      "hex": "#4b573e",
+      "searchText": "colorfabb pla pla olive green ral 6003"
+    },
+    {
+      "id": "colorfabb-pla-olive-grey-ral-7002",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Olive grey RAL 7002",
+      "hex": "#817f68",
+      "searchText": "colorfabb pla pla olive grey ral 7002"
+    },
+    {
+      "id": "colorfabb-pla-olive-yellow-ral-1020",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Olive yellow RAL 1020",
+      "hex": "#a08f65",
+      "searchText": "colorfabb pla pla olive yellow ral 1020"
+    },
+    {
+      "id": "colorfabb-pla-opal-green-ral-6026",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Opal Green RAL 6026",
+      "hex": "#005d52",
+      "searchText": "colorfabb pla pla opal green ral 6026"
+    },
+    {
+      "id": "colorfabb-pla-orange-brown-ral-8023",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Orange brown RAL 8023",
+      "hex": "#a65e2f",
+      "searchText": "colorfabb pla pla orange brown ral 8023"
+    },
+    {
+      "id": "colorfabb-pla-orient-red-ral-3031",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Orient red RAL 3031",
+      "hex": "#ac323b",
+      "searchText": "colorfabb pla pla orient red ral 3031"
+    },
+    {
+      "id": "colorfabb-pla-oxide-red-ral-3009",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Oxide red RAL 3009",
+      "hex": "#703731",
+      "searchText": "colorfabb pla pla oxide red ral 3009"
+    },
+    {
+      "id": "colorfabb-pla-oyster-white-ral-1013",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Oyster white RAL 1013",
+      "hex": "#e3d9c6",
+      "searchText": "colorfabb pla pla oyster white ral 1013"
+    },
+    {
+      "id": "colorfabb-pla-pale-brown-ral-8025",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Pale brown RAL 8025",
+      "hex": "#755c49",
+      "searchText": "colorfabb pla pla pale brown ral 8025"
+    },
+    {
+      "id": "colorfabb-pla-pale-green-ral-6021",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Pale green RAL 6021",
+      "hex": "#86a47c",
+      "searchText": "colorfabb pla pla pale green ral 6021"
+    },
+    {
+      "id": "colorfabb-pla-papyrus-white-ral-9018",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Papyrus white RAL 9018",
+      "hex": "#cfd3cd",
+      "searchText": "colorfabb pla pla papyrus white ral 9018"
+    },
+    {
+      "id": "colorfabb-pla-pastel-blue-ral-5024",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Pastel blue RAL 5024",
+      "hex": "#6a93b0",
+      "searchText": "colorfabb pla pla pastel blue ral 5024"
+    },
+    {
+      "id": "colorfabb-pla-pastel-green-ral-6019",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Pastel green RAL 6019",
+      "hex": "#b7d9b1",
+      "searchText": "colorfabb pla pla pastel green ral 6019"
+    },
+    {
+      "id": "colorfabb-pla-pastel-orange-ral-2003",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Pastel orange RAL 2003",
+      "hex": "#fa842b",
+      "searchText": "colorfabb pla pla pastel orange ral 2003"
+    },
+    {
+      "id": "colorfabb-pla-pastel-turquoise-ral-6034",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Pastel turquoise RAL 6034",
+      "hex": "#7fb0b2",
+      "searchText": "colorfabb pla pla pastel turquoise ral 6034"
+    },
+    {
+      "id": "colorfabb-pla-pastel-violet-ral-4009",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Pastel violet RAL 4009",
+      "hex": "#a38995",
+      "searchText": "colorfabb pla pla pastel violet ral 4009"
+    },
+    {
+      "id": "colorfabb-pla-pastel-yellow-ral-1034",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Pastel yellow RAL 1034",
+      "hex": "#eb9c52",
+      "searchText": "colorfabb pla pla pastel yellow ral 1034"
+    },
+    {
+      "id": "colorfabb-pla-patina-green-ral-6000",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Patina green RAL 6000",
+      "hex": "#327662",
+      "searchText": "colorfabb pla pla patina green ral 6000"
+    },
+    {
+      "id": "colorfabb-pla-pebble-grey-ral-7032",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Pebble grey RAL 7032",
+      "hex": "#b9b9a8",
+      "searchText": "colorfabb pla pla pebble grey ral 7032"
+    },
+    {
+      "id": "colorfabb-pla-pigeon-blue-ral-5014",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Pigeon blue RAL 5014",
+      "hex": "#6c7c98",
+      "searchText": "colorfabb pla pla pigeon blue ral 5014"
+    },
+    {
+      "id": "colorfabb-pla-pine-green-ral-6028",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Pine green RAL 6028",
+      "hex": "#2d5546",
+      "searchText": "colorfabb pla pla pine green ral 6028"
+    },
+    {
+      "id": "colorfabb-pla-platinum-grey-ral-7036",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Platinum grey RAL 7036",
+      "hex": "#9a9697",
+      "searchText": "colorfabb pla pla platinum grey ral 7036"
+    },
+    {
+      "id": "colorfabb-pla-pure-green-ral-6037",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Pure green RAL 6037",
+      "hex": "#25e712",
+      "searchText": "colorfabb pla pla pure green ral 6037"
+    },
+    {
+      "id": "colorfabb-pla-pure-orange-ral-2004",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Pure orange RAL 2004",
+      "hex": "#e75b12",
+      "searchText": "colorfabb pla pla pure orange ral 2004"
+    },
+    {
+      "id": "colorfabb-pla-pure-red-ral-3028",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Pure red RAL 3028",
+      "hex": "#e72512",
+      "searchText": "colorfabb pla pla pure red ral 3028"
+    },
+    {
+      "id": "colorfabb-pla-pure-white-ral-9010",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Pure white RAL 9010",
+      "hex": "#f7f9ef",
+      "searchText": "colorfabb pla pla pure white ral 9010"
+    },
+    {
+      "id": "colorfabb-pla-purple-red-ral-3004",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Purple red RAL 3004",
+      "hex": "#701f29",
+      "searchText": "colorfabb pla pla purple red ral 3004"
+    },
+    {
+      "id": "colorfabb-pla-purple-violet-ral-4007",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Purple violet RAL 4007",
+      "hex": "#4a203b",
+      "searchText": "colorfabb pla pla purple violet ral 4007"
+    },
+    {
+      "id": "colorfabb-pla-quartz-grey-ral-7039",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Quartz grey RAL 7039",
+      "hex": "#6b695f",
+      "searchText": "colorfabb pla pla quartz grey ral 7039"
+    },
+    {
+      "id": "colorfabb-pla-raspberry-red-ral-3027",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Raspberry red RAL 3027",
+      "hex": "#b42041",
+      "searchText": "colorfabb pla pla raspberry red ral 3027"
+    },
+    {
+      "id": "colorfabb-pla-red-brown-ral-8012",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Red brown RAL 8012",
+      "hex": "#673831",
+      "searchText": "colorfabb pla pla red brown ral 8012"
+    },
+    {
+      "id": "colorfabb-pla-red-lilac-ral-4001",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Red lilac RAL 4001",
+      "hex": "#8a5a83",
+      "searchText": "colorfabb pla pla red lilac ral 4001"
+    },
+    {
+      "id": "colorfabb-pla-red-orange-ral-2001",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Red orange RAL 2001",
+      "hex": "#be4e20",
+      "searchText": "colorfabb pla pla red orange ral 2001"
+    },
+    {
+      "id": "colorfabb-pla-red-violet-ral-4002",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Red violet RAL 4002",
+      "hex": "#933d50",
+      "searchText": "colorfabb pla pla red violet ral 4002"
+    },
+    {
+      "id": "colorfabb-pla-reed-green-ral-6013",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Reed green RAL 6013",
+      "hex": "#797c5a",
+      "searchText": "colorfabb pla pla reed green ral 6013"
+    },
+    {
       "id": "colorfabb-pla-regrind",
       "brand": "colorFabb",
       "material": "PLA",
       "name": "PLA Regrind",
       "hex": "#6a6c6e",
       "searchText": "colorfabb pla pla regrind"
+    },
+    {
+      "id": "colorfabb-pla-reseda-green-ral-6011",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Reseda green RAL 6011",
+      "hex": "#68825b",
+      "searchText": "colorfabb pla pla reseda green ral 6011"
+    },
+    {
+      "id": "colorfabb-pla-rose-ral-3017",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Rose RAL 3017",
+      "hex": "#d3545f",
+      "searchText": "colorfabb pla pla rose ral 3017"
+    },
+    {
+      "id": "colorfabb-pla-ruby-red-ral-3003",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Ruby red RAL 3003",
+      "hex": "#8d1d2c",
+      "searchText": "colorfabb pla pla ruby red ral 3003"
+    },
+    {
+      "id": "colorfabb-pla-saffron-yellow-ral-1017",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Saffron yellow RAL 1017",
+      "hex": "#f6a950",
+      "searchText": "colorfabb pla pla saffron yellow ral 1017"
+    },
+    {
+      "id": "colorfabb-pla-salmon-orange-ral-2012",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Salmon orange RAL 2012",
+      "hex": "#db6a50",
+      "searchText": "colorfabb pla pla salmon orange ral 2012"
+    },
+    {
+      "id": "colorfabb-pla-salmon-pink-ral-3022",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Salmon pink RAL 3022",
+      "hex": "#d56d56",
+      "searchText": "colorfabb pla pla salmon pink ral 3022"
+    },
+    {
+      "id": "colorfabb-pla-sand-yellow-ral-1002",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Sand yellow RAL 1002",
+      "hex": "#d2aa6d",
+      "searchText": "colorfabb pla pla sand yellow ral 1002"
+    },
+    {
+      "id": "colorfabb-pla-sapphire-blue-ral-5003",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Sapphire blue RAL 5003",
+      "hex": "#2a3756",
+      "searchText": "colorfabb pla pla sapphire blue ral 5003"
     },
     {
       "id": "colorfabb-pla-semi-matte-black",
@@ -19838,12 +20934,356 @@
       "searchText": "colorfabb pla pla semi-matte white"
     },
     {
+      "id": "colorfabb-pla-sepia-brown-ral-8014",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Sepia brown RAL 8014",
+      "hex": "#49392d",
+      "searchText": "colorfabb pla pla sepia brown ral 8014"
+    },
+    {
+      "id": "colorfabb-pla-signal-black-ral-9004",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Signal black RAL 9004",
+      "hex": "#2e3032",
+      "searchText": "colorfabb pla pla signal black ral 9004"
+    },
+    {
+      "id": "colorfabb-pla-signal-blue-ral-5005",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Signal blue RAL 5005",
+      "hex": "#154889",
+      "searchText": "colorfabb pla pla signal blue ral 5005"
+    },
+    {
+      "id": "colorfabb-pla-signal-brown-ral-8002",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Signal brown RAL 8002",
+      "hex": "#7b5141",
+      "searchText": "colorfabb pla pla signal brown ral 8002"
+    },
+    {
+      "id": "colorfabb-pla-signal-green-ral-6032",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Signal green RAL 6032",
+      "hex": "#0f8558",
+      "searchText": "colorfabb pla pla signal green ral 6032"
+    },
+    {
+      "id": "colorfabb-pla-signal-grey-ral-7004",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Signal grey RAL 7004",
+      "hex": "#9ea0a1",
+      "searchText": "colorfabb pla pla signal grey ral 7004"
+    },
+    {
+      "id": "colorfabb-pla-signal-orange-ral-2010",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Signal orange RAL 2010",
+      "hex": "#d4652f",
+      "searchText": "colorfabb pla pla signal orange ral 2010"
+    },
+    {
+      "id": "colorfabb-pla-signal-red-ral-3001",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Signal red RAL 3001",
+      "hex": "#a02128",
+      "searchText": "colorfabb pla pla signal red ral 3001"
+    },
+    {
+      "id": "colorfabb-pla-signal-violet-ral-4008",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Signal violet RAL 4008",
+      "hex": "#904684",
+      "searchText": "colorfabb pla pla signal violet ral 4008"
+    },
+    {
+      "id": "colorfabb-pla-signal-white-ral-9003",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Signal white RAL 9003",
+      "hex": "#f4f8f4",
+      "searchText": "colorfabb pla pla signal white ral 9003"
+    },
+    {
+      "id": "colorfabb-pla-signal-yellow-ral-1003",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Signal yellow RAL 1003",
+      "hex": "#f9a800",
+      "searchText": "colorfabb pla pla signal yellow ral 1003"
+    },
+    {
+      "id": "colorfabb-pla-silk-grey-ral-7044",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Silk grey RAL 7044",
+      "hex": "#bdbdb2",
+      "searchText": "colorfabb pla pla silk grey ral 7044"
+    },
+    {
       "id": "colorfabb-pla-silk-purple",
       "brand": "colorFabb",
       "material": "PLA",
       "name": "PLA Silk Purple",
       "hex": "#7d3c55",
       "searchText": "colorfabb pla pla silk purple"
+    },
+    {
+      "id": "colorfabb-pla-silver-grey-ral-7001",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Silver grey RAL 7001",
+      "hex": "#8f999f",
+      "searchText": "colorfabb pla pla silver grey ral 7001"
+    },
+    {
+      "id": "colorfabb-pla-sky-blue-ral-5015",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Sky blue RAL 5015",
+      "hex": "#2874b2",
+      "searchText": "colorfabb pla pla sky blue ral 5015"
+    },
+    {
+      "id": "colorfabb-pla-slate-grey-ral-7015",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Slate grey RAL 7015",
+      "hex": "#51565c",
+      "searchText": "colorfabb pla pla slate grey ral 7015"
+    },
+    {
+      "id": "colorfabb-pla-squirrel-grey-ral-7000",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Squirrel grey RAL 7000",
+      "hex": "#7e8b92",
+      "searchText": "colorfabb pla pla squirrel grey ral 7000"
+    },
+    {
+      "id": "colorfabb-pla-steel-blue-ral-5011",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Steel blue RAL 5011",
+      "hex": "#232c3f",
+      "searchText": "colorfabb pla pla steel blue ral 5011"
+    },
+    {
+      "id": "colorfabb-pla-stone-grey-ral-7030",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Stone grey RAL 7030",
+      "hex": "#939388",
+      "searchText": "colorfabb pla pla stone grey ral 7030"
+    },
+    {
+      "id": "colorfabb-pla-strawberry-red-ral-3018",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Strawberry red RAL 3018",
+      "hex": "#d14152",
+      "searchText": "colorfabb pla pla strawberry red ral 3018"
+    },
+    {
+      "id": "colorfabb-pla-sulfur-yellow-ral-1016",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Sulfur yellow RAL 1016",
+      "hex": "#f1dd38",
+      "searchText": "colorfabb pla pla sulfur yellow ral 1016"
+    },
+    {
+      "id": "colorfabb-pla-sun-yellow-ral-1037",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Sun yellow RAL 1037",
+      "hex": "#f09200",
+      "searchText": "colorfabb pla pla sun yellow ral 1037"
+    },
+    {
+      "id": "colorfabb-pla-tarpaulin-grey-ral-7010",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Tarpaulin grey RAL 7010",
+      "hex": "#575d57",
+      "searchText": "colorfabb pla pla tarpaulin grey ral 7010"
+    },
+    {
+      "id": "colorfabb-pla-telegrey-1-ral-7045",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Telegrey 1 RAL 7045",
+      "hex": "#91969a",
+      "searchText": "colorfabb pla pla telegrey 1 ral 7045"
+    },
+    {
+      "id": "colorfabb-pla-telegrey-2-ral-7046",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Telegrey 2 RAL 7046",
+      "hex": "#82898e",
+      "searchText": "colorfabb pla pla telegrey 2 ral 7046"
+    },
+    {
+      "id": "colorfabb-pla-telegrey-4-ral-7047",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Telegrey 4 RAL 7047",
+      "hex": "#cfd0cf",
+      "searchText": "colorfabb pla pla telegrey 4 ral 7047"
+    },
+    {
+      "id": "colorfabb-pla-telemagenta-ral-4010",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Telemagenta RAL 4010",
+      "hex": "#c63678",
+      "searchText": "colorfabb pla pla telemagenta ral 4010"
+    },
+    {
+      "id": "colorfabb-pla-terra-brown-ral-8028",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Terra brown RAL 8028",
+      "hex": "#4e3b2b",
+      "searchText": "colorfabb pla pla terra brown ral 8028"
+    },
+    {
+      "id": "colorfabb-pla-tomato-red-ral-3013",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Tomato red RAL 3013",
+      "hex": "#9c322e",
+      "searchText": "colorfabb pla pla tomato red ral 3013"
+    },
+    {
+      "id": "colorfabb-pla-traffic-black-ral-9017",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Traffic black RAL 9017",
+      "hex": "#2a2d2f",
+      "searchText": "colorfabb pla pla traffic black ral 9017"
+    },
+    {
+      "id": "colorfabb-pla-traffic-blue-ral-5017",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Traffic blue RAL 5017",
+      "hex": "#0e518d",
+      "searchText": "colorfabb pla pla traffic blue ral 5017"
+    },
+    {
+      "id": "colorfabb-pla-traffic-green-ral-6024",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Traffic green RAL 6024",
+      "hex": "#008754",
+      "searchText": "colorfabb pla pla traffic green ral 6024"
+    },
+    {
+      "id": "colorfabb-pla-traffic-grey-a-ral-7042",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Traffic grey A RAL 7042",
+      "hex": "#8f9695",
+      "searchText": "colorfabb pla pla traffic grey a ral 7042"
+    },
+    {
+      "id": "colorfabb-pla-traffic-grey-b-ral-7043",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Traffic grey B RAL 7043",
+      "hex": "#4e5451",
+      "searchText": "colorfabb pla pla traffic grey b ral 7043"
+    },
+    {
+      "id": "colorfabb-pla-traffic-orange-ral-2009",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Traffic orange RAL 2009",
+      "hex": "#e15501",
+      "searchText": "colorfabb pla pla traffic orange ral 2009"
+    },
+    {
+      "id": "colorfabb-pla-traffic-purple-ral-4006",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Traffic purple RAL 4006",
+      "hex": "#992572",
+      "searchText": "colorfabb pla pla traffic purple ral 4006"
+    },
+    {
+      "id": "colorfabb-pla-traffic-red-ral-3020",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Traffic red RAL 3020",
+      "hex": "#c1121c",
+      "searchText": "colorfabb pla pla traffic red ral 3020"
+    },
+    {
+      "id": "colorfabb-pla-traffic-white-ral-9016",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Traffic white RAL 9016",
+      "hex": "#f7fbf5",
+      "searchText": "colorfabb pla pla traffic white ral 9016"
+    },
+    {
+      "id": "colorfabb-pla-traffic-yellow-ral-1023",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Traffic yellow RAL 1023",
+      "hex": "#f7b500",
+      "searchText": "colorfabb pla pla traffic yellow ral 1023"
+    },
+    {
+      "id": "colorfabb-pla-turquoise-blue-ral-5018",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Turquoise blue RAL 5018",
+      "hex": "#21888f",
+      "searchText": "colorfabb pla pla turquoise blue ral 5018"
+    },
+    {
+      "id": "colorfabb-pla-turquoise-green-ral-6016",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Turquoise green RAL 6016",
+      "hex": "#026a52",
+      "searchText": "colorfabb pla pla turquoise green ral 6016"
+    },
+    {
+      "id": "colorfabb-pla-ultramarine-blue-ral-5002",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Ultramarine blue RAL 5002",
+      "hex": "#2b2c7c",
+      "searchText": "colorfabb pla pla ultramarine blue ral 5002"
+    },
+    {
+      "id": "colorfabb-pla-umbra-grey-ral-7022",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Umbra grey RAL 7022",
+      "hex": "#4b4d46",
+      "searchText": "colorfabb pla pla umbra grey ral 7022"
+    },
+    {
+      "id": "colorfabb-pla-vermilion-ral-2002",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Vermilion RAL 2002",
+      "hex": "#c63927",
+      "searchText": "colorfabb pla pla vermilion ral 2002"
     },
     {
       "id": "colorfabb-pla-vertigo-blueberry-night",
@@ -19860,6 +21300,78 @@
       "name": "PLA Vertigo Star Night",
       "hex": "#5a5055",
       "searchText": "colorfabb pla pla vertigo star night"
+    },
+    {
+      "id": "colorfabb-pla-violet-blue-ral-5000",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Violet blue RAL 5000",
+      "hex": "#384c70",
+      "searchText": "colorfabb pla pla violet blue ral 5000"
+    },
+    {
+      "id": "colorfabb-pla-water-blue-ral-5021",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Water blue RAL 5021",
+      "hex": "#07737a",
+      "searchText": "colorfabb pla pla water blue ral 5021"
+    },
+    {
+      "id": "colorfabb-pla-window-grey-ral-7040",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Window grey RAL 7040",
+      "hex": "#9da3a6",
+      "searchText": "colorfabb pla pla window grey ral 7040"
+    },
+    {
+      "id": "colorfabb-pla-wine-red-ral-3005",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Wine red RAL 3005",
+      "hex": "#5e2028",
+      "searchText": "colorfabb pla pla wine red ral 3005"
+    },
+    {
+      "id": "colorfabb-pla-yellow-green-ral-6018",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Yellow green RAL 6018",
+      "hex": "#48a43f",
+      "searchText": "colorfabb pla pla yellow green ral 6018"
+    },
+    {
+      "id": "colorfabb-pla-yellow-grey-ral-7034",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Yellow grey RAL 7034",
+      "hex": "#939176",
+      "searchText": "colorfabb pla pla yellow grey ral 7034"
+    },
+    {
+      "id": "colorfabb-pla-yellow-olive-ral-6014",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Yellow olive RAL 6014",
+      "hex": "#444337",
+      "searchText": "colorfabb pla pla yellow olive ral 6014"
+    },
+    {
+      "id": "colorfabb-pla-yellow-orange-ral-2000",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Yellow orange RAL 2000",
+      "hex": "#dd7907",
+      "searchText": "colorfabb pla pla yellow orange ral 2000"
+    },
+    {
+      "id": "colorfabb-pla-zinc-yellow-ral-1018",
+      "brand": "colorFabb",
+      "material": "PLA",
+      "name": "PLA Zinc yellow RAL 1018",
+      "hex": "#faca30",
+      "searchText": "colorfabb pla pla zinc yellow ral 1018"
     },
     {
       "id": "colorfabb-pla-hp-black",
@@ -37201,9 +38713,9 @@
       "id": "filamentworld-abs-fire-red",
       "brand": "Filamentworld",
       "material": "ABS",
-      "name": "ABS ​​Fire Red",
+      "name": "ABS Fire Red",
       "hex": "#e72f1d",
-      "searchText": "filamentworld abs abs ​​fire red"
+      "searchText": "filamentworld abs abs fire red"
     },
     {
       "id": "filamentworld-abs-gold",
@@ -37529,9 +39041,9 @@
       "id": "filamentworld-pla-light-gray",
       "brand": "Filamentworld",
       "material": "PLA",
-      "name": "PLA ​​Light Gray",
+      "name": "PLA Light Gray",
       "hex": "#f5f5f5",
-      "searchText": "filamentworld pla pla ​​light gray"
+      "searchText": "filamentworld pla pla light gray"
     },
     {
       "id": "filamentworld-pla-magenta",
@@ -50294,6 +51806,22 @@
       "searchText": "inland abs abs yellow"
     },
     {
+      "id": "inland-asa-black",
+      "brand": "INLAND",
+      "material": "ASA",
+      "name": "PolyLite Black ASA",
+      "hex": "#17161a",
+      "searchText": "inland asa polylite black asa"
+    },
+    {
+      "id": "inland-pla-basic-white",
+      "brand": "INLAND",
+      "material": "PLA",
+      "name": "PLA Basic White",
+      "hex": "#ebf7ff",
+      "searchText": "inland pla pla basic white"
+    },
+    {
       "id": "inland-pla-glitter-black",
       "brand": "INLAND",
       "material": "PLA",
@@ -50430,6 +51958,14 @@
       "searchText": "inland pla pla true green"
     },
     {
+      "id": "inland-pla-winter-transluscent-blue-white",
+      "brand": "INLAND",
+      "material": "PLA",
+      "name": "PLA Winter Transluscent Blue-White",
+      "hex": "#69a9c2",
+      "searchText": "inland pla pla winter transluscent blue-white"
+    },
+    {
       "id": "inland-pla-black",
       "brand": "INLAND",
       "material": "PLA",
@@ -50556,6 +52092,14 @@
       "name": "PLA+ Yellow",
       "hex": "#fbe200",
       "searchText": "inland pla pla+ yellow"
+    },
+    {
+      "id": "inland-tpu-clear",
+      "brand": "INLAND",
+      "material": "TPU",
+      "name": "TPU Clear",
+      "hex": "#e4e7e5",
+      "searchText": "inland tpu tpu clear"
     },
     {
       "id": "inslogic-high-speed-marble-pla-chestnut-brown",
@@ -78910,6 +80454,14 @@
       "searchText": "recyclingfabrik pla wet elephant (gray)"
     },
     {
+      "id": "rosa3d-filaments-abs-medical-natural",
+      "brand": "ROSA3D Filaments",
+      "material": "ABS",
+      "name": "ABS Medical Natural",
+      "hex": "#f9fddd",
+      "searchText": "rosa3d filaments abs abs medical natural"
+    },
+    {
       "id": "rosa3d-filaments-abs-v0-fr-black",
       "brand": "ROSA3D Filaments",
       "material": "ABS",
@@ -78926,7 +80478,39 @@
       "searchText": "rosa3d filaments abs abs v0 fr white"
     },
     {
+      "id": "rosa3d-filaments-abs-x-black",
+      "brand": "ROSA3D Filaments",
+      "material": "ABS",
+      "name": "ABS-X Black",
+      "hex": "#020303",
+      "searchText": "rosa3d filaments abs abs-x black"
+    },
+    {
+      "id": "rosa3d-filaments-abs-x-natural",
+      "brand": "ROSA3D Filaments",
+      "material": "ABS",
+      "name": "ABS-X Natural",
+      "hex": "#edefe1",
+      "searchText": "rosa3d filaments abs abs-x natural"
+    },
+    {
+      "id": "rosa3d-filaments-abs-x-white",
+      "brand": "ROSA3D Filaments",
+      "material": "ABS",
+      "name": "ABS-X White",
+      "hex": "#edf0f2",
+      "searchText": "rosa3d filaments abs abs-x white"
+    },
+    {
       "id": "rosa3d-filaments-abs-matt-black",
+      "brand": "ROSA3D Filaments",
+      "material": "ABS",
+      "name": "ABS+ Matt Black",
+      "hex": "#292824",
+      "searchText": "rosa3d filaments abs abs+ matt black"
+    },
+    {
+      "id": "rosa3d-filaments-abs-plus-matt-black",
       "brand": "ROSA3D Filaments",
       "material": "ABS",
       "name": "ABS+ Matt Black",
@@ -78942,7 +80526,23 @@
       "searchText": "rosa3d filaments abs abs+ matt dark blue"
     },
     {
+      "id": "rosa3d-filaments-abs-plus-matt-dark-blue",
+      "brand": "ROSA3D Filaments",
+      "material": "ABS",
+      "name": "ABS+ Matt Dark Blue",
+      "hex": "#0e21ae",
+      "searchText": "rosa3d filaments abs abs+ matt dark blue"
+    },
+    {
       "id": "rosa3d-filaments-abs-matt-gray",
+      "brand": "ROSA3D Filaments",
+      "material": "ABS",
+      "name": "ABS+ Matt Gray",
+      "hex": "#5a696c",
+      "searchText": "rosa3d filaments abs abs+ matt gray"
+    },
+    {
+      "id": "rosa3d-filaments-abs-plus-matt-gray",
       "brand": "ROSA3D Filaments",
       "material": "ABS",
       "name": "ABS+ Matt Gray",
@@ -78958,7 +80558,23 @@
       "searchText": "rosa3d filaments abs abs+ matt green"
     },
     {
+      "id": "rosa3d-filaments-abs-plus-matt-green",
+      "brand": "ROSA3D Filaments",
+      "material": "ABS",
+      "name": "ABS+ Matt Green",
+      "hex": "#08d461",
+      "searchText": "rosa3d filaments abs abs+ matt green"
+    },
+    {
       "id": "rosa3d-filaments-abs-matt-juicy-orange",
+      "brand": "ROSA3D Filaments",
+      "material": "ABS",
+      "name": "ABS+ Matt Juicy Orange",
+      "hex": "#ff520e",
+      "searchText": "rosa3d filaments abs abs+ matt juicy orange"
+    },
+    {
+      "id": "rosa3d-filaments-abs-plus-matt-juicy-orange",
       "brand": "ROSA3D Filaments",
       "material": "ABS",
       "name": "ABS+ Matt Juicy Orange",
@@ -78974,7 +80590,23 @@
       "searchText": "rosa3d filaments abs abs+ matt red"
     },
     {
+      "id": "rosa3d-filaments-abs-plus-matt-red",
+      "brand": "ROSA3D Filaments",
+      "material": "ABS",
+      "name": "ABS+ Matt Red",
+      "hex": "#de1619",
+      "searchText": "rosa3d filaments abs abs+ matt red"
+    },
+    {
       "id": "rosa3d-filaments-abs-matt-white",
+      "brand": "ROSA3D Filaments",
+      "material": "ABS",
+      "name": "ABS+ Matt White",
+      "hex": "#ffffff",
+      "searchText": "rosa3d filaments abs abs+ matt white"
+    },
+    {
+      "id": "rosa3d-filaments-abs-plus-matt-white",
       "brand": "ROSA3D Filaments",
       "material": "ABS",
       "name": "ABS+ Matt White",
@@ -78990,11 +80622,35 @@
       "searchText": "rosa3d filaments abs abs+ matt yellow"
     },
     {
+      "id": "rosa3d-filaments-abs-plus-matt-yellow",
+      "brand": "ROSA3D Filaments",
+      "material": "ABS",
+      "name": "ABS+ Matt Yellow",
+      "hex": "#fbf942",
+      "searchText": "rosa3d filaments abs abs+ matt yellow"
+    },
+    {
+      "id": "rosa3d-filaments-r-abs-black",
+      "brand": "ROSA3D Filaments",
+      "material": "ABS",
+      "name": "R-ABS Black",
+      "hex": "#161619",
+      "searchText": "rosa3d filaments abs r-abs black"
+    },
+    {
       "id": "rosa3d-filaments-asa-10cf-black",
       "brand": "ROSA3D Filaments",
       "material": "ASA",
       "name": "ASA + 10CF Black",
       "hex": "#292b2b",
+      "searchText": "rosa3d filaments asa asa + 10cf black"
+    },
+    {
+      "id": "rosa3d-filaments-asa-plus-10cf-black",
+      "brand": "ROSA3D Filaments",
+      "material": "ASA",
+      "name": "ASA + 10CF Black",
+      "hex": "#292824",
       "searchText": "rosa3d filaments asa asa + 10cf black"
     },
     {
@@ -79006,6 +80662,14 @@
       "searchText": "rosa3d filaments asa asa + 10gf black"
     },
     {
+      "id": "rosa3d-filaments-asa-plus-10gf-black",
+      "brand": "ROSA3D Filaments",
+      "material": "ASA",
+      "name": "ASA + 10GF BLACK",
+      "hex": "#292824",
+      "searchText": "rosa3d filaments asa asa + 10gf black"
+    },
+    {
       "id": "rosa3d-filaments-asa-5kevlar-black",
       "brand": "ROSA3D Filaments",
       "material": "ASA",
@@ -79014,7 +80678,23 @@
       "searchText": "rosa3d filaments asa asa + 5kevlar black"
     },
     {
+      "id": "rosa3d-filaments-asa-plus-5kevlar-black",
+      "brand": "ROSA3D Filaments",
+      "material": "ASA",
+      "name": "ASA + 5Kevlar BLACK",
+      "hex": "#000000",
+      "searchText": "rosa3d filaments asa asa + 5kevlar black"
+    },
+    {
       "id": "rosa3d-filaments-asa-5kevlar-natural",
+      "brand": "ROSA3D Filaments",
+      "material": "ASA",
+      "name": "ASA + 5Kevlar Natural",
+      "hex": "#f9f3e5",
+      "searchText": "rosa3d filaments asa asa + 5kevlar natural"
+    },
+    {
+      "id": "rosa3d-filaments-asa-plus-5kevlar-natural",
       "brand": "ROSA3D Filaments",
       "material": "ASA",
       "name": "ASA + 5Kevlar Natural",
@@ -79086,6 +80766,22 @@
       "searchText": "rosa3d filaments asa asa silver"
     },
     {
+      "id": "rosa3d-filaments-asa-turquoise",
+      "brand": "ROSA3D Filaments",
+      "material": "ASA",
+      "name": "ASA Turquoise",
+      "hex": "#058b8c",
+      "searchText": "rosa3d filaments asa asa turquoise"
+    },
+    {
+      "id": "rosa3d-filaments-asa-white",
+      "brand": "ROSA3D Filaments",
+      "material": "ASA",
+      "name": "ASA White",
+      "hex": "#f8faf8",
+      "searchText": "rosa3d filaments asa asa white"
+    },
+    {
       "id": "rosa3d-filaments-asa-yellow",
       "brand": "ROSA3D Filaments",
       "material": "ASA",
@@ -79094,9 +80790,25 @@
       "searchText": "rosa3d filaments asa asa yellow"
     },
     {
+      "id": "rosa3d-filaments-asa-x-black",
+      "brand": "ROSA3D Filaments",
+      "material": "ASA",
+      "name": "ASA-X Black",
+      "hex": "#000000",
+      "searchText": "rosa3d filaments asa asa-x black"
+    },
+    {
+      "id": "rosa3d-filaments-asa-x-white",
+      "brand": "ROSA3D Filaments",
+      "material": "ASA",
+      "name": "ASA-X White",
+      "hex": "#f5f5f5",
+      "searchText": "rosa3d filaments asa asa-x white"
+    },
+    {
       "id": "rosa3d-filaments-biocreate-ht-black",
       "brand": "ROSA3D Filaments",
-      "material": "Bio",
+      "material": "BIO",
       "name": "BioCREATE HT Black",
       "hex": "#000000",
       "searchText": "rosa3d filaments bio biocreate ht black"
@@ -79104,7 +80816,7 @@
     {
       "id": "rosa3d-filaments-biocreate-ht-coral",
       "brand": "ROSA3D Filaments",
-      "material": "Bio",
+      "material": "BIO",
       "name": "BioCREATE HT Coral",
       "hex": "#ff9b7d",
       "searchText": "rosa3d filaments bio biocreate ht coral"
@@ -79112,7 +80824,7 @@
     {
       "id": "rosa3d-filaments-biocreate-ht-lavender",
       "brand": "ROSA3D Filaments",
-      "material": "Bio",
+      "material": "BIO",
       "name": "BioCREATE HT Lavender",
       "hex": "#d9d5ea",
       "searchText": "rosa3d filaments bio biocreate ht lavender"
@@ -79120,7 +80832,7 @@
     {
       "id": "rosa3d-filaments-biocreate-ht-light-gray",
       "brand": "ROSA3D Filaments",
-      "material": "Bio",
+      "material": "BIO",
       "name": "BioCREATE HT Light Gray",
       "hex": "#ecefed",
       "searchText": "rosa3d filaments bio biocreate ht light gray"
@@ -79128,7 +80840,7 @@
     {
       "id": "rosa3d-filaments-biocreate-ht-reseda-green",
       "brand": "ROSA3D Filaments",
-      "material": "Bio",
+      "material": "BIO",
       "name": "BioCREATE HT Reseda Green",
       "hex": "#add7ab",
       "searchText": "rosa3d filaments bio biocreate ht reseda green"
@@ -79136,7 +80848,7 @@
     {
       "id": "rosa3d-filaments-biocreate-ht-white",
       "brand": "ROSA3D Filaments",
-      "material": "Bio",
+      "material": "BIO",
       "name": "BioCREATE HT White",
       "hex": "#ffffff",
       "searchText": "rosa3d filaments bio biocreate ht white"
@@ -79144,7 +80856,7 @@
     {
       "id": "rosa3d-filaments-biowood",
       "brand": "ROSA3D Filaments",
-      "material": "BioWOOD",
+      "material": "BIOWOOD",
       "name": "BioWOOD",
       "hex": "#ba8960",
       "searchText": "rosa3d filaments biowood biowood"
@@ -79152,10 +80864,26 @@
     {
       "id": "rosa3d-filaments-biowood-black-oak",
       "brand": "ROSA3D Filaments",
-      "material": "BioWOOD",
+      "material": "BIOWOOD",
       "name": "BioWOOD Black Oak",
-      "hex": "#292b2b",
+      "hex": "#292824",
       "searchText": "rosa3d filaments biowood biowood black oak"
+    },
+    {
+      "id": "rosa3d-filaments-hips-high-impact-ht-black",
+      "brand": "ROSA3D Filaments",
+      "material": "HIPS",
+      "name": "HIPS High Impact, HT Black",
+      "hex": "#000000",
+      "searchText": "rosa3d filaments hips hips high impact, ht black"
+    },
+    {
+      "id": "rosa3d-filaments-hips-high-impact-ht-natural-white",
+      "brand": "ROSA3D Filaments",
+      "material": "HIPS",
+      "name": "HIPS High Impact, HT Natural White",
+      "hex": "#e9e7e7",
+      "searchText": "rosa3d filaments hips hips high impact, ht natural white"
     },
     {
       "id": "rosa3d-filaments-pa12-15cf",
@@ -79164,6 +80892,22 @@
       "name": "PA12 + 15CF",
       "hex": "#292824",
       "searchText": "rosa3d filaments pa12 pa12 + 15cf"
+    },
+    {
+      "id": "rosa3d-filaments-pa12-plus-15cf",
+      "brand": "ROSA3D Filaments",
+      "material": "PA12",
+      "name": "PA12 + 15CF",
+      "hex": "#292824",
+      "searchText": "rosa3d filaments pa12 pa12 + 15cf"
+    },
+    {
+      "id": "rosa3d-filaments-pc-plus-ptfe-white",
+      "brand": "ROSA3D Filaments",
+      "material": "PC",
+      "name": "PC + PTFE White",
+      "hex": "#f5f5f5",
+      "searchText": "rosa3d filaments pc pc + ptfe white"
     },
     {
       "id": "rosa3d-filaments-pc-ptfe-white",
@@ -79182,7 +80926,7 @@
       "searchText": "rosa3d filaments pc pc-pbt(ht-uv-impact) black"
     },
     {
-      "id": "rosa3d-filaments-pcpbt-15cf-ht-uv-impact-black",
+      "id": "rosa3d-filaments-pc-pbt-plus-15cf-ht-uv-impact-black",
       "brand": "ROSA3D Filaments",
       "material": "PC",
       "name": "PC/PBT + 15CF (HT-UV-IMPACT) Black",
@@ -79190,7 +80934,7 @@
       "searchText": "rosa3d filaments pc pc/pbt + 15cf (ht-uv-impact) black"
     },
     {
-      "id": "rosa3d-filaments-pcpbt-15gf-ht-uv-impact-black",
+      "id": "rosa3d-filaments-pc-pbt-plus-15gf-ht-uv-impact-black",
       "brand": "ROSA3D Filaments",
       "material": "PC",
       "name": "PC/PBT + 15GF (HT-UV-IMPACT) Black",
@@ -79198,7 +80942,7 @@
       "searchText": "rosa3d filaments pc pc/pbt + 15gf (ht-uv-impact) black"
     },
     {
-      "id": "rosa3d-filaments-pcpbt-15gf-ht-uv-impact-gray",
+      "id": "rosa3d-filaments-pc-pbt-plus-15gf-ht-uv-impact-gray",
       "brand": "ROSA3D Filaments",
       "material": "PC",
       "name": "PC/PBT + 15GF (HT-UV-IMPACT) Gray",
@@ -79206,7 +80950,7 @@
       "searchText": "rosa3d filaments pc pc/pbt + 15gf (ht-uv-impact) gray"
     },
     {
-      "id": "rosa3d-filaments-pcpbt-15gf-ht-uv-impact-natural",
+      "id": "rosa3d-filaments-pc-pbt-plus-15gf-ht-uv-impact-natural",
       "brand": "ROSA3D Filaments",
       "material": "PC",
       "name": "PC/PBT + 15GF (HT-UV-IMPACT) Natural",
@@ -79250,7 +80994,7 @@
       "brand": "ROSA3D Filaments",
       "material": "PCTG",
       "name": "PCTG Dark Brown",
-      "hex": "#774b3f",
+      "hex": "#a45b27",
       "searchText": "rosa3d filaments pctg pctg dark brown"
     },
     {
@@ -79258,7 +81002,7 @@
       "brand": "ROSA3D Filaments",
       "material": "PCTG",
       "name": "PCTG Glitter Brillant Silver",
-      "hex": "#bac4c4",
+      "hex": "#c3ccd5",
       "searchText": "rosa3d filaments pctg pctg glitter brillant silver"
     },
     {
@@ -79302,6 +81046,14 @@
       "searchText": "rosa3d filaments pctg pctg light gray"
     },
     {
+      "id": "rosa3d-filaments-pctg-navy-blue-transparent",
+      "brand": "ROSA3D Filaments",
+      "material": "PCTG",
+      "name": "PCTG Navy Blue Transparent",
+      "hex": "#2c3449",
+      "searchText": "rosa3d filaments pctg pctg navy blue transparent"
+    },
+    {
       "id": "rosa3d-filaments-pctg-red",
       "brand": "ROSA3D Filaments",
       "material": "PCTG",
@@ -79342,6 +81094,14 @@
       "searchText": "rosa3d filaments pctg pctg yellow"
     },
     {
+      "id": "rosa3d-filaments-pctg-plus-10cf-black",
+      "brand": "ROSA3D Filaments",
+      "material": "PCTG",
+      "name": "PCTG+10CF Black",
+      "hex": "#292824",
+      "searchText": "rosa3d filaments pctg pctg+10cf black"
+    },
+    {
       "id": "rosa3d-filaments-pctg10cf-black",
       "brand": "ROSA3D Filaments",
       "material": "PCTG",
@@ -79350,12 +81110,28 @@
       "searchText": "rosa3d filaments pctg pctg+10cf black"
     },
     {
+      "id": "rosa3d-filaments-pctg-plus-10gf-black",
+      "brand": "ROSA3D Filaments",
+      "material": "PCTG",
+      "name": "PCTG+10GF Black",
+      "hex": "#292824",
+      "searchText": "rosa3d filaments pctg pctg+10gf black"
+    },
+    {
       "id": "rosa3d-filaments-pctg10gf-black",
       "brand": "ROSA3D Filaments",
       "material": "PCTG",
       "name": "PCTG+10GF Black",
       "hex": "#292824",
       "searchText": "rosa3d filaments pctg pctg+10gf black"
+    },
+    {
+      "id": "rosa3d-filaments-pctg-plus-10gf-light-gray",
+      "brand": "ROSA3D Filaments",
+      "material": "PCTG",
+      "name": "PCTG+10GF Light Gray",
+      "hex": "#ecefed",
+      "searchText": "rosa3d filaments pctg pctg+10gf light gray"
     },
     {
       "id": "rosa3d-filaments-pctg10gf-light-gray",
@@ -79374,11 +81150,27 @@
       "searchText": "rosa3d filaments pctg r-pctg black"
     },
     {
+      "id": "rosa3d-filaments-onefil3d-petg-black",
+      "brand": "ROSA3D Filaments",
+      "material": "PETG",
+      "name": "OneFIL3D PETG Black",
+      "hex": "#020303",
+      "searchText": "rosa3d filaments petg onefil3d petg black"
+    },
+    {
       "id": "rosa3d-filaments-pet-g-10cf",
       "brand": "ROSA3D Filaments",
       "material": "PETG",
       "name": "PET-G + 10CF",
       "hex": "#292b2b",
+      "searchText": "rosa3d filaments petg pet-g + 10cf"
+    },
+    {
+      "id": "rosa3d-filaments-pet-g-plus-10cf",
+      "brand": "ROSA3D Filaments",
+      "material": "PETG",
+      "name": "PET-G + 10CF",
+      "hex": "#292824",
       "searchText": "rosa3d filaments petg pet-g + 10cf"
     },
     {
@@ -79470,12 +81262,28 @@
       "searchText": "rosa3d filaments petg pet-g standard hs black"
     },
     {
+      "id": "rosa3d-filaments-pet-g-standard-hs-blue-ice-transparent",
+      "brand": "ROSA3D Filaments",
+      "material": "PETG",
+      "name": "PET-G Standard HS Blue Ice Transparent",
+      "hex": "#74e5ea",
+      "searchText": "rosa3d filaments petg pet-g standard hs blue ice transparent"
+    },
+    {
       "id": "rosa3d-filaments-pet-g-standard-hs-blue-sky-transparent",
       "brand": "ROSA3D Filaments",
       "material": "PETG",
       "name": "PET-G Standard HS Blue Sky Transparent",
       "hex": "#0353ba",
       "searchText": "rosa3d filaments petg pet-g standard hs blue sky transparent"
+    },
+    {
+      "id": "rosa3d-filaments-pet-g-standard-hs-bottle-green-transparent",
+      "brand": "ROSA3D Filaments",
+      "material": "PETG",
+      "name": "PET-G Standard HS Bottle Green Transparent",
+      "hex": "#00773a",
+      "searchText": "rosa3d filaments petg pet-g standard hs bottle green transparent"
     },
     {
       "id": "rosa3d-filaments-pet-g-standard-hs-bright-yellow",
@@ -79500,6 +81308,14 @@
       "name": "PET-G Standard HS Chocolate Brown",
       "hex": "#543c27",
       "searchText": "rosa3d filaments petg pet-g standard hs chocolate brown"
+    },
+    {
+      "id": "rosa3d-filaments-pet-g-standard-hs-deep-violet-transparent",
+      "brand": "ROSA3D Filaments",
+      "material": "PETG",
+      "name": "PET-G Standard HS Deep Violet Transparent",
+      "hex": "#7a3768",
+      "searchText": "rosa3d filaments petg pet-g standard hs deep violet transparent"
     },
     {
       "id": "rosa3d-filaments-pet-g-standard-hs-glitter-brillant-silver",
@@ -79618,7 +81434,7 @@
       "brand": "ROSA3D Filaments",
       "material": "PETG",
       "name": "PET-G Standard HS Neon Green",
-      "hex": "#8cff96",
+      "hex": "#0bd10b",
       "searchText": "rosa3d filaments petg pet-g standard hs neon green"
     },
     {
@@ -79638,12 +81454,28 @@
       "searchText": "rosa3d filaments petg pet-g standard hs olive brown"
     },
     {
+      "id": "rosa3d-filaments-pet-g-standard-hs-orange-transparent",
+      "brand": "ROSA3D Filaments",
+      "material": "PETG",
+      "name": "PET-G Standard HS Orange Transparent",
+      "hex": "#f55928",
+      "searchText": "rosa3d filaments petg pet-g standard hs orange transparent"
+    },
+    {
       "id": "rosa3d-filaments-pet-g-standard-hs-pearl-gold",
       "brand": "ROSA3D Filaments",
       "material": "PETG",
       "name": "PET-G Standard HS Pearl Gold",
       "hex": "#9a8066",
       "searchText": "rosa3d filaments petg pet-g standard hs pearl gold"
+    },
+    {
+      "id": "rosa3d-filaments-pet-g-standard-hs-pink-transparent",
+      "brand": "ROSA3D Filaments",
+      "material": "PETG",
+      "name": "PET-G Standard HS Pink Transparent",
+      "hex": "#e80078",
+      "searchText": "rosa3d filaments petg pet-g standard hs pink transparent"
     },
     {
       "id": "rosa3d-filaments-pet-g-standard-hs-pure-green-transparent",
@@ -79676,6 +81508,14 @@
       "name": "PET-G Standard HS Red Wine Transparent",
       "hex": "#d21b3c",
       "searchText": "rosa3d filaments petg pet-g standard hs red wine transparent"
+    },
+    {
+      "id": "rosa3d-filaments-pet-g-standard-hs-rose-beige-skin",
+      "brand": "ROSA3D Filaments",
+      "material": "PETG",
+      "name": "PET-G Standard HS Rose Beige Skin",
+      "hex": "#f7bfa6",
+      "searchText": "rosa3d filaments petg pet-g standard hs rose beige skin"
     },
     {
       "id": "rosa3d-filaments-pet-g-standard-hs-signal-blue",
@@ -79764,6 +81604,30 @@
       "name": "PET-G V0 FR Black",
       "hex": "#292824",
       "searchText": "rosa3d filaments petg pet-g v0 fr black"
+    },
+    {
+      "id": "rosa3d-filaments-petg-esd-black",
+      "brand": "ROSA3D Filaments",
+      "material": "PETG",
+      "name": "PETG ESD Black",
+      "hex": "#000000",
+      "searchText": "rosa3d filaments petg petg esd black"
+    },
+    {
+      "id": "rosa3d-filaments-petg-ptfe-black",
+      "brand": "ROSA3D Filaments",
+      "material": "PETG",
+      "name": "PETG-PTFE Black",
+      "hex": "#000000",
+      "searchText": "rosa3d filaments petg petg-ptfe black"
+    },
+    {
+      "id": "rosa3d-filaments-petg-ptfe-white",
+      "brand": "ROSA3D Filaments",
+      "material": "PETG",
+      "name": "PETG-PTFE White",
+      "hex": "#f2f0eb",
+      "searchText": "rosa3d filaments petg petg-ptfe white"
     },
     {
       "id": "rosa3d-filaments-r-pet-g-black",
@@ -80814,6 +82678,22 @@
       "searchText": "rosa3d filaments pla refill pla starter coral pastel"
     },
     {
+      "id": "rosa3d-filaments-pp-gf30-black",
+      "brand": "ROSA3D Filaments",
+      "material": "PP",
+      "name": "PP GF30 Black",
+      "hex": "#000000",
+      "searchText": "rosa3d filaments pp pp gf30 black"
+    },
+    {
+      "id": "rosa3d-filaments-pp-gf30-natural",
+      "brand": "ROSA3D Filaments",
+      "material": "PP",
+      "name": "PP GF30 Natural",
+      "hex": "#edefe1",
+      "searchText": "rosa3d filaments pp pp gf30 natural"
+    },
+    {
       "id": "rosa3d-filaments-pva-2-natural",
       "brand": "ROSA3D Filaments",
       "material": "PVA",
@@ -80826,8 +82706,48 @@
       "brand": "ROSA3D Filaments",
       "material": "TPU",
       "name": "ROSA TPU Automotive 15 Glass Fiber Black, HT",
-      "hex": "#292b2b",
+      "hex": "#292824",
       "searchText": "rosa3d filaments tpu rosa tpu automotive 15 glass fiber black, ht"
+    },
+    {
+      "id": "rosa3d-filaments-rosa-tpu-hardtech-plus-83d-black",
+      "brand": "ROSA3D Filaments",
+      "material": "TPU",
+      "name": "ROSA TPU HardTech+ 83D Black",
+      "hex": "#545252",
+      "searchText": "rosa3d filaments tpu rosa tpu hardtech+ 83d black"
+    },
+    {
+      "id": "rosa3d-filaments-rosa-tpu-hardtech-plus-83d-blue",
+      "brand": "ROSA3D Filaments",
+      "material": "TPU",
+      "name": "ROSA TPU HardTech+ 83D Blue",
+      "hex": "#0099e6",
+      "searchText": "rosa3d filaments tpu rosa tpu hardtech+ 83d blue"
+    },
+    {
+      "id": "rosa3d-filaments-rosa-tpu-hardtech-plus-83d-gray",
+      "brand": "ROSA3D Filaments",
+      "material": "TPU",
+      "name": "ROSA TPU HardTech+ 83D Gray",
+      "hex": "#808080",
+      "searchText": "rosa3d filaments tpu rosa tpu hardtech+ 83d gray"
+    },
+    {
+      "id": "rosa3d-filaments-rosa-tpu-hardtech-plus-83d-red",
+      "brand": "ROSA3D Filaments",
+      "material": "TPU",
+      "name": "ROSA TPU HardTech+ 83D Red",
+      "hex": "#e72f1d",
+      "searchText": "rosa3d filaments tpu rosa tpu hardtech+ 83d red"
+    },
+    {
+      "id": "rosa3d-filaments-rosa-tpu-hardtech-plus-83d-transparent",
+      "brand": "ROSA3D Filaments",
+      "material": "TPU",
+      "name": "ROSA TPU HardTech+ 83D Transparent",
+      "hex": "#f2ece9",
+      "searchText": "rosa3d filaments tpu rosa tpu hardtech+ 83d transparent"
     },
     {
       "id": "rosa3d-filaments-rosa-tpu-hardtech-83d-impact-abrasive-uv-h2o-microbe-resistant-black",
@@ -81028,6 +82948,38 @@
       "name": "ROSA-Flex 96A White",
       "hex": "#f5f5f5",
       "searchText": "rosa3d filaments tpu rosa-flex 96a white"
+    },
+    {
+      "id": "rosa3d-filaments-tpu-flex-lw-anthracite-black",
+      "brand": "ROSA3D Filaments",
+      "material": "TPU",
+      "name": "TPU Flex LW Anthracite Black",
+      "hex": "#020303",
+      "searchText": "rosa3d filaments tpu tpu flex lw anthracite black"
+    },
+    {
+      "id": "rosa3d-filaments-tpu-flex-lw-gray",
+      "brand": "ROSA3D Filaments",
+      "material": "TPU",
+      "name": "TPU Flex LW Gray",
+      "hex": "#808e93",
+      "searchText": "rosa3d filaments tpu tpu flex lw gray"
+    },
+    {
+      "id": "rosa3d-filaments-tpu-flex-lw-white",
+      "brand": "ROSA3D Filaments",
+      "material": "TPU",
+      "name": "TPU Flex LW White",
+      "hex": "#efefef",
+      "searchText": "rosa3d filaments tpu tpu flex lw white"
+    },
+    {
+      "id": "rosa3d-filaments-tpu-flex-lw-yellow",
+      "brand": "ROSA3D Filaments",
+      "material": "TPU",
+      "name": "TPU Flex LW Yellow",
+      "hex": "#e2ff4d",
+      "searchText": "rosa3d filaments tpu tpu flex lw yellow"
     },
     {
       "id": "sainsmart-black-abs",
