@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-09-22T04:32:17.188Z",
-  "entryCount": 12848,
+  "lastSynced": "2026-09-23T04:33:00.774Z",
+  "entryCount": 12855,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -76014,6 +76014,46 @@
       "searchText": "prusament pla pla jet black"
     },
     {
+      "id": "prusament-pla-lightweight-army-green",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "PLA Lightweight Army Green",
+      "hex": "#524f2f",
+      "searchText": "prusament pla pla lightweight army green"
+    },
+    {
+      "id": "prusament-pla-lightweight-chocolate-brown",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "PLA Lightweight Chocolate Brown",
+      "hex": "#4c2d17",
+      "searchText": "prusament pla pla lightweight chocolate brown"
+    },
+    {
+      "id": "prusament-pla-lightweight-coral-orange",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "PLA Lightweight Coral Orange",
+      "hex": "#ff7041",
+      "searchText": "prusament pla pla lightweight coral orange"
+    },
+    {
+      "id": "prusament-pla-lightweight-galaxy-black",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "PLA Lightweight Galaxy Black",
+      "hex": "#4b4545",
+      "searchText": "prusament pla pla lightweight galaxy black"
+    },
+    {
+      "id": "prusament-pla-lightweight-natural",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "PLA Lightweight Natural",
+      "hex": "#f9f8f6",
+      "searchText": "prusament pla pla lightweight natural"
+    },
+    {
       "id": "prusament-pla-lipstick-red",
       "brand": "Prusament",
       "material": "PLA",
@@ -95302,6 +95342,14 @@
       "searchText": "sunlu petg petg brown coffee"
     },
     {
+      "id": "sunlu-petg-cyan",
+      "brand": "SUNLU",
+      "material": "PETG",
+      "name": "PETG Cyan",
+      "hex": "#00a3e0",
+      "searchText": "sunlu petg petg cyan"
+    },
+    {
       "id": "sunlu-petg-green",
       "brand": "SUNLU",
       "material": "PETG",
@@ -95316,6 +95364,14 @@
       "name": "PETG Grey",
       "hex": "#5c5b59",
       "searchText": "sunlu petg petg grey"
+    },
+    {
+      "id": "sunlu-petg-magenta",
+      "brand": "SUNLU",
+      "material": "PETG",
+      "name": "PETG Magenta",
+      "hex": "#c52e79",
+      "searchText": "sunlu petg petg magenta"
     },
     {
       "id": "sunlu-petg-orange",
@@ -95418,7 +95474,7 @@
       "brand": "SUNLU",
       "material": "PETG",
       "name": "PETG Yellow",
-      "hex": "#fffb00",
+      "hex": "#fff13f",
       "searchText": "sunlu petg petg yellow"
     },
     {
