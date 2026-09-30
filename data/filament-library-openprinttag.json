@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-09-29T04:35:06.975Z",
-  "entryCount": 12855,
+  "lastSynced": "2026-09-30T04:35:41.673Z",
+  "entryCount": 12942,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -22822,7 +22822,7 @@
       "searchText": "das filament petg petg flammschutz schwarz"
     },
     {
-      "id": "das-filament-petg-grasgrn",
+      "id": "das-filament-petg-grasgrun",
       "brand": "Das Filament",
       "material": "PETG",
       "name": "PETG Grasgrün",
@@ -22870,7 +22870,7 @@
       "searchText": "das filament petg petg metallic blau"
     },
     {
-      "id": "das-filament-petg-militr-grn",
+      "id": "das-filament-petg-militar-grun",
       "brand": "Das Filament",
       "material": "PETG",
       "name": "PETG Militär-Grün",
@@ -22886,7 +22886,7 @@
       "searchText": "das filament petg petg natur"
     },
     {
-      "id": "das-filament-petg-opalgrn",
+      "id": "das-filament-petg-opalgrun",
       "brand": "Das Filament",
       "material": "PETG",
       "name": "PETG Opalgrün",
@@ -22950,7 +22950,7 @@
       "searchText": "das filament petg petg transluzent neongelb"
     },
     {
-      "id": "das-filament-petg-transluzent-neongrn",
+      "id": "das-filament-petg-transluzent-neongrun",
       "brand": "Das Filament",
       "material": "PETG",
       "name": "PETG Transluzent Neongrün",
@@ -22958,7 +22958,7 @@
       "searchText": "das filament petg petg transluzent neongrün"
     },
     {
-      "id": "das-filament-petg-transluzent-wassergrn",
+      "id": "das-filament-petg-transluzent-wassergrun",
       "brand": "Das Filament",
       "material": "PETG",
       "name": "PETG Transluzent Wassergrün",
@@ -22974,7 +22974,7 @@
       "searchText": "das filament petg petg transparent blau"
     },
     {
-      "id": "das-filament-petg-transparent-neongrn",
+      "id": "das-filament-petg-transparent-neongrun",
       "brand": "Das Filament",
       "material": "PETG",
       "name": "PETG Transparent Neongrün",
@@ -22990,7 +22990,7 @@
       "searchText": "das filament petg petg transparent rot"
     },
     {
-      "id": "das-filament-petg-wei",
+      "id": "das-filament-petg-weiss",
       "brand": "Das Filament",
       "material": "PETG",
       "name": "PETG Weiß",
@@ -23004,6 +23004,22 @@
       "name": "PLA Anthrazit V2",
       "hex": "#6a6c6e",
       "searchText": "das filament pla pla anthrazit v2"
+    },
+    {
+      "id": "das-filament-pla-apricot",
+      "brand": "Das Filament",
+      "material": "PLA",
+      "name": "PLA Apricot",
+      "hex": "#e69e7a",
+      "searchText": "das filament pla pla apricot"
+    },
+    {
+      "id": "das-filament-pla-blue-pearl-v2",
+      "brand": "Das Filament",
+      "material": "PLA",
+      "name": "PLA Blue Pearl V2",
+      "hex": "#2a4552",
+      "searchText": "das filament pla pla blue pearl v2"
     },
     {
       "id": "das-filament-pla-bronze",
@@ -23022,14 +23038,6 @@
       "searchText": "das filament pla pla feuerrot"
     },
     {
-      "id": "das-filament-pla-glow-grn-v2",
-      "brand": "Das Filament",
-      "material": "PLA",
-      "name": "PLA Glow-Grün V2",
-      "hex": "#70fa00",
-      "searchText": "das filament pla pla glow-grün v2"
-    },
-    {
       "id": "das-filament-pla-gold-v2",
       "brand": "Das Filament",
       "material": "PLA",
@@ -23038,7 +23046,7 @@
       "searchText": "das filament pla pla gold v2"
     },
     {
-      "id": "das-filament-pla-grasgrn",
+      "id": "das-filament-pla-grasgrun",
       "brand": "Das Filament",
       "material": "PLA",
       "name": "PLA Grasgrün",
@@ -23054,7 +23062,7 @@
       "searchText": "das filament pla pla grau"
     },
     {
-      "id": "das-filament-pla-grn",
+      "id": "das-filament-pla-grun",
       "brand": "Das Filament",
       "material": "PLA",
       "name": "PLA Grün",
@@ -23062,12 +23070,20 @@
       "searchText": "das filament pla pla grün"
     },
     {
-      "id": "das-filament-pla-grngold",
+      "id": "das-filament-pla-grungold",
       "brand": "Das Filament",
       "material": "PLA",
       "name": "PLA Grüngold",
       "hex": "#686751",
       "searchText": "das filament pla pla grüngold"
+    },
+    {
+      "id": "das-filament-pla-grungold-v2",
+      "brand": "Das Filament",
+      "material": "PLA",
+      "name": "PLA Grüngold V2",
+      "hex": "#4b4d46",
+      "searchText": "das filament pla pla grüngold v2"
     },
     {
       "id": "das-filament-pla-himmelblau",
@@ -23094,7 +23110,7 @@
       "searchText": "das filament pla pla kirschrot"
     },
     {
-      "id": "das-filament-pla-knigsblau",
+      "id": "das-filament-pla-konigsblau",
       "brand": "Das Filament",
       "material": "PLA",
       "name": "PLA Königsblau",
@@ -23190,7 +23206,15 @@
       "searchText": "das filament pla pla sonnengelb"
     },
     {
-      "id": "das-filament-pla-tannengrn",
+      "id": "das-filament-pla-super-pink",
+      "brand": "Das Filament",
+      "material": "PLA",
+      "name": "PLA Super Pink",
+      "hex": "#ff0086",
+      "searchText": "das filament pla pla super pink"
+    },
+    {
+      "id": "das-filament-pla-tannengrun",
       "brand": "Das Filament",
       "material": "PLA",
       "name": "PLA Tannengrün",
@@ -23214,7 +23238,7 @@
       "searchText": "das filament pla pla toms3d infinity blue"
     },
     {
-      "id": "das-filament-pla-tonwei-matt",
+      "id": "das-filament-pla-tonweiss-matt",
       "brand": "Das Filament",
       "material": "PLA",
       "name": "PLA Tonweiß matt",
@@ -23230,7 +23254,7 @@
       "searchText": "das filament pla pla transluzent-blau"
     },
     {
-      "id": "das-filament-pla-transluzent-grn",
+      "id": "das-filament-pla-transluzent-grun",
       "brand": "Das Filament",
       "material": "PLA",
       "name": "PLA Transluzent-Grün",
@@ -23246,7 +23270,7 @@
       "searchText": "das filament pla pla vanille"
     },
     {
-      "id": "das-filament-pla-wei",
+      "id": "das-filament-pla-weiss",
       "brand": "Das Filament",
       "material": "PLA",
       "name": "PLA Weiß",
@@ -23270,7 +23294,7 @@
       "searchText": "das filament tpu tpu v2 (flexibel) schwarz"
     },
     {
-      "id": "das-filament-tpu-v2-flexibel-wei",
+      "id": "das-filament-tpu-v2-flexibel-weiss",
       "brand": "Das Filament",
       "material": "TPU",
       "name": "TPU V2 (flexibel) Weiß",
@@ -39898,7 +39922,7 @@
       "brand": "Fillamentum",
       "material": "ASA",
       "name": "ASA Extrafill \"Green Grass\"",
-      "hex": "#91cb67",
+      "hex": "#74cf6d",
       "searchText": "fillamentum asa asa extrafill \"green grass\""
     },
     {
@@ -39930,7 +39954,7 @@
       "brand": "Fillamentum",
       "material": "ASA",
       "name": "ASA Extrafill \"Sky Blue\"",
-      "hex": "#40b6e4",
+      "hex": "#0078bf",
       "searchText": "fillamentum asa asa extrafill \"sky blue\""
     },
     {
@@ -39962,7 +39986,7 @@
       "brand": "Fillamentum",
       "material": "ASA",
       "name": "ASA Extrafill \"Traffic White\"",
-      "hex": "#ffffff",
+      "hex": "#f5f0ec",
       "searchText": "fillamentum asa asa extrafill \"traffic white\""
     },
     {
@@ -40178,7 +40202,7 @@
       "brand": "Fillamentum",
       "material": "CPE",
       "name": "CPE HG100 \"UFO Blue Metallic\"",
-      "hex": "#4f7bbb",
+      "hex": "#617fcc",
       "searchText": "fillamentum cpe cpe hg100 \"ufo blue metallic\""
     },
     {
@@ -40228,6 +40252,54 @@
       "name": "HIPS Extrafill \"Traffic Black\"",
       "hex": "#000000",
       "searchText": "fillamentum hips hips extrafill \"traffic black\""
+    },
+    {
+      "id": "fillamentum-nylon-fx256-metallic-grey",
+      "brand": "Fillamentum",
+      "material": "PA",
+      "name": "Nylon FX256 \"Metallic Grey\"",
+      "hex": "#b2b8b8",
+      "searchText": "fillamentum pa nylon fx256 \"metallic grey\""
+    },
+    {
+      "id": "fillamentum-nylon-fx256-natural",
+      "brand": "Fillamentum",
+      "material": "PA",
+      "name": "Nylon FX256 \"Natural\"",
+      "hex": "#f2efe9",
+      "searchText": "fillamentum pa nylon fx256 \"natural\""
+    },
+    {
+      "id": "fillamentum-nylon-fx256-signal-red",
+      "brand": "Fillamentum",
+      "material": "PA",
+      "name": "Nylon FX256 \"Signal Red\"",
+      "hex": "#aa0101",
+      "searchText": "fillamentum pa nylon fx256 \"signal red\""
+    },
+    {
+      "id": "fillamentum-nylon-fx256-sky-blue",
+      "brand": "Fillamentum",
+      "material": "PA",
+      "name": "Nylon FX256 \"Sky Blue\"",
+      "hex": "#6299df",
+      "searchText": "fillamentum pa nylon fx256 \"sky blue\""
+    },
+    {
+      "id": "fillamentum-nylon-fx256-traffic-black",
+      "brand": "Fillamentum",
+      "material": "PA",
+      "name": "Nylon FX256 \"Traffic Black\"",
+      "hex": "#000000",
+      "searchText": "fillamentum pa nylon fx256 \"traffic black\""
+    },
+    {
+      "id": "fillamentum-nylon-fx256-vertigo-grey",
+      "brand": "Fillamentum",
+      "material": "PA",
+      "name": "Nylon FX256 \"Vertigo Grey\"",
+      "hex": "#737282",
+      "searchText": "fillamentum pa nylon fx256 \"vertigo grey\""
     },
     {
       "id": "fillamentum-nylon-af80-aramid",
@@ -40306,7 +40378,7 @@
       "brand": "Fillamentum",
       "material": "PETG",
       "name": "PETG \"Aloe Green\"",
-      "hex": "#00cc00",
+      "hex": "#58c91b",
       "searchText": "fillamentum petg petg \"aloe green\""
     },
     {
@@ -40418,7 +40490,7 @@
       "brand": "Fillamentum",
       "material": "PETG",
       "name": "PETG \"Melon Yellow\"",
-      "hex": "#f3b400",
+      "hex": "#ff9b00",
       "searchText": "fillamentum petg petg \"melon yellow\""
     },
     {
@@ -40494,12 +40566,100 @@
       "searchText": "fillamentum petg petg \"wizard's voodoo\""
     },
     {
+      "id": "fillamentum-petg-hffr",
+      "brand": "Fillamentum",
+      "material": "PETG",
+      "name": "PETG HFFR",
+      "hex": "#f3f6e4",
+      "searchText": "fillamentum petg petg hffr"
+    },
+    {
+      "id": "fillamentum-repetg-loopfill-luminous-yellow",
+      "brand": "Fillamentum",
+      "material": "PETG",
+      "name": "rePETG Loopfill \"Luminous Yellow\"",
+      "hex": "#eedc48",
+      "searchText": "fillamentum petg repetg loopfill \"luminous yellow\""
+    },
+    {
+      "id": "fillamentum-repetg-loopfill-sky-blue",
+      "brand": "Fillamentum",
+      "material": "PETG",
+      "name": "rePETG Loopfill \"Sky Blue\"",
+      "hex": "#295ad9",
+      "searchText": "fillamentum petg repetg loopfill \"sky blue\""
+    },
+    {
+      "id": "fillamentum-repetg-loopfill-traffic-black",
+      "brand": "Fillamentum",
+      "material": "PETG",
+      "name": "rePETG Loopfill \"Traffic Black\"",
+      "hex": "#000000",
+      "searchText": "fillamentum petg repetg loopfill \"traffic black\""
+    },
+    {
+      "id": "fillamentum-repetg-loopfill-traffic-red",
+      "brand": "Fillamentum",
+      "material": "PETG",
+      "name": "rePETG Loopfill \"Traffic Red\"",
+      "hex": "#b81b0e",
+      "searchText": "fillamentum petg repetg loopfill \"traffic red\""
+    },
+    {
+      "id": "fillamentum-repetg-loopfill-traffic-white",
+      "brand": "Fillamentum",
+      "material": "PETG",
+      "name": "rePETG Loopfill \"Traffic White\"",
+      "hex": "#f0f1ea",
+      "searchText": "fillamentum petg repetg loopfill \"traffic white\""
+    },
+    {
       "id": "fillamentum-nonoilen",
       "brand": "Fillamentum",
       "material": "PLA",
       "name": "NonOilen®",
       "hex": "#f5f5f4",
       "searchText": "fillamentum pla nonoilen®"
+    },
+    {
+      "id": "fillamentum-nonoilen-arctic-blue",
+      "brand": "Fillamentum",
+      "material": "PLA",
+      "name": "NonOilen® \"Arctic Blue\"",
+      "hex": "#00629b",
+      "searchText": "fillamentum pla nonoilen® \"arctic blue\""
+    },
+    {
+      "id": "fillamentum-nonoilen-dark-stone",
+      "brand": "Fillamentum",
+      "material": "PLA",
+      "name": "NonOilen® \"Dark Stone\"",
+      "hex": "#3a3f47",
+      "searchText": "fillamentum pla nonoilen® \"dark stone\""
+    },
+    {
+      "id": "fillamentum-nonoilen-ginger-shot",
+      "brand": "Fillamentum",
+      "material": "PLA",
+      "name": "NonOilen® \"Ginger Shot\"",
+      "hex": "#f0b429",
+      "searchText": "fillamentum pla nonoilen® \"ginger shot\""
+    },
+    {
+      "id": "fillamentum-nonoilen-red-sunset",
+      "brand": "Fillamentum",
+      "material": "PLA",
+      "name": "NonOilen® \"Red Sunset\"",
+      "hex": "#e8334a",
+      "searchText": "fillamentum pla nonoilen® \"red sunset\""
+    },
+    {
+      "id": "fillamentum-nonoilen-whispering-grass",
+      "brand": "Fillamentum",
+      "material": "PLA",
+      "name": "NonOilen® \"Whispering Grass\"",
+      "hex": "#7ca045",
+      "searchText": "fillamentum pla nonoilen® \"whispering grass\""
     },
     {
       "id": "fillamentum-pla-crystal-clear",
@@ -40522,7 +40682,7 @@
       "brand": "Fillamentum",
       "material": "PLA",
       "name": "PLA Crystal Clear \"Iceland Blue\"",
-      "hex": "#82e3ec",
+      "hex": "#85bee1",
       "searchText": "fillamentum pla pla crystal clear \"iceland blue\""
     },
     {
@@ -40550,6 +40710,14 @@
       "searchText": "fillamentum pla pla crystal clear \"tangerine orange\""
     },
     {
+      "id": "fillamentum-pla-extrafill-abu-dhabi-green",
+      "brand": "Fillamentum",
+      "material": "PLA",
+      "name": "PLA Extrafill \"Abu Dhabi Green\"",
+      "hex": "#6b7a2e",
+      "searchText": "fillamentum pla pla extrafill \"abu dhabi green\""
+    },
+    {
       "id": "fillamentum-pla-extrafill-baby-blue",
       "brand": "Fillamentum",
       "material": "PLA",
@@ -40558,11 +40726,19 @@
       "searchText": "fillamentum pla pla extrafill \"baby blue\""
     },
     {
+      "id": "fillamentum-pla-extrafill-cairo-gold",
+      "brand": "Fillamentum",
+      "material": "PLA",
+      "name": "PLA Extrafill \"Cairo Gold\"",
+      "hex": "#c9a227",
+      "searchText": "fillamentum pla pla extrafill \"cairo gold\""
+    },
+    {
       "id": "fillamentum-pla-extrafill-chocolate-brown",
       "brand": "Fillamentum",
       "material": "PLA",
       "name": "PLA Extrafill \"Chocolate Brown\"",
-      "hex": "#503529",
+      "hex": "#44322d",
       "searchText": "fillamentum pla pla extrafill \"chocolate brown\""
     },
     {
@@ -40578,7 +40754,7 @@
       "brand": "Fillamentum",
       "material": "PLA",
       "name": "PLA Extrafill \"Concrete Grey\"",
-      "hex": "#c5c5bf",
+      "hex": "#818479",
       "searchText": "fillamentum pla pla extrafill \"concrete grey\""
     },
     {
@@ -40610,7 +40786,7 @@
       "brand": "Fillamentum",
       "material": "PLA",
       "name": "PLA Extrafill \"Green Grass\"",
-      "hex": "#41a840",
+      "hex": "#3e753b",
       "searchText": "fillamentum pla pla extrafill \"green grass\""
     },
     {
@@ -40618,7 +40794,7 @@
       "brand": "Fillamentum",
       "material": "PLA",
       "name": "PLA Extrafill \"Iron Grey\"",
-      "hex": "#7b7b7b",
+      "hex": "#555d61",
       "searchText": "fillamentum pla pla extrafill \"iron grey\""
     },
     {
@@ -40642,7 +40818,7 @@
       "brand": "Fillamentum",
       "material": "PLA",
       "name": "PLA Extrafill \"Luminous Green\"",
-      "hex": "#00cc00",
+      "hex": "#58c91b",
       "searchText": "fillamentum pla pla extrafill \"luminous green\""
     },
     {
@@ -40662,11 +40838,19 @@
       "searchText": "fillamentum pla pla extrafill \"luminous yellow\""
     },
     {
+      "id": "fillamentum-pla-extrafill-marrakesh-red",
+      "brand": "Fillamentum",
+      "material": "PLA",
+      "name": "PLA Extrafill \"Marrakesh Red\"",
+      "hex": "#a6432b",
+      "searchText": "fillamentum pla pla extrafill \"marrakesh red\""
+    },
+    {
       "id": "fillamentum-pla-extrafill-melon-yellow",
       "brand": "Fillamentum",
       "material": "PLA",
       "name": "PLA Extrafill \"Melon Yellow\"",
-      "hex": "#ea9e3f",
+      "hex": "#ff9b00",
       "searchText": "fillamentum pla pla extrafill \"melon yellow\""
     },
     {
@@ -40714,7 +40898,7 @@
       "brand": "Fillamentum",
       "material": "PLA",
       "name": "PLA Extrafill \"Orange Orange\"",
-      "hex": "#fa7f1b",
+      "hex": "#f3752c",
       "searchText": "fillamentum pla pla extrafill \"orange orange\""
     },
     {
@@ -40730,7 +40914,7 @@
       "brand": "Fillamentum",
       "material": "PLA",
       "name": "PLA Extrafill \"Pearl Ruby Red\"",
-      "hex": "#aa0101",
+      "hex": "#6e1c24",
       "searchText": "fillamentum pla pla extrafill \"pearl ruby red\""
     },
     {
@@ -40746,7 +40930,7 @@
       "brand": "Fillamentum",
       "material": "PLA",
       "name": "PLA Extrafill \"Purple Red\"",
-      "hex": "#8a2d40",
+      "hex": "#701f29",
       "searchText": "fillamentum pla pla extrafill \"purple red\""
     },
     {
@@ -40762,7 +40946,7 @@
       "brand": "Fillamentum",
       "material": "PLA",
       "name": "PLA Extrafill \"Signal Red\"",
-      "hex": "#db3e14",
+      "hex": "#9b2423",
       "searchText": "fillamentum pla pla extrafill \"signal red\""
     },
     {
@@ -40770,7 +40954,7 @@
       "brand": "Fillamentum",
       "material": "PLA",
       "name": "PLA Extrafill \"Sky Blue\"",
-      "hex": "#40b6e4",
+      "hex": "#2874b2",
       "searchText": "fillamentum pla pla extrafill \"sky blue\""
     },
     {
@@ -40786,7 +40970,7 @@
       "brand": "Fillamentum",
       "material": "PLA",
       "name": "PLA Extrafill \"Traffic Purple\"",
-      "hex": "#b1407f",
+      "hex": "#992572",
       "searchText": "fillamentum pla pla extrafill \"traffic purple\""
     },
     {
@@ -40826,7 +41010,7 @@
       "brand": "Fillamentum",
       "material": "PLA",
       "name": "PLA Extrafill \"Turquoise Blue\"",
-      "hex": "#9ae0dd",
+      "hex": "#00a594",
       "searchText": "fillamentum pla pla extrafill \"turquoise blue\""
     },
     {
@@ -40834,7 +41018,7 @@
       "brand": "Fillamentum",
       "material": "PLA",
       "name": "PLA Extrafill \"Turquoise Green\"",
-      "hex": "#267f67",
+      "hex": "#026a52",
       "searchText": "fillamentum pla pla extrafill \"turquoise green\""
     },
     {
@@ -40902,6 +41086,14 @@
       "searchText": "fillamentum pla pla extrafill \"volcanic dust\""
     },
     {
+      "id": "fillamentum-pla-extrafill-witch-please",
+      "brand": "Fillamentum",
+      "material": "PLA",
+      "name": "PLA Extrafill \"Witch Please!\"",
+      "hex": "#7a3768",
+      "searchText": "fillamentum pla pla extrafill \"witch please!\""
+    },
+    {
       "id": "fillamentum-pla-extrafill-wizards-voodoo",
       "brand": "Fillamentum",
       "material": "PLA",
@@ -40930,7 +41122,7 @@
       "brand": "Fillamentum",
       "material": "PLA",
       "name": "Timberfill® \"Cinnamon\"",
-      "hex": "#c38c7b",
+      "hex": "#b88d7b",
       "searchText": "fillamentum pla timberfill® \"cinnamon\""
     },
     {
@@ -40954,7 +41146,7 @@
       "brand": "Fillamentum",
       "material": "PLA",
       "name": "Timberfill® \"Rosewood\"",
-      "hex": "#6a5346",
+      "hex": "#5b4645",
       "searchText": "fillamentum pla timberfill® \"rosewood\""
     },
     {
@@ -40966,12 +41158,28 @@
       "searchText": "fillamentum pla timberfill® \"southern pine\""
     },
     {
-      "id": "fillamentum-timberfill-teracotta",
+      "id": "fillamentum-timberfill-terracotta",
       "brand": "Fillamentum",
       "material": "PLA",
-      "name": "Timberfill® \"Teracotta\"",
-      "hex": "#cd5a2e",
-      "searchText": "fillamentum pla timberfill® \"teracotta\""
+      "name": "Timberfill® \"Terracotta\"",
+      "hex": "#ed5c3e",
+      "searchText": "fillamentum pla timberfill® \"terracotta\""
+    },
+    {
+      "id": "fillamentum-polypropylene-pp-2320-black",
+      "brand": "Fillamentum",
+      "material": "PP",
+      "name": "Polypropylene PP 2320 Black",
+      "hex": "#1d1d1d",
+      "searchText": "fillamentum pp polypropylene pp 2320 black"
+    },
+    {
+      "id": "fillamentum-polypropylene-pp-2320-natural",
+      "brand": "Fillamentum",
+      "material": "PP",
+      "name": "Polypropylene PP 2320 Natural",
+      "hex": "#f4f8f4",
+      "searchText": "fillamentum pp polypropylene pp 2320 natural"
     },
     {
       "id": "fillamentum-vinyl-303-black",
@@ -41114,7 +41322,7 @@
       "brand": "Fillamentum",
       "material": "TPU",
       "name": "Flexfill TPU 92A \"Sky Blue\"",
-      "hex": "#abd5f3",
+      "hex": "#69b3e7",
       "searchText": "fillamentum tpu flexfill tpu 92a \"sky blue\""
     },
     {
@@ -41170,7 +41378,7 @@
       "brand": "Fillamentum",
       "material": "TPU",
       "name": "Flexfill TPU 98A \"Pistachio Green\"",
-      "hex": "#bbdb4b",
+      "hex": "#a0fd62",
       "searchText": "fillamentum tpu flexfill tpu 98a \"pistachio green\""
     },
     {
@@ -41202,7 +41410,7 @@
       "brand": "Fillamentum",
       "material": "TPU",
       "name": "Flexfill TPU 98A \"Sky Blue\"",
-      "hex": "#abd5f3",
+      "hex": "#69b3e7",
       "searchText": "fillamentum tpu flexfill tpu 98a \"sky blue\""
     },
     {
@@ -88646,6 +88854,14 @@
       "searchText": "smart materials 3d abs abs true black"
     },
     {
+      "id": "smart-materials-3d-innovatefil-abs-cf-true-black",
+      "brand": "SMART MATERIALS 3D",
+      "material": "ABS",
+      "name": "INNOVATEFIL® ABS CF True black",
+      "hex": "#000000",
+      "searchText": "smart materials 3d abs innovatefil® abs cf true black"
+    },
+    {
       "id": "smart-materials-3d-innovatefil-abs-fp-natural",
       "brand": "SMART MATERIALS 3D",
       "material": "ABS",
@@ -88654,20 +88870,20 @@
       "searchText": "smart materials 3d abs innovatefil® abs fp natural"
     },
     {
+      "id": "smart-materials-3d-innovatefil-abs-gf-ivory-white",
+      "brand": "SMART MATERIALS 3D",
+      "material": "ABS",
+      "name": "INNOVATEFIL® ABS GF Ivory White",
+      "hex": "#e8e5cd",
+      "searchText": "smart materials 3d abs innovatefil® abs gf ivory white"
+    },
+    {
       "id": "smart-materials-3d-innovatefil-abs-medical-natural",
       "brand": "SMART MATERIALS 3D",
       "material": "ABS",
       "name": "INNOVATEFIL® ABS MEDICAL Natural",
       "hex": "#f1e6b2",
       "searchText": "smart materials 3d abs innovatefil® abs medical natural"
-    },
-    {
-      "id": "smart-materials-3d-asa",
-      "brand": "SMART MATERIALS 3D",
-      "material": "ASA",
-      "name": "ASA",
-      "hex": "#dfdfd3",
-      "searchText": "smart materials 3d asa asa"
     },
     {
       "id": "smart-materials-3d-asa-chlorophyll",
@@ -88718,20 +88934,28 @@
       "searchText": "smart materials 3d asa asa true black"
     },
     {
-      "id": "smart-materials-3d-innovatefil-asa-gf",
+      "id": "smart-materials-3d-innovatefil-asa-cf-natural-black",
       "brand": "SMART MATERIALS 3D",
       "material": "ASA",
-      "name": "INNOVATEFIL® ASA GF",
-      "hex": "#f2efe9",
-      "searchText": "smart materials 3d asa innovatefil® asa gf"
+      "name": "INNOVATEFIL® ASA CF Natural (Black)",
+      "hex": "#000000",
+      "searchText": "smart materials 3d asa innovatefil® asa cf natural (black)"
     },
     {
-      "id": "smart-materials-3d-clean",
+      "id": "smart-materials-3d-innovatefil-asa-gf-natural",
       "brand": "SMART MATERIALS 3D",
-      "material": "CLEAN",
-      "name": "CLEAN",
+      "material": "ASA",
+      "name": "INNOVATEFIL® ASA GF Natural",
+      "hex": "#f2efe9",
+      "searchText": "smart materials 3d asa innovatefil® asa gf natural"
+    },
+    {
+      "id": "smart-materials-3d-clean-natural",
+      "brand": "SMART MATERIALS 3D",
+      "material": "Clean",
+      "name": "CLEAN Natural",
       "hex": "#eadac2",
-      "searchText": "smart materials 3d clean clean"
+      "searchText": "smart materials 3d clean clean natural"
     },
     {
       "id": "smart-materials-3d-hips-natural",
@@ -88758,14 +88982,6 @@
       "searchText": "smart materials 3d pa innovatefil® pa ht"
     },
     {
-      "id": "smart-materials-3d-innovatefil-pa-cf-true-black",
-      "brand": "SMART MATERIALS 3D",
-      "material": "PA-CF",
-      "name": "INNOVATEFIL® PA CF True black",
-      "hex": "#000000",
-      "searchText": "smart materials 3d pa-cf innovatefil® pa cf true black"
-    },
-    {
       "id": "smart-materials-3d-innovatefil-nylstrong-natural",
       "brand": "SMART MATERIALS 3D",
       "material": "PA6",
@@ -88774,11 +88990,35 @@
       "searchText": "smart materials 3d pa6 innovatefil® nylstrong natural"
     },
     {
+      "id": "smart-materials-3d-innovatefil-paht-cf-true-black",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PACF",
+      "name": "INNOVATEFIL® PAHT CF True black",
+      "hex": "#000000",
+      "searchText": "smart materials 3d pacf innovatefil® paht cf true black"
+    },
+    {
+      "id": "smart-materials-3d-innovatefil-pa-ht-natural",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PAHT",
+      "name": "INNOVATEFIL® PA HT Natural",
+      "hex": "#eadac2",
+      "searchText": "smart materials 3d paht innovatefil® pa ht natural"
+    },
+    {
+      "id": "smart-materials-3d-innovatefil-polycarbonate",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PC",
+      "name": "INNOVATEFIL® POLYCARBONATE",
+      "hex": "#edf0f2",
+      "searchText": "smart materials 3d pc innovatefil® polycarbonate"
+    },
+    {
       "id": "smart-materials-3d-innovatefil-peek-natural",
       "brand": "SMART MATERIALS 3D",
       "material": "PEEK",
       "name": "INNOVATEFIL® PEEK Natural",
-      "hex": "#afa198",
+      "hex": "#dfdfd3",
       "searchText": "smart materials 3d peek innovatefil® peek natural"
     },
     {
@@ -88798,28 +89038,20 @@
       "searchText": "smart materials 3d pet r-pet"
     },
     {
-      "id": "smart-materials-3d-innovatefil-petg-cf",
+      "id": "smart-materials-3d-innovatefil-petg-cf-natural-black",
       "brand": "SMART MATERIALS 3D",
       "material": "PETG",
-      "name": "INNOVATEFIL® PETG CF",
+      "name": "INNOVATEFIL® PETG CF Natural (Black)",
       "hex": "#000000",
-      "searchText": "smart materials 3d petg innovatefil® petg cf"
+      "searchText": "smart materials 3d petg innovatefil® petg cf natural (black)"
     },
     {
-      "id": "smart-materials-3d-innovatefil-petg-fp-natural",
+      "id": "smart-materials-3d-innovatefil-petg-fr-natural",
       "brand": "SMART MATERIALS 3D",
       "material": "PETG",
-      "name": "INNOVATEFIL® PETG FP Natural",
+      "name": "INNOVATEFIL® PETG FR Natural",
       "hex": "#f2efe9",
-      "searchText": "smart materials 3d petg innovatefil® petg fp natural"
-    },
-    {
-      "id": "smart-materials-3d-innovatefil-petg-mdt",
-      "brand": "SMART MATERIALS 3D",
-      "material": "PETG",
-      "name": "INNOVATEFIL® PETG MDT",
-      "hex": "#9a9ba0",
-      "searchText": "smart materials 3d petg innovatefil® petg mdt"
+      "searchText": "smart materials 3d petg innovatefil® petg fr natural"
     },
     {
       "id": "smart-materials-3d-innovatefil-petg-mdt-blue",
@@ -88830,12 +89062,12 @@
       "searchText": "smart materials 3d petg innovatefil® petg mdt blue"
     },
     {
-      "id": "smart-materials-3d-petg",
+      "id": "smart-materials-3d-innovatefil-petg-mdt-natural",
       "brand": "SMART MATERIALS 3D",
       "material": "PETG",
-      "name": "PETG",
-      "hex": "#1e2f5a",
-      "searchText": "smart materials 3d petg petg"
+      "name": "INNOVATEFIL® PETG MDT Natural",
+      "hex": "#9a9ba0",
+      "searchText": "smart materials 3d petg innovatefil® petg mdt natural"
     },
     {
       "id": "smart-materials-3d-petg-chlorophyll",
@@ -88844,6 +89076,70 @@
       "name": "PETG Chlorophyll",
       "hex": "#41a840",
       "searchText": "smart materials 3d petg petg chlorophyll"
+    },
+    {
+      "id": "smart-materials-3d-petg-clear-bright-orange",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PETG",
+      "name": "PETG CLEAR Bright Orange",
+      "hex": "#de5306",
+      "searchText": "smart materials 3d petg petg clear bright orange"
+    },
+    {
+      "id": "smart-materials-3d-petg-clear-himalaya-blue",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PETG",
+      "name": "PETG CLEAR Himalaya Blue",
+      "hex": "#5ac2b3",
+      "searchText": "smart materials 3d petg petg clear himalaya blue"
+    },
+    {
+      "id": "smart-materials-3d-petg-clear-ice-blue",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PETG",
+      "name": "PETG CLEAR Ice Blue",
+      "hex": "#b8cde9",
+      "searchText": "smart materials 3d petg petg clear ice blue"
+    },
+    {
+      "id": "smart-materials-3d-petg-clear-ice-mauve",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PETG",
+      "name": "PETG CLEAR Ice Mauve",
+      "hex": "#debdef",
+      "searchText": "smart materials 3d petg petg clear ice mauve"
+    },
+    {
+      "id": "smart-materials-3d-petg-clear-orchid-glass",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PETG",
+      "name": "PETG CLEAR Orchid Glass",
+      "hex": "#9d00b1",
+      "searchText": "smart materials 3d petg petg clear orchid glass"
+    },
+    {
+      "id": "smart-materials-3d-petg-clear-pale-rose",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PETG",
+      "name": "PETG CLEAR Pale Rose",
+      "hex": "#f6e2f1",
+      "searchText": "smart materials 3d petg petg clear pale rose"
+    },
+    {
+      "id": "smart-materials-3d-petg-clear-pure-green",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PETG",
+      "name": "PETG CLEAR Pure Green",
+      "hex": "#008522",
+      "searchText": "smart materials 3d petg petg clear pure green"
+    },
+    {
+      "id": "smart-materials-3d-petg-clear-smoked-black",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PETG",
+      "name": "PETG CLEAR Smoked Black",
+      "hex": "#141414",
+      "searchText": "smart materials 3d petg petg clear smoked black"
     },
     {
       "id": "smart-materials-3d-petg-cobalt",
@@ -88878,6 +89174,14 @@
       "searchText": "smart materials 3d petg petg orinoco"
     },
     {
+      "id": "smart-materials-3d-petg-red",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PETG",
+      "name": "PETG Red",
+      "hex": "#e20010",
+      "searchText": "smart materials 3d petg petg red"
+    },
+    {
       "id": "smart-materials-3d-petg-ruby",
       "brand": "SMART MATERIALS 3D",
       "material": "PETG",
@@ -88902,12 +89206,76 @@
       "searchText": "smart materials 3d petg pva natural"
     },
     {
-      "id": "smart-materials-3d-algae",
+      "id": "smart-materials-3d-r-petg-black",
       "brand": "SMART MATERIALS 3D",
-      "material": "PLA",
-      "name": "ALGAE",
-      "hex": "#452f25",
-      "searchText": "smart materials 3d pla algae"
+      "material": "PETG",
+      "name": "R-PETG Black",
+      "hex": "#000000",
+      "searchText": "smart materials 3d petg r-petg black"
+    },
+    {
+      "id": "smart-materials-3d-r-petg-capri-blue",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PETG",
+      "name": "R-PETG Capri Blue",
+      "hex": "#23668c",
+      "searchText": "smart materials 3d petg r-petg capri blue"
+    },
+    {
+      "id": "smart-materials-3d-r-petg-carmin-red",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PETG",
+      "name": "R-PETG Carmin Red",
+      "hex": "#9b2423",
+      "searchText": "smart materials 3d petg r-petg carmin red"
+    },
+    {
+      "id": "smart-materials-3d-r-petg-natural",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PETG",
+      "name": "R-PETG Natural",
+      "hex": "#ccc9c0",
+      "searchText": "smart materials 3d petg r-petg natural"
+    },
+    {
+      "id": "smart-materials-3d-r-petg-pistachio",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PETG",
+      "name": "R-PETG Pistachio",
+      "hex": "#a5af0e",
+      "searchText": "smart materials 3d petg r-petg pistachio"
+    },
+    {
+      "id": "smart-materials-3d-r-petg-pure-green",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PETG",
+      "name": "R-PETG Pure Green",
+      "hex": "#008522",
+      "searchText": "smart materials 3d petg r-petg pure green"
+    },
+    {
+      "id": "smart-materials-3d-r-petg-signal-orange",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PETG",
+      "name": "R-PETG Signal Orange",
+      "hex": "#d4652f",
+      "searchText": "smart materials 3d petg r-petg signal orange"
+    },
+    {
+      "id": "smart-materials-3d-r-petg-slate-grey",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PETG",
+      "name": "R-PETG Slate Grey",
+      "hex": "#2e3234",
+      "searchText": "smart materials 3d petg r-petg slate grey"
+    },
+    {
+      "id": "smart-materials-3d-r-petg-violet",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PETG",
+      "name": "R-PETG Violet",
+      "hex": "#7659b5",
+      "searchText": "smart materials 3d petg r-petg violet"
     },
     {
       "id": "smart-materials-3d-boun-natural",
@@ -88916,6 +89284,22 @@
       "name": "BOUN Natural",
       "hex": "#f2efe9",
       "searchText": "smart materials 3d pla boun natural"
+    },
+    {
+      "id": "smart-materials-3d-eco-algae",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "ECO ALGAE",
+      "hex": "#452f25",
+      "searchText": "smart materials 3d pla eco algae"
+    },
+    {
+      "id": "smart-materials-3d-eco-coffee",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "ECO COFFEE",
+      "hex": "#55331a",
+      "searchText": "smart materials 3d pla eco coffee"
     },
     {
       "id": "smart-materials-3d-ep-easy-print-ivory-white",
@@ -88942,11 +89326,19 @@
       "searchText": "smart materials 3d pla innovatefil® antibacterial"
     },
     {
+      "id": "smart-materials-3d-innovatefil-pla-cf-natural-black",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "INNOVATEFIL® PLA CF Natural (Black)",
+      "hex": "#000000",
+      "searchText": "smart materials 3d pla innovatefil® pla cf natural (black)"
+    },
+    {
       "id": "smart-materials-3d-olive-natural",
       "brand": "SMART MATERIALS 3D",
       "material": "PLA",
       "name": "OLIVE Natural",
-      "hex": "#724e3d",
+      "hex": "#946037",
       "searchText": "smart materials 3d pla olive natural"
     },
     {
@@ -88990,12 +89382,20 @@
       "searchText": "smart materials 3d pla pla 3d850 true black"
     },
     {
-      "id": "smart-materials-3d-pla-3d870",
+      "id": "smart-materials-3d-pla-3d870-ivory-white",
       "brand": "SMART MATERIALS 3D",
       "material": "PLA",
-      "name": "PLA 3D870",
+      "name": "PLA 3D870 Ivory White",
+      "hex": "#ffffff",
+      "searchText": "smart materials 3d pla pla 3d870 ivory white"
+    },
+    {
+      "id": "smart-materials-3d-pla-3d870-natural",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA 3D870 Natural",
       "hex": "#dfdfd3",
-      "searchText": "smart materials 3d pla pla 3d870"
+      "searchText": "smart materials 3d pla pla 3d870 natural"
     },
     {
       "id": "smart-materials-3d-pla-3d870-true-black",
@@ -89022,6 +89422,70 @@
       "searchText": "smart materials 3d pla pla aubergine"
     },
     {
+      "id": "smart-materials-3d-pla-basic-black",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA BASIC Black",
+      "hex": "#000000",
+      "searchText": "smart materials 3d pla pla basic black"
+    },
+    {
+      "id": "smart-materials-3d-pla-basic-blue",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA BASIC Blue",
+      "hex": "#40b6e4",
+      "searchText": "smart materials 3d pla pla basic blue"
+    },
+    {
+      "id": "smart-materials-3d-pla-basic-dark-grey",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA BASIC Dark Grey",
+      "hex": "#6a6c6e",
+      "searchText": "smart materials 3d pla pla basic dark grey"
+    },
+    {
+      "id": "smart-materials-3d-pla-basic-green",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA BASIC Green",
+      "hex": "#06b100",
+      "searchText": "smart materials 3d pla pla basic green"
+    },
+    {
+      "id": "smart-materials-3d-pla-basic-orange",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA BASIC Orange",
+      "hex": "#f67405",
+      "searchText": "smart materials 3d pla pla basic orange"
+    },
+    {
+      "id": "smart-materials-3d-pla-basic-red",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA BASIC Red",
+      "hex": "#e20010",
+      "searchText": "smart materials 3d pla pla basic red"
+    },
+    {
+      "id": "smart-materials-3d-pla-basic-white",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA BASIC White",
+      "hex": "#ffffff",
+      "searchText": "smart materials 3d pla pla basic white"
+    },
+    {
+      "id": "smart-materials-3d-pla-basic-yellow",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA BASIC Yellow",
+      "hex": "#fbe200",
+      "searchText": "smart materials 3d pla pla basic yellow"
+    },
+    {
       "id": "smart-materials-3d-pla-black-glitter",
       "brand": "SMART MATERIALS 3D",
       "material": "PLA",
@@ -89034,7 +89498,7 @@
       "brand": "SMART MATERIALS 3D",
       "material": "PLA",
       "name": "PLA Blue Glitter",
-      "hex": "#0378d0",
+      "hex": "#3375a7",
       "searchText": "smart materials 3d pla pla blue glitter"
     },
     {
@@ -89058,7 +89522,7 @@
       "brand": "SMART MATERIALS 3D",
       "material": "PLA",
       "name": "PLA Coral",
-      "hex": "#fc8397",
+      "hex": "#f67466",
       "searchText": "smart materials 3d pla pla coral"
     },
     {
@@ -89106,8 +89570,16 @@
       "brand": "SMART MATERIALS 3D",
       "material": "PLA",
       "name": "PLA GLOW",
-      "hex": "#39b9db",
+      "hex": "#80e0a7",
       "searchText": "smart materials 3d pla pla glow"
+    },
+    {
+      "id": "smart-materials-3d-pla-glow-blue",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA GLOW Blue",
+      "hex": "#39b9db",
+      "searchText": "smart materials 3d pla pla glow blue"
     },
     {
       "id": "smart-materials-3d-pla-gold",
@@ -89146,7 +89618,7 @@
       "brand": "SMART MATERIALS 3D",
       "material": "PLA",
       "name": "PLA Hillier Lake",
-      "hex": "#f300ea",
+      "hex": "#c00698",
       "searchText": "smart materials 3d pla pla hillier lake"
     },
     {
@@ -89202,8 +89674,16 @@
       "brand": "SMART MATERIALS 3D",
       "material": "PLA",
       "name": "PLA Jade",
-      "hex": "#214327",
+      "hex": "#00554e",
       "searchText": "smart materials 3d pla pla jade"
+    },
+    {
+      "id": "smart-materials-3d-pla-light-blue",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA Light Blue",
+      "hex": "#99f1ff",
+      "searchText": "smart materials 3d pla pla light blue"
     },
     {
       "id": "smart-materials-3d-pla-light-gray",
@@ -89214,12 +89694,148 @@
       "searchText": "smart materials 3d pla pla light gray"
     },
     {
+      "id": "smart-materials-3d-pla-lilac",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA Lilac",
+      "hex": "#d3c6ff",
+      "searchText": "smart materials 3d pla pla lilac"
+    },
+    {
+      "id": "smart-materials-3d-pla-lw-black",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA LW Black",
+      "hex": "#000000",
+      "searchText": "smart materials 3d pla pla lw black"
+    },
+    {
+      "id": "smart-materials-3d-pla-lw-ivory-white",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA LW Ivory White",
+      "hex": "#ffffff",
+      "searchText": "smart materials 3d pla pla lw ivory white"
+    },
+    {
       "id": "smart-materials-3d-pla-mahogany",
       "brand": "SMART MATERIALS 3D",
       "material": "PLA",
       "name": "PLA Mahogany",
-      "hex": "#c65e0a",
+      "hex": "#8a5a46",
       "searchText": "smart materials 3d pla pla mahogany"
+    },
+    {
+      "id": "smart-materials-3d-pla-marble-white",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA MARBLE White",
+      "hex": "#ffffff",
+      "searchText": "smart materials 3d pla pla marble white"
+    },
+    {
+      "id": "smart-materials-3d-pla-matte-black",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA MATTE Black",
+      "hex": "#000000",
+      "searchText": "smart materials 3d pla pla matte black"
+    },
+    {
+      "id": "smart-materials-3d-pla-matte-blue",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA MATTE Blue",
+      "hex": "#0079a7",
+      "searchText": "smart materials 3d pla pla matte blue"
+    },
+    {
+      "id": "smart-materials-3d-pla-matte-dark-chocolate",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA MATTE Dark Chocolate",
+      "hex": "#321702",
+      "searchText": "smart materials 3d pla pla matte dark chocolate"
+    },
+    {
+      "id": "smart-materials-3d-pla-matte-dark-grey",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA MATTE Dark Grey",
+      "hex": "#6a6c6e",
+      "searchText": "smart materials 3d pla pla matte dark grey"
+    },
+    {
+      "id": "smart-materials-3d-pla-matte-indian-orange",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA MATTE Indian Orange",
+      "hex": "#ff9a14",
+      "searchText": "smart materials 3d pla pla matte indian orange"
+    },
+    {
+      "id": "smart-materials-3d-pla-matte-lemon-lime",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA MATTE Lemon Lime",
+      "hex": "#b6ff43",
+      "searchText": "smart materials 3d pla pla matte lemon lime"
+    },
+    {
+      "id": "smart-materials-3d-pla-matte-lilac",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA MATTE Lilac",
+      "hex": "#d3c6ff",
+      "searchText": "smart materials 3d pla pla matte lilac"
+    },
+    {
+      "id": "smart-materials-3d-pla-matte-magenta",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA MATTE Magenta",
+      "hex": "#c00698",
+      "searchText": "smart materials 3d pla pla matte magenta"
+    },
+    {
+      "id": "smart-materials-3d-pla-matte-olive-green",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA MATTE Olive Green",
+      "hex": "#0f330d",
+      "searchText": "smart materials 3d pla pla matte olive green"
+    },
+    {
+      "id": "smart-materials-3d-pla-matte-red",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA MATTE Red",
+      "hex": "#a02128",
+      "searchText": "smart materials 3d pla pla matte red"
+    },
+    {
+      "id": "smart-materials-3d-pla-matte-steel-blue",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA MATTE Steel Blue",
+      "hex": "#041b3d",
+      "searchText": "smart materials 3d pla pla matte steel blue"
+    },
+    {
+      "id": "smart-materials-3d-pla-matte-white",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA MATTE White",
+      "hex": "#ffffff",
+      "searchText": "smart materials 3d pla pla matte white"
+    },
+    {
+      "id": "smart-materials-3d-pla-matte-yellow-butter",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA MATTE Yellow Butter",
+      "hex": "#fff5b3",
+      "searchText": "smart materials 3d pla pla matte yellow butter"
     },
     {
       "id": "smart-materials-3d-pla-may",
@@ -89244,6 +89860,14 @@
       "name": "PLA Natural",
       "hex": "#eadac2",
       "searchText": "smart materials 3d pla pla natural"
+    },
+    {
+      "id": "smart-materials-3d-pla-neon-neo-green",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA NEON Neo Green",
+      "hex": "#7cef83",
+      "searchText": "smart materials 3d pla pla neon neo green"
     },
     {
       "id": "smart-materials-3d-pla-neon-neo-pink",
@@ -89290,7 +89914,7 @@
       "brand": "SMART MATERIALS 3D",
       "material": "PLA",
       "name": "PLA PASTEL Lavender",
-      "hex": "#cac2da",
+      "hex": "#e2d9f7",
       "searchText": "smart materials 3d pla pla pastel lavender"
     },
     {
@@ -89306,7 +89930,7 @@
       "brand": "SMART MATERIALS 3D",
       "material": "PLA",
       "name": "PLA PASTEL Quartz",
-      "hex": "#ffe6fd",
+      "hex": "#f4e3e5",
       "searchText": "smart materials 3d pla pla pastel quartz"
     },
     {
@@ -89316,14 +89940,6 @@
       "name": "PLA PASTEL Vanilla",
       "hex": "#f1e6b2",
       "searchText": "smart materials 3d pla pla pastel vanilla"
-    },
-    {
-      "id": "smart-materials-3d-pla-recycled",
-      "brand": "SMART MATERIALS 3D",
-      "material": "PLA",
-      "name": "PLA RECYCLED",
-      "hex": "#ffffff",
-      "searchText": "smart materials 3d pla pla recycled"
     },
     {
       "id": "smart-materials-3d-pla-recycled-black",
@@ -89410,7 +90026,7 @@
       "brand": "SMART MATERIALS 3D",
       "material": "PLA",
       "name": "PLA RECYCLED Green Army",
-      "hex": "#008059",
+      "hex": "#46756a",
       "searchText": "smart materials 3d pla pla recycled green army"
     },
     {
@@ -89420,6 +90036,14 @@
       "name": "PLA RECYCLED Grenade",
       "hex": "#932721",
       "searchText": "smart materials 3d pla pla recycled grenade"
+    },
+    {
+      "id": "smart-materials-3d-pla-recycled-light-blue",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA RECYCLED Light Blue",
+      "hex": "#99f1ff",
+      "searchText": "smart materials 3d pla pla recycled light blue"
     },
     {
       "id": "smart-materials-3d-pla-recycled-light-gray",
@@ -89436,6 +90060,14 @@
       "name": "PLA RECYCLED Light Green",
       "hex": "#67d8bc",
       "searchText": "smart materials 3d pla pla recycled light green"
+    },
+    {
+      "id": "smart-materials-3d-pla-recycled-lilac",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA RECYCLED Lilac",
+      "hex": "#d3c6ff",
+      "searchText": "smart materials 3d pla pla recycled lilac"
     },
     {
       "id": "smart-materials-3d-pla-recycled-may",
@@ -89458,7 +90090,7 @@
       "brand": "SMART MATERIALS 3D",
       "material": "PLA",
       "name": "PLA RECYCLED Pink",
-      "hex": "#f300ea",
+      "hex": "#fa34c5",
       "searchText": "smart materials 3d pla pla recycled pink"
     },
     {
@@ -89466,8 +90098,24 @@
       "brand": "SMART MATERIALS 3D",
       "material": "PLA",
       "name": "PLA RECYCLED Purple",
-      "hex": "#492972",
+      "hex": "#3f235d",
       "searchText": "smart materials 3d pla pla recycled purple"
+    },
+    {
+      "id": "smart-materials-3d-pla-recycled-red",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA RECYCLED Red",
+      "hex": "#e20010",
+      "searchText": "smart materials 3d pla pla recycled red"
+    },
+    {
+      "id": "smart-materials-3d-pla-recycled-signal-blue",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA RECYCLED Signal Blue",
+      "hex": "#0078bf",
+      "searchText": "smart materials 3d pla pla recycled signal blue"
     },
     {
       "id": "smart-materials-3d-pla-recycled-silver",
@@ -89492,6 +90140,14 @@
       "name": "PLA RECYCLED Violet",
       "hex": "#7659b5",
       "searchText": "smart materials 3d pla pla recycled violet"
+    },
+    {
+      "id": "smart-materials-3d-pla-recycled-white",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "PLA RECYCLED White",
+      "hex": "#ffffff",
+      "searchText": "smart materials 3d pla pla recycled white"
     },
     {
       "id": "smart-materials-3d-pla-recycled-yellow",
@@ -89578,7 +90234,7 @@
       "brand": "SMART MATERIALS 3D",
       "material": "PLA",
       "name": "PLA SILK Yellow Gold",
-      "hex": "#ce8d00",
+      "hex": "#f4ac23",
       "searchText": "smart materials 3d pla pla silk yellow gold"
     },
     {
@@ -89662,6 +90318,22 @@
       "searchText": "smart materials 3d pla wood acacia"
     },
     {
+      "id": "smart-materials-3d-wood-ash",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "WOOD Ash",
+      "hex": "#e8e5cd",
+      "searchText": "smart materials 3d pla wood ash"
+    },
+    {
+      "id": "smart-materials-3d-wood-heather",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PLA",
+      "name": "WOOD Heather",
+      "hex": "#c9c1c8",
+      "searchText": "smart materials 3d pla wood heather"
+    },
+    {
       "id": "smart-materials-3d-wood-maple",
       "brand": "SMART MATERIALS 3D",
       "material": "PLA",
@@ -89682,7 +90354,7 @@
       "brand": "SMART MATERIALS 3D",
       "material": "PLA",
       "name": "WOOD Teka",
-      "hex": "#cd5a2e",
+      "hex": "#d99773",
       "searchText": "smart materials 3d pla wood teka"
     },
     {
@@ -89690,7 +90362,7 @@
       "brand": "SMART MATERIALS 3D",
       "material": "PLA",
       "name": "WOOD Wenge",
-      "hex": "#332120",
+      "hex": "#3a3a3a",
       "searchText": "smart materials 3d pla wood wenge"
     },
     {
@@ -89698,24 +90370,16 @@
       "brand": "SMART MATERIALS 3D",
       "material": "PLA",
       "name": "WOOD Willow",
-      "hex": "#739549",
+      "hex": "#578666",
       "searchText": "smart materials 3d pla wood willow"
     },
     {
-      "id": "smart-materials-3d-innovatefil-pp",
+      "id": "smart-materials-3d-innovatefil-pp-cf-natural-black",
       "brand": "SMART MATERIALS 3D",
       "material": "PP",
-      "name": "INNOVATEFIL® PP",
-      "hex": "#f0ebe5",
-      "searchText": "smart materials 3d pp innovatefil® pp"
-    },
-    {
-      "id": "smart-materials-3d-innovatefil-pp-cf",
-      "brand": "SMART MATERIALS 3D",
-      "material": "PP",
-      "name": "INNOVATEFIL® PP CF",
+      "name": "INNOVATEFIL® PP CF Natural (Black)",
       "hex": "#000000",
-      "searchText": "smart materials 3d pp innovatefil® pp cf"
+      "searchText": "smart materials 3d pp innovatefil® pp cf natural (black)"
     },
     {
       "id": "smart-materials-3d-innovatefil-pp-gf",
@@ -89732,6 +90396,14 @@
       "name": "INNOVATEFIL® PP Ivory White",
       "hex": "#f0ebe5",
       "searchText": "smart materials 3d pp innovatefil® pp ivory white"
+    },
+    {
+      "id": "smart-materials-3d-innovatefil-pp-natural",
+      "brand": "SMART MATERIALS 3D",
+      "material": "PP",
+      "name": "INNOVATEFIL® PP Natural",
+      "hex": "#f0ebe5",
+      "searchText": "smart materials 3d pp innovatefil® pp natural"
     },
     {
       "id": "smart-materials-3d-innovatefil-pp-support",
@@ -89814,12 +90486,20 @@
       "searchText": "smart materials 3d tpu flex 93a caribbean"
     },
     {
-      "id": "smart-materials-3d-flex-93a-glitter",
+      "id": "smart-materials-3d-flex-93a-clear",
       "brand": "SMART MATERIALS 3D",
       "material": "TPU",
-      "name": "FLEX 93A GLITTER",
+      "name": "FLEX 93A Clear",
+      "hex": "#e6e6e6",
+      "searchText": "smart materials 3d tpu flex 93a clear"
+    },
+    {
+      "id": "smart-materials-3d-flex-93a-glitter-blue",
+      "brand": "SMART MATERIALS 3D",
+      "material": "TPU",
+      "name": "FLEX 93A GLITTER Blue",
       "hex": "#006272",
-      "searchText": "smart materials 3d tpu flex 93a glitter"
+      "searchText": "smart materials 3d tpu flex 93a glitter blue"
     },
     {
       "id": "smart-materials-3d-flex-93a-glow",
@@ -89918,6 +90598,22 @@
       "searchText": "smart materials 3d tpu flex 98a true black"
     },
     {
+      "id": "smart-materials-3d-flex-foam-black",
+      "brand": "SMART MATERIALS 3D",
+      "material": "TPU",
+      "name": "FLEX FOAM Black",
+      "hex": "#000000",
+      "searchText": "smart materials 3d tpu flex foam black"
+    },
+    {
+      "id": "smart-materials-3d-flex-foam-ivory-white",
+      "brand": "SMART MATERIALS 3D",
+      "material": "TPU",
+      "name": "FLEX FOAM Ivory White",
+      "hex": "#ffffff",
+      "searchText": "smart materials 3d tpu flex foam ivory white"
+    },
+    {
       "id": "smart-materials-3d-innovatefil-tpu-cf-natural-black",
       "brand": "SMART MATERIALS 3D",
       "material": "TPU",
@@ -89926,28 +90622,28 @@
       "searchText": "smart materials 3d tpu innovatefil® tpu cf natural (black)"
     },
     {
-      "id": "smart-materials-3d-innovatefil-tpu-fp-white",
+      "id": "smart-materials-3d-innovatefil-tpu-fr-white",
       "brand": "SMART MATERIALS 3D",
       "material": "TPU",
-      "name": "INNOVATEFIL® TPU FP White",
+      "name": "INNOVATEFIL® TPU FR White",
       "hex": "#ffffff",
-      "searchText": "smart materials 3d tpu innovatefil® tpu fp white"
+      "searchText": "smart materials 3d tpu innovatefil® tpu fr white"
     },
     {
-      "id": "smart-materials-3d-innovatefil-tpu-hardness",
-      "brand": "SMART MATERIALS 3D",
-      "material": "TPU",
-      "name": "INNOVATEFIL® TPU HARDNESS+",
-      "hex": "#000000",
-      "searchText": "smart materials 3d tpu innovatefil® tpu hardness+"
-    },
-    {
-      "id": "smart-materials-3d-innovatefil-tpu-hardness-natural",
+      "id": "smart-materials-3d-innovatefil-tpu-hardness-plus-natural",
       "brand": "SMART MATERIALS 3D",
       "material": "TPU",
       "name": "INNOVATEFIL® TPU HARDNESS+ Natural",
       "hex": "#efe8d8",
       "searchText": "smart materials 3d tpu innovatefil® tpu hardness+ natural"
+    },
+    {
+      "id": "smart-materials-3d-innovatefil-tpu-hardness-plus-true-black",
+      "brand": "SMART MATERIALS 3D",
+      "material": "TPU",
+      "name": "INNOVATEFIL® TPU HARDNESS+ True black",
+      "hex": "#000000",
+      "searchText": "smart materials 3d tpu innovatefil® tpu hardness+ true black"
     },
     {
       "id": "sovb-3d-fil-abs-aluminium",
