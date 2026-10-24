@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-10-23T04:33:45.809Z",
-  "entryCount": 12942,
+  "lastSynced": "2026-10-24T04:31:12.551Z",
+  "entryCount": 13316,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -39318,6 +39318,238 @@
       "searchText": "filamentworld pla pla transparent"
     },
     {
+      "id": "filaron-petg-blauw",
+      "brand": "Filaron",
+      "material": "PETG",
+      "name": "PETG Blauw",
+      "hex": "#4fc9fa",
+      "searchText": "filaron petg petg blauw"
+    },
+    {
+      "id": "filaron-petg-cf10-zwart",
+      "brand": "Filaron",
+      "material": "PETG",
+      "name": "PETG CF10 Zwart",
+      "hex": "#000000",
+      "searchText": "filaron petg petg cf10 zwart"
+    },
+    {
+      "id": "filaron-petg-grijs",
+      "brand": "Filaron",
+      "material": "PETG",
+      "name": "PETG Grijs",
+      "hex": "#808080",
+      "searchText": "filaron petg petg grijs"
+    },
+    {
+      "id": "filaron-petg-groen",
+      "brand": "Filaron",
+      "material": "PETG",
+      "name": "PETG Groen",
+      "hex": "#008040",
+      "searchText": "filaron petg petg groen"
+    },
+    {
+      "id": "filaron-petg-matte-zwart",
+      "brand": "Filaron",
+      "material": "PETG",
+      "name": "PETG Matte Zwart",
+      "hex": "#000000",
+      "searchText": "filaron petg petg matte zwart"
+    },
+    {
+      "id": "filaron-petg-oranje",
+      "brand": "Filaron",
+      "material": "PETG",
+      "name": "PETG Oranje",
+      "hex": "#ff8000",
+      "searchText": "filaron petg petg oranje"
+    },
+    {
+      "id": "filaron-petg-rood",
+      "brand": "Filaron",
+      "material": "PETG",
+      "name": "PETG Rood",
+      "hex": "#e02a25",
+      "searchText": "filaron petg petg rood"
+    },
+    {
+      "id": "filaron-petg-wit",
+      "brand": "Filaron",
+      "material": "PETG",
+      "name": "PETG Wit",
+      "hex": "#ffffff",
+      "searchText": "filaron petg petg wit"
+    },
+    {
+      "id": "filaron-petg-zwart",
+      "brand": "Filaron",
+      "material": "PETG",
+      "name": "PETG Zwart",
+      "hex": "#000000",
+      "searchText": "filaron petg petg zwart"
+    },
+    {
+      "id": "filaron-pla-blauw",
+      "brand": "Filaron",
+      "material": "PLA",
+      "name": "PLA Blauw",
+      "hex": "#0000ff",
+      "searchText": "filaron pla pla blauw"
+    },
+    {
+      "id": "filaron-pla-geel",
+      "brand": "Filaron",
+      "material": "PLA",
+      "name": "PLA Geel",
+      "hex": "#ffff80",
+      "searchText": "filaron pla pla geel"
+    },
+    {
+      "id": "filaron-pla-grijs",
+      "brand": "Filaron",
+      "material": "PLA",
+      "name": "PLA Grijs",
+      "hex": "#808080",
+      "searchText": "filaron pla pla grijs"
+    },
+    {
+      "id": "filaron-pla-groen",
+      "brand": "Filaron",
+      "material": "PLA",
+      "name": "PLA Groen",
+      "hex": "#008040",
+      "searchText": "filaron pla pla groen"
+    },
+    {
+      "id": "filaron-pla-magenta",
+      "brand": "Filaron",
+      "material": "PLA",
+      "name": "PLA Magenta",
+      "hex": "#ff00ff",
+      "searchText": "filaron pla pla magenta"
+    },
+    {
+      "id": "filaron-pla-matte-blauw",
+      "brand": "Filaron",
+      "material": "PLA",
+      "name": "PLA Matte Blauw",
+      "hex": "#4fc9fa",
+      "searchText": "filaron pla pla matte blauw"
+    },
+    {
+      "id": "filaron-pla-matte-geel",
+      "brand": "Filaron",
+      "material": "PLA",
+      "name": "PLA Matte Geel",
+      "hex": "#ffff80",
+      "searchText": "filaron pla pla matte geel"
+    },
+    {
+      "id": "filaron-pla-matte-grijs",
+      "brand": "Filaron",
+      "material": "PLA",
+      "name": "PLA Matte Grijs",
+      "hex": "#808080",
+      "searchText": "filaron pla pla matte grijs"
+    },
+    {
+      "id": "filaron-pla-matte-groen",
+      "brand": "Filaron",
+      "material": "PLA",
+      "name": "PLA Matte Groen",
+      "hex": "#008040",
+      "searchText": "filaron pla pla matte groen"
+    },
+    {
+      "id": "filaron-pla-matte-magenta",
+      "brand": "Filaron",
+      "material": "PLA",
+      "name": "PLA Matte Magenta",
+      "hex": "#ff00ff",
+      "searchText": "filaron pla pla matte magenta"
+    },
+    {
+      "id": "filaron-pla-matte-oranje",
+      "brand": "Filaron",
+      "material": "PLA",
+      "name": "PLA Matte Oranje",
+      "hex": "#ff8000",
+      "searchText": "filaron pla pla matte oranje"
+    },
+    {
+      "id": "filaron-pla-matte-paars",
+      "brand": "Filaron",
+      "material": "PLA",
+      "name": "PLA Matte Paars",
+      "hex": "#800080",
+      "searchText": "filaron pla pla matte paars"
+    },
+    {
+      "id": "filaron-pla-matte-rood",
+      "brand": "Filaron",
+      "material": "PLA",
+      "name": "PLA Matte Rood",
+      "hex": "#e02a25",
+      "searchText": "filaron pla pla matte rood"
+    },
+    {
+      "id": "filaron-pla-matte-wit",
+      "brand": "Filaron",
+      "material": "PLA",
+      "name": "PLA Matte Wit",
+      "hex": "#ffffff",
+      "searchText": "filaron pla pla matte wit"
+    },
+    {
+      "id": "filaron-pla-matte-zwart",
+      "brand": "Filaron",
+      "material": "PLA",
+      "name": "PLA Matte Zwart",
+      "hex": "#000000",
+      "searchText": "filaron pla pla matte zwart"
+    },
+    {
+      "id": "filaron-pla-oranje",
+      "brand": "Filaron",
+      "material": "PLA",
+      "name": "PLA Oranje",
+      "hex": "#ff8000",
+      "searchText": "filaron pla pla oranje"
+    },
+    {
+      "id": "filaron-pla-paars",
+      "brand": "Filaron",
+      "material": "PLA",
+      "name": "PLA Paars",
+      "hex": "#800080",
+      "searchText": "filaron pla pla paars"
+    },
+    {
+      "id": "filaron-pla-rood",
+      "brand": "Filaron",
+      "material": "PLA",
+      "name": "PLA Rood",
+      "hex": "#e02a25",
+      "searchText": "filaron pla pla rood"
+    },
+    {
+      "id": "filaron-pla-wit",
+      "brand": "Filaron",
+      "material": "PLA",
+      "name": "PLA Wit",
+      "hex": "#ffffff",
+      "searchText": "filaron pla pla wit"
+    },
+    {
+      "id": "filaron-pla-zwart",
+      "brand": "Filaron",
+      "material": "PLA",
+      "name": "PLA Zwart",
+      "hex": "#000000",
+      "searchText": "filaron pla pla zwart"
+    },
+    {
       "id": "filatech-abs-black",
       "brand": "Filatech",
       "material": "ABS",
@@ -76598,6 +76830,2670 @@
       "searchText": "prusament wood woodfill pastel brown"
     },
     {
+      "id": "purefil-abs-anthracite-grey-ral-7016",
+      "brand": "purefil",
+      "material": "ABS",
+      "name": "ABS Anthracite Grey RAL 7016",
+      "hex": "#373f43",
+      "searchText": "purefil abs abs anthracite grey ral 7016"
+    },
+    {
+      "id": "purefil-abs-deep-orange-ral-2011",
+      "brand": "purefil",
+      "material": "ABS",
+      "name": "ABS Deep Orange RAL 2011",
+      "hex": "#ec7c25",
+      "searchText": "purefil abs abs deep orange ral 2011"
+    },
+    {
+      "id": "purefil-abs-gf10-jet-black-ral-9005",
+      "brand": "purefil",
+      "material": "ABS",
+      "name": "ABS GF10 Jet Black RAL 9005",
+      "hex": "#0a0a0d",
+      "searchText": "purefil abs abs gf10 jet black ral 9005"
+    },
+    {
+      "id": "purefil-abs-gf10-pure-white-ral-9010",
+      "brand": "purefil",
+      "material": "ABS",
+      "name": "ABS GF10 Pure White RAL 9010",
+      "hex": "#f7f9ef",
+      "searchText": "purefil abs abs gf10 pure white ral 9010"
+    },
+    {
+      "id": "purefil-abs-gold",
+      "brand": "purefil",
+      "material": "ABS",
+      "name": "ABS Gold",
+      "hex": "#f2cc84",
+      "searchText": "purefil abs abs gold"
+    },
+    {
+      "id": "purefil-abs-jet-black-ral-9005",
+      "brand": "purefil",
+      "material": "ABS",
+      "name": "ABS Jet Black RAL 9005",
+      "hex": "#0a0a0d",
+      "searchText": "purefil abs abs jet black ral 9005"
+    },
+    {
+      "id": "purefil-abs-lime-green-pantone-368-c",
+      "brand": "purefil",
+      "material": "ABS",
+      "name": "ABS Lime Green Pantone 368 C",
+      "hex": "#78be20",
+      "searchText": "purefil abs abs lime green pantone 368 c"
+    },
+    {
+      "id": "purefil-abs-mint-green-ral-6029",
+      "brand": "purefil",
+      "material": "ABS",
+      "name": "ABS Mint Green RAL 6029",
+      "hex": "#007243",
+      "searchText": "purefil abs abs mint green ral 6029"
+    },
+    {
+      "id": "purefil-abs-nature",
+      "brand": "purefil",
+      "material": "ABS",
+      "name": "ABS Nature",
+      "hex": "#e9dcbb",
+      "searchText": "purefil abs abs nature"
+    },
+    {
+      "id": "purefil-abs-nut-brown-ral-8011",
+      "brand": "purefil",
+      "material": "ABS",
+      "name": "ABS Nut Brown RAL 8011",
+      "hex": "#5a3a29",
+      "searchText": "purefil abs abs nut brown ral 8011"
+    },
+    {
+      "id": "purefil-abs-pearl-light-grey-ral-9022",
+      "brand": "purefil",
+      "material": "ABS",
+      "name": "ABS Pearl Light Grey RAL 9022",
+      "hex": "#858583",
+      "searchText": "purefil abs abs pearl light grey ral 9022"
+    },
+    {
+      "id": "purefil-abs-pure-white-ral-9010",
+      "brand": "purefil",
+      "material": "ABS",
+      "name": "ABS Pure White RAL 9010",
+      "hex": "#f7f9ef",
+      "searchText": "purefil abs abs pure white ral 9010"
+    },
+    {
+      "id": "purefil-abs-signal-yellow-ral-1003",
+      "brand": "purefil",
+      "material": "ABS",
+      "name": "ABS Signal Yellow RAL 1003",
+      "hex": "#f9a800",
+      "searchText": "purefil abs abs signal yellow ral 1003"
+    },
+    {
+      "id": "purefil-abs-sky-blue-ral-5015",
+      "brand": "purefil",
+      "material": "ABS",
+      "name": "ABS Sky Blue RAL 5015",
+      "hex": "#2874b2",
+      "searchText": "purefil abs abs sky blue ral 5015"
+    },
+    {
+      "id": "purefil-abs-telemagenta-ral-4010",
+      "brand": "purefil",
+      "material": "ABS",
+      "name": "ABS Telemagenta RAL 4010",
+      "hex": "#c63678",
+      "searchText": "purefil abs abs telemagenta ral 4010"
+    },
+    {
+      "id": "purefil-abs-traffic-red-ral-3020",
+      "brand": "purefil",
+      "material": "ABS",
+      "name": "ABS Traffic Red RAL 3020",
+      "hex": "#c1121c",
+      "searchText": "purefil abs abs traffic red ral 3020"
+    },
+    {
+      "id": "purefil-abs-ultramarine-blue-ral-5002",
+      "brand": "purefil",
+      "material": "ABS",
+      "name": "ABS Ultramarine Blue RAL 5002",
+      "hex": "#2b2c7c",
+      "searchText": "purefil abs abs ultramarine blue ral 5002"
+    },
+    {
+      "id": "purefil-abs-violet-pantone-268-c",
+      "brand": "purefil",
+      "material": "ABS",
+      "name": "ABS Violet Pantone 268 C",
+      "hex": "#5e2d84",
+      "searchText": "purefil abs abs violet pantone 268 c"
+    },
+    {
+      "id": "purefil-abs-r-jet-black-ral-9005",
+      "brand": "purefil",
+      "material": "ABS",
+      "name": "ABS-R Jet Black RAL 9005",
+      "hex": "#0a0a0d",
+      "searchText": "purefil abs abs-r jet black ral 9005"
+    },
+    {
+      "id": "purefil-mabs-blue-transparent",
+      "brand": "purefil",
+      "material": "ABS",
+      "name": "MABS Blue Transparent",
+      "hex": "#3b78d8",
+      "searchText": "purefil abs mabs blue transparent"
+    },
+    {
+      "id": "purefil-mabs-green-transparent",
+      "brand": "purefil",
+      "material": "ABS",
+      "name": "MABS Green Transparent",
+      "hex": "#46a85a",
+      "searchText": "purefil abs mabs green transparent"
+    },
+    {
+      "id": "purefil-mabs-jet-black-ral-9005",
+      "brand": "purefil",
+      "material": "ABS",
+      "name": "MABS Jet Black RAL 9005",
+      "hex": "#0a0a0d",
+      "searchText": "purefil abs mabs jet black ral 9005"
+    },
+    {
+      "id": "purefil-mabs-pure-white-ral-9010",
+      "brand": "purefil",
+      "material": "ABS",
+      "name": "MABS Pure White RAL 9010",
+      "hex": "#f7f9ef",
+      "searchText": "purefil abs mabs pure white ral 9010"
+    },
+    {
+      "id": "purefil-mabs-red-transparent",
+      "brand": "purefil",
+      "material": "ABS",
+      "name": "MABS Red Transparent",
+      "hex": "#d03a3e",
+      "searchText": "purefil abs mabs red transparent"
+    },
+    {
+      "id": "purefil-mabs-transparent",
+      "brand": "purefil",
+      "material": "ABS",
+      "name": "MABS Transparent",
+      "hex": "#eef3f5",
+      "searchText": "purefil abs mabs transparent"
+    },
+    {
+      "id": "purefil-mabs-yellow-transparent",
+      "brand": "purefil",
+      "material": "ABS",
+      "name": "MABS Yellow Transparent",
+      "hex": "#f5c842",
+      "searchText": "purefil abs mabs yellow transparent"
+    },
+    {
+      "id": "purefil-pc-abs-jet-black-ral-9005",
+      "brand": "purefil",
+      "material": "ABS",
+      "name": "PC-ABS Jet Black RAL 9005",
+      "hex": "#0a0a0d",
+      "searchText": "purefil abs pc-abs jet black ral 9005"
+    },
+    {
+      "id": "purefil-pc-abs-nature",
+      "brand": "purefil",
+      "material": "ABS",
+      "name": "PC-ABS Nature",
+      "hex": "#e9dcbb",
+      "searchText": "purefil abs pc-abs nature"
+    },
+    {
+      "id": "purefil-asa-anthracite-grey-ral-7016",
+      "brand": "purefil",
+      "material": "ASA",
+      "name": "ASA Anthracite Grey RAL 7016",
+      "hex": "#373f43",
+      "searchText": "purefil asa asa anthracite grey ral 7016"
+    },
+    {
+      "id": "purefil-asa-cf10-black",
+      "brand": "purefil",
+      "material": "ASA",
+      "name": "ASA CF10 Black",
+      "hex": "#020303",
+      "searchText": "purefil asa asa cf10 black"
+    },
+    {
+      "id": "purefil-asa-jet-black-ral-9005",
+      "brand": "purefil",
+      "material": "ASA",
+      "name": "ASA Jet Black RAL 9005",
+      "hex": "#0a0a0d",
+      "searchText": "purefil asa asa jet black ral 9005"
+    },
+    {
+      "id": "purefil-asa-lime-green-pantone-368-c",
+      "brand": "purefil",
+      "material": "ASA",
+      "name": "ASA Lime Green Pantone 368 C",
+      "hex": "#78be20",
+      "searchText": "purefil asa asa lime green pantone 368 c"
+    },
+    {
+      "id": "purefil-asa-mint-green-ral-6029",
+      "brand": "purefil",
+      "material": "ASA",
+      "name": "ASA Mint Green RAL 6029",
+      "hex": "#007243",
+      "searchText": "purefil asa asa mint green ral 6029"
+    },
+    {
+      "id": "purefil-asa-pure-white-ral-9010",
+      "brand": "purefil",
+      "material": "ASA",
+      "name": "ASA Pure White RAL 9010",
+      "hex": "#f7f9ef",
+      "searchText": "purefil asa asa pure white ral 9010"
+    },
+    {
+      "id": "purefil-asa-signal-yellow-ral-1003",
+      "brand": "purefil",
+      "material": "ASA",
+      "name": "ASA Signal Yellow RAL 1003",
+      "hex": "#f9a800",
+      "searchText": "purefil asa asa signal yellow ral 1003"
+    },
+    {
+      "id": "purefil-asa-sky-blue-ral-5015",
+      "brand": "purefil",
+      "material": "ASA",
+      "name": "ASA Sky Blue RAL 5015",
+      "hex": "#2874b2",
+      "searchText": "purefil asa asa sky blue ral 5015"
+    },
+    {
+      "id": "purefil-asa-traffic-red-ral-3020",
+      "brand": "purefil",
+      "material": "ASA",
+      "name": "ASA Traffic Red RAL 3020",
+      "hex": "#c1121c",
+      "searchText": "purefil asa asa traffic red ral 3020"
+    },
+    {
+      "id": "purefil-asa-ultramarine-blue-ral-5002",
+      "brand": "purefil",
+      "material": "ASA",
+      "name": "ASA Ultramarine Blue RAL 5002",
+      "hex": "#2b2c7c",
+      "searchText": "purefil asa asa ultramarine blue ral 5002"
+    },
+    {
+      "id": "purefil-asa-r-jet-black-ral-9005",
+      "brand": "purefil",
+      "material": "ASA",
+      "name": "ASA-R Jet Black RAL 9005",
+      "hex": "#0a0a0d",
+      "searchText": "purefil asa asa-r jet black ral 9005"
+    },
+    {
+      "id": "purefil-biotec-lime-green-pantone-368-c",
+      "brand": "purefil",
+      "material": "BIO",
+      "name": "BioTEC Lime Green Pantone 368 C",
+      "hex": "#78be20",
+      "searchText": "purefil bio biotec lime green pantone 368 c"
+    },
+    {
+      "id": "purefil-biotec-traffic-red-ral-3020",
+      "brand": "purefil",
+      "material": "BIO",
+      "name": "BioTEC Traffic Red RAL 3020",
+      "hex": "#c1121c",
+      "searchText": "purefil bio biotec traffic red ral 3020"
+    },
+    {
+      "id": "purefil-biotec-transparent",
+      "brand": "purefil",
+      "material": "BIO",
+      "name": "BioTEC Transparent",
+      "hex": "#eef3f5",
+      "searchText": "purefil bio biotec transparent"
+    },
+    {
+      "id": "purefil-biotec-ultramarine-blue-ral-5002",
+      "brand": "purefil",
+      "material": "BIO",
+      "name": "BioTEC Ultramarine Blue RAL 5002",
+      "hex": "#2b2c7c",
+      "searchText": "purefil bio biotec ultramarine blue ral 5002"
+    },
+    {
+      "id": "purefil-biotec-r-jet-black-ral-9005",
+      "brand": "purefil",
+      "material": "BIO",
+      "name": "BioTEC-R Jet Black RAL 9005",
+      "hex": "#0a0a0d",
+      "searchText": "purefil bio biotec-r jet black ral 9005"
+    },
+    {
+      "id": "purefil-coc-flex-transparent",
+      "brand": "purefil",
+      "material": "COC",
+      "name": "COC Flex Transparent",
+      "hex": "#eef3f5",
+      "searchText": "purefil coc coc flex transparent"
+    },
+    {
+      "id": "purefil-coc-tough-nature",
+      "brand": "purefil",
+      "material": "COC",
+      "name": "COC Tough Nature",
+      "hex": "#e9dcbb",
+      "searchText": "purefil coc coc tough nature"
+    },
+    {
+      "id": "purefil-hdpe-gf20-jet-black-ral-9005",
+      "brand": "purefil",
+      "material": "HDPEGF",
+      "name": "HDPE GF20 Jet Black RAL 9005",
+      "hex": "#0a0a0d",
+      "searchText": "purefil hdpegf hdpe gf20 jet black ral 9005"
+    },
+    {
+      "id": "purefil-hdpe-gf20-nature",
+      "brand": "purefil",
+      "material": "HDPEGF",
+      "name": "HDPE GF20 Nature",
+      "hex": "#e9dcbb",
+      "searchText": "purefil hdpegf hdpe gf20 nature"
+    },
+    {
+      "id": "purefil-hips-nature",
+      "brand": "purefil",
+      "material": "HIPS",
+      "name": "HIPS Nature",
+      "hex": "#e9dcbb",
+      "searchText": "purefil hips hips nature"
+    },
+    {
+      "id": "purefil-kerfil-alumina-nature",
+      "brand": "purefil",
+      "material": "KERFIL",
+      "name": "Kerfil Alumina Nature",
+      "hex": "#e9dcbb",
+      "searchText": "purefil kerfil kerfil alumina nature"
+    },
+    {
+      "id": "purefil-kerfil-zirconium-oxide-nature",
+      "brand": "purefil",
+      "material": "KERFIL",
+      "name": "Kerfil Zirconium Oxide Nature",
+      "hex": "#e9dcbb",
+      "searchText": "purefil kerfil kerfil zirconium oxide nature"
+    },
+    {
+      "id": "purefil-lcp-nature",
+      "brand": "purefil",
+      "material": "LCP",
+      "name": "LCP Nature",
+      "hex": "#f5f5f5",
+      "searchText": "purefil lcp lcp nature"
+    },
+    {
+      "id": "purefil-pa12-cf15-jet-black-ral-9005",
+      "brand": "purefil",
+      "material": "PA12",
+      "name": "PA12 CF15 Jet Black RAL 9005",
+      "hex": "#0a0a0d",
+      "searchText": "purefil pa12 pa12 cf15 jet black ral 9005"
+    },
+    {
+      "id": "purefil-pa12-transparent",
+      "brand": "purefil",
+      "material": "PA12",
+      "name": "PA12 Transparent",
+      "hex": "#eef3f5",
+      "searchText": "purefil pa12 pa12 transparent"
+    },
+    {
+      "id": "purefil-pa6-gf10-jet-black-ral-9005",
+      "brand": "purefil",
+      "material": "PA6",
+      "name": "PA6 GF10 Jet Black RAL 9005",
+      "hex": "#0a0a0d",
+      "searchText": "purefil pa6 pa6 gf10 jet black ral 9005"
+    },
+    {
+      "id": "purefil-pbt-jet-black-ral-9005",
+      "brand": "purefil",
+      "material": "PBT",
+      "name": "PBT Jet Black RAL 9005",
+      "hex": "#0a0a0d",
+      "searchText": "purefil pbt pbt jet black ral 9005"
+    },
+    {
+      "id": "purefil-pc-gf10-jet-black-ral-9005",
+      "brand": "purefil",
+      "material": "PC",
+      "name": "PC GF10 Jet Black RAL 9005",
+      "hex": "#0a0a0d",
+      "searchText": "purefil pc pc gf10 jet black ral 9005"
+    },
+    {
+      "id": "purefil-pc-transparent",
+      "brand": "purefil",
+      "material": "PC",
+      "name": "PC Transparent",
+      "hex": "#eef3f5",
+      "searchText": "purefil pc pc transparent"
+    },
+    {
+      "id": "purefil-peek-cf10-nature",
+      "brand": "purefil",
+      "material": "PEEK",
+      "name": "PEEK CF10 Nature",
+      "hex": "#354047",
+      "searchText": "purefil peek peek cf10 nature"
+    },
+    {
+      "id": "purefil-petg-anthracite-grey-ral-7016",
+      "brand": "purefil",
+      "material": "PETG",
+      "name": "PETG Anthracite Grey RAL 7016",
+      "hex": "#373f43",
+      "searchText": "purefil petg petg anthracite grey ral 7016"
+    },
+    {
+      "id": "purefil-petg-blue-transparent",
+      "brand": "purefil",
+      "material": "PETG",
+      "name": "PETG Blue Transparent",
+      "hex": "#3b78d8",
+      "searchText": "purefil petg petg blue transparent"
+    },
+    {
+      "id": "purefil-petg-green-transparent",
+      "brand": "purefil",
+      "material": "PETG",
+      "name": "PETG Green Transparent",
+      "hex": "#46a85a",
+      "searchText": "purefil petg petg green transparent"
+    },
+    {
+      "id": "purefil-petg-jet-black-ral-9005",
+      "brand": "purefil",
+      "material": "PETG",
+      "name": "PETG Jet Black RAL 9005",
+      "hex": "#0a0a0d",
+      "searchText": "purefil petg petg jet black ral 9005"
+    },
+    {
+      "id": "purefil-petg-light-grey-ral-7035",
+      "brand": "purefil",
+      "material": "PETG",
+      "name": "PETG Light Grey RAL 7035",
+      "hex": "#cbd0cc",
+      "searchText": "purefil petg petg light grey ral 7035"
+    },
+    {
+      "id": "purefil-petg-lime-green-pantone-368-c",
+      "brand": "purefil",
+      "material": "PETG",
+      "name": "PETG Lime Green Pantone 368 C",
+      "hex": "#78be20",
+      "searchText": "purefil petg petg lime green pantone 368 c"
+    },
+    {
+      "id": "purefil-petg-pearl-light-grey-ral-9022",
+      "brand": "purefil",
+      "material": "PETG",
+      "name": "PETG Pearl Light Grey RAL 9022",
+      "hex": "#858583",
+      "searchText": "purefil petg petg pearl light grey ral 9022"
+    },
+    {
+      "id": "purefil-petg-pure-white-ral-9010",
+      "brand": "purefil",
+      "material": "PETG",
+      "name": "PETG Pure White RAL 9010",
+      "hex": "#f7f9ef",
+      "searchText": "purefil petg petg pure white ral 9010"
+    },
+    {
+      "id": "purefil-petg-red-transparent",
+      "brand": "purefil",
+      "material": "PETG",
+      "name": "PETG Red Transparent",
+      "hex": "#d03a3e",
+      "searchText": "purefil petg petg red transparent"
+    },
+    {
+      "id": "purefil-petg-signal-yellow-ral-1003",
+      "brand": "purefil",
+      "material": "PETG",
+      "name": "PETG Signal Yellow RAL 1003",
+      "hex": "#f9a800",
+      "searchText": "purefil petg petg signal yellow ral 1003"
+    },
+    {
+      "id": "purefil-petg-traffic-red-ral-3020",
+      "brand": "purefil",
+      "material": "PETG",
+      "name": "PETG Traffic Red RAL 3020",
+      "hex": "#c1121c",
+      "searchText": "purefil petg petg traffic red ral 3020"
+    },
+    {
+      "id": "purefil-petg-transparent",
+      "brand": "purefil",
+      "material": "PETG",
+      "name": "PETG Transparent",
+      "hex": "#eef3f5",
+      "searchText": "purefil petg petg transparent"
+    },
+    {
+      "id": "purefil-petg-ultramarine-blue-ral-5002",
+      "brand": "purefil",
+      "material": "PETG",
+      "name": "PETG Ultramarine Blue RAL 5002",
+      "hex": "#2b2c7c",
+      "searchText": "purefil petg petg ultramarine blue ral 5002"
+    },
+    {
+      "id": "purefil-petg-yellow-transparent",
+      "brand": "purefil",
+      "material": "PETG",
+      "name": "PETG Yellow Transparent",
+      "hex": "#f5c842",
+      "searchText": "purefil petg petg yellow transparent"
+    },
+    {
+      "id": "purefil-bamboo-nature",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "Bamboo Nature",
+      "hex": "#e9dcbb",
+      "searchText": "purefil pla bamboo nature"
+    },
+    {
+      "id": "purefil-cork-nature",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "Cork Nature",
+      "hex": "#e9dcbb",
+      "searchText": "purefil pla cork nature"
+    },
+    {
+      "id": "purefil-lw-pla-gentian-blue-ral-5010",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "LW-PLA Gentian Blue RAL 5010",
+      "hex": "#13447c",
+      "searchText": "purefil pla lw-pla gentian blue ral 5010"
+    },
+    {
+      "id": "purefil-lw-pla-green",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "LW-PLA Green",
+      "hex": "#1e5a4f",
+      "searchText": "purefil pla lw-pla green"
+    },
+    {
+      "id": "purefil-lw-pla-jet-black-ral-9005",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "LW-PLA Jet Black RAL 9005",
+      "hex": "#0a0a0d",
+      "searchText": "purefil pla lw-pla jet black ral 9005"
+    },
+    {
+      "id": "purefil-lw-pla-nature",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "LW-PLA Nature",
+      "hex": "#e9dcbb",
+      "searchText": "purefil pla lw-pla nature"
+    },
+    {
+      "id": "purefil-lw-pla-sulfur-yellow-ral-1016",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "LW-PLA Sulfur Yellow RAL 1016",
+      "hex": "#f1dd38",
+      "searchText": "purefil pla lw-pla sulfur yellow ral 1016"
+    },
+    {
+      "id": "purefil-lw-pla-traffic-red-ral-3020",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "LW-PLA Traffic Red RAL 3020",
+      "hex": "#c1121c",
+      "searchText": "purefil pla lw-pla traffic red ral 3020"
+    },
+    {
+      "id": "purefil-pla-agate-grey-ral-7038",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Agate Grey RAL 7038",
+      "hex": "#b4b8b0",
+      "searchText": "purefil pla pla agate grey ral 7038"
+    },
+    {
+      "id": "purefil-pla-anthracite-grey-ral-7016",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Anthracite Grey RAL 7016",
+      "hex": "#373f43",
+      "searchText": "purefil pla pla anthracite grey ral 7016"
+    },
+    {
+      "id": "purefil-pla-antique-pink",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Antique Pink",
+      "hex": "#fcafc0",
+      "searchText": "purefil pla pla antique pink"
+    },
+    {
+      "id": "purefil-pla-azure-blue-ral-5009",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Azure Blue RAL 5009",
+      "hex": "#2e5978",
+      "searchText": "purefil pla pla azure blue ral 5009"
+    },
+    {
+      "id": "purefil-pla-basalt-grey-ral-7012",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Basalt Grey RAL 7012",
+      "hex": "#596163",
+      "searchText": "purefil pla pla basalt grey ral 7012"
+    },
+    {
+      "id": "purefil-pla-beige-brown-ral-8024",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Beige Brown RAL 8024",
+      "hex": "#79553c",
+      "searchText": "purefil pla pla beige brown ral 8024"
+    },
+    {
+      "id": "purefil-pla-beige-grey-ral-7006",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Beige Grey RAL 7006",
+      "hex": "#756f61",
+      "searchText": "purefil pla pla beige grey ral 7006"
+    },
+    {
+      "id": "purefil-pla-beige-ral-1001",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Beige RAL 1001",
+      "hex": "#d0b084",
+      "searchText": "purefil pla pla beige ral 1001"
+    },
+    {
+      "id": "purefil-pla-beige-red-ral-3012",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Beige Red RAL 3012",
+      "hex": "#cb8d73",
+      "searchText": "purefil pla pla beige red ral 3012"
+    },
+    {
+      "id": "purefil-pla-black-blue-ral-5004",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Black Blue RAL 5004",
+      "hex": "#1d1f2a",
+      "searchText": "purefil pla pla black blue ral 5004"
+    },
+    {
+      "id": "purefil-pla-black-brown-ral-8022",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Black Brown RAL 8022",
+      "hex": "#211f20",
+      "searchText": "purefil pla pla black brown ral 8022"
+    },
+    {
+      "id": "purefil-pla-black-green-ral-6012",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Black Green RAL 6012",
+      "hex": "#31403d",
+      "searchText": "purefil pla pla black green ral 6012"
+    },
+    {
+      "id": "purefil-pla-black-grey-ral-7021",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Black Grey RAL 7021",
+      "hex": "#2e3234",
+      "searchText": "purefil pla pla black grey ral 7021"
+    },
+    {
+      "id": "purefil-pla-black-olive-ral-6015",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Black Olive RAL 6015",
+      "hex": "#3d403a",
+      "searchText": "purefil pla pla black olive ral 6015"
+    },
+    {
+      "id": "purefil-pla-black-red-ral-3007",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Black Red RAL 3007",
+      "hex": "#402225",
+      "searchText": "purefil pla pla black red ral 3007"
+    },
+    {
+      "id": "purefil-pla-blue-green-ral-6004",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Blue Green RAL 6004",
+      "hex": "#0e4243",
+      "searchText": "purefil pla pla blue green ral 6004"
+    },
+    {
+      "id": "purefil-pla-blue-grey-ral-7031",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Blue Grey RAL 7031",
+      "hex": "#5d6970",
+      "searchText": "purefil pla pla blue grey ral 7031"
+    },
+    {
+      "id": "purefil-pla-blue-lilac-ral-4005",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Blue Lilac RAL 4005",
+      "hex": "#83639d",
+      "searchText": "purefil pla pla blue lilac ral 4005"
+    },
+    {
+      "id": "purefil-pla-bottle-green-ral-6007",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Bottle Green RAL 6007",
+      "hex": "#283424",
+      "searchText": "purefil pla pla bottle green ral 6007"
+    },
+    {
+      "id": "purefil-pla-bright-red-orange-ral-2008",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Bright Red Orange RAL 2008",
+      "hex": "#f3752c",
+      "searchText": "purefil pla pla bright red orange ral 2008"
+    },
+    {
+      "id": "purefil-pla-brilliant-blue-ral-5007",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Brilliant Blue RAL 5007",
+      "hex": "#41678d",
+      "searchText": "purefil pla pla brilliant blue ral 5007"
+    },
+    {
+      "id": "purefil-pla-broom-yellow-ral-1032",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Broom Yellow RAL 1032",
+      "hex": "#e2a300",
+      "searchText": "purefil pla pla broom yellow ral 1032"
+    },
+    {
+      "id": "purefil-pla-brown-beige-ral-1011",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Brown Beige RAL 1011",
+      "hex": "#af804f",
+      "searchText": "purefil pla pla brown beige ral 1011"
+    },
+    {
+      "id": "purefil-pla-brown-green-ral-6008",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Brown Green RAL 6008",
+      "hex": "#35382e",
+      "searchText": "purefil pla pla brown green ral 6008"
+    },
+    {
+      "id": "purefil-pla-brown-grey-ral-7013",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Brown Grey RAL 7013",
+      "hex": "#555548",
+      "searchText": "purefil pla pla brown grey ral 7013"
+    },
+    {
+      "id": "purefil-pla-brown-red-ral-3011",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Brown Red RAL 3011",
+      "hex": "#7e292c",
+      "searchText": "purefil pla pla brown red ral 3011"
+    },
+    {
+      "id": "purefil-pla-capri-blue-ral-5019",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Capri Blue RAL 5019",
+      "hex": "#1a5784",
+      "searchText": "purefil pla pla capri blue ral 5019"
+    },
+    {
+      "id": "purefil-pla-carmine-red-ral-3002",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Carmine Red RAL 3002",
+      "hex": "#a1232b",
+      "searchText": "purefil pla pla carmine red ral 3002"
+    },
+    {
+      "id": "purefil-pla-cement-grey-ral-7033",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Cement Grey RAL 7033",
+      "hex": "#818979",
+      "searchText": "purefil pla pla cement grey ral 7033"
+    },
+    {
+      "id": "purefil-pla-cf10-black",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA CF10 Black",
+      "hex": "#020303",
+      "searchText": "purefil pla pla cf10 black"
+    },
+    {
+      "id": "purefil-pla-chestnut-brown-ral-8015",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Chestnut Brown RAL 8015",
+      "hex": "#633a34",
+      "searchText": "purefil pla pla chestnut brown ral 8015"
+    },
+    {
+      "id": "purefil-pla-chocolate-brown-ral-8017",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Chocolate Brown RAL 8017",
+      "hex": "#44322d",
+      "searchText": "purefil pla pla chocolate brown ral 8017"
+    },
+    {
+      "id": "purefil-pla-chrome-green-ral-6020",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Chrome Green RAL 6020",
+      "hex": "#354733",
+      "searchText": "purefil pla pla chrome green ral 6020"
+    },
+    {
+      "id": "purefil-pla-claret-violet-ral-4004",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Claret Violet RAL 4004",
+      "hex": "#691639",
+      "searchText": "purefil pla pla claret violet ral 4004"
+    },
+    {
+      "id": "purefil-pla-clay-brown-ral-8003",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Clay Brown RAL 8003",
+      "hex": "#80542f",
+      "searchText": "purefil pla pla clay brown ral 8003"
+    },
+    {
+      "id": "purefil-pla-cobalt-blue-ral-5013",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Cobalt Blue RAL 5013",
+      "hex": "#232d53",
+      "searchText": "purefil pla pla cobalt blue ral 5013"
+    },
+    {
+      "id": "purefil-pla-colza-yellow-ral-1021",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Colza Yellow RAL 1021",
+      "hex": "#f6b600",
+      "searchText": "purefil pla pla colza yellow ral 1021"
+    },
+    {
+      "id": "purefil-pla-concrete-grey-ral-7023",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Concrete Grey RAL 7023",
+      "hex": "#818479",
+      "searchText": "purefil pla pla concrete grey ral 7023"
+    },
+    {
+      "id": "purefil-pla-copper-brown-ral-8004",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Copper Brown RAL 8004",
+      "hex": "#8f4e35",
+      "searchText": "purefil pla pla copper brown ral 8004"
+    },
+    {
+      "id": "purefil-pla-coral-red-ral-3016",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Coral Red RAL 3016",
+      "hex": "#ac4034",
+      "searchText": "purefil pla pla coral red ral 3016"
+    },
+    {
+      "id": "purefil-pla-cream-ral-9001",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Cream RAL 9001",
+      "hex": "#efebdc",
+      "searchText": "purefil pla pla cream ral 9001"
+    },
+    {
+      "id": "purefil-pla-curry-ral-10277",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Curry RAL 10277",
+      "hex": "#b98d2f",
+      "searchText": "purefil pla pla curry ral 10277"
+    },
+    {
+      "id": "purefil-pla-daffodil-yellow-ral-1007",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Daffodil Yellow RAL 1007",
+      "hex": "#e88c00",
+      "searchText": "purefil pla pla daffodil yellow ral 1007"
+    },
+    {
+      "id": "purefil-pla-dahlia-yellow-ral-1033",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Dahlia Yellow RAL 1033",
+      "hex": "#f99a1c",
+      "searchText": "purefil pla pla dahlia yellow ral 1033"
+    },
+    {
+      "id": "purefil-pla-dark-green",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Dark Green",
+      "hex": "#13484d",
+      "searchText": "purefil pla pla dark green"
+    },
+    {
+      "id": "purefil-pla-deep-orange-ral-2011",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Deep Orange RAL 2011",
+      "hex": "#ec7c25",
+      "searchText": "purefil pla pla deep orange ral 2011"
+    },
+    {
+      "id": "purefil-pla-distant-blue-ral-5023",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Distant Blue RAL 5023",
+      "hex": "#4d668e",
+      "searchText": "purefil pla pla distant blue ral 5023"
+    },
+    {
+      "id": "purefil-pla-dusty-grey-ral-7037",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Dusty Grey RAL 7037",
+      "hex": "#7c7f7e",
+      "searchText": "purefil pla pla dusty grey ral 7037"
+    },
+    {
+      "id": "purefil-pla-emerald-green-ral-6001",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Emerald Green RAL 6001",
+      "hex": "#28713e",
+      "searchText": "purefil pla pla emerald green ral 6001"
+    },
+    {
+      "id": "purefil-pla-fawn-brown-ral-8007",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Fawn Brown RAL 8007",
+      "hex": "#6f4a2f",
+      "searchText": "purefil pla pla fawn brown ral 8007"
+    },
+    {
+      "id": "purefil-pla-fern-green-ral-6025",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Fern Green RAL 6025",
+      "hex": "#53753c",
+      "searchText": "purefil pla pla fern green ral 6025"
+    },
+    {
+      "id": "purefil-pla-fiber-red",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Fiber Red",
+      "hex": "#c4618c",
+      "searchText": "purefil pla pla fiber red"
+    },
+    {
+      "id": "purefil-pla-fir-green-ral-6009",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Fir Green RAL 6009",
+      "hex": "#26392f",
+      "searchText": "purefil pla pla fir green ral 6009"
+    },
+    {
+      "id": "purefil-pla-flame-red-ral-3000",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Flame Red RAL 3000",
+      "hex": "#ab2524",
+      "searchText": "purefil pla pla flame red ral 3000"
+    },
+    {
+      "id": "purefil-pla-gentian-blue-ral-5010",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Gentian Blue RAL 5010",
+      "hex": "#13447c",
+      "searchText": "purefil pla pla gentian blue ral 5010"
+    },
+    {
+      "id": "purefil-pla-gold",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Gold",
+      "hex": "#f1bb51",
+      "searchText": "purefil pla pla gold"
+    },
+    {
+      "id": "purefil-pla-golden-yellow-ral-1004",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Golden Yellow RAL 1004",
+      "hex": "#e49e00",
+      "searchText": "purefil pla pla golden yellow ral 1004"
+    },
+    {
+      "id": "purefil-pla-granite-grey-ral-7026",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Granite Grey RAL 7026",
+      "hex": "#374447",
+      "searchText": "purefil pla pla granite grey ral 7026"
+    },
+    {
+      "id": "purefil-pla-graphite-black-ral-9011",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Graphite Black RAL 9011",
+      "hex": "#292c2f",
+      "searchText": "purefil pla pla graphite black ral 9011"
+    },
+    {
+      "id": "purefil-pla-graphite-grey-ral-7024",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Graphite Grey RAL 7024",
+      "hex": "#474a50",
+      "searchText": "purefil pla pla graphite grey ral 7024"
+    },
+    {
+      "id": "purefil-pla-grass-green-ral-6010",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Grass Green RAL 6010",
+      "hex": "#3e753b",
+      "searchText": "purefil pla pla grass green ral 6010"
+    },
+    {
+      "id": "purefil-pla-green-beige-ral-1000",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Green Beige RAL 1000",
+      "hex": "#cdba88",
+      "searchText": "purefil pla pla green beige ral 1000"
+    },
+    {
+      "id": "purefil-pla-green-blue-ral-5001",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Green Blue RAL 5001",
+      "hex": "#1f4764",
+      "searchText": "purefil pla pla green blue ral 5001"
+    },
+    {
+      "id": "purefil-pla-green-brown-ral-8000",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Green Brown RAL 8000",
+      "hex": "#887142",
+      "searchText": "purefil pla pla green brown ral 8000"
+    },
+    {
+      "id": "purefil-pla-green-grey-ral-7009",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Green Grey RAL 7009",
+      "hex": "#5b6259",
+      "searchText": "purefil pla pla green grey ral 7009"
+    },
+    {
+      "id": "purefil-pla-grey-beige-ral-1019",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Grey Beige RAL 1019",
+      "hex": "#a48f7a",
+      "searchText": "purefil pla pla grey beige ral 1019"
+    },
+    {
+      "id": "purefil-pla-grey-blue-ral-5008",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Grey Blue RAL 5008",
+      "hex": "#313c48",
+      "searchText": "purefil pla pla grey blue ral 5008"
+    },
+    {
+      "id": "purefil-pla-grey-brown-ral-8019",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Grey Brown RAL 8019",
+      "hex": "#3f3a3a",
+      "searchText": "purefil pla pla grey brown ral 8019"
+    },
+    {
+      "id": "purefil-pla-grey-olive-ral-6006",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Grey Olive RAL 6006",
+      "hex": "#40433b",
+      "searchText": "purefil pla pla grey olive ral 6006"
+    },
+    {
+      "id": "purefil-pla-grey-white-ral-9002",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Grey White RAL 9002",
+      "hex": "#ddded4",
+      "searchText": "purefil pla pla grey white ral 9002"
+    },
+    {
+      "id": "purefil-pla-heather-violet-ral-4003",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Heather Violet RAL 4003",
+      "hex": "#d15b8f",
+      "searchText": "purefil pla pla heather violet ral 4003"
+    },
+    {
+      "id": "purefil-pla-honey-yellow-ral-1005",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Honey Yellow RAL 1005",
+      "hex": "#cb8e00",
+      "searchText": "purefil pla pla honey yellow ral 1005"
+    },
+    {
+      "id": "purefil-pla-iron-grey-ral-7011",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Iron Grey RAL 7011",
+      "hex": "#555d61",
+      "searchText": "purefil pla pla iron grey ral 7011"
+    },
+    {
+      "id": "purefil-pla-ivory-ral-1014",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Ivory RAL 1014",
+      "hex": "#ddc49a",
+      "searchText": "purefil pla pla ivory ral 1014"
+    },
+    {
+      "id": "purefil-pla-jet-black-ral-9005",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Jet Black RAL 9005",
+      "hex": "#0a0a0d",
+      "searchText": "purefil pla pla jet black ral 9005"
+    },
+    {
+      "id": "purefil-pla-khaki-grey-ral-7008",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Khaki Grey RAL 7008",
+      "hex": "#746643",
+      "searchText": "purefil pla pla khaki grey ral 7008"
+    },
+    {
+      "id": "purefil-pla-leaf-green-ral-6002",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Leaf Green RAL 6002",
+      "hex": "#276235",
+      "searchText": "purefil pla pla leaf green ral 6002"
+    },
+    {
+      "id": "purefil-pla-lemon-yellow-ral-1012",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Lemon Yellow RAL 1012",
+      "hex": "#ddaf27",
+      "searchText": "purefil pla pla lemon yellow ral 1012"
+    },
+    {
+      "id": "purefil-pla-light-blue-pantone-2925-c",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Light Blue Pantone 2925 C",
+      "hex": "#41b6e6",
+      "searchText": "purefil pla pla light blue pantone 2925 c"
+    },
+    {
+      "id": "purefil-pla-light-blue-ral-5012",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Light Blue RAL 5012",
+      "hex": "#3481b8",
+      "searchText": "purefil pla pla light blue ral 5012"
+    },
+    {
+      "id": "purefil-pla-light-green-ral-6027",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Light Green RAL 6027",
+      "hex": "#81c0bb",
+      "searchText": "purefil pla pla light green ral 6027"
+    },
+    {
+      "id": "purefil-pla-light-grey-ral-7035",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Light Grey RAL 7035",
+      "hex": "#cbd0cc",
+      "searchText": "purefil pla pla light grey ral 7035"
+    },
+    {
+      "id": "purefil-pla-light-ivory-ral-1015",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Light Ivory RAL 1015",
+      "hex": "#e6d2b5",
+      "searchText": "purefil pla pla light ivory ral 1015"
+    },
+    {
+      "id": "purefil-pla-light-pink-ral-3015",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Light Pink RAL 3015",
+      "hex": "#e1a6ad",
+      "searchText": "purefil pla pla light pink ral 3015"
+    },
+    {
+      "id": "purefil-pla-lime-green-pantone-368-c",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Lime Green Pantone 368 C",
+      "hex": "#78be20",
+      "searchText": "purefil pla pla lime green pantone 368 c"
+    },
+    {
+      "id": "purefil-pla-luminous-green-ral-6038",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Luminous Green RAL 6038",
+      "hex": "#00f700",
+      "searchText": "purefil pla pla luminous green ral 6038"
+    },
+    {
+      "id": "purefil-pla-luminous-orange-ral-2005",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Luminous Orange RAL 2005",
+      "hex": "#ff2300",
+      "searchText": "purefil pla pla luminous orange ral 2005"
+    },
+    {
+      "id": "purefil-pla-luminous-red-ral-3024",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Luminous Red RAL 3024",
+      "hex": "#f70000",
+      "searchText": "purefil pla pla luminous red ral 3024"
+    },
+    {
+      "id": "purefil-pla-luminous-yellow-ral-1026",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Luminous Yellow RAL 1026",
+      "hex": "#ffff00",
+      "searchText": "purefil pla pla luminous yellow ral 1026"
+    },
+    {
+      "id": "purefil-pla-mahogany-brown-ral-8016",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Mahogany Brown RAL 8016",
+      "hex": "#4c2f26",
+      "searchText": "purefil pla pla mahogany brown ral 8016"
+    },
+    {
+      "id": "purefil-pla-maize-yellow-ral-1006",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Maize Yellow RAL 1006",
+      "hex": "#e29000",
+      "searchText": "purefil pla pla maize yellow ral 1006"
+    },
+    {
+      "id": "purefil-pla-matt-jet-black-ral-9005",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Matt Jet Black RAL 9005",
+      "hex": "#0a0a0d",
+      "searchText": "purefil pla pla matt jet black ral 9005"
+    },
+    {
+      "id": "purefil-pla-matt-pure-white-ral-9010",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Matt Pure White RAL 9010",
+      "hex": "#f7f9ef",
+      "searchText": "purefil pla pla matt pure white ral 9010"
+    },
+    {
+      "id": "purefil-pla-may-green-ral-6017",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA May Green RAL 6017",
+      "hex": "#468641",
+      "searchText": "purefil pla pla may green ral 6017"
+    },
+    {
+      "id": "purefil-pla-melon-yellow-ral-1028",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Melon Yellow RAL 1028",
+      "hex": "#ff9b00",
+      "searchText": "purefil pla pla melon yellow ral 1028"
+    },
+    {
+      "id": "purefil-pla-mint-green-ral-6029",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Mint Green RAL 6029",
+      "hex": "#007243",
+      "searchText": "purefil pla pla mint green ral 6029"
+    },
+    {
+      "id": "purefil-pla-mint-turquoise-ral-6033",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Mint Turquoise RAL 6033",
+      "hex": "#478a84",
+      "searchText": "purefil pla pla mint turquoise ral 6033"
+    },
+    {
+      "id": "purefil-pla-moss-green-ral-6005",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Moss Green RAL 6005",
+      "hex": "#0f4336",
+      "searchText": "purefil pla pla moss green ral 6005"
+    },
+    {
+      "id": "purefil-pla-moss-grey-ral-7003",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Moss Grey RAL 7003",
+      "hex": "#7a7b6d",
+      "searchText": "purefil pla pla moss grey ral 7003"
+    },
+    {
+      "id": "purefil-pla-mouse-grey-ral-7005",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Mouse Grey RAL 7005",
+      "hex": "#6b716f",
+      "searchText": "purefil pla pla mouse grey ral 7005"
+    },
+    {
+      "id": "purefil-pla-night-blue-ral-5022",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Night Blue RAL 5022",
+      "hex": "#2f2a5a",
+      "searchText": "purefil pla pla night blue ral 5022"
+    },
+    {
+      "id": "purefil-pla-nut-brown-ral-8011",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Nut Brown RAL 8011",
+      "hex": "#5a3a29",
+      "searchText": "purefil pla pla nut brown ral 8011"
+    },
+    {
+      "id": "purefil-pla-ocean-blue-ral-5020",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Ocean Blue RAL 5020",
+      "hex": "#0b4151",
+      "searchText": "purefil pla pla ocean blue ral 5020"
+    },
+    {
+      "id": "purefil-pla-ochre-brown-ral-8001",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Ochre Brown RAL 8001",
+      "hex": "#9c6b30",
+      "searchText": "purefil pla pla ochre brown ral 8001"
+    },
+    {
+      "id": "purefil-pla-ochre-yellow-ral-1024",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Ochre Yellow RAL 1024",
+      "hex": "#ba8f4c",
+      "searchText": "purefil pla pla ochre yellow ral 1024"
+    },
+    {
+      "id": "purefil-pla-olive-brown-ral-8008",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Olive Brown RAL 8008",
+      "hex": "#6f4f28",
+      "searchText": "purefil pla pla olive brown ral 8008"
+    },
+    {
+      "id": "purefil-pla-olive-drab-ral-6022",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Olive Drab RAL 6022",
+      "hex": "#3e3c32",
+      "searchText": "purefil pla pla olive drab ral 6022"
+    },
+    {
+      "id": "purefil-pla-olive-green-ral-6003",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Olive Green RAL 6003",
+      "hex": "#4b573e",
+      "searchText": "purefil pla pla olive green ral 6003"
+    },
+    {
+      "id": "purefil-pla-olive-grey-ral-7002",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Olive Grey RAL 7002",
+      "hex": "#817f68",
+      "searchText": "purefil pla pla olive grey ral 7002"
+    },
+    {
+      "id": "purefil-pla-olive-yellow-ral-1020",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Olive Yellow RAL 1020",
+      "hex": "#a08f65",
+      "searchText": "purefil pla pla olive yellow ral 1020"
+    },
+    {
+      "id": "purefil-pla-opal-green-ral-6026",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Opal Green RAL 6026",
+      "hex": "#005d52",
+      "searchText": "purefil pla pla opal green ral 6026"
+    },
+    {
+      "id": "purefil-pla-orange-brown-ral-8023",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Orange Brown RAL 8023",
+      "hex": "#a65e2f",
+      "searchText": "purefil pla pla orange brown ral 8023"
+    },
+    {
+      "id": "purefil-pla-orient-red-ral-3031",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Orient Red RAL 3031",
+      "hex": "#ac323b",
+      "searchText": "purefil pla pla orient red ral 3031"
+    },
+    {
+      "id": "purefil-pla-oxide-red-ral-3009",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Oxide Red RAL 3009",
+      "hex": "#703731",
+      "searchText": "purefil pla pla oxide red ral 3009"
+    },
+    {
+      "id": "purefil-pla-oyster-white-ral-1013",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Oyster White RAL 1013",
+      "hex": "#e3d9c6",
+      "searchText": "purefil pla pla oyster white ral 1013"
+    },
+    {
+      "id": "purefil-pla-pale-brown-ral-8025",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Pale Brown RAL 8025",
+      "hex": "#755c49",
+      "searchText": "purefil pla pla pale brown ral 8025"
+    },
+    {
+      "id": "purefil-pla-pale-green-ral-6021",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Pale Green RAL 6021",
+      "hex": "#86a47c",
+      "searchText": "purefil pla pla pale green ral 6021"
+    },
+    {
+      "id": "purefil-pla-papyrus-white-ral-9018",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Papyrus White RAL 9018",
+      "hex": "#cfd3cd",
+      "searchText": "purefil pla pla papyrus white ral 9018"
+    },
+    {
+      "id": "purefil-pla-pastel-blue-ral-5024",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Pastel Blue RAL 5024",
+      "hex": "#6a93b0",
+      "searchText": "purefil pla pla pastel blue ral 5024"
+    },
+    {
+      "id": "purefil-pla-pastel-green-ral-6019",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Pastel Green RAL 6019",
+      "hex": "#b7d9b1",
+      "searchText": "purefil pla pla pastel green ral 6019"
+    },
+    {
+      "id": "purefil-pla-pastel-orange-ral-2003",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Pastel Orange RAL 2003",
+      "hex": "#fa842b",
+      "searchText": "purefil pla pla pastel orange ral 2003"
+    },
+    {
+      "id": "purefil-pla-pastel-turquoise-ral-6034",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Pastel Turquoise RAL 6034",
+      "hex": "#7fb0b2",
+      "searchText": "purefil pla pla pastel turquoise ral 6034"
+    },
+    {
+      "id": "purefil-pla-pastel-violet-ral-4009",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Pastel Violet RAL 4009",
+      "hex": "#a38995",
+      "searchText": "purefil pla pla pastel violet ral 4009"
+    },
+    {
+      "id": "purefil-pla-pastel-yellow-ral-1034",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Pastel Yellow RAL 1034",
+      "hex": "#eb9c52",
+      "searchText": "purefil pla pla pastel yellow ral 1034"
+    },
+    {
+      "id": "purefil-pla-patina-green-ral-6000",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Patina Green RAL 6000",
+      "hex": "#327662",
+      "searchText": "purefil pla pla patina green ral 6000"
+    },
+    {
+      "id": "purefil-pla-pearl-gold-ral-1036",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Pearl Gold RAL 1036",
+      "hex": "#80643f",
+      "searchText": "purefil pla pla pearl gold ral 1036"
+    },
+    {
+      "id": "purefil-pla-pearl-light-grey-ral-9022",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Pearl Light Grey RAL 9022",
+      "hex": "#858583",
+      "searchText": "purefil pla pla pearl light grey ral 9022"
+    },
+    {
+      "id": "purefil-pla-pearl-night-blue-ral-5026",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Pearl Night Blue RAL 5026",
+      "hex": "#102c54",
+      "searchText": "purefil pla pla pearl night blue ral 5026"
+    },
+    {
+      "id": "purefil-pla-pearl-opal-green-ral-6036",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Pearl Opal Green RAL 6036",
+      "hex": "#005d4c",
+      "searchText": "purefil pla pla pearl opal green ral 6036"
+    },
+    {
+      "id": "purefil-pla-pebble-grey-ral-7032",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Pebble Grey RAL 7032",
+      "hex": "#b9b9a8",
+      "searchText": "purefil pla pla pebble grey ral 7032"
+    },
+    {
+      "id": "purefil-pla-phosphorescent-blue",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Phosphorescent Blue",
+      "hex": "#4a7fd6",
+      "searchText": "purefil pla pla phosphorescent blue"
+    },
+    {
+      "id": "purefil-pla-phosphorescent-green",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Phosphorescent Green",
+      "hex": "#5dd45f",
+      "searchText": "purefil pla pla phosphorescent green"
+    },
+    {
+      "id": "purefil-pla-phosphorescent-red",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Phosphorescent Red",
+      "hex": "#e0484c",
+      "searchText": "purefil pla pla phosphorescent red"
+    },
+    {
+      "id": "purefil-pla-phosphorescent-yellow",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Phosphorescent Yellow",
+      "hex": "#f2e04a",
+      "searchText": "purefil pla pla phosphorescent yellow"
+    },
+    {
+      "id": "purefil-pla-pigeon-blue-ral-5014",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Pigeon Blue RAL 5014",
+      "hex": "#6c7c98",
+      "searchText": "purefil pla pla pigeon blue ral 5014"
+    },
+    {
+      "id": "purefil-pla-pine-green-ral-6028",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Pine Green RAL 6028",
+      "hex": "#2d5546",
+      "searchText": "purefil pla pla pine green ral 6028"
+    },
+    {
+      "id": "purefil-pla-platinum-grey-ral-7036",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Platinum Grey RAL 7036",
+      "hex": "#9a9697",
+      "searchText": "purefil pla pla platinum grey ral 7036"
+    },
+    {
+      "id": "purefil-pla-pure-green-ral-6037",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Pure Green RAL 6037",
+      "hex": "#25e712",
+      "searchText": "purefil pla pla pure green ral 6037"
+    },
+    {
+      "id": "purefil-pla-pure-orange-ral-2004",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Pure Orange RAL 2004",
+      "hex": "#e75b12",
+      "searchText": "purefil pla pla pure orange ral 2004"
+    },
+    {
+      "id": "purefil-pla-pure-red-ral-3028",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Pure Red RAL 3028",
+      "hex": "#e72512",
+      "searchText": "purefil pla pla pure red ral 3028"
+    },
+    {
+      "id": "purefil-pla-pure-white-ral-9010",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Pure White RAL 9010",
+      "hex": "#f7f9ef",
+      "searchText": "purefil pla pla pure white ral 9010"
+    },
+    {
+      "id": "purefil-pla-purple-red-ral-3004",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Purple Red RAL 3004",
+      "hex": "#701f29",
+      "searchText": "purefil pla pla purple red ral 3004"
+    },
+    {
+      "id": "purefil-pla-purple-violet-ral-4007",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Purple Violet RAL 4007",
+      "hex": "#4a203b",
+      "searchText": "purefil pla pla purple violet ral 4007"
+    },
+    {
+      "id": "purefil-pla-quartz-grey-ral-7039",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Quartz Grey RAL 7039",
+      "hex": "#6b695f",
+      "searchText": "purefil pla pla quartz grey ral 7039"
+    },
+    {
+      "id": "purefil-pla-raspberry-red-ral-3027",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Raspberry Red RAL 3027",
+      "hex": "#b42041",
+      "searchText": "purefil pla pla raspberry red ral 3027"
+    },
+    {
+      "id": "purefil-pla-red-brown-ral-8012",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Red Brown RAL 8012",
+      "hex": "#673831",
+      "searchText": "purefil pla pla red brown ral 8012"
+    },
+    {
+      "id": "purefil-pla-red-lilac-ral-4001",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Red Lilac RAL 4001",
+      "hex": "#8a5a83",
+      "searchText": "purefil pla pla red lilac ral 4001"
+    },
+    {
+      "id": "purefil-pla-red-orange-ral-2001",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Red Orange RAL 2001",
+      "hex": "#be4e20",
+      "searchText": "purefil pla pla red orange ral 2001"
+    },
+    {
+      "id": "purefil-pla-red-violet-ral-4002",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Red Violet RAL 4002",
+      "hex": "#933d50",
+      "searchText": "purefil pla pla red violet ral 4002"
+    },
+    {
+      "id": "purefil-pla-reed-green-ral-6013",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Reed Green RAL 6013",
+      "hex": "#797c5a",
+      "searchText": "purefil pla pla reed green ral 6013"
+    },
+    {
+      "id": "purefil-pla-reseda-green-ral-6011",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Reseda Green RAL 6011",
+      "hex": "#68825b",
+      "searchText": "purefil pla pla reseda green ral 6011"
+    },
+    {
+      "id": "purefil-pla-rose-ral-3017",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Rose RAL 3017",
+      "hex": "#d3545f",
+      "searchText": "purefil pla pla rose ral 3017"
+    },
+    {
+      "id": "purefil-pla-ruby-red-ral-3003",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Ruby Red RAL 3003",
+      "hex": "#8d1d2c",
+      "searchText": "purefil pla pla ruby red ral 3003"
+    },
+    {
+      "id": "purefil-pla-saffron-yellow-ral-1017",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Saffron Yellow RAL 1017",
+      "hex": "#f6a950",
+      "searchText": "purefil pla pla saffron yellow ral 1017"
+    },
+    {
+      "id": "purefil-pla-salmon-orange-ral-2012",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Salmon Orange RAL 2012",
+      "hex": "#db6a50",
+      "searchText": "purefil pla pla salmon orange ral 2012"
+    },
+    {
+      "id": "purefil-pla-salmon-pink-ral-3022",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Salmon Pink RAL 3022",
+      "hex": "#d56d56",
+      "searchText": "purefil pla pla salmon pink ral 3022"
+    },
+    {
+      "id": "purefil-pla-sand-yellow-ral-1002",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Sand Yellow RAL 1002",
+      "hex": "#d2aa6d",
+      "searchText": "purefil pla pla sand yellow ral 1002"
+    },
+    {
+      "id": "purefil-pla-sapphire-blue-ral-5003",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Sapphire Blue RAL 5003",
+      "hex": "#2a3756",
+      "searchText": "purefil pla pla sapphire blue ral 5003"
+    },
+    {
+      "id": "purefil-pla-sepia-brown-ral-8014",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Sepia Brown RAL 8014",
+      "hex": "#49392d",
+      "searchText": "purefil pla pla sepia brown ral 8014"
+    },
+    {
+      "id": "purefil-pla-signal-black-ral-9004",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Signal Black RAL 9004",
+      "hex": "#2e3032",
+      "searchText": "purefil pla pla signal black ral 9004"
+    },
+    {
+      "id": "purefil-pla-signal-blue-ral-5005",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Signal Blue RAL 5005",
+      "hex": "#154889",
+      "searchText": "purefil pla pla signal blue ral 5005"
+    },
+    {
+      "id": "purefil-pla-signal-brown-ral-8002",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Signal Brown RAL 8002",
+      "hex": "#7b5141",
+      "searchText": "purefil pla pla signal brown ral 8002"
+    },
+    {
+      "id": "purefil-pla-signal-green-ral-6032",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Signal Green RAL 6032",
+      "hex": "#0f8558",
+      "searchText": "purefil pla pla signal green ral 6032"
+    },
+    {
+      "id": "purefil-pla-signal-grey-ral-7004",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Signal Grey RAL 7004",
+      "hex": "#9ea0a1",
+      "searchText": "purefil pla pla signal grey ral 7004"
+    },
+    {
+      "id": "purefil-pla-signal-orange-ral-2010",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Signal Orange RAL 2010",
+      "hex": "#d4652f",
+      "searchText": "purefil pla pla signal orange ral 2010"
+    },
+    {
+      "id": "purefil-pla-signal-red-ral-3001",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Signal Red RAL 3001",
+      "hex": "#a02128",
+      "searchText": "purefil pla pla signal red ral 3001"
+    },
+    {
+      "id": "purefil-pla-signal-violet-ral-4008",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Signal Violet RAL 4008",
+      "hex": "#904684",
+      "searchText": "purefil pla pla signal violet ral 4008"
+    },
+    {
+      "id": "purefil-pla-signal-white-ral-9003",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Signal White RAL 9003",
+      "hex": "#f4f8f4",
+      "searchText": "purefil pla pla signal white ral 9003"
+    },
+    {
+      "id": "purefil-pla-signal-yellow-ral-1003",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Signal Yellow RAL 1003",
+      "hex": "#f9a800",
+      "searchText": "purefil pla pla signal yellow ral 1003"
+    },
+    {
+      "id": "purefil-pla-silk-aluminium-silver",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Silk Aluminium Silver",
+      "hex": "#c3c7cb",
+      "searchText": "purefil pla pla silk aluminium silver"
+    },
+    {
+      "id": "purefil-pla-silk-black",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Silk Black",
+      "hex": "#020303",
+      "searchText": "purefil pla pla silk black"
+    },
+    {
+      "id": "purefil-pla-silk-blue",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Silk Blue",
+      "hex": "#509aff",
+      "searchText": "purefil pla pla silk blue"
+    },
+    {
+      "id": "purefil-pla-silk-green",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Silk Green",
+      "hex": "#00c26b",
+      "searchText": "purefil pla pla silk green"
+    },
+    {
+      "id": "purefil-pla-silk-grey-ral-7044",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Silk Grey RAL 7044",
+      "hex": "#bdbdb2",
+      "searchText": "purefil pla pla silk grey ral 7044"
+    },
+    {
+      "id": "purefil-pla-silk-lilac-blue",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Silk Lilac Blue",
+      "hex": "#6299df",
+      "searchText": "purefil pla pla silk lilac blue"
+    },
+    {
+      "id": "purefil-pla-silk-luminous-yellow-ral-1026",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Silk Luminous Yellow RAL 1026",
+      "hex": "#ffff00",
+      "searchText": "purefil pla pla silk luminous yellow ral 1026"
+    },
+    {
+      "id": "purefil-pla-silk-magenta",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Silk Magenta",
+      "hex": "#ff0086",
+      "searchText": "purefil pla pla silk magenta"
+    },
+    {
+      "id": "purefil-pla-silk-metallic-grey",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Silk Metallic Grey",
+      "hex": "#8b9096",
+      "searchText": "purefil pla pla silk metallic grey"
+    },
+    {
+      "id": "purefil-pla-silk-oyster-white-ral-1013",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Silk Oyster White RAL 1013",
+      "hex": "#e3d9c6",
+      "searchText": "purefil pla pla silk oyster white ral 1013"
+    },
+    {
+      "id": "purefil-pla-silk-purple",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Silk Purple",
+      "hex": "#6f4ab2",
+      "searchText": "purefil pla pla silk purple"
+    },
+    {
+      "id": "purefil-pla-silver-grey-ral-7001",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Silver Grey RAL 7001",
+      "hex": "#8f999f",
+      "searchText": "purefil pla pla silver grey ral 7001"
+    },
+    {
+      "id": "purefil-pla-sky-blue-ral-5015",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Sky Blue RAL 5015",
+      "hex": "#2874b2",
+      "searchText": "purefil pla pla sky blue ral 5015"
+    },
+    {
+      "id": "purefil-pla-slate-grey-ral-7015",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Slate Grey RAL 7015",
+      "hex": "#51565c",
+      "searchText": "purefil pla pla slate grey ral 7015"
+    },
+    {
+      "id": "purefil-pla-snow-white",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Snow White",
+      "hex": "#f9fdfe",
+      "searchText": "purefil pla pla snow white"
+    },
+    {
+      "id": "purefil-pla-soft-jet-black-ral-9005",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Soft Jet Black RAL 9005",
+      "hex": "#0a0a0d",
+      "searchText": "purefil pla pla soft jet black ral 9005"
+    },
+    {
+      "id": "purefil-pla-soft-nature",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Soft Nature",
+      "hex": "#ae9d7e",
+      "searchText": "purefil pla pla soft nature"
+    },
+    {
+      "id": "purefil-pla-soft-pure-white-ral-9010",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Soft Pure White RAL 9010",
+      "hex": "#f7f9ef",
+      "searchText": "purefil pla pla soft pure white ral 9010"
+    },
+    {
+      "id": "purefil-pla-squirrel-grey-ral-7000",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Squirrel Grey RAL 7000",
+      "hex": "#7e8b92",
+      "searchText": "purefil pla pla squirrel grey ral 7000"
+    },
+    {
+      "id": "purefil-pla-steel-blue-ral-5011",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Steel Blue RAL 5011",
+      "hex": "#232c3f",
+      "searchText": "purefil pla pla steel blue ral 5011"
+    },
+    {
+      "id": "purefil-pla-stone-grey-ral-7030",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Stone Grey RAL 7030",
+      "hex": "#939388",
+      "searchText": "purefil pla pla stone grey ral 7030"
+    },
+    {
+      "id": "purefil-pla-strawberry-red-ral-3018",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Strawberry Red RAL 3018",
+      "hex": "#d14152",
+      "searchText": "purefil pla pla strawberry red ral 3018"
+    },
+    {
+      "id": "purefil-pla-sulfur-yellow-ral-1016",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Sulfur Yellow RAL 1016",
+      "hex": "#f1dd38",
+      "searchText": "purefil pla pla sulfur yellow ral 1016"
+    },
+    {
+      "id": "purefil-pla-sun-yellow-ral-1037",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Sun Yellow RAL 1037",
+      "hex": "#f09200",
+      "searchText": "purefil pla pla sun yellow ral 1037"
+    },
+    {
+      "id": "purefil-pla-tarpaulin-grey-ral-7010",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Tarpaulin Grey RAL 7010",
+      "hex": "#575d57",
+      "searchText": "purefil pla pla tarpaulin grey ral 7010"
+    },
+    {
+      "id": "purefil-pla-telegrey-1-ral-7045",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Telegrey 1 RAL 7045",
+      "hex": "#91969a",
+      "searchText": "purefil pla pla telegrey 1 ral 7045"
+    },
+    {
+      "id": "purefil-pla-telegrey-2-ral-7046",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Telegrey 2 RAL 7046",
+      "hex": "#82898e",
+      "searchText": "purefil pla pla telegrey 2 ral 7046"
+    },
+    {
+      "id": "purefil-pla-telegrey-4-ral-7047",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Telegrey 4 RAL 7047",
+      "hex": "#cfd0cf",
+      "searchText": "purefil pla pla telegrey 4 ral 7047"
+    },
+    {
+      "id": "purefil-pla-telemagenta-ral-4010",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Telemagenta RAL 4010",
+      "hex": "#c63678",
+      "searchText": "purefil pla pla telemagenta ral 4010"
+    },
+    {
+      "id": "purefil-pla-terra-brown-ral-8028",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Terra Brown RAL 8028",
+      "hex": "#4e3b2b",
+      "searchText": "purefil pla pla terra brown ral 8028"
+    },
+    {
+      "id": "purefil-pla-tomato-red-ral-3013",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Tomato Red RAL 3013",
+      "hex": "#9c322e",
+      "searchText": "purefil pla pla tomato red ral 3013"
+    },
+    {
+      "id": "purefil-pla-traffic-black-ral-9017",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Traffic Black RAL 9017",
+      "hex": "#2a2d2f",
+      "searchText": "purefil pla pla traffic black ral 9017"
+    },
+    {
+      "id": "purefil-pla-traffic-blue-ral-5017",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Traffic Blue RAL 5017",
+      "hex": "#0e518d",
+      "searchText": "purefil pla pla traffic blue ral 5017"
+    },
+    {
+      "id": "purefil-pla-traffic-green-ral-6024",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Traffic Green RAL 6024",
+      "hex": "#008754",
+      "searchText": "purefil pla pla traffic green ral 6024"
+    },
+    {
+      "id": "purefil-pla-traffic-grey-a-ral-7042",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Traffic Grey A RAL 7042",
+      "hex": "#8f9695",
+      "searchText": "purefil pla pla traffic grey a ral 7042"
+    },
+    {
+      "id": "purefil-pla-traffic-grey-b-ral-7043",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Traffic Grey B RAL 7043",
+      "hex": "#4e5451",
+      "searchText": "purefil pla pla traffic grey b ral 7043"
+    },
+    {
+      "id": "purefil-pla-traffic-orange-ral-2009",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Traffic Orange RAL 2009",
+      "hex": "#e15501",
+      "searchText": "purefil pla pla traffic orange ral 2009"
+    },
+    {
+      "id": "purefil-pla-traffic-purple-ral-4006",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Traffic Purple RAL 4006",
+      "hex": "#992572",
+      "searchText": "purefil pla pla traffic purple ral 4006"
+    },
+    {
+      "id": "purefil-pla-traffic-red-ral-3020",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Traffic Red RAL 3020",
+      "hex": "#c1121c",
+      "searchText": "purefil pla pla traffic red ral 3020"
+    },
+    {
+      "id": "purefil-pla-traffic-white-ral-9016",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Traffic White RAL 9016",
+      "hex": "#f7fbf5",
+      "searchText": "purefil pla pla traffic white ral 9016"
+    },
+    {
+      "id": "purefil-pla-traffic-yellow-ral-1023",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Traffic Yellow RAL 1023",
+      "hex": "#f7b500",
+      "searchText": "purefil pla pla traffic yellow ral 1023"
+    },
+    {
+      "id": "purefil-pla-transparent",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Transparent",
+      "hex": "#eef3f5",
+      "searchText": "purefil pla pla transparent"
+    },
+    {
+      "id": "purefil-pla-turquoise-blue-ral-5018",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Turquoise Blue RAL 5018",
+      "hex": "#21888f",
+      "searchText": "purefil pla pla turquoise blue ral 5018"
+    },
+    {
+      "id": "purefil-pla-turquoise-green-ral-6016",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Turquoise Green RAL 6016",
+      "hex": "#026a52",
+      "searchText": "purefil pla pla turquoise green ral 6016"
+    },
+    {
+      "id": "purefil-pla-ultramarine-blue-ral-5002",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Ultramarine Blue RAL 5002",
+      "hex": "#2b2c7c",
+      "searchText": "purefil pla pla ultramarine blue ral 5002"
+    },
+    {
+      "id": "purefil-pla-umbra-grey-ral-7022",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Umbra Grey RAL 7022",
+      "hex": "#4b4d46",
+      "searchText": "purefil pla pla umbra grey ral 7022"
+    },
+    {
+      "id": "purefil-pla-vermilion-ral-2002",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Vermilion RAL 2002",
+      "hex": "#c63927",
+      "searchText": "purefil pla pla vermilion ral 2002"
+    },
+    {
+      "id": "purefil-pla-violet-blue-ral-5000",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Violet Blue RAL 5000",
+      "hex": "#384c70",
+      "searchText": "purefil pla pla violet blue ral 5000"
+    },
+    {
+      "id": "purefil-pla-violet-pantone-268-c",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Violet Pantone 268 C",
+      "hex": "#5e2d84",
+      "searchText": "purefil pla pla violet pantone 268 c"
+    },
+    {
+      "id": "purefil-pla-water-blue-ral-5021",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Water Blue RAL 5021",
+      "hex": "#07737a",
+      "searchText": "purefil pla pla water blue ral 5021"
+    },
+    {
+      "id": "purefil-pla-window-grey-ral-7040",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Window Grey RAL 7040",
+      "hex": "#9da3a6",
+      "searchText": "purefil pla pla window grey ral 7040"
+    },
+    {
+      "id": "purefil-pla-wine-red-ral-3005",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Wine Red RAL 3005",
+      "hex": "#5e2028",
+      "searchText": "purefil pla pla wine red ral 3005"
+    },
+    {
+      "id": "purefil-pla-yellow-green-ral-6018",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Yellow Green RAL 6018",
+      "hex": "#48a43f",
+      "searchText": "purefil pla pla yellow green ral 6018"
+    },
+    {
+      "id": "purefil-pla-yellow-grey-ral-7034",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Yellow Grey RAL 7034",
+      "hex": "#939176",
+      "searchText": "purefil pla pla yellow grey ral 7034"
+    },
+    {
+      "id": "purefil-pla-yellow-olive-ral-6014",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Yellow Olive RAL 6014",
+      "hex": "#444337",
+      "searchText": "purefil pla pla yellow olive ral 6014"
+    },
+    {
+      "id": "purefil-pla-yellow-orange-ral-2000",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Yellow Orange RAL 2000",
+      "hex": "#dd7907",
+      "searchText": "purefil pla pla yellow orange ral 2000"
+    },
+    {
+      "id": "purefil-pla-zinc-yellow-ral-1018",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA Zinc Yellow RAL 1018",
+      "hex": "#faca30",
+      "searchText": "purefil pla pla zinc yellow ral 1018"
+    },
+    {
+      "id": "purefil-pla-r-jet-black-ral-9005",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA-R Jet Black RAL 9005",
+      "hex": "#0a0a0d",
+      "searchText": "purefil pla pla-r jet black ral 9005"
+    },
+    {
+      "id": "purefil-pla-r-nature",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA-R Nature",
+      "hex": "#515d4f",
+      "searchText": "purefil pla pla-r nature"
+    },
+    {
+      "id": "purefil-pla-plus-jet-black-ral-9005",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA+ Jet Black RAL 9005",
+      "hex": "#0a0a0d",
+      "searchText": "purefil pla pla+ jet black ral 9005"
+    },
+    {
+      "id": "purefil-pla-plus-pure-white-ral-9010",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "PLA+ Pure White RAL 9010",
+      "hex": "#f7f9ef",
+      "searchText": "purefil pla pla+ pure white ral 9010"
+    },
+    {
+      "id": "purefil-wood-nature",
+      "brand": "purefil",
+      "material": "PLA",
+      "name": "Wood Nature",
+      "hex": "#e9dcbb",
+      "searchText": "purefil pla wood nature"
+    },
+    {
+      "id": "purefil-pmma-jet-black-ral-9005",
+      "brand": "purefil",
+      "material": "PMMA",
+      "name": "PMMA Jet Black RAL 9005",
+      "hex": "#0a0a0d",
+      "searchText": "purefil pmma pmma jet black ral 9005"
+    },
+    {
+      "id": "purefil-pom-nature",
+      "brand": "purefil",
+      "material": "POM",
+      "name": "POM Nature",
+      "hex": "#e9dcbb",
+      "searchText": "purefil pom pom nature"
+    },
+    {
+      "id": "purefil-pp-gf20-jet-black-ral-9005",
+      "brand": "purefil",
+      "material": "PP",
+      "name": "PP GF20 Jet Black RAL 9005",
+      "hex": "#0a0a0d",
+      "searchText": "purefil pp pp gf20 jet black ral 9005"
+    },
+    {
+      "id": "purefil-pp-gf20-pure-white-ral-9010",
+      "brand": "purefil",
+      "material": "PP",
+      "name": "PP GF20 Pure White RAL 9010",
+      "hex": "#f7f9ef",
+      "searchText": "purefil pp pp gf20 pure white ral 9010"
+    },
+    {
+      "id": "purefil-pp-jet-black-ral-9005",
+      "brand": "purefil",
+      "material": "PP",
+      "name": "PP Jet Black RAL 9005",
+      "hex": "#0a0a0d",
+      "searchText": "purefil pp pp jet black ral 9005"
+    },
+    {
+      "id": "purefil-pp-transparent",
+      "brand": "purefil",
+      "material": "PP",
+      "name": "PP Transparent",
+      "hex": "#eef3f5",
+      "searchText": "purefil pp pp transparent"
+    },
+    {
+      "id": "purefil-pva-nature",
+      "brand": "purefil",
+      "material": "PVA",
+      "name": "PVA Nature",
+      "hex": "#e5e9e3",
+      "searchText": "purefil pva pva nature"
+    },
+    {
+      "id": "purefil-pvc-p-jet-black-ral-9005",
+      "brand": "purefil",
+      "material": "PVC",
+      "name": "PVC-P Jet Black RAL 9005",
+      "hex": "#0a0a0d",
+      "searchText": "purefil pvc pvc-p jet black ral 9005"
+    },
+    {
+      "id": "purefil-san-transparent",
+      "brand": "purefil",
+      "material": "SAN",
+      "name": "SAN Transparent",
+      "hex": "#eef3f5",
+      "searchText": "purefil san san transparent"
+    },
+    {
+      "id": "purefil-tpc-52d-jet-black-ral-9005",
+      "brand": "purefil",
+      "material": "TPC",
+      "name": "TPC 52D Jet Black RAL 9005",
+      "hex": "#0a0a0d",
+      "searchText": "purefil tpc tpc 52d jet black ral 9005"
+    },
+    {
+      "id": "purefil-tpc-52d-pure-white-ral-9010",
+      "brand": "purefil",
+      "material": "TPC",
+      "name": "TPC 52D Pure White RAL 9010",
+      "hex": "#f7f9ef",
+      "searchText": "purefil tpc tpc 52d pure white ral 9010"
+    },
+    {
+      "id": "purefil-tps-40d-jet-black-ral-9005",
+      "brand": "purefil",
+      "material": "TPE",
+      "name": "TPS 40D Jet Black RAL 9005",
+      "hex": "#0a0a0d",
+      "searchText": "purefil tpe tps 40d jet black ral 9005"
+    },
+    {
+      "id": "purefil-tps-40d-pure-white-ral-9010",
+      "brand": "purefil",
+      "material": "TPE",
+      "name": "TPS 40D Pure White RAL 9010",
+      "hex": "#f7f9ef",
+      "searchText": "purefil tpe tps 40d pure white ral 9010"
+    },
+    {
+      "id": "purefil-tpv-98a-pure-white-ral-9010",
+      "brand": "purefil",
+      "material": "TPE",
+      "name": "TPV 98A Pure White RAL 9010",
+      "hex": "#f7f9ef",
+      "searchText": "purefil tpe tpv 98a pure white ral 9010"
+    },
+    {
+      "id": "purefil-tpu-53d-blue-transparent",
+      "brand": "purefil",
+      "material": "TPU",
+      "name": "TPU 53D Blue Transparent",
+      "hex": "#3b78d8",
+      "searchText": "purefil tpu tpu 53d blue transparent"
+    },
+    {
+      "id": "purefil-tpu-53d-green-transparent",
+      "brand": "purefil",
+      "material": "TPU",
+      "name": "TPU 53D Green Transparent",
+      "hex": "#46a85a",
+      "searchText": "purefil tpu tpu 53d green transparent"
+    },
+    {
+      "id": "purefil-tpu-53d-jet-black-ral-9005",
+      "brand": "purefil",
+      "material": "TPU",
+      "name": "TPU 53D Jet Black RAL 9005",
+      "hex": "#0a0a0d",
+      "searchText": "purefil tpu tpu 53d jet black ral 9005"
+    },
+    {
+      "id": "purefil-tpu-53d-pure-white-ral-9010",
+      "brand": "purefil",
+      "material": "TPU",
+      "name": "TPU 53D Pure White RAL 9010",
+      "hex": "#f7f9ef",
+      "searchText": "purefil tpu tpu 53d pure white ral 9010"
+    },
+    {
+      "id": "purefil-tpu-53d-red-transparent",
+      "brand": "purefil",
+      "material": "TPU",
+      "name": "TPU 53D Red Transparent",
+      "hex": "#d03a3e",
+      "searchText": "purefil tpu tpu 53d red transparent"
+    },
+    {
+      "id": "purefil-tpu-53d-transparent",
+      "brand": "purefil",
+      "material": "TPU",
+      "name": "TPU 53D Transparent",
+      "hex": "#eef3f5",
+      "searchText": "purefil tpu tpu 53d transparent"
+    },
+    {
+      "id": "purefil-tpu-53d-yellow-transparent",
+      "brand": "purefil",
+      "material": "TPU",
+      "name": "TPU 53D Yellow Transparent",
+      "hex": "#f5c842",
+      "searchText": "purefil tpu tpu 53d yellow transparent"
+    },
+    {
       "id": "push-plastic-abs-army-green",
       "brand": "Push Plastic",
       "material": "ABS",
@@ -98014,6 +100910,22 @@
       "searchText": "tectonic 3d abs aura abs ec red (ral3001)"
     },
     {
+      "id": "tectonic-3d-aura-abs-ec-white",
+      "brand": "Tectonic 3D",
+      "material": "ABS",
+      "name": "AURA ABS EC White",
+      "hex": "#ffffff",
+      "searchText": "tectonic 3d abs aura abs ec white"
+    },
+    {
+      "id": "tectonic-3d-aura-abs-ec-yellow",
+      "brand": "Tectonic 3D",
+      "material": "ABS",
+      "name": "AURA ABS EC Yellow",
+      "hex": "#ffcb47",
+      "searchText": "tectonic 3d abs aura abs ec yellow"
+    },
+    {
       "id": "tectonic-3d-aura-abs-natural",
       "brand": "Tectonic 3D",
       "material": "ABS",
@@ -98038,20 +100950,20 @@
       "searchText": "tectonic 3d asa aura asa black"
     },
     {
-      "id": "tectonic-3d-aura-asa-light-grey-ral-7035",
+      "id": "tectonic-3d-aura-asa-gray",
       "brand": "Tectonic 3D",
       "material": "ASA",
-      "name": "AURA ASA Light Grey RAL 7035",
-      "hex": "#c5c7c4",
-      "searchText": "tectonic 3d asa aura asa light grey ral 7035"
+      "name": "AURA ASA Gray",
+      "hex": "#9f9f9f",
+      "searchText": "tectonic 3d asa aura asa gray"
     },
     {
-      "id": "tectonic-3d-aura-asa-nato-green-ral-6031",
+      "id": "tectonic-3d-aura-asa-green",
       "brand": "Tectonic 3D",
       "material": "ASA",
-      "name": "AURA ASA Nato Green RAL 6031",
-      "hex": "#495746",
-      "searchText": "tectonic 3d asa aura asa nato green ral 6031"
+      "name": "AURA ASA Green",
+      "hex": "#0ccf81",
+      "searchText": "tectonic 3d asa aura asa green"
     },
     {
       "id": "tectonic-3d-aura-asa-natural",
@@ -98062,12 +100974,60 @@
       "searchText": "tectonic 3d asa aura asa natural"
     },
     {
-      "id": "tectonic-3d-aura-asa-white-ral-9016",
+      "id": "tectonic-3d-aura-asa-red",
       "brand": "Tectonic 3D",
       "material": "ASA",
-      "name": "AURA ASA White RAL 9016",
+      "name": "AURA ASA Red",
+      "hex": "#e20010",
+      "searchText": "tectonic 3d asa aura asa red"
+    },
+    {
+      "id": "tectonic-3d-aura-asa-white",
+      "brand": "Tectonic 3D",
+      "material": "ASA",
+      "name": "AURA ASA White",
+      "hex": "#ffffff",
+      "searchText": "tectonic 3d asa aura asa white"
+    },
+    {
+      "id": "tectonic-3d-aura-asa-plus-black",
+      "brand": "Tectonic 3D",
+      "material": "ASA",
+      "name": "AURA ASA+ Black",
+      "hex": "#000000",
+      "searchText": "tectonic 3d asa aura asa+ black"
+    },
+    {
+      "id": "tectonic-3d-aura-asa-plus-light-grey-ral-7035",
+      "brand": "Tectonic 3D",
+      "material": "ASA",
+      "name": "AURA ASA+ Light Grey RAL 7035",
+      "hex": "#c5c7c4",
+      "searchText": "tectonic 3d asa aura asa+ light grey ral 7035"
+    },
+    {
+      "id": "tectonic-3d-aura-asa-plus-nato-green-ral-6031",
+      "brand": "Tectonic 3D",
+      "material": "ASA",
+      "name": "AURA ASA+ Nato Green RAL 6031",
+      "hex": "#495746",
+      "searchText": "tectonic 3d asa aura asa+ nato green ral 6031"
+    },
+    {
+      "id": "tectonic-3d-aura-asa-plus-natural",
+      "brand": "Tectonic 3D",
+      "material": "ASA",
+      "name": "AURA ASA+ Natural",
+      "hex": "#d9d8de",
+      "searchText": "tectonic 3d asa aura asa+ natural"
+    },
+    {
+      "id": "tectonic-3d-aura-asa-plus-white-ral-9016",
+      "brand": "Tectonic 3D",
+      "material": "ASA",
+      "name": "AURA ASA+ White RAL 9016",
       "hex": "#f0f1ea",
-      "searchText": "tectonic 3d asa aura asa white ral 9016"
+      "searchText": "tectonic 3d asa aura asa+ white ral 9016"
     },
     {
       "id": "tectonic-3d-aura-co-polyester-red-ral3020",
@@ -98094,15 +101054,23 @@
       "searchText": "tectonic 3d pa11 kratir pa11 cf black"
     },
     {
-      "id": "tectonic-3d-zephyr-pa11-cf-mc-extreme-light-weight-thermal-resistance",
+      "id": "tectonic-3d-zephyr-pa11-cf-mc",
       "brand": "Tectonic 3D",
       "material": "PA11",
-      "name": "ZEPHYR PA11 CF MC - Extreme Light Weight & Thermal Resistance",
+      "name": "ZEPHYR PA11 CF MC",
       "hex": "#000000",
-      "searchText": "tectonic 3d pa11 zephyr pa11 cf mc - extreme light weight & thermal resistance"
+      "searchText": "tectonic 3d pa11 zephyr pa11 cf mc"
     },
     {
-      "id": "tectonic-3d-kratir-pa666-cf-black",
+      "id": "tectonic-3d-kratir-mii-pa6-cf-black",
+      "brand": "Tectonic 3D",
+      "material": "PA6",
+      "name": "KRATIR MII PA6 CF Black",
+      "hex": "#000000",
+      "searchText": "tectonic 3d pa6 kratir mii pa6 cf black"
+    },
+    {
+      "id": "tectonic-3d-kratir-pa6-66-cf-black",
       "brand": "Tectonic 3D",
       "material": "PA6",
       "name": "KRATIR PA6/66 CF Black",
@@ -98110,7 +101078,7 @@
       "searchText": "tectonic 3d pa6 kratir pa6/66 cf black"
     },
     {
-      "id": "tectonic-3d-pyra-pcabs-fr-black",
+      "id": "tectonic-3d-pyra-pc-abs-fr-black",
       "brand": "Tectonic 3D",
       "material": "PC",
       "name": "PYRA PC/ABS FR Black",
@@ -98126,36 +101094,36 @@
       "searchText": "tectonic 3d peek kratir rpeek cf black"
     },
     {
-      "id": "tectonic-3d-vulcan-pei-1010-natural-flame-retardant-low-smoke",
+      "id": "tectonic-3d-vulcan-pei-1010-natural",
       "brand": "Tectonic 3D",
       "material": "PEI",
-      "name": "VULCAN PEI 1010 Natural - Flame Retardant & Low Smoke",
+      "name": "VULCAN PEI 1010 Natural",
       "hex": "#dfdfd3",
-      "searchText": "tectonic 3d pei vulcan pei 1010 natural - flame retardant & low smoke"
+      "searchText": "tectonic 3d pei vulcan pei 1010 natural"
     },
     {
-      "id": "tectonic-3d-vulcan-pei-9085-natural-flame-retardant-low-smoke",
+      "id": "tectonic-3d-vulcan-pei-9085-natural",
       "brand": "Tectonic 3D",
       "material": "PEI",
-      "name": "VULCAN PEI 9085 Natural - Flame Retardant & Low Smoke",
+      "name": "VULCAN PEI 9085 Natural",
       "hex": "#dfdfd3",
-      "searchText": "tectonic 3d pei vulcan pei 9085 natural - flame retardant & low smoke"
+      "searchText": "tectonic 3d pei vulcan pei 9085 natural"
     },
     {
-      "id": "tectonic-3d-vulcan-pekk-a-natural-flame-retardant-chemical-resistance",
+      "id": "tectonic-3d-vulcan-pekk-a-natural",
       "brand": "Tectonic 3D",
       "material": "PEKK",
-      "name": "VULCAN PEKK-A Natural - Flame Retardant & Chemical Resistance",
+      "name": "VULCAN PEKK-A Natural",
       "hex": "#dfdfd3",
-      "searchText": "tectonic 3d pekk vulcan pekk-a natural - flame retardant & chemical resistance"
+      "searchText": "tectonic 3d pekk vulcan pekk-a natural"
     },
     {
-      "id": "tectonic-3d-vulcan-pekk-sc-flame-retardant-superior-thermal-resistance",
+      "id": "tectonic-3d-vulcan-pekk-sc",
       "brand": "Tectonic 3D",
       "material": "PEKK",
-      "name": "VULCAN PEKK-SC - Flame Retardant & Superior Thermal Resistance",
+      "name": "VULCAN PEKK-SC",
       "hex": "#dfdfd3",
-      "searchText": "tectonic 3d pekk vulcan pekk-sc - flame retardant & superior thermal resistance"
+      "searchText": "tectonic 3d pekk vulcan pekk-sc"
     },
     {
       "id": "tectonic-3d-kratir-pet-cf-black",
@@ -98190,6 +101158,14 @@
       "searchText": "tectonic 3d petg aura petg white"
     },
     {
+      "id": "tectonic-3d-kratir-petg-cf-black",
+      "brand": "Tectonic 3D",
+      "material": "PETG",
+      "name": "KRATIR PETG CF Black",
+      "hex": "#000000",
+      "searchText": "tectonic 3d petg kratir petg cf black"
+    },
+    {
       "id": "tectonic-3d-aura-pla-black",
       "brand": "Tectonic 3D",
       "material": "PLA",
@@ -98222,36 +101198,52 @@
       "searchText": "tectonic 3d pp kratir pp cf"
     },
     {
-      "id": "tectonic-3d-atar-fst1-flame-retardant-low-smoke-black",
+      "id": "tectonic-3d-atar-fst1-black",
       "brand": "Tectonic 3D",
       "material": "PPE",
-      "name": "ATAR FST1 Flame Retardant & Low Smoke Black",
+      "name": "ATAR FST1 Black",
       "hex": "#000000",
-      "searchText": "tectonic 3d ppe atar fst1 flame retardant & low smoke black"
+      "searchText": "tectonic 3d ppe atar fst1 black"
     },
     {
-      "id": "tectonic-3d-vulcan-ppsu-natural-excellent-in-humidity-environments",
+      "id": "tectonic-3d-vulcan-ppsu-natural",
       "brand": "Tectonic 3D",
       "material": "PPSU",
-      "name": "VULCAN PPSU Natural - Excellent in Humidity Environments",
+      "name": "VULCAN PPSU Natural",
       "hex": "#dfdfd3",
-      "searchText": "tectonic 3d ppsu vulcan ppsu natural - excellent in humidity environments"
+      "searchText": "tectonic 3d ppsu vulcan ppsu natural"
     },
     {
-      "id": "tectonic-3d-proteos-ht-soluble-support-dissolvable-in-lava",
+      "id": "tectonic-3d-proteos-ht",
       "brand": "Tectonic 3D",
       "material": "PROTEOS",
-      "name": "PROTEOS HT - Soluble Support & Dissolvable in LAVA",
+      "name": "PROTEOS HT",
       "hex": "#dfdfd3",
-      "searchText": "tectonic 3d proteos proteos ht - soluble support & dissolvable in lava"
+      "searchText": "tectonic 3d proteos proteos ht"
     },
     {
-      "id": "tectonic-3d-proteos-pva-nat-water-soluble-support",
+      "id": "tectonic-3d-proteos-pva-natural",
       "brand": "Tectonic 3D",
       "material": "PVA",
-      "name": "PROTEOS PVA Nat - Water Soluble Support",
+      "name": "PROTEOS PVA Natural",
       "hex": "#dfdfd3",
-      "searchText": "tectonic 3d pva proteos pva nat - water soluble support"
+      "searchText": "tectonic 3d pva proteos pva natural"
+    },
+    {
+      "id": "tectonic-3d-anasa-tpc-80a-34d-black",
+      "brand": "Tectonic 3D",
+      "material": "TPC",
+      "name": "ANASA TPC 80A (34D) Black",
+      "hex": "#000000",
+      "searchText": "tectonic 3d tpc anasa tpc 80a (34d) black"
+    },
+    {
+      "id": "tectonic-3d-anasa-tpc-80a-34d-natural",
+      "brand": "Tectonic 3D",
+      "material": "TPC",
+      "name": "ANASA TPC 80A (34D) Natural",
+      "hex": "#dfdfd3",
+      "searchText": "tectonic 3d tpc anasa tpc 80a (34d) natural"
     },
     {
       "id": "tectonic-3d-anasa-tpc-95a-45d-black",
@@ -98286,12 +101278,12 @@
       "searchText": "tectonic 3d tpc anasa tpc l80a (34d) natural"
     },
     {
-      "id": "tectonic-3d-vulcan-pi-natural-flame-retardant-highest-z-strength",
+      "id": "tectonic-3d-vulcan-pi-natural",
       "brand": "Tectonic 3D",
       "material": "TPI",
-      "name": "VULCAN PI Natural - Flame Retardant & Highest Z-Strength",
+      "name": "VULCAN PI Natural",
       "hex": "#dfdfd3",
-      "searchText": "tectonic 3d tpi vulcan pi natural - flame retardant & highest z-strength"
+      "searchText": "tectonic 3d tpi vulcan pi natural"
     },
     {
       "id": "tinmorry-asa-black",
