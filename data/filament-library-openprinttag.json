@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-10-26T04:37:00.119Z",
-  "entryCount": 13316,
+  "lastSynced": "2026-10-27T04:33:30.684Z",
+  "entryCount": 13594,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -21942,6 +21942,14 @@
       "searchText": "cookiecad petg petg funfetti"
     },
     {
+      "id": "cookiecad-petg-gold-dust",
+      "brand": "Cookiecad",
+      "material": "PETG",
+      "name": "PETG Gold Dust",
+      "hex": "#ddb95d",
+      "searchText": "cookiecad petg petg gold dust"
+    },
+    {
       "id": "cookiecad-petg-green-apple-elixir",
       "brand": "Cookiecad",
       "material": "PETG",
@@ -21974,6 +21982,14 @@
       "searchText": "cookiecad petg petg pink star stuff"
     },
     {
+      "id": "cookiecad-petg-pixie-dust",
+      "brand": "Cookiecad",
+      "material": "PETG",
+      "name": "PETG Pixie Dust",
+      "hex": "#ff0066",
+      "searchText": "cookiecad petg petg pixie dust"
+    },
+    {
       "id": "cookiecad-petg-purple-star-stuff",
       "brand": "Cookiecad",
       "material": "PETG",
@@ -21986,7 +22002,7 @@
       "brand": "Cookiecad",
       "material": "PETG",
       "name": "PETG Witchcraft",
-      "hex": "#ae00ff",
+      "hex": "#a100eb",
       "searchText": "cookiecad petg petg witchcraft"
     },
     {
@@ -22086,6 +22102,22 @@
       "searchText": "cookiecad pla gold dust clear with gold glitter pla"
     },
     {
+      "id": "cookiecad-gold-pearl-pla",
+      "brand": "Cookiecad",
+      "material": "PLA",
+      "name": "Gold Pearl PLA",
+      "hex": "#efefef",
+      "searchText": "cookiecad pla gold pearl pla"
+    },
+    {
+      "id": "cookiecad-green-apple-elixir-pla",
+      "brand": "Cookiecad",
+      "material": "PLA",
+      "name": "Green Apple Elixir PLA",
+      "hex": "#70fa00",
+      "searchText": "cookiecad pla green apple elixir pla"
+    },
+    {
       "id": "cookiecad-green-apple-pla",
       "brand": "Cookiecad",
       "material": "PLA",
@@ -22100,14 +22132,6 @@
       "name": "Hot Pink PLA",
       "hex": "#ff5786",
       "searchText": "cookiecad pla hot pink pla"
-    },
-    {
-      "id": "cookiecad-lavender-purple-pla",
-      "brand": "Cookiecad",
-      "material": "PLA",
-      "name": "Lavender \\ Purple PLA",
-      "hex": "#e65fe2",
-      "searchText": "cookiecad pla lavender \\ purple pla"
     },
     {
       "id": "cookiecad-lavender-chip-marble-pla",
@@ -22126,6 +22150,22 @@
       "searchText": "cookiecad pla lavender elixir pla"
     },
     {
+      "id": "cookiecad-lavender-purple-pla",
+      "brand": "Cookiecad",
+      "material": "PLA",
+      "name": "Lavender Purple PLA",
+      "hex": "#e65fe2",
+      "searchText": "cookiecad pla lavender purple pla"
+    },
+    {
+      "id": "cookiecad-magenta-elixir-pla",
+      "brand": "Cookiecad",
+      "material": "PLA",
+      "name": "Magenta Elixir PLA",
+      "hex": "#ff0086",
+      "searchText": "cookiecad pla magenta elixir pla"
+    },
+    {
       "id": "cookiecad-mint-chip-marble-pla",
       "brand": "Cookiecad",
       "material": "PLA",
@@ -22140,6 +22180,14 @@
       "name": "Mint Green Elixir PLA",
       "hex": "#98fbcb",
       "searchText": "cookiecad pla mint green elixir pla"
+    },
+    {
+      "id": "cookiecad-mint-green-pla",
+      "brand": "Cookiecad",
+      "material": "PLA",
+      "name": "Mint Green PLA",
+      "hex": "#98fbcb",
+      "searchText": "cookiecad pla mint green pla"
     },
     {
       "id": "cookiecad-mint-star-stuff-pla",
@@ -22166,6 +22214,22 @@
       "searchText": "cookiecad pla nightshade pla"
     },
     {
+      "id": "cookiecad-orange-elixir-pla",
+      "brand": "Cookiecad",
+      "material": "PLA",
+      "name": "Orange Elixir PLA",
+      "hex": "#ff8133",
+      "searchText": "cookiecad pla orange elixir pla"
+    },
+    {
+      "id": "cookiecad-orange-sorbet-pla",
+      "brand": "Cookiecad",
+      "material": "PLA",
+      "name": "Orange Sorbet PLA",
+      "hex": "#f5b797",
+      "searchText": "cookiecad pla orange sorbet pla"
+    },
+    {
       "id": "cookiecad-pale-blue-dot-pla",
       "brand": "Cookiecad",
       "material": "PLA",
@@ -22178,7 +22242,7 @@
       "brand": "Cookiecad",
       "material": "PLA",
       "name": "Pale Blue Elixir PLA",
-      "hex": "#82e3ec",
+      "hex": "#9ef9ff",
       "searchText": "cookiecad pla pale blue elixir pla"
     },
     {
@@ -22190,12 +22254,28 @@
       "searchText": "cookiecad pla pale pink elixir pla"
     },
     {
+      "id": "cookiecad-pale-pink-pla",
+      "brand": "Cookiecad",
+      "material": "PLA",
+      "name": "Pale Pink PLA",
+      "hex": "#f6e2f1",
+      "searchText": "cookiecad pla pale pink pla"
+    },
+    {
       "id": "cookiecad-pale-yellow-pla",
       "brand": "Cookiecad",
       "material": "PLA",
       "name": "Pale Yellow PLA",
       "hex": "#f5ec97",
       "searchText": "cookiecad pla pale yellow pla"
+    },
+    {
+      "id": "cookiecad-periwinkle-pla",
+      "brand": "Cookiecad",
+      "material": "PLA",
+      "name": "Periwinkle PLA",
+      "hex": "#c7bcf8",
+      "searchText": "cookiecad pla periwinkle pla"
     },
     {
       "id": "cookiecad-pink-chip-marble-pla",
@@ -22220,6 +22300,14 @@
       "name": "Pink Star Stuff PLA",
       "hex": "#ff00a2",
       "searchText": "cookiecad pla pink star stuff pla"
+    },
+    {
+      "id": "cookiecad-pixie-dust-pla",
+      "brand": "Cookiecad",
+      "material": "PLA",
+      "name": "Pixie Dust PLA",
+      "hex": "#ff00a2",
+      "searchText": "cookiecad pla pixie dust pla"
     },
     {
       "id": "cookiecad-purple-star-stuff-pla",
@@ -22270,6 +22358,14 @@
       "searchText": "cookiecad pla vanilla blueberry pla"
     },
     {
+      "id": "cookiecad-vanilla-chip-marble-pla",
+      "brand": "Cookiecad",
+      "material": "PLA",
+      "name": "Vanilla Chip Marble PLA",
+      "hex": "#eaecf5",
+      "searchText": "cookiecad pla vanilla chip marble pla"
+    },
+    {
       "id": "cookiecad-vanilla-redberry-pla",
       "brand": "Cookiecad",
       "material": "PLA",
@@ -22278,11 +22374,19 @@
       "searchText": "cookiecad pla vanilla redberry pla"
     },
     {
+      "id": "cookiecad-white-pla",
+      "brand": "Cookiecad",
+      "material": "PLA",
+      "name": "White PLA",
+      "hex": "#ffffff",
+      "searchText": "cookiecad pla white pla"
+    },
+    {
       "id": "cookiecad-witchcraft-pla",
       "brand": "Cookiecad",
       "material": "PLA",
       "name": "Witchcraft PLA",
-      "hex": "#ae00ff",
+      "hex": "#a100eb",
       "searchText": "cookiecad pla witchcraft pla"
     },
     {
@@ -22294,6 +22398,30 @@
       "searchText": "cookiecad pla witches blue pla"
     },
     {
+      "id": "cookiecad-black-star-stuff-tpu-95a",
+      "brand": "Cookiecad",
+      "material": "TPU",
+      "name": "Black Star Stuff TPU 95A",
+      "hex": "#1d1d1d",
+      "searchText": "cookiecad tpu black star stuff tpu 95a"
+    },
+    {
+      "id": "cookiecad-black-tpu-95a",
+      "brand": "Cookiecad",
+      "material": "TPU",
+      "name": "Black TPU 95A",
+      "hex": "#000000",
+      "searchText": "cookiecad tpu black tpu 95a"
+    },
+    {
+      "id": "cookiecad-blue-pearl-tpu-95a",
+      "brand": "Cookiecad",
+      "material": "TPU",
+      "name": "Blue Pearl TPU 95A",
+      "hex": "#efefef",
+      "searchText": "cookiecad tpu blue pearl tpu 95a"
+    },
+    {
       "id": "cookiecad-blue-star-stuff-tpu-95a",
       "brand": "Cookiecad",
       "material": "TPU",
@@ -22302,12 +22430,28 @@
       "searchText": "cookiecad tpu blue star stuff tpu 95a"
     },
     {
+      "id": "cookiecad-bubblegum-elixir-tpu-95a",
+      "brand": "Cookiecad",
+      "material": "TPU",
+      "name": "Bubblegum Elixir TPU 95A",
+      "hex": "#f19dcd",
+      "searchText": "cookiecad tpu bubblegum elixir tpu 95a"
+    },
+    {
       "id": "cookiecad-funfetti-tpu-95a",
       "brand": "Cookiecad",
       "material": "TPU",
       "name": "Funfetti TPU 95A",
       "hex": "#e4e7e5",
       "searchText": "cookiecad tpu funfetti tpu 95a"
+    },
+    {
+      "id": "cookiecad-gold-dust-tpu-95a",
+      "brand": "Cookiecad",
+      "material": "TPU",
+      "name": "Gold Dust TPU 95A",
+      "hex": "#ddb95d",
+      "searchText": "cookiecad tpu gold dust tpu 95a"
     },
     {
       "id": "cookiecad-green-apple-elixir-tpu-95a",
@@ -22326,12 +22470,28 @@
       "searchText": "cookiecad tpu lavender elixir tpu 95a"
     },
     {
+      "id": "cookiecad-mint-green-elixir-tpu-95a",
+      "brand": "Cookiecad",
+      "material": "TPU",
+      "name": "Mint Green Elixir TPU 95A",
+      "hex": "#98fbcb",
+      "searchText": "cookiecad tpu mint green elixir tpu 95a"
+    },
+    {
       "id": "cookiecad-mint-star-stuff-tpu-95a",
       "brand": "Cookiecad",
       "material": "TPU",
       "name": "Mint Star Stuff TPU 95A",
       "hex": "#98fbcb",
       "searchText": "cookiecad tpu mint star stuff tpu 95a"
+    },
+    {
+      "id": "cookiecad-orange-elixir-tpu-95a",
+      "brand": "Cookiecad",
+      "material": "TPU",
+      "name": "Orange Elixir TPU 95A",
+      "hex": "#ff8133",
+      "searchText": "cookiecad tpu orange elixir tpu 95a"
     },
     {
       "id": "cookiecad-pale-blue-elixir-tpu-95a",
@@ -22350,6 +22510,14 @@
       "searchText": "cookiecad tpu pale pink elixir tpu 95a"
     },
     {
+      "id": "cookiecad-pink-pearl-tpu-95a",
+      "brand": "Cookiecad",
+      "material": "TPU",
+      "name": "Pink Pearl TPU 95A",
+      "hex": "#efefef",
+      "searchText": "cookiecad tpu pink pearl tpu 95a"
+    },
+    {
       "id": "cookiecad-pixie-dust-tpu-95a",
       "brand": "Cookiecad",
       "material": "TPU",
@@ -22358,12 +22526,44 @@
       "searchText": "cookiecad tpu pixie dust tpu 95a"
     },
     {
+      "id": "cookiecad-purple-star-stuff-tpu-95a",
+      "brand": "Cookiecad",
+      "material": "TPU",
+      "name": "Purple Star Stuff TPU 95A",
+      "hex": "#c63dba",
+      "searchText": "cookiecad tpu purple star stuff tpu 95a"
+    },
+    {
       "id": "cookiecad-ruby-red-elixir-tpu-95a",
       "brand": "Cookiecad",
       "material": "TPU",
       "name": "Ruby Red Elixir TPU 95A",
       "hex": "#e72f1d",
       "searchText": "cookiecad tpu ruby red elixir tpu 95a"
+    },
+    {
+      "id": "cookiecad-star-dust-tpu-95a",
+      "brand": "Cookiecad",
+      "material": "TPU",
+      "name": "Star Dust TPU 95A",
+      "hex": "#1d1d1d",
+      "searchText": "cookiecad tpu star dust tpu 95a"
+    },
+    {
+      "id": "cookiecad-witchcraft-tpu-95a",
+      "brand": "Cookiecad",
+      "material": "TPU",
+      "name": "Witchcraft TPU 95A",
+      "hex": "#a100eb",
+      "searchText": "cookiecad tpu witchcraft tpu 95a"
+    },
+    {
+      "id": "cookiecad-witches-blue-tpu-95a",
+      "brand": "Cookiecad",
+      "material": "TPU",
+      "name": "Witches Blue TPU 95A",
+      "hex": "#6c47b2",
+      "searchText": "cookiecad tpu witches blue tpu 95a"
     },
     {
       "id": "creality-abs-black",
@@ -25164,6 +25364,294 @@
       "name": "TPU SOFT WHITE",
       "hex": "#f5f5f5",
       "searchText": "devil design tpu tpu soft white"
+    },
+    {
+      "id": "dopro-3d-petg-classic-arctic-white",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Classic Arctic White",
+      "hex": "#eaeae2",
+      "searchText": "dopro 3d petg petg classic arctic white"
+    },
+    {
+      "id": "dopro-3d-petg-classic-concrete-grey-7047",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Classic Concrete Grey 7047",
+      "hex": "#959591",
+      "searchText": "dopro 3d petg petg classic concrete grey 7047"
+    },
+    {
+      "id": "dopro-3d-petg-classic-dark-green",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Classic Dark Green",
+      "hex": "#3fa10c",
+      "searchText": "dopro 3d petg petg classic dark green"
+    },
+    {
+      "id": "dopro-3d-petg-classic-dark-orange",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Classic Dark Orange",
+      "hex": "#e24f04",
+      "searchText": "dopro 3d petg petg classic dark orange"
+    },
+    {
+      "id": "dopro-3d-petg-classic-dark-yellow",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Classic Dark Yellow",
+      "hex": "#e7ca0a",
+      "searchText": "dopro 3d petg petg classic dark yellow"
+    },
+    {
+      "id": "dopro-3d-petg-classic-graphite-grey",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Classic Graphite Grey",
+      "hex": "#777974",
+      "searchText": "dopro 3d petg petg classic graphite grey"
+    },
+    {
+      "id": "dopro-3d-petg-classic-midnight-black",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Classic Midnight Black",
+      "hex": "#1a1a1a",
+      "searchText": "dopro 3d petg petg classic midnight black"
+    },
+    {
+      "id": "dopro-3d-petg-classic-military-olive",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Classic Military Olive",
+      "hex": "#695b2a",
+      "searchText": "dopro 3d petg petg classic military olive"
+    },
+    {
+      "id": "dopro-3d-petg-classic-ocean-blue",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Classic Ocean Blue",
+      "hex": "#0d3caf",
+      "searchText": "dopro 3d petg petg classic ocean blue"
+    },
+    {
+      "id": "dopro-3d-petg-classic-pastel-mint-green",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Classic Pastel Mint Green",
+      "hex": "#99decd",
+      "searchText": "dopro 3d petg petg classic pastel mint green"
+    },
+    {
+      "id": "dopro-3d-petg-classic-pearl-gold",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Classic Pearl Gold",
+      "hex": "#bf862d",
+      "searchText": "dopro 3d petg petg classic pearl gold"
+    },
+    {
+      "id": "dopro-3d-petg-classic-royal-purple",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Classic Royal Purple",
+      "hex": "#821680",
+      "searchText": "dopro 3d petg petg classic royal purple"
+    },
+    {
+      "id": "dopro-3d-petg-classic-signal-red",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Classic Signal Red",
+      "hex": "#be1319",
+      "searchText": "dopro 3d petg petg classic signal red"
+    },
+    {
+      "id": "dopro-3d-petg-classic-soft-baby-blue",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Classic Soft Baby Blue",
+      "hex": "#85b2dd",
+      "searchText": "dopro 3d petg petg classic soft baby blue"
+    },
+    {
+      "id": "dopro-3d-petg-classic-soft-baby-pink",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Classic Soft Baby Pink",
+      "hex": "#df8d9a",
+      "searchText": "dopro 3d petg petg classic soft baby pink"
+    },
+    {
+      "id": "dopro-3d-petg-classic-turquoise-green-3272",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Classic Turquoise-green 3272",
+      "hex": "#42c1b4",
+      "searchText": "dopro 3d petg petg classic turquoise-green 3272"
+    },
+    {
+      "id": "dopro-3d-petg-gradient-aurora-rainbow",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Gradient Aurora Rainbow",
+      "hex": "#cd855f",
+      "searchText": "dopro 3d petg petg gradient aurora rainbow"
+    },
+    {
+      "id": "dopro-3d-petg-gradient-crystal-rainbow",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Gradient Crystal Rainbow",
+      "hex": "#9c7249",
+      "searchText": "dopro 3d petg petg gradient crystal rainbow"
+    },
+    {
+      "id": "dopro-3d-petg-gradient-dual-purple-white",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Gradient Dual Purple White",
+      "hex": "#bda8dc",
+      "searchText": "dopro 3d petg petg gradient dual purple white"
+    },
+    {
+      "id": "dopro-3d-petg-gradient-galaxy-purple-white-blue",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Gradient Galaxy Purple White Blue",
+      "hex": "#8061c7",
+      "searchText": "dopro 3d petg petg gradient galaxy purple white blue"
+    },
+    {
+      "id": "dopro-3d-petg-gradient-lime-yellow-green-white",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Gradient Lime Yellow Green White",
+      "hex": "#c4e087",
+      "searchText": "dopro 3d petg petg gradient lime yellow green white"
+    },
+    {
+      "id": "dopro-3d-petg-gradient-rose-pink-white",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Gradient Rose Pink White",
+      "hex": "#e89aa6",
+      "searchText": "dopro 3d petg petg gradient rose pink white"
+    },
+    {
+      "id": "dopro-3d-petg-gradient-sky-blue-white",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Gradient Sky Blue White",
+      "hex": "#7fa9d7",
+      "searchText": "dopro 3d petg petg gradient sky blue white"
+    },
+    {
+      "id": "dopro-3d-petg-gradient-sunset-orange-yellow",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Gradient Sunset Orange Yellow",
+      "hex": "#e14b0d",
+      "searchText": "dopro 3d petg petg gradient sunset orange yellow"
+    },
+    {
+      "id": "dopro-3d-petg-matt-arctic-white",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Matt Arctic White",
+      "hex": "#ebebe4",
+      "searchText": "dopro 3d petg petg matt arctic white"
+    },
+    {
+      "id": "dopro-3d-petg-matt-forest-green",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Matt Forest Green",
+      "hex": "#4fae18",
+      "searchText": "dopro 3d petg petg matt forest green"
+    },
+    {
+      "id": "dopro-3d-petg-matt-graphite-grey",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Matt Graphite Grey",
+      "hex": "#898a82",
+      "searchText": "dopro 3d petg petg matt graphite grey"
+    },
+    {
+      "id": "dopro-3d-petg-matt-midnight-black",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Matt Midnight Black",
+      "hex": "#1a1a1a",
+      "searchText": "dopro 3d petg petg matt midnight black"
+    },
+    {
+      "id": "dopro-3d-petg-matt-ocean-blue",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Matt Ocean Blue",
+      "hex": "#204cb5",
+      "searchText": "dopro 3d petg petg matt ocean blue"
+    },
+    {
+      "id": "dopro-3d-petg-matt-signal-red",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Matt Signal Red",
+      "hex": "#c22527",
+      "searchText": "dopro 3d petg petg matt signal red"
+    },
+    {
+      "id": "dopro-3d-petg-transparent-blue",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Transparent Blue",
+      "hex": "#27489c",
+      "searchText": "dopro 3d petg petg transparent blue"
+    },
+    {
+      "id": "dopro-3d-petg-transparent-green",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Transparent Green",
+      "hex": "#40c238",
+      "searchText": "dopro 3d petg petg transparent green"
+    },
+    {
+      "id": "dopro-3d-petg-transparent-orange",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Transparent Orange",
+      "hex": "#8a450b",
+      "searchText": "dopro 3d petg petg transparent orange"
+    },
+    {
+      "id": "dopro-3d-petg-transparent-purple",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Transparent Purple",
+      "hex": "#833a6c",
+      "searchText": "dopro 3d petg petg transparent purple"
+    },
+    {
+      "id": "dopro-3d-petg-transparent-red",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Transparent Red",
+      "hex": "#a61c1d",
+      "searchText": "dopro 3d petg petg transparent red"
+    },
+    {
+      "id": "dopro-3d-petg-transparent-yellow",
+      "brand": "DoPro 3D",
+      "material": "PETG",
+      "name": "PETG Transparent Yellow",
+      "hex": "#96ba09",
+      "searchText": "dopro 3d petg petg transparent yellow"
     },
     {
       "id": "dremel-digilab-petg-tra-01-translucent",
@@ -27990,12 +28478,28 @@
       "searchText": "eolas prints pla pla blue"
     },
     {
+      "id": "eolas-prints-pla-brown",
+      "brand": "Eolas Prints",
+      "material": "PLA",
+      "name": "PLA Brown",
+      "hex": "#d0b082",
+      "searchText": "eolas prints pla pla brown"
+    },
+    {
       "id": "eolas-prints-pla-cyan",
       "brand": "Eolas Prints",
       "material": "PLA",
       "name": "PLA Cyan",
       "hex": "#0099e6",
       "searchText": "eolas prints pla pla cyan"
+    },
+    {
+      "id": "eolas-prints-pla-dark-brown",
+      "brand": "Eolas Prints",
+      "material": "PLA",
+      "name": "PLA Dark Brown",
+      "hex": "#785f53",
+      "searchText": "eolas prints pla pla dark brown"
     },
     {
       "id": "eolas-prints-pla-dark-green",
@@ -28156,6 +28660,14 @@
       "name": "PLA Neon Orange",
       "hex": "#f07821",
       "searchText": "eolas prints pla pla neon orange"
+    },
+    {
+      "id": "eolas-prints-pla-neon-pink",
+      "brand": "Eolas Prints",
+      "material": "PLA",
+      "name": "PLA Neon Pink",
+      "hex": "#ff3670",
+      "searchText": "eolas prints pla pla neon pink"
     },
     {
       "id": "eolas-prints-pla-neon-yellow",
@@ -32774,6 +33286,190 @@
       "searchText": "eumakers pla pla yellow ochre"
     },
     {
+      "id": "everloop-petg-pastel-aqua",
+      "brand": "Everloop",
+      "material": "PETG",
+      "name": "PETG Pastel Aqua",
+      "hex": "#007898",
+      "searchText": "everloop petg petg pastel aqua"
+    },
+    {
+      "id": "everloop-petg-pastel-coral",
+      "brand": "Everloop",
+      "material": "PETG",
+      "name": "PETG Pastel Coral",
+      "hex": "#9b473f",
+      "searchText": "everloop petg petg pastel coral"
+    },
+    {
+      "id": "everloop-petg-pastel-mint",
+      "brand": "Everloop",
+      "material": "PETG",
+      "name": "PETG Pastel Mint",
+      "hex": "#178e7f",
+      "searchText": "everloop petg petg pastel mint"
+    },
+    {
+      "id": "everloop-petg-translucent-burned-amber",
+      "brand": "Everloop",
+      "material": "PETG",
+      "name": "PETG Translucent Burned Amber",
+      "hex": "#291d1c",
+      "searchText": "everloop petg petg translucent burned amber"
+    },
+    {
+      "id": "everloop-petg-translucent-dark-emerald",
+      "brand": "Everloop",
+      "material": "PETG",
+      "name": "PETG Translucent Dark Emerald",
+      "hex": "#0f1917",
+      "searchText": "everloop petg petg translucent dark emerald"
+    },
+    {
+      "id": "everloop-pla-essential-blue",
+      "brand": "Everloop",
+      "material": "PLA",
+      "name": "PLA Essential Blue",
+      "hex": "#0b3162",
+      "searchText": "everloop pla pla essential blue"
+    },
+    {
+      "id": "everloop-pla-essential-green",
+      "brand": "Everloop",
+      "material": "PLA",
+      "name": "PLA Essential Green",
+      "hex": "#086944",
+      "searchText": "everloop pla pla essential green"
+    },
+    {
+      "id": "everloop-pla-essential-red",
+      "brand": "Everloop",
+      "material": "PLA",
+      "name": "PLA Essential Red",
+      "hex": "#86141e",
+      "searchText": "everloop pla pla essential red"
+    },
+    {
+      "id": "everloop-pla-essential-yellow",
+      "brand": "Everloop",
+      "material": "PLA",
+      "name": "PLA Essential Yellow",
+      "hex": "#c98709",
+      "searchText": "everloop pla pla essential yellow"
+    },
+    {
+      "id": "everloop-pla-matte-black",
+      "brand": "Everloop",
+      "material": "PLA",
+      "name": "PLA Matte Black",
+      "hex": "#1a1a1a",
+      "searchText": "everloop pla pla matte black"
+    },
+    {
+      "id": "everloop-pla-matte-blossom",
+      "brand": "Everloop",
+      "material": "PLA",
+      "name": "PLA Matte Blossom",
+      "hex": "#c09b86",
+      "searchText": "everloop pla pla matte blossom"
+    },
+    {
+      "id": "everloop-pla-matte-charcoal",
+      "brand": "Everloop",
+      "material": "PLA",
+      "name": "PLA Matte Charcoal",
+      "hex": "#383737",
+      "searchText": "everloop pla pla matte charcoal"
+    },
+    {
+      "id": "everloop-pla-matte-cobalt",
+      "brand": "Everloop",
+      "material": "PLA",
+      "name": "PLA Matte Cobalt",
+      "hex": "#013060",
+      "searchText": "everloop pla pla matte cobalt"
+    },
+    {
+      "id": "everloop-pla-matte-monumental",
+      "brand": "Everloop",
+      "material": "PLA",
+      "name": "PLA Matte Monumental",
+      "hex": "#979795",
+      "searchText": "everloop pla pla matte monumental"
+    },
+    {
+      "id": "everloop-pla-matte-ochre",
+      "brand": "Everloop",
+      "material": "PLA",
+      "name": "PLA Matte Ochre",
+      "hex": "#8c5f17",
+      "searchText": "everloop pla pla matte ochre"
+    },
+    {
+      "id": "everloop-pla-matte-sage",
+      "brand": "Everloop",
+      "material": "PLA",
+      "name": "PLA Matte Sage",
+      "hex": "#a5ad98",
+      "searchText": "everloop pla pla matte sage"
+    },
+    {
+      "id": "everloop-pla-matte-terracotta",
+      "brand": "Everloop",
+      "material": "PLA",
+      "name": "PLA Matte Terracotta",
+      "hex": "#7a2f22",
+      "searchText": "everloop pla pla matte terracotta"
+    },
+    {
+      "id": "everloop-pla-matte-violet",
+      "brand": "Everloop",
+      "material": "PLA",
+      "name": "PLA Matte Violet",
+      "hex": "#c3b8cd",
+      "searchText": "everloop pla pla matte violet"
+    },
+    {
+      "id": "everloop-pla-matte-walnut",
+      "brand": "Everloop",
+      "material": "PLA",
+      "name": "PLA Matte Walnut",
+      "hex": "#a1998e",
+      "searchText": "everloop pla pla matte walnut"
+    },
+    {
+      "id": "everloop-pla-matte-white",
+      "brand": "Everloop",
+      "material": "PLA",
+      "name": "PLA Matte White",
+      "hex": "#d0d0ca",
+      "searchText": "everloop pla pla matte white"
+    },
+    {
+      "id": "everloop-pla-translucent-lavender",
+      "brand": "Everloop",
+      "material": "PLA",
+      "name": "PLA Translucent Lavender",
+      "hex": "#6c4873",
+      "searchText": "everloop pla pla translucent lavender"
+    },
+    {
+      "id": "everloop-pla-translucent-pear",
+      "brand": "Everloop",
+      "material": "PLA",
+      "name": "PLA Translucent Pear",
+      "hex": "#07735e",
+      "searchText": "everloop pla pla translucent pear"
+    },
+    {
+      "id": "everloop-pla-translucent-rose",
+      "brand": "Everloop",
+      "material": "PLA",
+      "name": "PLA Translucent Rose",
+      "hex": "#bb6694",
+      "searchText": "everloop pla pla translucent rose"
+    },
+    {
       "id": "extrudr-durapro-abs-anthracite-ral-7016",
       "brand": "extrudr",
       "material": "ABS",
@@ -37210,7 +37906,7 @@
       "brand": "FilamentPM",
       "material": "ABS",
       "name": "ABS - Silver",
-      "hex": "#8f8f8f",
+      "hex": "#818fa0",
       "searchText": "filamentpm abs abs - silver"
     },
     {
@@ -37274,7 +37970,7 @@
       "brand": "FilamentPM",
       "material": "ABS",
       "name": "ABS-T - Silver",
-      "hex": "#8f8f8f",
+      "hex": "#818fa0",
       "searchText": "filamentpm abs abs-t - silver"
     },
     {
@@ -37338,7 +38034,7 @@
       "brand": "FilamentPM",
       "material": "ASA",
       "name": "ASA - Silver",
-      "hex": "#8f8f8f",
+      "hex": "#818fa0",
       "searchText": "filamentpm asa asa - silver"
     },
     {
@@ -37358,6 +38054,14 @@
       "searchText": "filamentpm pa12 pa-gfjet - natur"
     },
     {
+      "id": "filamentpm-pajet-160-nylon-black",
+      "brand": "FilamentPM",
+      "material": "PA12",
+      "name": "PAJet 160 Nylon - Black",
+      "hex": "#3f4444",
+      "searchText": "filamentpm pa12 pajet 160 nylon - black"
+    },
+    {
       "id": "filamentpm-pajet-160-nylon-natur",
       "brand": "FilamentPM",
       "material": "PA12",
@@ -37374,27 +38078,11 @@
       "searchText": "filamentpm pc pc/abs - black"
     },
     {
-      "id": "filamentpm-pcabs-black",
-      "brand": "FilamentPM",
-      "material": "PC",
-      "name": "PC/ABS - Black",
-      "hex": "#000000",
-      "searchText": "filamentpm pc pc/abs - black"
-    },
-    {
       "id": "filamentpm-pc-abs-grey",
       "brand": "FilamentPM",
       "material": "PC",
       "name": "PC/ABS - Grey",
       "hex": "#c5c7c4",
-      "searchText": "filamentpm pc pc/abs - grey"
-    },
-    {
-      "id": "filamentpm-pcabs-grey",
-      "brand": "FilamentPM",
-      "material": "PC",
-      "name": "PC/ABS - Grey",
-      "hex": "#c5c5bf",
       "searchText": "filamentpm pc pc/abs - grey"
     },
     {
@@ -37466,7 +38154,7 @@
       "brand": "FilamentPM",
       "material": "PETG",
       "name": "PETG - Orange 2018",
-      "hex": "#ff671f",
+      "hex": "#ff8800",
       "searchText": "filamentpm petg petg - orange 2018"
     },
     {
@@ -37810,7 +38498,7 @@
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA - Transparent",
-      "hex": "#a6a6a6",
+      "hex": "#d5d8d2",
       "searchText": "filamentpm pla pla - transparent"
     },
     {
@@ -37854,7 +38542,7 @@
       "searchText": "filamentpm pla pla marblejet - light"
     },
     {
-      "id": "filamentpm-pla-army-edition-desert-beige",
+      "id": "filamentpm-pla-plus-army-edition-desert-beige",
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA+ Army edition - Desert Beige",
@@ -37862,39 +38550,47 @@
       "searchText": "filamentpm pla pla+ army edition - desert beige"
     },
     {
-      "id": "filamentpm-pla-army-edition-dusty-brown",
+      "id": "filamentpm-pla-plus-army-edition-dusty-brown",
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA+ Army edition - Dusty Brown",
-      "hex": "#dac7a0",
+      "hex": "#a39382",
       "searchText": "filamentpm pla pla+ army edition - dusty brown"
     },
     {
-      "id": "filamentpm-pla-army-edition-ranger-grey",
+      "id": "filamentpm-pla-plus-army-edition-ranger-grey",
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA+ Army edition - Ranger Grey",
-      "hex": "#50483d",
+      "hex": "#776e64",
       "searchText": "filamentpm pla pla+ army edition - ranger grey"
     },
     {
-      "id": "filamentpm-pla-army-edition-woodland-green",
+      "id": "filamentpm-pla-plus-army-edition-woodland-green",
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA+ Army edition - Woodland Green",
-      "hex": "#4c5e46",
+      "hex": "#51534a",
       "searchText": "filamentpm pla pla+ army edition - woodland green"
     },
     {
-      "id": "filamentpm-pla-grey",
+      "id": "filamentpm-pla-plus-black",
+      "brand": "FilamentPM",
+      "material": "PLA",
+      "name": "PLA+ Black",
+      "hex": "#3f4444",
+      "searchText": "filamentpm pla pla+ black"
+    },
+    {
+      "id": "filamentpm-pla-plus-grey",
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA+ Grey",
-      "hex": "#6f727e",
+      "hex": "#7c878e",
       "searchText": "filamentpm pla pla+ grey"
     },
     {
-      "id": "filamentpm-pla-iron-grey",
+      "id": "filamentpm-pla-plus-iron-grey",
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA+ Iron Grey",
@@ -37902,7 +38598,7 @@
       "searchText": "filamentpm pla pla+ iron grey"
     },
     {
-      "id": "filamentpm-pla-lithophane",
+      "id": "filamentpm-pla-plus-lithophane",
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA+ Lithophane",
@@ -37910,87 +38606,103 @@
       "searchText": "filamentpm pla pla+ lithophane"
     },
     {
-      "id": "filamentpm-pla-pastel-edition-baby-blue",
+      "id": "filamentpm-pla-plus-navy-blue",
+      "brand": "FilamentPM",
+      "material": "PLA",
+      "name": "PLA+ Navy Blue",
+      "hex": "#002f6c",
+      "searchText": "filamentpm pla pla+ navy blue"
+    },
+    {
+      "id": "filamentpm-pla-plus-pastel-edition-baby-blue",
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA+ pastel edition - Baby Blue",
-      "hex": "#c6f3fd",
+      "hex": "#b1c9e8",
       "searchText": "filamentpm pla pla+ pastel edition - baby blue"
     },
     {
-      "id": "filamentpm-pla-pastel-edition-banana-yellow",
+      "id": "filamentpm-pla-plus-pastel-edition-banana-yellow",
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA+ pastel edition - Banana Yellow",
-      "hex": "#fce575",
+      "hex": "#eed484",
       "searchText": "filamentpm pla pla+ pastel edition - banana yellow"
     },
     {
-      "id": "filamentpm-pla-pastel-edition-bubblegum-pink",
+      "id": "filamentpm-pla-plus-pastel-edition-bubblegum-pink",
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA+ pastel edition - Bubblegum Pink",
-      "hex": "#ffcccd",
+      "hex": "#fcaebb",
       "searchText": "filamentpm pla pla+ pastel edition - bubblegum pink"
     },
     {
-      "id": "filamentpm-pla-pastel-edition-sweet-mint",
+      "id": "filamentpm-pla-plus-pastel-edition-sweet-mint",
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA+ pastel edition - Sweet Mint",
-      "hex": "#cafbe6",
+      "hex": "#9cdbd9",
       "searchText": "filamentpm pla pla+ pastel edition - sweet mint"
     },
     {
-      "id": "filamentpm-pla-skin-edition-skin-477c",
+      "id": "filamentpm-pla-plus-race-red",
+      "brand": "FilamentPM",
+      "material": "PLA",
+      "name": "PLA+ Race Red",
+      "hex": "#9e2a2f",
+      "searchText": "filamentpm pla pla+ race red"
+    },
+    {
+      "id": "filamentpm-pla-plus-skin-edition-skin-477c",
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA+ Skin edition - Skin 477C",
-      "hex": "#503529",
+      "hex": "#623b2a",
       "searchText": "filamentpm pla pla+ skin edition - skin 477c"
     },
     {
-      "id": "filamentpm-pla-skin-edition-skin-478c",
+      "id": "filamentpm-pla-plus-skin-edition-skin-478c",
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA+ Skin edition - Skin 478C",
-      "hex": "#6e4325",
+      "hex": "#703f2a",
       "searchText": "filamentpm pla pla+ skin edition - skin 478c"
     },
     {
-      "id": "filamentpm-pla-skin-edition-skin-479c",
+      "id": "filamentpm-pla-plus-skin-edition-skin-479c",
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA+ Skin edition - Skin 479C",
-      "hex": "#b38f6e",
+      "hex": "#aa8066",
       "searchText": "filamentpm pla pla+ skin edition - skin 479c"
     },
     {
-      "id": "filamentpm-pla-skin-edition-skin-480c",
+      "id": "filamentpm-pla-plus-skin-edition-skin-480c",
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA+ Skin edition - Skin 480C",
-      "hex": "#d8c094",
+      "hex": "#c6a992",
       "searchText": "filamentpm pla pla+ skin edition - skin 480c"
     },
     {
-      "id": "filamentpm-pla-summer-edition-fresh-lime",
+      "id": "filamentpm-pla-plus-summer-edition-fresh-lime",
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA+ Summer edition - Fresh lime",
-      "hex": "#dede00",
+      "hex": "#e1d555",
       "searchText": "filamentpm pla pla+ summer edition - fresh lime"
     },
     {
-      "id": "filamentpm-pla-summer-edition-fresh-orange",
+      "id": "filamentpm-pla-plus-summer-edition-fresh-orange",
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA+ Summer edition - Fresh Orange",
-      "hex": "#ff8e24",
+      "hex": "#f67828",
       "searchText": "filamentpm pla pla+ summer edition - fresh orange"
     },
     {
-      "id": "filamentpm-pla-viva-magenta",
+      "id": "filamentpm-pla-plus-viva-magenta",
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA+ Viva Magenta",
@@ -37998,11 +38710,19 @@
       "searchText": "filamentpm pla pla+ viva magenta"
     },
     {
-      "id": "filamentpm-pla-woodjet-natur",
+      "id": "filamentpm-pla-plus-white",
+      "brand": "FilamentPM",
+      "material": "PLA",
+      "name": "PLA+ White",
+      "hex": "#ebece9",
+      "searchText": "filamentpm pla pla+ white"
+    },
+    {
+      "id": "filamentpm-pla-plus-woodjet-natur",
       "brand": "FilamentPM",
       "material": "PLA",
       "name": "PLA+ WOODJet - Natur",
-      "hex": "#ac8963",
+      "hex": "#a39382",
       "searchText": "filamentpm pla pla+ woodjet - natur"
     },
     {
@@ -38092,6 +38812,14 @@
       "name": "SILK - Sunny Yellow",
       "hex": "#f1dd38",
       "searchText": "filamentpm pla silk - sunny yellow"
+    },
+    {
+      "id": "filamentpm-ppjet-polypropylene-black",
+      "brand": "FilamentPM",
+      "material": "PP",
+      "name": "PPJet (polypropylene) - Black",
+      "hex": "#3f4444",
+      "searchText": "filamentpm pp ppjet (polypropylene) - black"
     },
     {
       "id": "filamentpm-ppjet-polypropylene-natur",
@@ -74678,6 +75406,1206 @@
       "searchText": "printonion tpu tpu 95a yellow"
     },
     {
+      "id": "professional-lab-abs-plus-black",
+      "brand": "Professional Lab",
+      "material": "ABS",
+      "name": "ABS+ Black",
+      "hex": "#1a1a1a",
+      "searchText": "professional lab abs abs+ black"
+    },
+    {
+      "id": "professional-lab-abs-plus-blue",
+      "brand": "Professional Lab",
+      "material": "ABS",
+      "name": "ABS+ Blue",
+      "hex": "#104ba6",
+      "searchText": "professional lab abs abs+ blue"
+    },
+    {
+      "id": "professional-lab-abs-plus-brown",
+      "brand": "Professional Lab",
+      "material": "ABS",
+      "name": "ABS+ Brown",
+      "hex": "#673d32",
+      "searchText": "professional lab abs abs+ brown"
+    },
+    {
+      "id": "professional-lab-abs-plus-gray",
+      "brand": "Professional Lab",
+      "material": "ABS",
+      "name": "ABS+ Gray",
+      "hex": "#6b6b6b",
+      "searchText": "professional lab abs abs+ gray"
+    },
+    {
+      "id": "professional-lab-abs-plus-green",
+      "brand": "Professional Lab",
+      "material": "ABS",
+      "name": "ABS+ Green",
+      "hex": "#09af1d",
+      "searchText": "professional lab abs abs+ green"
+    },
+    {
+      "id": "professional-lab-abs-plus-orange",
+      "brand": "Professional Lab",
+      "material": "ABS",
+      "name": "ABS+ Orange",
+      "hex": "#fc7931",
+      "searchText": "professional lab abs abs+ orange"
+    },
+    {
+      "id": "professional-lab-abs-plus-red",
+      "brand": "Professional Lab",
+      "material": "ABS",
+      "name": "ABS+ Red",
+      "hex": "#b31924",
+      "searchText": "professional lab abs abs+ red"
+    },
+    {
+      "id": "professional-lab-abs-plus-silver",
+      "brand": "Professional Lab",
+      "material": "ABS",
+      "name": "ABS+ Silver",
+      "hex": "#727476",
+      "searchText": "professional lab abs abs+ silver"
+    },
+    {
+      "id": "professional-lab-abs-plus-white",
+      "brand": "Professional Lab",
+      "material": "ABS",
+      "name": "ABS+ White",
+      "hex": "#d6d0c5",
+      "searchText": "professional lab abs abs+ white"
+    },
+    {
+      "id": "professional-lab-abs-plus-yellow",
+      "brand": "Professional Lab",
+      "material": "ABS",
+      "name": "ABS+ Yellow",
+      "hex": "#fab71d",
+      "searchText": "professional lab abs abs+ yellow"
+    },
+    {
+      "id": "professional-lab-asa-black",
+      "brand": "Professional Lab",
+      "material": "ASA",
+      "name": "ASA Black",
+      "hex": "#1a1a1a",
+      "searchText": "professional lab asa asa black"
+    },
+    {
+      "id": "professional-lab-asa-blue",
+      "brand": "Professional Lab",
+      "material": "ASA",
+      "name": "ASA Blue",
+      "hex": "#045ee3",
+      "searchText": "professional lab asa asa blue"
+    },
+    {
+      "id": "professional-lab-asa-gf-black",
+      "brand": "Professional Lab",
+      "material": "ASA",
+      "name": "ASA GF Black",
+      "hex": "#1a1a1a",
+      "searchText": "professional lab asa asa gf black"
+    },
+    {
+      "id": "professional-lab-asa-gray",
+      "brand": "Professional Lab",
+      "material": "ASA",
+      "name": "ASA Gray",
+      "hex": "#565b5e",
+      "searchText": "professional lab asa asa gray"
+    },
+    {
+      "id": "professional-lab-asa-green",
+      "brand": "Professional Lab",
+      "material": "ASA",
+      "name": "ASA Green",
+      "hex": "#06df09",
+      "searchText": "professional lab asa asa green"
+    },
+    {
+      "id": "professional-lab-asa-red",
+      "brand": "Professional Lab",
+      "material": "ASA",
+      "name": "ASA Red",
+      "hex": "#c8082a",
+      "searchText": "professional lab asa asa red"
+    },
+    {
+      "id": "professional-lab-asa-silver",
+      "brand": "Professional Lab",
+      "material": "ASA",
+      "name": "ASA Silver",
+      "hex": "#81888b",
+      "searchText": "professional lab asa asa silver"
+    },
+    {
+      "id": "professional-lab-asa-white",
+      "brand": "Professional Lab",
+      "material": "ASA",
+      "name": "ASA White",
+      "hex": "#e8e5e0",
+      "searchText": "professional lab asa asa white"
+    },
+    {
+      "id": "professional-lab-pa12-black",
+      "brand": "Professional Lab",
+      "material": "PA12",
+      "name": "PA12 Black",
+      "hex": "#1a1a1a",
+      "searchText": "professional lab pa12 pa12 black"
+    },
+    {
+      "id": "professional-lab-petg-beige",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Beige",
+      "hex": "#c8c2a4",
+      "searchText": "professional lab petg petg beige"
+    },
+    {
+      "id": "professional-lab-petg-black",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Black",
+      "hex": "#1a1a1a",
+      "searchText": "professional lab petg petg black"
+    },
+    {
+      "id": "professional-lab-petg-blue",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Blue",
+      "hex": "#04368b",
+      "searchText": "professional lab petg petg blue"
+    },
+    {
+      "id": "professional-lab-petg-brown",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Brown",
+      "hex": "#734433",
+      "searchText": "professional lab petg petg brown"
+    },
+    {
+      "id": "professional-lab-petg-cf-black",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG CF Black",
+      "hex": "#1a1a1a",
+      "searchText": "professional lab petg petg cf black"
+    },
+    {
+      "id": "professional-lab-petg-cf-blue",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG CF Blue",
+      "hex": "#313b5a",
+      "searchText": "professional lab petg petg cf blue"
+    },
+    {
+      "id": "professional-lab-petg-cf-gray",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG CF Gray",
+      "hex": "#868a8c",
+      "searchText": "professional lab petg petg cf gray"
+    },
+    {
+      "id": "professional-lab-petg-cf-green",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG CF Green",
+      "hex": "#578d8d",
+      "searchText": "professional lab petg petg cf green"
+    },
+    {
+      "id": "professional-lab-petg-cf-purple",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG CF Purple",
+      "hex": "#684671",
+      "searchText": "professional lab petg petg cf purple"
+    },
+    {
+      "id": "professional-lab-petg-cf-red",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG CF Red",
+      "hex": "#8d5352",
+      "searchText": "professional lab petg petg cf red"
+    },
+    {
+      "id": "professional-lab-petg-coffee",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Coffee",
+      "hex": "#3c2420",
+      "searchText": "professional lab petg petg coffee"
+    },
+    {
+      "id": "professional-lab-petg-copper-brown",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Copper Brown",
+      "hex": "#4b1e14",
+      "searchText": "professional lab petg petg copper brown"
+    },
+    {
+      "id": "professional-lab-petg-cyan",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Cyan",
+      "hex": "#1ab8a8",
+      "searchText": "professional lab petg petg cyan"
+    },
+    {
+      "id": "professional-lab-petg-gray",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Gray",
+      "hex": "#8d8c86",
+      "searchText": "professional lab petg petg gray"
+    },
+    {
+      "id": "professional-lab-petg-green",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Green",
+      "hex": "#295d2f",
+      "searchText": "professional lab petg petg green"
+    },
+    {
+      "id": "professional-lab-petg-matte-beige",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Matte Beige",
+      "hex": "#ece3c6",
+      "searchText": "professional lab petg petg matte beige"
+    },
+    {
+      "id": "professional-lab-petg-matte-black",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Matte Black",
+      "hex": "#1a1a1a",
+      "searchText": "professional lab petg petg matte black"
+    },
+    {
+      "id": "professional-lab-petg-matte-blue",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Matte Blue",
+      "hex": "#26293c",
+      "searchText": "professional lab petg petg matte blue"
+    },
+    {
+      "id": "professional-lab-petg-matte-brown",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Matte Brown",
+      "hex": "#6c4a2b",
+      "searchText": "professional lab petg petg matte brown"
+    },
+    {
+      "id": "professional-lab-petg-matte-dark-green",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Matte Dark Green",
+      "hex": "#545a35",
+      "searchText": "professional lab petg petg matte dark green"
+    },
+    {
+      "id": "professional-lab-petg-matte-green",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Matte Green",
+      "hex": "#70b73c",
+      "searchText": "professional lab petg petg matte green"
+    },
+    {
+      "id": "professional-lab-petg-matte-red",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Matte Red",
+      "hex": "#702c23",
+      "searchText": "professional lab petg petg matte red"
+    },
+    {
+      "id": "professional-lab-petg-matte-white",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Matte White",
+      "hex": "#ede7de",
+      "searchText": "professional lab petg petg matte white"
+    },
+    {
+      "id": "professional-lab-petg-matte-yellow",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Matte Yellow",
+      "hex": "#fcc144",
+      "searchText": "professional lab petg petg matte yellow"
+    },
+    {
+      "id": "professional-lab-petg-oak",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Oak",
+      "hex": "#9b865c",
+      "searchText": "professional lab petg petg oak"
+    },
+    {
+      "id": "professional-lab-petg-ocean-blue",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Ocean Blue",
+      "hex": "#234c8a",
+      "searchText": "professional lab petg petg ocean blue"
+    },
+    {
+      "id": "professional-lab-petg-olive-green",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Olive Green",
+      "hex": "#2a362a",
+      "searchText": "professional lab petg petg olive green"
+    },
+    {
+      "id": "professional-lab-petg-orange",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Orange",
+      "hex": "#fd5835",
+      "searchText": "professional lab petg petg orange"
+    },
+    {
+      "id": "professional-lab-petg-pink",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Pink",
+      "hex": "#b34a8f",
+      "searchText": "professional lab petg petg pink"
+    },
+    {
+      "id": "professional-lab-petg-purple",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Purple",
+      "hex": "#49236b",
+      "searchText": "professional lab petg petg purple"
+    },
+    {
+      "id": "professional-lab-petg-red",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Red",
+      "hex": "#a40706",
+      "searchText": "professional lab petg petg red"
+    },
+    {
+      "id": "professional-lab-petg-silver",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Silver",
+      "hex": "#81817f",
+      "searchText": "professional lab petg petg silver"
+    },
+    {
+      "id": "professional-lab-petg-transparent-blue",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Transparent Blue",
+      "hex": "#0e164d",
+      "searchText": "professional lab petg petg transparent blue"
+    },
+    {
+      "id": "professional-lab-petg-transparent-green",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Transparent Green",
+      "hex": "#324b13",
+      "searchText": "professional lab petg petg transparent green"
+    },
+    {
+      "id": "professional-lab-petg-transparent-red",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Transparent Red",
+      "hex": "#521515",
+      "searchText": "professional lab petg petg transparent red"
+    },
+    {
+      "id": "professional-lab-petg-transparent-yellow",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Transparent Yellow",
+      "hex": "#7d5c0a",
+      "searchText": "professional lab petg petg transparent yellow"
+    },
+    {
+      "id": "professional-lab-petg-white",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG White",
+      "hex": "#e0dee2",
+      "searchText": "professional lab petg petg white"
+    },
+    {
+      "id": "professional-lab-petg-yellow",
+      "brand": "Professional Lab",
+      "material": "PETG",
+      "name": "PETG Yellow",
+      "hex": "#e3ad0b",
+      "searchText": "professional lab petg petg yellow"
+    },
+    {
+      "id": "professional-lab-hyper-hs-pla-black",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "Hyper HS-PLA Black",
+      "hex": "#1a1a1a",
+      "searchText": "professional lab pla hyper hs-pla black"
+    },
+    {
+      "id": "professional-lab-hyper-hs-pla-blue",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "Hyper HS-PLA Blue",
+      "hex": "#1756ac",
+      "searchText": "professional lab pla hyper hs-pla blue"
+    },
+    {
+      "id": "professional-lab-hyper-hs-pla-gray",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "Hyper HS-PLA Gray",
+      "hex": "#70706d",
+      "searchText": "professional lab pla hyper hs-pla gray"
+    },
+    {
+      "id": "professional-lab-hyper-hs-pla-orange",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "Hyper HS-PLA Orange",
+      "hex": "#fa7f1a",
+      "searchText": "professional lab pla hyper hs-pla orange"
+    },
+    {
+      "id": "professional-lab-hyper-hs-pla-red",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "Hyper HS-PLA Red",
+      "hex": "#b6111c",
+      "searchText": "professional lab pla hyper hs-pla red"
+    },
+    {
+      "id": "professional-lab-hyper-hs-pla-white",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "Hyper HS-PLA White",
+      "hex": "#d9d8dc",
+      "searchText": "professional lab pla hyper hs-pla white"
+    },
+    {
+      "id": "professional-lab-hyper-hs-pla-yellow",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "Hyper HS-PLA Yellow",
+      "hex": "#f3c90d",
+      "searchText": "professional lab pla hyper hs-pla yellow"
+    },
+    {
+      "id": "professional-lab-pla-basic-apple-green",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Basic Apple Green",
+      "hex": "#d4e915",
+      "searchText": "professional lab pla pla basic apple green"
+    },
+    {
+      "id": "professional-lab-pla-basic-black",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Basic Black",
+      "hex": "#1a1a1a",
+      "searchText": "professional lab pla pla basic black"
+    },
+    {
+      "id": "professional-lab-pla-basic-blue",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Basic Blue",
+      "hex": "#013fa0",
+      "searchText": "professional lab pla pla basic blue"
+    },
+    {
+      "id": "professional-lab-pla-basic-chocolate",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Basic Chocolate",
+      "hex": "#43201a",
+      "searchText": "professional lab pla pla basic chocolate"
+    },
+    {
+      "id": "professional-lab-pla-basic-cyan",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Basic Cyan",
+      "hex": "#0aaba5",
+      "searchText": "professional lab pla pla basic cyan"
+    },
+    {
+      "id": "professional-lab-pla-basic-gray",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Basic Gray",
+      "hex": "#6e6e6c",
+      "searchText": "professional lab pla pla basic gray"
+    },
+    {
+      "id": "professional-lab-pla-basic-green",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Basic Green",
+      "hex": "#0c9e08",
+      "searchText": "professional lab pla pla basic green"
+    },
+    {
+      "id": "professional-lab-pla-basic-new-pink",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Basic New Pink",
+      "hex": "#eb83ba",
+      "searchText": "professional lab pla pla basic new pink"
+    },
+    {
+      "id": "professional-lab-pla-basic-orange",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Basic Orange",
+      "hex": "#fba63f",
+      "searchText": "professional lab pla pla basic orange"
+    },
+    {
+      "id": "professional-lab-pla-basic-purple",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Basic Purple",
+      "hex": "#80389d",
+      "searchText": "professional lab pla pla basic purple"
+    },
+    {
+      "id": "professional-lab-pla-basic-red",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Basic Red",
+      "hex": "#af0705",
+      "searchText": "professional lab pla pla basic red"
+    },
+    {
+      "id": "professional-lab-pla-basic-silver",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Basic Silver",
+      "hex": "#787978",
+      "searchText": "professional lab pla pla basic silver"
+    },
+    {
+      "id": "professional-lab-pla-basic-skin",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Basic Skin",
+      "hex": "#f7c3a1",
+      "searchText": "professional lab pla pla basic skin"
+    },
+    {
+      "id": "professional-lab-pla-basic-warm-white",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Basic Warm White",
+      "hex": "#e3ded1",
+      "searchText": "professional lab pla pla basic warm white"
+    },
+    {
+      "id": "professional-lab-pla-basic-water-blue",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Basic Water Blue",
+      "hex": "#3197da",
+      "searchText": "professional lab pla pla basic water blue"
+    },
+    {
+      "id": "professional-lab-pla-basic-white",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Basic White",
+      "hex": "#e2e2e3",
+      "searchText": "professional lab pla pla basic white"
+    },
+    {
+      "id": "professional-lab-pla-basic-yellow",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Basic Yellow",
+      "hex": "#f0d40f",
+      "searchText": "professional lab pla pla basic yellow"
+    },
+    {
+      "id": "professional-lab-pla-carbon-fiber-green",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Carbon Fiber Green",
+      "hex": "#253a27",
+      "searchText": "professional lab pla pla carbon fiber green"
+    },
+    {
+      "id": "professional-lab-pla-carbon-fiber-red",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Carbon Fiber Red",
+      "hex": "#483338",
+      "searchText": "professional lab pla pla carbon fiber red"
+    },
+    {
+      "id": "professional-lab-pla-galaxy-black",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Galaxy Black",
+      "hex": "#1a1a1a",
+      "searchText": "professional lab pla pla galaxy black"
+    },
+    {
+      "id": "professional-lab-pla-galaxy-blue",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Galaxy Blue",
+      "hex": "#3d4e6f",
+      "searchText": "professional lab pla pla galaxy blue"
+    },
+    {
+      "id": "professional-lab-pla-galaxy-brown",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Galaxy Brown",
+      "hex": "#834f2f",
+      "searchText": "professional lab pla pla galaxy brown"
+    },
+    {
+      "id": "professional-lab-pla-galaxy-green",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Galaxy Green",
+      "hex": "#7a9753",
+      "searchText": "professional lab pla pla galaxy green"
+    },
+    {
+      "id": "professional-lab-pla-galaxy-purple",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Galaxy Purple",
+      "hex": "#554c68",
+      "searchText": "professional lab pla pla galaxy purple"
+    },
+    {
+      "id": "professional-lab-pla-galaxy-red",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Galaxy Red",
+      "hex": "#79110a",
+      "searchText": "professional lab pla pla galaxy red"
+    },
+    {
+      "id": "professional-lab-pla-grass-green",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Grass Green",
+      "hex": "#7be56e",
+      "searchText": "professional lab pla pla grass green"
+    },
+    {
+      "id": "professional-lab-pla-light-brown",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Light Brown",
+      "hex": "#ac7f5d",
+      "searchText": "professional lab pla pla light brown"
+    },
+    {
+      "id": "professional-lab-pla-luminous-blue",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Luminous Blue",
+      "hex": "#b4ab91",
+      "searchText": "professional lab pla pla luminous blue"
+    },
+    {
+      "id": "professional-lab-pla-luminous-yellow",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Luminous Yellow",
+      "hex": "#c0b9a5",
+      "searchText": "professional lab pla pla luminous yellow"
+    },
+    {
+      "id": "professional-lab-pla-magenta",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Magenta",
+      "hex": "#fc555c",
+      "searchText": "professional lab pla pla magenta"
+    },
+    {
+      "id": "professional-lab-pla-marble-brick-red",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Marble Brick Red",
+      "hex": "#b2240f",
+      "searchText": "professional lab pla pla marble brick red"
+    },
+    {
+      "id": "professional-lab-pla-marble-gray",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Marble Gray",
+      "hex": "#acaeae",
+      "searchText": "professional lab pla pla marble gray"
+    },
+    {
+      "id": "professional-lab-pla-marble-light-gray",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Marble Light Gray",
+      "hex": "#999c98",
+      "searchText": "professional lab pla pla marble light gray"
+    },
+    {
+      "id": "professional-lab-pla-matte-black",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Matte Black",
+      "hex": "#1a1a1a",
+      "searchText": "professional lab pla pla matte black"
+    },
+    {
+      "id": "professional-lab-pla-matte-blue",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Matte Blue",
+      "hex": "#2b2f3d",
+      "searchText": "professional lab pla pla matte blue"
+    },
+    {
+      "id": "professional-lab-pla-matte-gray",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Matte Gray",
+      "hex": "#7b796f",
+      "searchText": "professional lab pla pla matte gray"
+    },
+    {
+      "id": "professional-lab-pla-matte-red",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Matte Red",
+      "hex": "#ac0806",
+      "searchText": "professional lab pla pla matte red"
+    },
+    {
+      "id": "professional-lab-pla-matte-white",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Matte White",
+      "hex": "#e8e6dd",
+      "searchText": "professional lab pla pla matte white"
+    },
+    {
+      "id": "professional-lab-pla-meta-black",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Meta Black",
+      "hex": "#1a1a1a",
+      "searchText": "professional lab pla pla meta black"
+    },
+    {
+      "id": "professional-lab-pla-meta-blue",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Meta Blue",
+      "hex": "#144da6",
+      "searchText": "professional lab pla pla meta blue"
+    },
+    {
+      "id": "professional-lab-pla-meta-gray",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Meta Gray",
+      "hex": "#838381",
+      "searchText": "professional lab pla pla meta gray"
+    },
+    {
+      "id": "professional-lab-pla-meta-green",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Meta Green",
+      "hex": "#34b529",
+      "searchText": "professional lab pla pla meta green"
+    },
+    {
+      "id": "professional-lab-pla-meta-red",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Meta Red",
+      "hex": "#b4131b",
+      "searchText": "professional lab pla pla meta red"
+    },
+    {
+      "id": "professional-lab-pla-meta-white",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Meta White",
+      "hex": "#dcdbdc",
+      "searchText": "professional lab pla pla meta white"
+    },
+    {
+      "id": "professional-lab-pla-meta-yellow",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Meta Yellow",
+      "hex": "#f2d524",
+      "searchText": "professional lab pla pla meta yellow"
+    },
+    {
+      "id": "professional-lab-pla-navy-blue",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Navy Blue",
+      "hex": "#121e3e",
+      "searchText": "professional lab pla pla navy blue"
+    },
+    {
+      "id": "professional-lab-pla-olive-green",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Olive Green",
+      "hex": "#2a3c22",
+      "searchText": "professional lab pla pla olive green"
+    },
+    {
+      "id": "professional-lab-pla-pastel-blue",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Pastel Blue",
+      "hex": "#58a5e1",
+      "searchText": "professional lab pla pla pastel blue"
+    },
+    {
+      "id": "professional-lab-pla-pastel-green",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Pastel Green",
+      "hex": "#8cd36d",
+      "searchText": "professional lab pla pla pastel green"
+    },
+    {
+      "id": "professional-lab-pla-pastel-orange",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Pastel Orange",
+      "hex": "#f4ac28",
+      "searchText": "professional lab pla pla pastel orange"
+    },
+    {
+      "id": "professional-lab-pla-pastel-pink",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Pastel Pink",
+      "hex": "#f8accd",
+      "searchText": "professional lab pla pla pastel pink"
+    },
+    {
+      "id": "professional-lab-pla-purple-plum",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Purple Plum",
+      "hex": "#422634",
+      "searchText": "professional lab pla pla purple plum"
+    },
+    {
+      "id": "professional-lab-pla-raspberry",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Raspberry",
+      "hex": "#c72a31",
+      "searchText": "professional lab pla pla raspberry"
+    },
+    {
+      "id": "professional-lab-pla-silk-black",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Silk Black",
+      "hex": "#1a1a1a",
+      "searchText": "professional lab pla pla silk black"
+    },
+    {
+      "id": "professional-lab-pla-silk-brass",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Silk Brass",
+      "hex": "#fbbb21",
+      "searchText": "professional lab pla pla silk brass"
+    },
+    {
+      "id": "professional-lab-pla-silk-copper",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Silk Copper",
+      "hex": "#a74128",
+      "searchText": "professional lab pla pla silk copper"
+    },
+    {
+      "id": "professional-lab-pla-silk-gold",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Silk Gold",
+      "hex": "#d69c2e",
+      "searchText": "professional lab pla pla silk gold"
+    },
+    {
+      "id": "professional-lab-pla-silk-green",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Silk Green",
+      "hex": "#aff357",
+      "searchText": "professional lab pla pla silk green"
+    },
+    {
+      "id": "professional-lab-pla-silk-purple",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Silk Purple",
+      "hex": "#916ab3",
+      "searchText": "professional lab pla pla silk purple"
+    },
+    {
+      "id": "professional-lab-pla-silk-silver",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Silk Silver",
+      "hex": "#93938f",
+      "searchText": "professional lab pla pla silk silver"
+    },
+    {
+      "id": "professional-lab-pla-silk-white",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Silk White",
+      "hex": "#dcd8ce",
+      "searchText": "professional lab pla pla silk white"
+    },
+    {
+      "id": "professional-lab-pla-silk-yellow",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Silk Yellow",
+      "hex": "#f0ea0f",
+      "searchText": "professional lab pla pla silk yellow"
+    },
+    {
+      "id": "professional-lab-pla-wood-brown",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Wood Brown",
+      "hex": "#a68461",
+      "searchText": "professional lab pla pla wood brown"
+    },
+    {
+      "id": "professional-lab-pla-wood-maple",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Wood Maple",
+      "hex": "#c49970",
+      "searchText": "professional lab pla pla wood maple"
+    },
+    {
+      "id": "professional-lab-pla-wood-walnut",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA Wood Walnut",
+      "hex": "#976a3c",
+      "searchText": "professional lab pla pla wood walnut"
+    },
+    {
+      "id": "professional-lab-pla-plus-black",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA+ Black",
+      "hex": "#1a1a1a",
+      "searchText": "professional lab pla pla+ black"
+    },
+    {
+      "id": "professional-lab-pla-plus-blue",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA+ Blue",
+      "hex": "#114ca4",
+      "searchText": "professional lab pla pla+ blue"
+    },
+    {
+      "id": "professional-lab-pla-plus-brown",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA+ Brown",
+      "hex": "#7f5039",
+      "searchText": "professional lab pla pla+ brown"
+    },
+    {
+      "id": "professional-lab-pla-plus-gray",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA+ Gray",
+      "hex": "#898987",
+      "searchText": "professional lab pla pla+ gray"
+    },
+    {
+      "id": "professional-lab-pla-plus-green",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA+ Green",
+      "hex": "#28a31d",
+      "searchText": "professional lab pla pla+ green"
+    },
+    {
+      "id": "professional-lab-pla-plus-orange",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA+ Orange",
+      "hex": "#faa339",
+      "searchText": "professional lab pla pla+ orange"
+    },
+    {
+      "id": "professional-lab-pla-plus-pink",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA+ Pink",
+      "hex": "#e581b3",
+      "searchText": "professional lab pla pla+ pink"
+    },
+    {
+      "id": "professional-lab-pla-plus-purple",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA+ Purple",
+      "hex": "#783694",
+      "searchText": "professional lab pla pla+ purple"
+    },
+    {
+      "id": "professional-lab-pla-plus-red",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA+ Red",
+      "hex": "#c51017",
+      "searchText": "professional lab pla pla+ red"
+    },
+    {
+      "id": "professional-lab-pla-plus-sand-gold",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA+ Sand Gold",
+      "hex": "#e1b486",
+      "searchText": "professional lab pla pla+ sand gold"
+    },
+    {
+      "id": "professional-lab-pla-plus-silver",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA+ Silver",
+      "hex": "#767776",
+      "searchText": "professional lab pla pla+ silver"
+    },
+    {
+      "id": "professional-lab-pla-plus-white",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA+ White",
+      "hex": "#cfcfcc",
+      "searchText": "professional lab pla pla+ white"
+    },
+    {
+      "id": "professional-lab-pla-plus-yellow",
+      "brand": "Professional Lab",
+      "material": "PLA",
+      "name": "PLA+ Yellow",
+      "hex": "#f4d317",
+      "searchText": "professional lab pla pla+ yellow"
+    },
+    {
+      "id": "professional-lab-tpu-black",
+      "brand": "Professional Lab",
+      "material": "TPU",
+      "name": "TPU Black",
+      "hex": "#1a1a1a",
+      "searchText": "professional lab tpu tpu black"
+    },
+    {
+      "id": "professional-lab-tpu-blue",
+      "brand": "Professional Lab",
+      "material": "TPU",
+      "name": "TPU Blue",
+      "hex": "#06428f",
+      "searchText": "professional lab tpu tpu blue"
+    },
+    {
+      "id": "professional-lab-tpu-gray",
+      "brand": "Professional Lab",
+      "material": "TPU",
+      "name": "TPU Gray",
+      "hex": "#6f7175",
+      "searchText": "professional lab tpu tpu gray"
+    },
+    {
+      "id": "professional-lab-tpu-green",
+      "brand": "Professional Lab",
+      "material": "TPU",
+      "name": "TPU Green",
+      "hex": "#54c407",
+      "searchText": "professional lab tpu tpu green"
+    },
+    {
+      "id": "professional-lab-tpu-orange",
+      "brand": "Professional Lab",
+      "material": "TPU",
+      "name": "TPU Orange",
+      "hex": "#f3620c",
+      "searchText": "professional lab tpu tpu orange"
+    },
+    {
+      "id": "professional-lab-tpu-red",
+      "brand": "Professional Lab",
+      "material": "TPU",
+      "name": "TPU Red",
+      "hex": "#a70906",
+      "searchText": "professional lab tpu tpu red"
+    },
+    {
+      "id": "professional-lab-tpu-white",
+      "brand": "Professional Lab",
+      "material": "TPU",
+      "name": "TPU White",
+      "hex": "#ece2d2",
+      "searchText": "professional lab tpu tpu white"
+    },
+    {
+      "id": "professional-lab-tpu-yellow",
+      "brand": "Professional Lab",
+      "material": "TPU",
+      "name": "TPU Yellow",
+      "hex": "#cbce0e",
+      "searchText": "professional lab tpu tpu yellow"
+    },
+    {
       "id": "protopasta-amies-blood-of-my-enemies-translucent-red-petg",
       "brand": "Protopasta",
       "material": "PETG",
@@ -102492,6 +104420,302 @@
       "name": "TPU 95A Yellow",
       "hex": "#fffb00",
       "searchText": "tinmorry tpu tpu 95a yellow"
+    },
+    {
+      "id": "tm3d-pla-basin-green",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Basin Green",
+      "hex": "#566436",
+      "searchText": "tm3d pla pla-basin green"
+    },
+    {
+      "id": "tm3d-pla-black",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Black",
+      "hex": "#313132",
+      "searchText": "tm3d pla pla-black"
+    },
+    {
+      "id": "tm3d-pla-blue",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Blue",
+      "hex": "#005b8d",
+      "searchText": "tm3d pla pla-blue"
+    },
+    {
+      "id": "tm3d-pla-broken-white",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Broken White",
+      "hex": "#eeece6",
+      "searchText": "tm3d pla pla-broken white"
+    },
+    {
+      "id": "tm3d-pla-bronze",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Bronze",
+      "hex": "#775640",
+      "searchText": "tm3d pla pla-bronze"
+    },
+    {
+      "id": "tm3d-pla-brown-grey",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Brown Grey",
+      "hex": "#575043",
+      "searchText": "tm3d pla pla-brown grey"
+    },
+    {
+      "id": "tm3d-pla-chestnut-red",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Chestnut Red",
+      "hex": "#6b3841",
+      "searchText": "tm3d pla pla-chestnut red"
+    },
+    {
+      "id": "tm3d-pla-chocolate-brown",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Chocolate Brown",
+      "hex": "#543f33",
+      "searchText": "tm3d pla pla-chocolate brown"
+    },
+    {
+      "id": "tm3d-pla-clover-green",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Clover Green",
+      "hex": "#086c43",
+      "searchText": "tm3d pla pla-clover green"
+    },
+    {
+      "id": "tm3d-pla-cream",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Cream",
+      "hex": "#e8ded0",
+      "searchText": "tm3d pla pla-cream"
+    },
+    {
+      "id": "tm3d-pla-dark-red",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Dark Red",
+      "hex": "#a13a2e",
+      "searchText": "tm3d pla pla-dark red"
+    },
+    {
+      "id": "tm3d-pla-glow-in-the-dark",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Glow in the dark",
+      "hex": "#ffffff",
+      "searchText": "tm3d pla pla-glow in the dark"
+    },
+    {
+      "id": "tm3d-pla-green",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Green",
+      "hex": "#1e8658",
+      "searchText": "tm3d pla pla-green"
+    },
+    {
+      "id": "tm3d-pla-grey",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Grey",
+      "hex": "#5d5d5c",
+      "searchText": "tm3d pla pla-grey"
+    },
+    {
+      "id": "tm3d-pla-iron-grey",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Iron Grey",
+      "hex": "#51585b",
+      "searchText": "tm3d pla pla-iron grey"
+    },
+    {
+      "id": "tm3d-pla-jade-green",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Jade Green",
+      "hex": "#88aea8",
+      "searchText": "tm3d pla pla-jade green"
+    },
+    {
+      "id": "tm3d-pla-light-blue",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Light Blue",
+      "hex": "#5bb3cc",
+      "searchText": "tm3d pla pla-light blue"
+    },
+    {
+      "id": "tm3d-pla-light-grey",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Light Grey",
+      "hex": "#c3c4c1",
+      "searchText": "tm3d pla pla-light grey"
+    },
+    {
+      "id": "tm3d-pla-light-pink",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Light Pink",
+      "hex": "#e08dad",
+      "searchText": "tm3d pla pla-light pink"
+    },
+    {
+      "id": "tm3d-pla-mimosa-yellow",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Mimosa Yellow",
+      "hex": "#ddc335",
+      "searchText": "tm3d pla pla-mimosa yellow"
+    },
+    {
+      "id": "tm3d-pla-natural",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Natural",
+      "hex": "#afa07e",
+      "searchText": "tm3d pla pla-natural"
+    },
+    {
+      "id": "tm3d-pla-ochre-brown",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Ochre Brown",
+      "hex": "#9b6130",
+      "searchText": "tm3d pla pla-ochre brown"
+    },
+    {
+      "id": "tm3d-pla-orange",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Orange",
+      "hex": "#ce5924",
+      "searchText": "tm3d pla pla-orange"
+    },
+    {
+      "id": "tm3d-pla-pearl-gold",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Pearl Gold",
+      "hex": "#8d7049",
+      "searchText": "tm3d pla pla-pearl gold"
+    },
+    {
+      "id": "tm3d-pla-pink",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Pink",
+      "hex": "#bb4c7c",
+      "searchText": "tm3d pla pla-pink"
+    },
+    {
+      "id": "tm3d-pla-purple",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Purple",
+      "hex": "#84679c",
+      "searchText": "tm3d pla pla-purple"
+    },
+    {
+      "id": "tm3d-pla-red",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Red",
+      "hex": "#b7231e",
+      "searchText": "tm3d pla pla-red"
+    },
+    {
+      "id": "tm3d-pla-silver",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Silver",
+      "hex": "#8b8c93",
+      "searchText": "tm3d pla pla-silver"
+    },
+    {
+      "id": "tm3d-pla-sky-blue",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Sky-Blue",
+      "hex": "#0085b3",
+      "searchText": "tm3d pla pla-sky-blue"
+    },
+    {
+      "id": "tm3d-pla-steel-blue",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Steel Blue",
+      "hex": "#2e495b",
+      "searchText": "tm3d pla pla-steel blue"
+    },
+    {
+      "id": "tm3d-pla-terracotta",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Terracotta",
+      "hex": "#924129",
+      "searchText": "tm3d pla pla-terracotta"
+    },
+    {
+      "id": "tm3d-pla-ultra-green",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Ultra Green",
+      "hex": "#7db848",
+      "searchText": "tm3d pla pla-ultra green"
+    },
+    {
+      "id": "tm3d-pla-ultramarine-blue",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Ultramarine Blue",
+      "hex": "#204580",
+      "searchText": "tm3d pla pla-ultramarine blue"
+    },
+    {
+      "id": "tm3d-pla-violet",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Violet",
+      "hex": "#6c5184",
+      "searchText": "tm3d pla pla-violet"
+    },
+    {
+      "id": "tm3d-pla-white",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-White",
+      "hex": "#e6e5ea",
+      "searchText": "tm3d pla pla-white"
+    },
+    {
+      "id": "tm3d-pla-yellow",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Yellow",
+      "hex": "#cc9a00",
+      "searchText": "tm3d pla pla-yellow"
+    },
+    {
+      "id": "tm3d-pla-yellow-gold",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA-Yellow Gold",
+      "hex": "#dd9e26",
+      "searchText": "tm3d pla pla-yellow gold"
     },
     {
       "id": "verbatim-abs-aluminium-grey",
