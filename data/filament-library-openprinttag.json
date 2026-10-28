@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-10-27T04:33:30.684Z",
-  "entryCount": 13594,
+  "lastSynced": "2026-10-28T04:26:11.996Z",
+  "entryCount": 13652,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -24174,7 +24174,7 @@
       "searchText": "deeplee pla silk pla white"
     },
     {
-      "id": "devil-design-abs-black",
+      "id": "devil-design-abs-plus-black",
       "brand": "Devil Design",
       "material": "ABS",
       "name": "ABS+ BLACK",
@@ -24182,7 +24182,7 @@
       "searchText": "devil design abs abs+ black"
     },
     {
-      "id": "devil-design-abs-dark-gray",
+      "id": "devil-design-abs-plus-dark-gray",
       "brand": "Devil Design",
       "material": "ABS",
       "name": "ABS+ DARK GRAY",
@@ -24190,7 +24190,7 @@
       "searchText": "devil design abs abs+ dark gray"
     },
     {
-      "id": "devil-design-abs-gray",
+      "id": "devil-design-abs-plus-gray",
       "brand": "Devil Design",
       "material": "ABS",
       "name": "ABS+ GRAY",
@@ -24198,7 +24198,15 @@
       "searchText": "devil design abs abs+ gray"
     },
     {
-      "id": "devil-design-abs-natural",
+      "id": "devil-design-abs-plus-light-gray",
+      "brand": "Devil Design",
+      "material": "ABS",
+      "name": "ABS+ LIGHT GRAY",
+      "hex": "#c8c8c8",
+      "searchText": "devil design abs abs+ light gray"
+    },
+    {
+      "id": "devil-design-abs-plus-natural",
       "brand": "Devil Design",
       "material": "ABS",
       "name": "ABS+ NATURAL",
@@ -24206,7 +24214,7 @@
       "searchText": "devil design abs abs+ natural"
     },
     {
-      "id": "devil-design-abs-red",
+      "id": "devil-design-abs-plus-red",
       "brand": "Devil Design",
       "material": "ABS",
       "name": "ABS+ RED",
@@ -24214,7 +24222,7 @@
       "searchText": "devil design abs abs+ red"
     },
     {
-      "id": "devil-design-abs-white",
+      "id": "devil-design-abs-plus-white",
       "brand": "Devil Design",
       "material": "ABS",
       "name": "ABS+ WHITE",
@@ -24250,7 +24258,7 @@
       "brand": "Devil Design",
       "material": "ASA",
       "name": "ASA DARK BROWN",
-      "hex": "#774b3f",
+      "hex": "#a45b27",
       "searchText": "devil design asa asa dark brown"
     },
     {
@@ -24310,12 +24318,12 @@
       "searchText": "devil design hips hips black"
     },
     {
-      "id": "devil-design-nylon-pa12-prodn",
+      "id": "devil-design-pa12-natural",
       "brand": "Devil Design",
       "material": "PA12",
-      "name": "NYLON PA12 PŘÍRODNÍ",
+      "name": "PA12 NATURAL",
       "hex": "#dee2da",
-      "searchText": "devil design pa12 nylon pa12 přírodní"
+      "searchText": "devil design pa12 pa12 natural"
     },
     {
       "id": "devil-design-petg-aluminium",
@@ -24332,6 +24340,14 @@
       "name": "PETG AMBER TRANSPARENT",
       "hex": "#be6730",
       "searchText": "devil design petg petg amber transparent"
+    },
+    {
+      "id": "devil-design-petg-beige",
+      "brand": "Devil Design",
+      "material": "PETG",
+      "name": "PETG BEIGE",
+      "hex": "#d4b6a3",
+      "searchText": "devil design petg petg beige"
     },
     {
       "id": "devil-design-petg-black",
@@ -24426,7 +24442,7 @@
       "brand": "Devil Design",
       "material": "PETG",
       "name": "PETG DARK BROWN",
-      "hex": "#774b3f",
+      "hex": "#a45b27",
       "searchText": "devil design petg petg dark brown"
     },
     {
@@ -24694,6 +24710,14 @@
       "searchText": "devil design petg petg ultra blue"
     },
     {
+      "id": "devil-design-petg-ultra-green",
+      "brand": "Devil Design",
+      "material": "PETG",
+      "name": "PETG ULTRA GREEN",
+      "hex": "#006634",
+      "searchText": "devil design petg petg ultra green"
+    },
+    {
       "id": "devil-design-petg-ultra-violet",
       "brand": "Devil Design",
       "material": "PETG",
@@ -24716,6 +24740,14 @@
       "name": "PETG WHITE",
       "hex": "#f5f5f5",
       "searchText": "devil design petg petg white"
+    },
+    {
+      "id": "devil-design-petg-wine-red",
+      "brand": "Devil Design",
+      "material": "PETG",
+      "name": "PETG WINE RED",
+      "hex": "#80464f",
+      "searchText": "devil design petg petg wine red"
     },
     {
       "id": "devil-design-petg-yellow",
@@ -24922,7 +24954,7 @@
       "brand": "Devil Design",
       "material": "PLA",
       "name": "PLA GOLD",
-      "hex": "#ce8d00",
+      "hex": "#f4ac23",
       "searchText": "devil design pla pla gold"
     },
     {
@@ -25052,6 +25084,14 @@
       "name": "PLA PC GRAY",
       "hex": "#d6d7d8",
       "searchText": "devil design pla pla pc gray"
+    },
+    {
+      "id": "devil-design-pla-pearl",
+      "brand": "Devil Design",
+      "material": "PLA",
+      "name": "PLA PEARL",
+      "hex": "#e2dedb",
+      "searchText": "devil design pla pla pearl"
     },
     {
       "id": "devil-design-pla-pink-pearl",
@@ -25308,6 +25348,14 @@
       "name": "PLA WHITE",
       "hex": "#efefef",
       "searchText": "devil design pla pla white"
+    },
+    {
+      "id": "devil-design-pla-wine-red",
+      "brand": "Devil Design",
+      "material": "PLA",
+      "name": "PLA WINE RED",
+      "hex": "#80464f",
+      "searchText": "devil design pla pla wine red"
     },
     {
       "id": "devil-design-pla-yellow",
@@ -85150,6 +85198,14 @@
       "searchText": "recreus tpu reciflex black"
     },
     {
+      "id": "recyclingfabrik-yellowed-paper-natural",
+      "brand": "RecyclingFabrik",
+      "material": "ABS",
+      "name": "Yellowed Paper (Natural)",
+      "hex": "#b7b29f",
+      "searchText": "recyclingfabrik abs yellowed paper (natural)"
+    },
+    {
       "id": "recyclingfabrik-bloody-orange-red-orange",
       "brand": "RecyclingFabrik",
       "material": "PETG",
@@ -85182,6 +85238,30 @@
       "searchText": "recyclingfabrik petg dancing flame (orange-transparent)"
     },
     {
+      "id": "recyclingfabrik-fluffy-cotton-candy-pastel-pink",
+      "brand": "RecyclingFabrik",
+      "material": "PETG",
+      "name": "Fluffy Cotton Candy (Pastel Pink)",
+      "hex": "#c296b1",
+      "searchText": "recyclingfabrik petg fluffy cotton candy (pastel pink)"
+    },
+    {
+      "id": "recyclingfabrik-fluffy-sheep-white-petg",
+      "brand": "RecyclingFabrik",
+      "material": "PETG",
+      "name": "Fluffy Sheep (White) PETG",
+      "hex": "#ddd9d6",
+      "searchText": "recyclingfabrik petg fluffy sheep (white) petg"
+    },
+    {
+      "id": "recyclingfabrik-fragrant-lilac-pastel-violet",
+      "brand": "RecyclingFabrik",
+      "material": "PETG",
+      "name": "Fragrant Lilac (Pastel Violet)",
+      "hex": "#8577ab",
+      "searchText": "recyclingfabrik petg fragrant lilac (pastel violet)"
+    },
+    {
       "id": "recyclingfabrik-frosty-rose-pink-transparent",
       "brand": "RecyclingFabrik",
       "material": "PETG",
@@ -85206,12 +85286,52 @@
       "searchText": "recyclingfabrik petg good night (black)"
     },
     {
+      "id": "recyclingfabrik-light-sun-pastel-yellow",
+      "brand": "RecyclingFabrik",
+      "material": "PETG",
+      "name": "Light Sun (Pastel Yellow)",
+      "hex": "#b7af45",
+      "searchText": "recyclingfabrik petg light sun (pastel yellow)"
+    },
+    {
       "id": "recyclingfabrik-mystical-emerald-green-transparent",
       "brand": "RecyclingFabrik",
       "material": "PETG",
       "name": "Mystical Emerald (Green-Transparent)",
       "hex": "#217165",
       "searchText": "recyclingfabrik petg mystical emerald (green-transparent)"
+    },
+    {
+      "id": "recyclingfabrik-re-blue",
+      "brand": "RecyclingFabrik",
+      "material": "PETG",
+      "name": "Re:Blue",
+      "hex": "#13527e",
+      "searchText": "recyclingfabrik petg re:blue"
+    },
+    {
+      "id": "recyclingfabrik-re-green",
+      "brand": "RecyclingFabrik",
+      "material": "PETG",
+      "name": "Re:Green",
+      "hex": "#2c6958",
+      "searchText": "recyclingfabrik petg re:green"
+    },
+    {
+      "id": "recyclingfabrik-re-orange",
+      "brand": "RecyclingFabrik",
+      "material": "PETG",
+      "name": "Re:Orange",
+      "hex": "#d1691a",
+      "searchText": "recyclingfabrik petg re:orange"
+    },
+    {
+      "id": "recyclingfabrik-re-red",
+      "brand": "RecyclingFabrik",
+      "material": "PETG",
+      "name": "Re:Red",
+      "hex": "#742f32",
+      "searchText": "recyclingfabrik petg re:red"
     },
     {
       "id": "recyclingfabrik-royal-amethyst-violet-transparent",
@@ -85222,6 +85342,30 @@
       "searchText": "recyclingfabrik petg royal amethyst (violet-transparent)"
     },
     {
+      "id": "recyclingfabrik-shining-sapphire-blue-translucent",
+      "brand": "RecyclingFabrik",
+      "material": "PETG",
+      "name": "Shining Sapphire (Blue-Translucent)",
+      "hex": "#183074",
+      "searchText": "recyclingfabrik petg shining sapphire (blue-translucent)"
+    },
+    {
+      "id": "recyclingfabrik-sleepy-koala-gray-petg",
+      "brand": "RecyclingFabrik",
+      "material": "PETG",
+      "name": "Sleepy Koala (Gray) PETG",
+      "hex": "#524f4c",
+      "searchText": "recyclingfabrik petg sleepy koala (gray) petg"
+    },
+    {
+      "id": "recyclingfabrik-soft-apricot-pastel-orange",
+      "brand": "RecyclingFabrik",
+      "material": "PETG",
+      "name": "Soft Apricot (Pastel Orange)",
+      "hex": "#c78f63",
+      "searchText": "recyclingfabrik petg soft apricot (pastel orange)"
+    },
+    {
       "id": "recyclingfabrik-sour-apple-green",
       "brand": "RecyclingFabrik",
       "material": "PETG",
@@ -85230,12 +85374,36 @@
       "searchText": "recyclingfabrik petg sour apple (green)"
     },
     {
+      "id": "recyclingfabrik-stubborn-donkey-medium-gray",
+      "brand": "RecyclingFabrik",
+      "material": "PETG",
+      "name": "Stubborn Donkey (Medium Gray)",
+      "hex": "#5d5d5e",
+      "searchText": "recyclingfabrik petg stubborn donkey (medium gray)"
+    },
+    {
       "id": "recyclingfabrik-whole-carrot-orange",
       "brand": "RecyclingFabrik",
       "material": "PETG",
       "name": "Whole Carrot (Orange)",
       "hex": "#ff7a33",
       "searchText": "recyclingfabrik petg whole carrot (orange)"
+    },
+    {
+      "id": "recyclingfabrik-witty-whale-light-gray",
+      "brand": "RecyclingFabrik",
+      "material": "PETG",
+      "name": "Witty Whale (Light Gray)",
+      "hex": "#878787",
+      "searchText": "recyclingfabrik petg witty whale (light gray)"
+    },
+    {
+      "id": "recyclingfabrik-young-sage-pastel-green",
+      "brand": "RecyclingFabrik",
+      "material": "PETG",
+      "name": "Young Sage (Pastel Green)",
+      "hex": "#67a473",
+      "searchText": "recyclingfabrik petg young sage (pastel green)"
     },
     {
       "id": "recyclingfabrik-calming-lavender-violet",
@@ -85318,6 +85486,14 @@
       "searchText": "recyclingfabrik pla fresh meadow (light green)"
     },
     {
+      "id": "recyclingfabrik-galactic-nebula-blue-glitter",
+      "brand": "RecyclingFabrik",
+      "material": "PLA",
+      "name": "Galactic Nebula (Blue Glitter)",
+      "hex": "#125267",
+      "searchText": "recyclingfabrik pla galactic nebula (blue glitter)"
+    },
+    {
       "id": "recyclingfabrik-gentle-blossom-pink",
       "brand": "RecyclingFabrik",
       "material": "PLA",
@@ -85326,12 +85502,36 @@
       "searchText": "recyclingfabrik pla gentle blossom (pink)"
     },
     {
+      "id": "recyclingfabrik-good-night-black-pla",
+      "brand": "RecyclingFabrik",
+      "material": "PLA",
+      "name": "Good Night (Black) PLA",
+      "hex": "#1a1a1a",
+      "searchText": "recyclingfabrik pla good night (black) pla"
+    },
+    {
+      "id": "recyclingfabrik-hidden-lagoon-blue",
+      "brand": "RecyclingFabrik",
+      "material": "PLA",
+      "name": "Hidden Lagoon (Blue)",
+      "hex": "#041b51",
+      "searchText": "recyclingfabrik pla hidden lagoon (blue)"
+    },
+    {
       "id": "recyclingfabrik-liquid-asphalt-dark-gray",
       "brand": "RecyclingFabrik",
       "material": "PLA",
       "name": "Liquid Asphalt (Dark Gray)",
       "hex": "#63646b",
       "searchText": "recyclingfabrik pla liquid asphalt (dark gray)"
+    },
+    {
+      "id": "recyclingfabrik-liquid-luck-gold",
+      "brand": "RecyclingFabrik",
+      "material": "PLA",
+      "name": "Liquid Luck (Gold)",
+      "hex": "#775631",
+      "searchText": "recyclingfabrik pla liquid luck (gold)"
     },
     {
       "id": "recyclingfabrik-mild-sea-buckthorn-orange",
@@ -85382,6 +85582,30 @@
       "searchText": "recyclingfabrik pla ral 3001 signal red"
     },
     {
+      "id": "recyclingfabrik-re-violet",
+      "brand": "RecyclingFabrik",
+      "material": "PLA",
+      "name": "Re:Violet",
+      "hex": "#7d5667",
+      "searchText": "recyclingfabrik pla re:violet"
+    },
+    {
+      "id": "recyclingfabrik-re-yellow",
+      "brand": "RecyclingFabrik",
+      "material": "PLA",
+      "name": "Re:Yellow",
+      "hex": "#b99e2e",
+      "searchText": "recyclingfabrik pla re:yellow"
+    },
+    {
+      "id": "recyclingfabrik-ripe-berry-red",
+      "brand": "RecyclingFabrik",
+      "material": "PLA",
+      "name": "Ripe Berry (Red)",
+      "hex": "#6f0824",
+      "searchText": "recyclingfabrik pla ripe berry (red)"
+    },
+    {
       "id": "recyclingfabrik-rotten-avocado-green",
       "brand": "RecyclingFabrik",
       "material": "PLA",
@@ -85404,6 +85628,14 @@
       "name": "Shallow water (blue)",
       "hex": "#23668c",
       "searchText": "recyclingfabrik pla shallow water (blue)"
+    },
+    {
+      "id": "recyclingfabrik-sharp-teeth-natural",
+      "brand": "RecyclingFabrik",
+      "material": "PLA",
+      "name": "Sharp Teeth (Natural)",
+      "hex": "#c2bfae",
+      "searchText": "recyclingfabrik pla sharp teeth (natural)"
     },
     {
       "id": "recyclingfabrik-shimmering-candle",
@@ -85486,11 +85718,19 @@
       "searchText": "recyclingfabrik pla smart mouse (light gray)"
     },
     {
+      "id": "recyclingfabrik-sparkling-candle-red-glitter",
+      "brand": "RecyclingFabrik",
+      "material": "PLA",
+      "name": "Sparkling Candle (Red Glitter)",
+      "hex": "#571d27",
+      "searchText": "recyclingfabrik pla sparkling candle (red glitter)"
+    },
+    {
       "id": "recyclingfabrik-sparkling-fir-green-glitter",
       "brand": "RecyclingFabrik",
       "material": "PLA",
       "name": "Sparkling Fir (Green Glitter)",
-      "hex": "#aa0101",
+      "hex": "#136055",
       "searchText": "recyclingfabrik pla sparkling fir (green glitter)"
     },
     {
@@ -95468,6 +95708,230 @@
       "name": "INNOVATEFIL® TPU HARDNESS+ True black",
       "hex": "#000000",
       "searchText": "smart materials 3d tpu innovatefil® tpu hardness+ true black"
+    },
+    {
+      "id": "soleyin-basic-petg-black",
+      "brand": "Soleyin",
+      "material": "PETG",
+      "name": "Basic PETG Black",
+      "hex": "#1a1a1a",
+      "searchText": "soleyin petg basic petg black"
+    },
+    {
+      "id": "soleyin-basic-petg-brick-red",
+      "brand": "Soleyin",
+      "material": "PETG",
+      "name": "Basic PETG Brick Red",
+      "hex": "#9d4c4c",
+      "searchText": "soleyin petg basic petg brick red"
+    },
+    {
+      "id": "soleyin-basic-petg-chamomile",
+      "brand": "Soleyin",
+      "material": "PETG",
+      "name": "Basic PETG Chamomile",
+      "hex": "#e68a51",
+      "searchText": "soleyin petg basic petg chamomile"
+    },
+    {
+      "id": "soleyin-basic-petg-fern-green",
+      "brand": "Soleyin",
+      "material": "PETG",
+      "name": "Basic PETG Fern Green",
+      "hex": "#c9cb88",
+      "searchText": "soleyin petg basic petg fern green"
+    },
+    {
+      "id": "soleyin-basic-petg-ginkgo-yellow",
+      "brand": "Soleyin",
+      "material": "PETG",
+      "name": "Basic PETG Ginkgo Yellow",
+      "hex": "#f0c038",
+      "searchText": "soleyin petg basic petg ginkgo yellow"
+    },
+    {
+      "id": "soleyin-basic-petg-glacier-gray",
+      "brand": "Soleyin",
+      "material": "PETG",
+      "name": "Basic PETG Glacier Gray",
+      "hex": "#a7a9b5",
+      "searchText": "soleyin petg basic petg glacier gray"
+    },
+    {
+      "id": "soleyin-basic-petg-lavender",
+      "brand": "Soleyin",
+      "material": "PETG",
+      "name": "Basic PETG Lavender",
+      "hex": "#d6c3d9",
+      "searchText": "soleyin petg basic petg lavender"
+    },
+    {
+      "id": "soleyin-basic-petg-mangosteen-purple",
+      "brand": "Soleyin",
+      "material": "PETG",
+      "name": "Basic PETG Mangosteen Purple",
+      "hex": "#66324a",
+      "searchText": "soleyin petg basic petg mangosteen purple"
+    },
+    {
+      "id": "soleyin-basic-petg-milk-tea-brown",
+      "brand": "Soleyin",
+      "material": "PETG",
+      "name": "Basic PETG Milk Tea Brown",
+      "hex": "#d5beaf",
+      "searchText": "soleyin petg basic petg milk tea brown"
+    },
+    {
+      "id": "soleyin-basic-petg-snow-mountain-blue",
+      "brand": "Soleyin",
+      "material": "PETG",
+      "name": "Basic PETG Snow Mountain Blue",
+      "hex": "#9eadce",
+      "searchText": "soleyin petg basic petg snow mountain blue"
+    },
+    {
+      "id": "soleyin-basic-petg-sunset-blue",
+      "brand": "Soleyin",
+      "material": "PETG",
+      "name": "Basic PETG Sunset Blue",
+      "hex": "#525db2",
+      "searchText": "soleyin petg basic petg sunset blue"
+    },
+    {
+      "id": "soleyin-basic-petg-white",
+      "brand": "Soleyin",
+      "material": "PETG",
+      "name": "Basic PETG White",
+      "hex": "#e0e0e1",
+      "searchText": "soleyin petg basic petg white"
+    },
+    {
+      "id": "soleyin-ultra-pla-almond-purple",
+      "brand": "Soleyin",
+      "material": "PLA",
+      "name": "Ultra PLA Almond Purple",
+      "hex": "#b6a4c6",
+      "searchText": "soleyin pla ultra pla almond purple"
+    },
+    {
+      "id": "soleyin-ultra-pla-black",
+      "brand": "Soleyin",
+      "material": "PLA",
+      "name": "Ultra PLA Black",
+      "hex": "#1a1a1a",
+      "searchText": "soleyin pla ultra pla black"
+    },
+    {
+      "id": "soleyin-ultra-pla-gray",
+      "brand": "Soleyin",
+      "material": "PLA",
+      "name": "Ultra PLA Gray",
+      "hex": "#8697a1",
+      "searchText": "soleyin pla ultra pla gray"
+    },
+    {
+      "id": "soleyin-ultra-pla-greenery",
+      "brand": "Soleyin",
+      "material": "PLA",
+      "name": "Ultra PLA Greenery",
+      "hex": "#98986f",
+      "searchText": "soleyin pla ultra pla greenery"
+    },
+    {
+      "id": "soleyin-ultra-pla-light-green",
+      "brand": "Soleyin",
+      "material": "PLA",
+      "name": "Ultra PLA Light Green",
+      "hex": "#84d1bf",
+      "searchText": "soleyin pla ultra pla light green"
+    },
+    {
+      "id": "soleyin-ultra-pla-matte-black",
+      "brand": "Soleyin",
+      "material": "PLA",
+      "name": "Ultra PLA Matte Black",
+      "hex": "#1a1a1a",
+      "searchText": "soleyin pla ultra pla matte black"
+    },
+    {
+      "id": "soleyin-ultra-pla-matte-fluorite",
+      "brand": "Soleyin",
+      "material": "PLA",
+      "name": "Ultra PLA Matte Fluorite",
+      "hex": "#8dafd3",
+      "searchText": "soleyin pla ultra pla matte fluorite"
+    },
+    {
+      "id": "soleyin-ultra-pla-matte-gray",
+      "brand": "Soleyin",
+      "material": "PLA",
+      "name": "Ultra PLA Matte Gray",
+      "hex": "#8697a1",
+      "searchText": "soleyin pla ultra pla matte gray"
+    },
+    {
+      "id": "soleyin-ultra-pla-matte-moonstone",
+      "brand": "Soleyin",
+      "material": "PLA",
+      "name": "Ultra PLA Matte Moonstone",
+      "hex": "#6eb1c3",
+      "searchText": "soleyin pla ultra pla matte moonstone"
+    },
+    {
+      "id": "soleyin-ultra-pla-matte-rose-stone",
+      "brand": "Soleyin",
+      "material": "PLA",
+      "name": "Ultra PLA Matte Rose Stone",
+      "hex": "#c1a4c8",
+      "searchText": "soleyin pla ultra pla matte rose stone"
+    },
+    {
+      "id": "soleyin-ultra-pla-matte-white",
+      "brand": "Soleyin",
+      "material": "PLA",
+      "name": "Ultra PLA Matte White",
+      "hex": "#dedfe1",
+      "searchText": "soleyin pla ultra pla matte white"
+    },
+    {
+      "id": "soleyin-ultra-pla-ocean-blue",
+      "brand": "Soleyin",
+      "material": "PLA",
+      "name": "Ultra PLA Ocean Blue",
+      "hex": "#85dbdd",
+      "searchText": "soleyin pla ultra pla ocean blue"
+    },
+    {
+      "id": "soleyin-ultra-pla-pineapple-yellow",
+      "brand": "Soleyin",
+      "material": "PLA",
+      "name": "Ultra PLA Pineapple Yellow",
+      "hex": "#e4d085",
+      "searchText": "soleyin pla ultra pla pineapple yellow"
+    },
+    {
+      "id": "soleyin-ultra-pla-rosehip",
+      "brand": "Soleyin",
+      "material": "PLA",
+      "name": "Ultra PLA Rosehip",
+      "hex": "#f4621f",
+      "searchText": "soleyin pla ultra pla rosehip"
+    },
+    {
+      "id": "soleyin-ultra-pla-strawberry-milk",
+      "brand": "Soleyin",
+      "material": "PLA",
+      "name": "Ultra PLA Strawberry Milk",
+      "hex": "#f74131",
+      "searchText": "soleyin pla ultra pla strawberry milk"
+    },
+    {
+      "id": "soleyin-ultra-pla-white",
+      "brand": "Soleyin",
+      "material": "PLA",
+      "name": "Ultra PLA White",
+      "hex": "#dbdcde",
+      "searchText": "soleyin pla ultra pla white"
     },
     {
       "id": "sovb-3d-fil-abs-aluminium",
