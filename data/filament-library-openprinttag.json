@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-10-30T04:25:46.509Z",
-  "entryCount": 13652,
+  "lastSynced": "2026-10-31T04:21:25.841Z",
+  "entryCount": 13665,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -74178,7 +74178,7 @@
       "brand": "PrintedSolid",
       "material": "PETG",
       "name": "Jessie Premium PETG Black",
-      "hex": "#000000",
+      "hex": "#333537",
       "searchText": "printedsolid petg jessie premium petg black"
     },
     {
@@ -74186,7 +74186,7 @@
       "brand": "PrintedSolid",
       "material": "PETG",
       "name": "Jessie Premium PETG Bold Blue",
-      "hex": "#2941bd",
+      "hex": "#2552a7",
       "searchText": "printedsolid petg jessie premium petg bold blue"
     },
     {
@@ -74194,7 +74194,7 @@
       "brand": "PrintedSolid",
       "material": "PETG",
       "name": "Jessie Premium PETG Clear",
-      "hex": "#e4e7e5",
+      "hex": "#8b8c8c",
       "searchText": "printedsolid petg jessie premium petg clear"
     },
     {
@@ -74202,7 +74202,7 @@
       "brand": "PrintedSolid",
       "material": "PETG",
       "name": "Jessie Premium PETG Gun Metal Grey",
-      "hex": "#6f727e",
+      "hex": "#707276",
       "searchText": "printedsolid petg jessie premium petg gun metal grey"
     },
     {
@@ -74210,7 +74210,7 @@
       "brand": "PrintedSolid",
       "material": "PETG",
       "name": "Jessie Premium PETG Mystery Orange",
-      "hex": "#ff8e24",
+      "hex": "#ec5428",
       "searchText": "printedsolid petg jessie premium petg mystery orange"
     },
     {
@@ -74218,7 +74218,7 @@
       "brand": "PrintedSolid",
       "material": "PETG",
       "name": "Jessie Premium PETG Neon Yellow",
-      "hex": "#e4ff33",
+      "hex": "#d7f000",
       "searchText": "printedsolid petg jessie premium petg neon yellow"
     },
     {
@@ -74226,7 +74226,7 @@
       "brand": "PrintedSolid",
       "material": "PETG",
       "name": "Jessie Premium PETG PS Red",
-      "hex": "#ec0000",
+      "hex": "#c1403d",
       "searchText": "printedsolid petg jessie premium petg ps red"
     },
     {
@@ -74234,7 +74234,7 @@
       "brand": "PrintedSolid",
       "material": "PETG",
       "name": "Jessie Premium PETG Pure Cyan",
-      "hex": "#0078bf",
+      "hex": "#007cb0",
       "searchText": "printedsolid petg jessie premium petg pure cyan"
     },
     {
@@ -74242,7 +74242,7 @@
       "brand": "PrintedSolid",
       "material": "PETG",
       "name": "Jessie Premium PETG Soul Black Glitter",
-      "hex": "#000000",
+      "hex": "#2e2e2b",
       "searchText": "printedsolid petg jessie premium petg soul black glitter"
     },
     {
@@ -74250,7 +74250,7 @@
       "brand": "PrintedSolid",
       "material": "PETG",
       "name": "Jessie Premium PETG Tree Green",
-      "hex": "#3d9441",
+      "hex": "#007e40",
       "searchText": "printedsolid petg jessie premium petg tree green"
     },
     {
@@ -74258,7 +74258,7 @@
       "brand": "PrintedSolid",
       "material": "PETG",
       "name": "Jessie Premium PETG White",
-      "hex": "#ffffff",
+      "hex": "#f1f2ef",
       "searchText": "printedsolid petg jessie premium petg white"
     },
     {
@@ -74266,7 +74266,7 @@
       "brand": "PrintedSolid",
       "material": "PETG",
       "name": "Jessie Premium PETG Yellow Bird",
-      "hex": "#fbe200",
+      "hex": "#f0c635",
       "searchText": "printedsolid petg jessie premium petg yellow bird"
     },
     {
@@ -74282,7 +74282,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium Elixir Abyss",
-      "hex": "#282d42",
+      "hex": "#646b6c",
       "searchText": "printedsolid pla jessie premium elixir abyss"
     },
     {
@@ -74290,15 +74290,23 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium Elixir Aquamarine",
-      "hex": "#0378d0",
+      "hex": "#61a7bf",
       "searchText": "printedsolid pla jessie premium elixir aquamarine"
+    },
+    {
+      "id": "printedsolid-jessie-premium-elixir-bronze",
+      "brand": "PrintedSolid",
+      "material": "PLA",
+      "name": "Jessie Premium Elixir Bronze",
+      "hex": "#878260",
+      "searchText": "printedsolid pla jessie premium elixir bronze"
     },
     {
       "id": "printedsolid-jessie-premium-elixir-electric-lemonade",
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium Elixir Electric Lemonade",
-      "hex": "#c2bd5a",
+      "hex": "#b6b56c",
       "searchText": "printedsolid pla jessie premium elixir electric lemonade"
     },
     {
@@ -74306,7 +74314,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium Elixir Gold Rush",
-      "hex": "#ce8d00",
+      "hex": "#d39c4f",
       "searchText": "printedsolid pla jessie premium elixir gold rush"
     },
     {
@@ -74314,7 +74322,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium Elixir Misty Green",
-      "hex": "#1e5a4f",
+      "hex": "#158d75",
       "searchText": "printedsolid pla jessie premium elixir misty green"
     },
     {
@@ -74322,15 +74330,31 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium Elixir Natural",
-      "hex": "#dfdfd3",
+      "hex": "#c9d5d4",
       "searchText": "printedsolid pla jessie premium elixir natural"
+    },
+    {
+      "id": "printedsolid-jessie-premium-elixir-nightshade",
+      "brand": "PrintedSolid",
+      "material": "PLA",
+      "name": "Jessie Premium Elixir Nightshade",
+      "hex": "#4a3c7a",
+      "searchText": "printedsolid pla jessie premium elixir nightshade"
+    },
+    {
+      "id": "printedsolid-jessie-premium-elixir-royal-ruby",
+      "brand": "PrintedSolid",
+      "material": "PLA",
+      "name": "Jessie Premium Elixir Royal Ruby",
+      "hex": "#c3695b",
+      "searchText": "printedsolid pla jessie premium elixir royal ruby"
     },
     {
       "id": "printedsolid-jessie-premium-pla-3dpn-vanilla-bean-ice-cream",
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA 3DPN Vanilla Bean Ice Cream",
-      "hex": "#acb1ba",
+      "hex": "#a3a9ad",
       "searchText": "printedsolid pla jessie premium pla 3dpn vanilla bean ice cream"
     },
     {
@@ -74338,7 +74362,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Army Green",
-      "hex": "#404720",
+      "hex": "#4e5439",
       "searchText": "printedsolid pla jessie premium pla army green"
     },
     {
@@ -74346,7 +74370,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Beige 500",
-      "hex": "#eadac2",
+      "hex": "#ccc1a6",
       "searchText": "printedsolid pla jessie premium pla beige 500"
     },
     {
@@ -74354,7 +74378,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Black",
-      "hex": "#000000",
+      "hex": "#2d2f31",
       "searchText": "printedsolid pla jessie premium pla black"
     },
     {
@@ -74362,7 +74386,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Blood Red Light Glitter",
-      "hex": "#c01616",
+      "hex": "#9b3f41",
       "searchText": "printedsolid pla jessie premium pla blood red light glitter"
     },
     {
@@ -74370,7 +74394,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Blue Ice",
-      "hex": "#033877",
+      "hex": "#1d3757",
       "searchText": "printedsolid pla jessie premium pla blue ice"
     },
     {
@@ -74378,7 +74402,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Blue Moon",
-      "hex": "#0e21ae",
+      "hex": "#282d5d",
       "searchText": "printedsolid pla jessie premium pla blue moon"
     },
     {
@@ -74386,7 +74410,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Blue Whale Grey",
-      "hex": "#005da4",
+      "hex": "#4e6481",
       "searchText": "printedsolid pla jessie premium pla blue whale grey"
     },
     {
@@ -74394,7 +74418,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Bold Blue",
-      "hex": "#2e56f1",
+      "hex": "#294ca6",
       "searchText": "printedsolid pla jessie premium pla bold blue"
     },
     {
@@ -74402,7 +74426,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Brad's Orange Glitter",
-      "hex": "#f67405",
+      "hex": "#d85d36",
       "searchText": "printedsolid pla jessie premium pla brad's orange glitter"
     },
     {
@@ -74410,7 +74434,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Deep Purple",
-      "hex": "#372b74",
+      "hex": "#604d5f",
       "searchText": "printedsolid pla jessie premium pla deep purple"
     },
     {
@@ -74418,7 +74442,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Design White",
-      "hex": "#efefef",
+      "hex": "#ccccc6",
       "searchText": "printedsolid pla jessie premium pla design white"
     },
     {
@@ -74426,7 +74450,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Golden Winner Glitter",
-      "hex": "#816300",
+      "hex": "#89752e",
       "searchText": "printedsolid pla jessie premium pla golden winner glitter"
     },
     {
@@ -74434,7 +74458,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Green Ice",
-      "hex": "#06b100",
+      "hex": "#28442e",
       "searchText": "printedsolid pla jessie premium pla green ice"
     },
     {
@@ -74442,7 +74466,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Green Slime Glitter",
-      "hex": "#a1ac21",
+      "hex": "#899d38",
       "searchText": "printedsolid pla jessie premium pla green slime glitter"
     },
     {
@@ -74450,7 +74474,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Gun Metal Grey",
-      "hex": "#6f727e",
+      "hex": "#76797c",
       "searchText": "printedsolid pla jessie premium pla gun metal grey"
     },
     {
@@ -74458,7 +74482,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Limer Green",
-      "hex": "#7fe200",
+      "hex": "#2db23e",
       "searchText": "printedsolid pla jessie premium pla limer green"
     },
     {
@@ -74466,7 +74490,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Mystery Orange",
-      "hex": "#fa8423",
+      "hex": "#f4612a",
       "searchText": "printedsolid pla jessie premium pla mystery orange"
     },
     {
@@ -74474,7 +74498,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Natural",
-      "hex": "#d9d8de",
+      "hex": "#82817c",
       "searchText": "printedsolid pla jessie premium pla natural"
     },
     {
@@ -74482,7 +74506,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Neon Green",
-      "hex": "#c4dc00",
+      "hex": "#9ae50e",
       "searchText": "printedsolid pla jessie premium pla neon green"
     },
     {
@@ -74490,7 +74514,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Neon Pink",
-      "hex": "#fc6d8e",
+      "hex": "#ff5e88",
       "searchText": "printedsolid pla jessie premium pla neon pink"
     },
     {
@@ -74498,7 +74522,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Neon Yellow",
-      "hex": "#e4ff33",
+      "hex": "#c6f323",
       "searchText": "printedsolid pla jessie premium pla neon yellow"
     },
     {
@@ -74506,7 +74530,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA PS Red",
-      "hex": "#e31a1f",
+      "hex": "#cd373a",
       "searchText": "printedsolid pla jessie premium pla ps red"
     },
     {
@@ -74514,7 +74538,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Pure Cyan",
-      "hex": "#0099e6",
+      "hex": "#0081af",
       "searchText": "printedsolid pla jessie premium pla pure cyan"
     },
     {
@@ -74522,7 +74546,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Pure Magenta",
-      "hex": "#e8bedd",
+      "hex": "#d59bbe",
       "searchText": "printedsolid pla jessie premium pla pure magenta"
     },
     {
@@ -74530,7 +74554,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Purple Eater",
-      "hex": "#7659b5",
+      "hex": "#8057a2",
       "searchText": "printedsolid pla jessie premium pla purple eater"
     },
     {
@@ -74538,7 +74562,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Purple Ice",
-      "hex": "#8846ae",
+      "hex": "#69376d",
       "searchText": "printedsolid pla jessie premium pla purple ice"
     },
     {
@@ -74546,7 +74570,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Quarter White",
-      "hex": "#efefef",
+      "hex": "#e7eae4",
       "searchText": "printedsolid pla jessie premium pla quarter white"
     },
     {
@@ -74554,7 +74578,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Red Ice",
-      "hex": "#ed1536",
+      "hex": "#862829",
       "searchText": "printedsolid pla jessie premium pla red ice"
     },
     {
@@ -74562,7 +74586,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Safety Orange",
-      "hex": "#ff8e24",
+      "hex": "#f67632",
       "searchText": "printedsolid pla jessie premium pla safety orange"
     },
     {
@@ -74570,7 +74594,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Soul Black Glitter",
-      "hex": "#000000",
+      "hex": "#383939",
       "searchText": "printedsolid pla jessie premium pla soul black glitter"
     },
     {
@@ -74578,7 +74602,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Tan 64",
-      "hex": "#a79e82",
+      "hex": "#9e907f",
       "searchText": "printedsolid pla jessie premium pla tan 64"
     },
     {
@@ -74586,7 +74610,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Tree Brown",
-      "hex": "#50311e",
+      "hex": "#553d32",
       "searchText": "printedsolid pla jessie premium pla tree brown"
     },
     {
@@ -74594,7 +74618,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Tree Green",
-      "hex": "#3d9441",
+      "hex": "#178246",
       "searchText": "printedsolid pla jessie premium pla tree green"
     },
     {
@@ -74602,7 +74626,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA White",
-      "hex": "#ffffff",
+      "hex": "#f6f7f0",
       "searchText": "printedsolid pla jessie premium pla white"
     },
     {
@@ -74610,7 +74634,7 @@
       "brand": "PrintedSolid",
       "material": "PLA",
       "name": "Jessie Premium PLA Yellow Bird",
-      "hex": "#ffd342",
+      "hex": "#f7ca39",
       "searchText": "printedsolid pla jessie premium pla yellow bird"
     },
     {
@@ -74726,28 +74750,108 @@
       "searchText": "printedsolid pla ps imports pla starry sky color-star purple"
     },
     {
-      "id": "printedsolid-jessie-premium-elixir-bronze",
+      "id": "printedsolid-ps-imports-tpu-95a-black",
       "brand": "PrintedSolid",
       "material": "TPU",
-      "name": "Jessie Premium Elixir Bronze",
-      "hex": "#6b5f37",
-      "searchText": "printedsolid tpu jessie premium elixir bronze"
+      "name": "PS Imports TPU 95A Black",
+      "hex": "#020303",
+      "searchText": "printedsolid tpu ps imports tpu 95a black"
     },
     {
-      "id": "printedsolid-jessie-premium-elixir-nightshade",
+      "id": "printedsolid-ps-imports-tpu-95a-cyan-blue",
       "brand": "PrintedSolid",
       "material": "TPU",
-      "name": "Jessie Premium Elixir Nightshade",
-      "hex": "#1f2761",
-      "searchText": "printedsolid tpu jessie premium elixir nightshade"
+      "name": "PS Imports TPU 95A Cyan Blue",
+      "hex": "#01c7ff",
+      "searchText": "printedsolid tpu ps imports tpu 95a cyan blue"
     },
     {
-      "id": "printedsolid-jessie-premium-elixir-royal-ruby",
+      "id": "printedsolid-ps-imports-tpu-95a-golden",
       "brand": "PrintedSolid",
       "material": "TPU",
-      "name": "Jessie Premium Elixir Royal Ruby",
-      "hex": "#c00000",
-      "searchText": "printedsolid tpu jessie premium elixir royal ruby"
+      "name": "PS Imports TPU 95A Golden",
+      "hex": "#c7b768",
+      "searchText": "printedsolid tpu ps imports tpu 95a golden"
+    },
+    {
+      "id": "printedsolid-ps-imports-tpu-95a-green",
+      "brand": "PrintedSolid",
+      "material": "TPU",
+      "name": "PS Imports TPU 95A Green",
+      "hex": "#00c26b",
+      "searchText": "printedsolid tpu ps imports tpu 95a green"
+    },
+    {
+      "id": "printedsolid-ps-imports-tpu-95a-grey",
+      "brand": "PrintedSolid",
+      "material": "TPU",
+      "name": "PS Imports TPU 95A Grey",
+      "hex": "#75787b",
+      "searchText": "printedsolid tpu ps imports tpu 95a grey"
+    },
+    {
+      "id": "printedsolid-ps-imports-tpu-95a-light-pink",
+      "brand": "PrintedSolid",
+      "material": "TPU",
+      "name": "PS Imports TPU 95A Light Pink",
+      "hex": "#ffc0cb",
+      "searchText": "printedsolid tpu ps imports tpu 95a light pink"
+    },
+    {
+      "id": "printedsolid-ps-imports-tpu-95a-red",
+      "brand": "PrintedSolid",
+      "material": "TPU",
+      "name": "PS Imports TPU 95A Red",
+      "hex": "#e9301e",
+      "searchText": "printedsolid tpu ps imports tpu 95a red"
+    },
+    {
+      "id": "printedsolid-ps-imports-tpu-95a-silver",
+      "brand": "PrintedSolid",
+      "material": "TPU",
+      "name": "PS Imports TPU 95A Silver",
+      "hex": "#818fa0",
+      "searchText": "printedsolid tpu ps imports tpu 95a silver"
+    },
+    {
+      "id": "printedsolid-ps-imports-tpu-95a-skin",
+      "brand": "PrintedSolid",
+      "material": "TPU",
+      "name": "PS Imports TPU 95A Skin",
+      "hex": "#f3cfb2",
+      "searchText": "printedsolid tpu ps imports tpu 95a skin"
+    },
+    {
+      "id": "printedsolid-ps-imports-tpu-95a-transparent-green",
+      "brand": "PrintedSolid",
+      "material": "TPU",
+      "name": "PS Imports TPU 95A Transparent Green",
+      "hex": "#00c26b",
+      "searchText": "printedsolid tpu ps imports tpu 95a transparent green"
+    },
+    {
+      "id": "printedsolid-ps-imports-tpu-95a-transparent-violet",
+      "brand": "PrintedSolid",
+      "material": "TPU",
+      "name": "PS Imports TPU 95A Transparent Violet",
+      "hex": "#d0006f",
+      "searchText": "printedsolid tpu ps imports tpu 95a transparent violet"
+    },
+    {
+      "id": "printedsolid-ps-imports-tpu-95a-transparent-yellow",
+      "brand": "PrintedSolid",
+      "material": "TPU",
+      "name": "PS Imports TPU 95A Transparent Yellow",
+      "hex": "#ffe802",
+      "searchText": "printedsolid tpu ps imports tpu 95a transparent yellow"
+    },
+    {
+      "id": "printedsolid-ps-imports-tpu-95a-white",
+      "brand": "PrintedSolid",
+      "material": "TPU",
+      "name": "PS Imports TPU 95A White",
+      "hex": "#fffefa",
+      "searchText": "printedsolid tpu ps imports tpu 95a white"
     },
     {
       "id": "printonion-abs-beige",
