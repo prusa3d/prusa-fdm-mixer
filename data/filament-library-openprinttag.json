@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-11-02T04:23:34.527Z",
-  "entryCount": 13665,
+  "lastSynced": "2026-11-03T04:22:40.281Z",
+  "entryCount": 13828,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -95812,6 +95812,1310 @@
       "name": "INNOVATEFIL® TPU HARDNESS+ True black",
       "hex": "#000000",
       "searchText": "smart materials 3d tpu innovatefil® tpu hardness+ true black"
+    },
+    {
+      "id": "smart-print-abs-plus-black",
+      "brand": "Smart Print",
+      "material": "ABS",
+      "name": "ABS+ Black",
+      "hex": "#1a1a1a",
+      "searchText": "smart print abs abs+ black"
+    },
+    {
+      "id": "smart-print-abs-plus-blue",
+      "brand": "Smart Print",
+      "material": "ABS",
+      "name": "ABS+ Blue",
+      "hex": "#0249cb",
+      "searchText": "smart print abs abs+ blue"
+    },
+    {
+      "id": "smart-print-abs-plus-brown",
+      "brand": "Smart Print",
+      "material": "ABS",
+      "name": "ABS+ Brown",
+      "hex": "#7b4936",
+      "searchText": "smart print abs abs+ brown"
+    },
+    {
+      "id": "smart-print-abs-plus-gray",
+      "brand": "Smart Print",
+      "material": "ABS",
+      "name": "ABS+ Gray",
+      "hex": "#7f8689",
+      "searchText": "smart print abs abs+ gray"
+    },
+    {
+      "id": "smart-print-abs-plus-green",
+      "brand": "Smart Print",
+      "material": "ABS",
+      "name": "ABS+ Green",
+      "hex": "#02d703",
+      "searchText": "smart print abs abs+ green"
+    },
+    {
+      "id": "smart-print-abs-plus-orange",
+      "brand": "Smart Print",
+      "material": "ABS",
+      "name": "ABS+ Orange",
+      "hex": "#fd832a",
+      "searchText": "smart print abs abs+ orange"
+    },
+    {
+      "id": "smart-print-abs-plus-red",
+      "brand": "Smart Print",
+      "material": "ABS",
+      "name": "ABS+ Red",
+      "hex": "#d10915",
+      "searchText": "smart print abs abs+ red"
+    },
+    {
+      "id": "smart-print-abs-plus-silver",
+      "brand": "Smart Print",
+      "material": "ABS",
+      "name": "ABS+ Silver",
+      "hex": "#848f94",
+      "searchText": "smart print abs abs+ silver"
+    },
+    {
+      "id": "smart-print-abs-plus-white",
+      "brand": "Smart Print",
+      "material": "ABS",
+      "name": "ABS+ White",
+      "hex": "#d1d2cb",
+      "searchText": "smart print abs abs+ white"
+    },
+    {
+      "id": "smart-print-abs-plus-yellow",
+      "brand": "Smart Print",
+      "material": "ABS",
+      "name": "ABS+ Yellow",
+      "hex": "#fac801",
+      "searchText": "smart print abs abs+ yellow"
+    },
+    {
+      "id": "smart-print-asa-black",
+      "brand": "Smart Print",
+      "material": "ASA",
+      "name": "ASA Black",
+      "hex": "#1a1a1a",
+      "searchText": "smart print asa asa black"
+    },
+    {
+      "id": "smart-print-asa-blue",
+      "brand": "Smart Print",
+      "material": "ASA",
+      "name": "ASA Blue",
+      "hex": "#025fde",
+      "searchText": "smart print asa asa blue"
+    },
+    {
+      "id": "smart-print-asa-glass-fiber-black",
+      "brand": "Smart Print",
+      "material": "ASA",
+      "name": "ASA Glass Fiber Black",
+      "hex": "#1a1a1a",
+      "searchText": "smart print asa asa glass fiber black"
+    },
+    {
+      "id": "smart-print-asa-gray",
+      "brand": "Smart Print",
+      "material": "ASA",
+      "name": "ASA Gray",
+      "hex": "#8a939e",
+      "searchText": "smart print asa asa gray"
+    },
+    {
+      "id": "smart-print-asa-green",
+      "brand": "Smart Print",
+      "material": "ASA",
+      "name": "ASA Green",
+      "hex": "#03ec13",
+      "searchText": "smart print asa asa green"
+    },
+    {
+      "id": "smart-print-asa-red",
+      "brand": "Smart Print",
+      "material": "ASA",
+      "name": "ASA Red",
+      "hex": "#f50930",
+      "searchText": "smart print asa asa red"
+    },
+    {
+      "id": "smart-print-asa-silver",
+      "brand": "Smart Print",
+      "material": "ASA",
+      "name": "ASA Silver",
+      "hex": "#8a9299",
+      "searchText": "smart print asa asa silver"
+    },
+    {
+      "id": "smart-print-asa-white",
+      "brand": "Smart Print",
+      "material": "ASA",
+      "name": "ASA White",
+      "hex": "#dee1dd",
+      "searchText": "smart print asa asa white"
+    },
+    {
+      "id": "smart-print-pa12-plus-cf15-black",
+      "brand": "Smart Print",
+      "material": "PA12",
+      "name": "PA12 + CF15 Black",
+      "hex": "#1a1a1a",
+      "searchText": "smart print pa12 pa12 + cf15 black"
+    },
+    {
+      "id": "smart-print-pa12-black",
+      "brand": "Smart Print",
+      "material": "PA12",
+      "name": "PA12 Black",
+      "hex": "#1a1a1a",
+      "searchText": "smart print pa12 pa12 black"
+    },
+    {
+      "id": "smart-print-petg-plus-cf-black",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG + CF Black",
+      "hex": "#1a1a1a",
+      "searchText": "smart print petg petg + cf black"
+    },
+    {
+      "id": "smart-print-petg-plus-cf-blue",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG + CF Blue",
+      "hex": "#373e63",
+      "searchText": "smart print petg petg + cf blue"
+    },
+    {
+      "id": "smart-print-petg-plus-cf-gray",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG + CF Gray",
+      "hex": "#696d70",
+      "searchText": "smart print petg petg + cf gray"
+    },
+    {
+      "id": "smart-print-petg-plus-cf-green",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG + CF Green",
+      "hex": "#4e9294",
+      "searchText": "smart print petg petg + cf green"
+    },
+    {
+      "id": "smart-print-petg-plus-cf-purple",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG + CF Purple",
+      "hex": "#623d6e",
+      "searchText": "smart print petg petg + cf purple"
+    },
+    {
+      "id": "smart-print-petg-plus-cf-red",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG + CF Red",
+      "hex": "#794139",
+      "searchText": "smart print petg petg + cf red"
+    },
+    {
+      "id": "smart-print-petg-beige",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Beige",
+      "hex": "#c5bfa0",
+      "searchText": "smart print petg petg beige"
+    },
+    {
+      "id": "smart-print-petg-black",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Black",
+      "hex": "#1a1a1a",
+      "searchText": "smart print petg petg black"
+    },
+    {
+      "id": "smart-print-petg-blue",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Blue",
+      "hex": "#0449cb",
+      "searchText": "smart print petg petg blue"
+    },
+    {
+      "id": "smart-print-petg-brown",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Brown",
+      "hex": "#8b5f4e",
+      "searchText": "smart print petg petg brown"
+    },
+    {
+      "id": "smart-print-petg-coffee",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Coffee",
+      "hex": "#4c2723",
+      "searchText": "smart print petg petg coffee"
+    },
+    {
+      "id": "smart-print-petg-copper",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Copper",
+      "hex": "#3d160d",
+      "searchText": "smart print petg petg copper"
+    },
+    {
+      "id": "smart-print-petg-cyan",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Cyan",
+      "hex": "#10b6a1",
+      "searchText": "smart print petg petg cyan"
+    },
+    {
+      "id": "smart-print-petg-grass-green",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Grass Green",
+      "hex": "#62ac40",
+      "searchText": "smart print petg petg grass green"
+    },
+    {
+      "id": "smart-print-petg-gray",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Gray",
+      "hex": "#aaaca9",
+      "searchText": "smart print petg petg gray"
+    },
+    {
+      "id": "smart-print-petg-green",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Green",
+      "hex": "#0d8a47",
+      "searchText": "smart print petg petg green"
+    },
+    {
+      "id": "smart-print-petg-matte-beige",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Matte Beige",
+      "hex": "#dbd2b8",
+      "searchText": "smart print petg petg matte beige"
+    },
+    {
+      "id": "smart-print-petg-matte-black",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Matte Black",
+      "hex": "#1a1a1a",
+      "searchText": "smart print petg petg matte black"
+    },
+    {
+      "id": "smart-print-petg-matte-blue",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Matte Blue",
+      "hex": "#2e364a",
+      "searchText": "smart print petg petg matte blue"
+    },
+    {
+      "id": "smart-print-petg-matte-brown",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Matte Brown",
+      "hex": "#634123",
+      "searchText": "smart print petg petg matte brown"
+    },
+    {
+      "id": "smart-print-petg-matte-dark-green",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Matte Dark Green",
+      "hex": "#515730",
+      "searchText": "smart print petg petg matte dark green"
+    },
+    {
+      "id": "smart-print-petg-matte-green",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Matte Green",
+      "hex": "#70c736",
+      "searchText": "smart print petg petg matte green"
+    },
+    {
+      "id": "smart-print-petg-matte-red",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Matte Red",
+      "hex": "#863228",
+      "searchText": "smart print petg petg matte red"
+    },
+    {
+      "id": "smart-print-petg-matte-white",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Matte White",
+      "hex": "#f8f4e8",
+      "searchText": "smart print petg petg matte white"
+    },
+    {
+      "id": "smart-print-petg-matte-yellow",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Matte Yellow",
+      "hex": "#fdcf76",
+      "searchText": "smart print petg petg matte yellow"
+    },
+    {
+      "id": "smart-print-petg-oak",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Oak",
+      "hex": "#8d774e",
+      "searchText": "smart print petg petg oak"
+    },
+    {
+      "id": "smart-print-petg-ocean-blue",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Ocean Blue",
+      "hex": "#19407d",
+      "searchText": "smart print petg petg ocean blue"
+    },
+    {
+      "id": "smart-print-petg-olive-green",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Olive Green",
+      "hex": "#203121",
+      "searchText": "smart print petg petg olive green"
+    },
+    {
+      "id": "smart-print-petg-orange",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Orange",
+      "hex": "#fd3c0b",
+      "searchText": "smart print petg petg orange"
+    },
+    {
+      "id": "smart-print-petg-pink",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Pink",
+      "hex": "#dc3bbc",
+      "searchText": "smart print petg petg pink"
+    },
+    {
+      "id": "smart-print-petg-purple",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Purple",
+      "hex": "#371559",
+      "searchText": "smart print petg petg purple"
+    },
+    {
+      "id": "smart-print-petg-red",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Red",
+      "hex": "#c10c30",
+      "searchText": "smart print petg petg red"
+    },
+    {
+      "id": "smart-print-petg-silver",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Silver",
+      "hex": "#858a8a",
+      "searchText": "smart print petg petg silver"
+    },
+    {
+      "id": "smart-print-petg-transparent-blue",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Transparent Blue",
+      "hex": "#0b133e",
+      "searchText": "smart print petg petg transparent blue"
+    },
+    {
+      "id": "smart-print-petg-transparent-green",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Transparent Green",
+      "hex": "#2a470a",
+      "searchText": "smart print petg petg transparent green"
+    },
+    {
+      "id": "smart-print-petg-transparent-red",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Transparent Red",
+      "hex": "#470a0a",
+      "searchText": "smart print petg petg transparent red"
+    },
+    {
+      "id": "smart-print-petg-transparent-yellow",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Transparent Yellow",
+      "hex": "#846005",
+      "searchText": "smart print petg petg transparent yellow"
+    },
+    {
+      "id": "smart-print-petg-white",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG White",
+      "hex": "#d3d4d8",
+      "searchText": "smart print petg petg white"
+    },
+    {
+      "id": "smart-print-petg-yellow",
+      "brand": "Smart Print",
+      "material": "PETG",
+      "name": "PETG Yellow",
+      "hex": "#efcb0d",
+      "searchText": "smart print petg petg yellow"
+    },
+    {
+      "id": "smart-print-hs-pla-black",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "HS-PLA Black",
+      "hex": "#1a1a1a",
+      "searchText": "smart print pla hs-pla black"
+    },
+    {
+      "id": "smart-print-hs-pla-blue",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "HS-PLA Blue",
+      "hex": "#0260ce",
+      "searchText": "smart print pla hs-pla blue"
+    },
+    {
+      "id": "smart-print-hs-pla-gray",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "HS-PLA Gray",
+      "hex": "#7a8082",
+      "searchText": "smart print pla hs-pla gray"
+    },
+    {
+      "id": "smart-print-hs-pla-green",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "HS-PLA Green",
+      "hex": "#03d307",
+      "searchText": "smart print pla hs-pla green"
+    },
+    {
+      "id": "smart-print-hs-pla-orange",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "HS-PLA Orange",
+      "hex": "#fc8b26",
+      "searchText": "smart print pla hs-pla orange"
+    },
+    {
+      "id": "smart-print-hs-pla-red",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "HS-PLA Red",
+      "hex": "#ea0a12",
+      "searchText": "smart print pla hs-pla red"
+    },
+    {
+      "id": "smart-print-hs-pla-white",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "HS-PLA White",
+      "hex": "#cbced9",
+      "searchText": "smart print pla hs-pla white"
+    },
+    {
+      "id": "smart-print-hs-pla-yellow",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "HS-PLA Yellow",
+      "hex": "#efd10d",
+      "searchText": "smart print pla hs-pla yellow"
+    },
+    {
+      "id": "smart-print-pla-apple-green",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Apple Green",
+      "hex": "#bcec12",
+      "searchText": "smart print pla pla apple green"
+    },
+    {
+      "id": "smart-print-pla-black",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Black",
+      "hex": "#1a1a1a",
+      "searchText": "smart print pla pla black"
+    },
+    {
+      "id": "smart-print-pla-blue",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Blue",
+      "hex": "#0366da",
+      "searchText": "smart print pla pla blue"
+    },
+    {
+      "id": "smart-print-pla-brown",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Brown",
+      "hex": "#986d54",
+      "searchText": "smart print pla pla brown"
+    },
+    {
+      "id": "smart-print-pla-carbon-fiber-black",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Carbon Fiber Black",
+      "hex": "#1a1a1a",
+      "searchText": "smart print pla pla carbon fiber black"
+    },
+    {
+      "id": "smart-print-pla-carbon-fiber-blue",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Carbon Fiber Blue",
+      "hex": "#34506b",
+      "searchText": "smart print pla pla carbon fiber blue"
+    },
+    {
+      "id": "smart-print-pla-carbon-fiber-gray",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Carbon Fiber Gray",
+      "hex": "#4d4f4c",
+      "searchText": "smart print pla pla carbon fiber gray"
+    },
+    {
+      "id": "smart-print-pla-carbon-fiber-green",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Carbon Fiber Green",
+      "hex": "#243126",
+      "searchText": "smart print pla pla carbon fiber green"
+    },
+    {
+      "id": "smart-print-pla-carbon-fiber-red",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Carbon Fiber Red",
+      "hex": "#5d4449",
+      "searchText": "smart print pla pla carbon fiber red"
+    },
+    {
+      "id": "smart-print-pla-chocolate",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Chocolate",
+      "hex": "#633933",
+      "searchText": "smart print pla pla chocolate"
+    },
+    {
+      "id": "smart-print-pla-claret",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Claret",
+      "hex": "#6e2d2b",
+      "searchText": "smart print pla pla claret"
+    },
+    {
+      "id": "smart-print-pla-cyan",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Cyan",
+      "hex": "#03d6cf",
+      "searchText": "smart print pla pla cyan"
+    },
+    {
+      "id": "smart-print-pla-galaxy-black",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Galaxy Black",
+      "hex": "#1a1a1a",
+      "searchText": "smart print pla pla galaxy black"
+    },
+    {
+      "id": "smart-print-pla-galaxy-blue",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Galaxy Blue",
+      "hex": "#28395b",
+      "searchText": "smart print pla pla galaxy blue"
+    },
+    {
+      "id": "smart-print-pla-galaxy-brown",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Galaxy Brown",
+      "hex": "#422312",
+      "searchText": "smart print pla pla galaxy brown"
+    },
+    {
+      "id": "smart-print-pla-galaxy-green",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Galaxy Green",
+      "hex": "#3d4845",
+      "searchText": "smart print pla pla galaxy green"
+    },
+    {
+      "id": "smart-print-pla-galaxy-purple",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Galaxy Purple",
+      "hex": "#73688b",
+      "searchText": "smart print pla pla galaxy purple"
+    },
+    {
+      "id": "smart-print-pla-galaxy-red",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Galaxy Red",
+      "hex": "#420b06",
+      "searchText": "smart print pla pla galaxy red"
+    },
+    {
+      "id": "smart-print-pla-grass-green",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Grass Green",
+      "hex": "#5cdb59",
+      "searchText": "smart print pla pla grass green"
+    },
+    {
+      "id": "smart-print-pla-gray",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Gray",
+      "hex": "#9fa3a5",
+      "searchText": "smart print pla pla gray"
+    },
+    {
+      "id": "smart-print-pla-green",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Green",
+      "hex": "#03d214",
+      "searchText": "smart print pla pla green"
+    },
+    {
+      "id": "smart-print-pla-light-brown",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Light Brown",
+      "hex": "#a27656",
+      "searchText": "smart print pla pla light brown"
+    },
+    {
+      "id": "smart-print-pla-luminous-blue",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Luminous Blue",
+      "hex": "#c3e4fe",
+      "searchText": "smart print pla pla luminous blue"
+    },
+    {
+      "id": "smart-print-pla-luminous-green",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Luminous Green",
+      "hex": "#a1feae",
+      "searchText": "smart print pla pla luminous green"
+    },
+    {
+      "id": "smart-print-pla-luminous-white",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Luminous White",
+      "hex": "#d8fae2",
+      "searchText": "smart print pla pla luminous white"
+    },
+    {
+      "id": "smart-print-pla-luminous-yellow",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Luminous Yellow",
+      "hex": "#fed49f",
+      "searchText": "smart print pla pla luminous yellow"
+    },
+    {
+      "id": "smart-print-pla-magenta",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Magenta",
+      "hex": "#fc508c",
+      "searchText": "smart print pla pla magenta"
+    },
+    {
+      "id": "smart-print-pla-marble-brick-red",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Marble Brick Red",
+      "hex": "#891609",
+      "searchText": "smart print pla pla marble brick red"
+    },
+    {
+      "id": "smart-print-pla-marble-concrete",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Marble Concrete",
+      "hex": "#adb1b4",
+      "searchText": "smart print pla pla marble concrete"
+    },
+    {
+      "id": "smart-print-pla-marble-gray",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Marble Gray",
+      "hex": "#b7c2c9",
+      "searchText": "smart print pla pla marble gray"
+    },
+    {
+      "id": "smart-print-pla-matte-black",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Matte Black",
+      "hex": "#1a1a1a",
+      "searchText": "smart print pla pla matte black"
+    },
+    {
+      "id": "smart-print-pla-matte-blue",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Matte Blue",
+      "hex": "#41546b",
+      "searchText": "smart print pla pla matte blue"
+    },
+    {
+      "id": "smart-print-pla-matte-gray",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Matte Gray",
+      "hex": "#a8aba9",
+      "searchText": "smart print pla pla matte gray"
+    },
+    {
+      "id": "smart-print-pla-matte-red",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Matte Red",
+      "hex": "#db182d",
+      "searchText": "smart print pla pla matte red"
+    },
+    {
+      "id": "smart-print-pla-matte-white",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Matte White",
+      "hex": "#d1d2cd",
+      "searchText": "smart print pla pla matte white"
+    },
+    {
+      "id": "smart-print-pla-meta-black",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Meta Black",
+      "hex": "#1a1a1a",
+      "searchText": "smart print pla pla meta black"
+    },
+    {
+      "id": "smart-print-pla-meta-blue",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Meta Blue",
+      "hex": "#0265d5",
+      "searchText": "smart print pla pla meta blue"
+    },
+    {
+      "id": "smart-print-pla-meta-gray",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Meta Gray",
+      "hex": "#aaaeaf",
+      "searchText": "smart print pla pla meta gray"
+    },
+    {
+      "id": "smart-print-pla-meta-green",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Meta Green",
+      "hex": "#05cc0d",
+      "searchText": "smart print pla pla meta green"
+    },
+    {
+      "id": "smart-print-pla-meta-red",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Meta Red",
+      "hex": "#f70f15",
+      "searchText": "smart print pla pla meta red"
+    },
+    {
+      "id": "smart-print-pla-meta-white",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Meta White",
+      "hex": "#d8dad7",
+      "searchText": "smart print pla pla meta white"
+    },
+    {
+      "id": "smart-print-pla-meta-yellow",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Meta Yellow",
+      "hex": "#e4d508",
+      "searchText": "smart print pla pla meta yellow"
+    },
+    {
+      "id": "smart-print-pla-navy-blue",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Navy Blue",
+      "hex": "#1c2249",
+      "searchText": "smart print pla pla navy blue"
+    },
+    {
+      "id": "smart-print-pla-new-pink",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA New Pink",
+      "hex": "#ec8ed3",
+      "searchText": "smart print pla pla new pink"
+    },
+    {
+      "id": "smart-print-pla-olive-green",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Olive Green",
+      "hex": "#22321c",
+      "searchText": "smart print pla pla olive green"
+    },
+    {
+      "id": "smart-print-pla-orange",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Orange",
+      "hex": "#faa733",
+      "searchText": "smart print pla pla orange"
+    },
+    {
+      "id": "smart-print-pla-pastel-blue",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Pastel Blue",
+      "hex": "#3f88c7",
+      "searchText": "smart print pla pla pastel blue"
+    },
+    {
+      "id": "smart-print-pla-pastel-green",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Pastel Green",
+      "hex": "#74be5b",
+      "searchText": "smart print pla pla pastel green"
+    },
+    {
+      "id": "smart-print-pla-pastel-orange",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Pastel Orange",
+      "hex": "#eb9f1d",
+      "searchText": "smart print pla pla pastel orange"
+    },
+    {
+      "id": "smart-print-pla-pastel-pink",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Pastel Pink",
+      "hex": "#e5acc1",
+      "searchText": "smart print pla pla pastel pink"
+    },
+    {
+      "id": "smart-print-pla-pastel-purple",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Pastel Purple",
+      "hex": "#804e9a",
+      "searchText": "smart print pla pla pastel purple"
+    },
+    {
+      "id": "smart-print-pla-pastel-raspberry",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Pastel Raspberry",
+      "hex": "#d24750",
+      "searchText": "smart print pla pla pastel raspberry"
+    },
+    {
+      "id": "smart-print-pla-pastel-yellow",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Pastel Yellow",
+      "hex": "#dcd253",
+      "searchText": "smart print pla pla pastel yellow"
+    },
+    {
+      "id": "smart-print-pla-purple",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Purple",
+      "hex": "#7328af",
+      "searchText": "smart print pla pla purple"
+    },
+    {
+      "id": "smart-print-pla-purple-plum",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Purple Plum",
+      "hex": "#452c30",
+      "searchText": "smart print pla pla purple plum"
+    },
+    {
+      "id": "smart-print-pla-raspberry",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Raspberry",
+      "hex": "#be222b",
+      "searchText": "smart print pla pla raspberry"
+    },
+    {
+      "id": "smart-print-pla-red",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Red",
+      "hex": "#e0080c",
+      "searchText": "smart print pla pla red"
+    },
+    {
+      "id": "smart-print-pla-silver",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Silver",
+      "hex": "#abb3b6",
+      "searchText": "smart print pla pla silver"
+    },
+    {
+      "id": "smart-print-pla-skin",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Skin",
+      "hex": "#e1a589",
+      "searchText": "smart print pla pla skin"
+    },
+    {
+      "id": "smart-print-pla-warm-white",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Warm White",
+      "hex": "#ddded4",
+      "searchText": "smart print pla pla warm white"
+    },
+    {
+      "id": "smart-print-pla-water-blue",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Water Blue",
+      "hex": "#32b9f2",
+      "searchText": "smart print pla pla water blue"
+    },
+    {
+      "id": "smart-print-pla-white",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA White",
+      "hex": "#d8dada",
+      "searchText": "smart print pla pla white"
+    },
+    {
+      "id": "smart-print-pla-wood-black-walnut",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Wood Black Walnut",
+      "hex": "#c5a885",
+      "searchText": "smart print pla pla wood black walnut"
+    },
+    {
+      "id": "smart-print-pla-wood-brown",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Wood Brown",
+      "hex": "#d1b591",
+      "searchText": "smart print pla pla wood brown"
+    },
+    {
+      "id": "smart-print-pla-yellow",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA Yellow",
+      "hex": "#e7dc0c",
+      "searchText": "smart print pla pla yellow"
+    },
+    {
+      "id": "smart-print-pla-plus-black",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA+ Black",
+      "hex": "#1a1a1a",
+      "searchText": "smart print pla pla+ black"
+    },
+    {
+      "id": "smart-print-pla-plus-blue",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA+ Blue",
+      "hex": "#0665db",
+      "searchText": "smart print pla pla+ blue"
+    },
+    {
+      "id": "smart-print-pla-plus-brown",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA+ Brown",
+      "hex": "#91664e",
+      "searchText": "smart print pla pla+ brown"
+    },
+    {
+      "id": "smart-print-pla-plus-gray",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA+ Gray",
+      "hex": "#9fa3a5",
+      "searchText": "smart print pla pla+ gray"
+    },
+    {
+      "id": "smart-print-pla-plus-green",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA+ Green",
+      "hex": "#03d515",
+      "searchText": "smart print pla pla+ green"
+    },
+    {
+      "id": "smart-print-pla-plus-new-pink",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA+ New Pink",
+      "hex": "#ed8dd3",
+      "searchText": "smart print pla pla+ new pink"
+    },
+    {
+      "id": "smart-print-pla-plus-orange",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA+ Orange",
+      "hex": "#fca732",
+      "searchText": "smart print pla pla+ orange"
+    },
+    {
+      "id": "smart-print-pla-plus-purple",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA+ Purple",
+      "hex": "#7628b5",
+      "searchText": "smart print pla pla+ purple"
+    },
+    {
+      "id": "smart-print-pla-plus-red",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA+ Red",
+      "hex": "#ea0b09",
+      "searchText": "smart print pla pla+ red"
+    },
+    {
+      "id": "smart-print-pla-plus-sand-gold",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA+ Sand Gold",
+      "hex": "#f0c089",
+      "searchText": "smart print pla pla+ sand gold"
+    },
+    {
+      "id": "smart-print-pla-plus-silver",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA+ Silver",
+      "hex": "#a1a7aa",
+      "searchText": "smart print pla pla+ silver"
+    },
+    {
+      "id": "smart-print-pla-plus-white",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA+ White",
+      "hex": "#cbcdcc",
+      "searchText": "smart print pla pla+ white"
+    },
+    {
+      "id": "smart-print-pla-plus-yellow",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "PLA+ Yellow",
+      "hex": "#e7dc0b",
+      "searchText": "smart print pla pla+ yellow"
+    },
+    {
+      "id": "smart-print-silk-pla-black",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "Silk PLA Black",
+      "hex": "#1a1a1a",
+      "searchText": "smart print pla silk pla black"
+    },
+    {
+      "id": "smart-print-silk-pla-brass",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "Silk PLA Brass",
+      "hex": "#fed576",
+      "searchText": "smart print pla silk pla brass"
+    },
+    {
+      "id": "smart-print-silk-pla-copper",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "Silk PLA Copper",
+      "hex": "#a74c36",
+      "searchText": "smart print pla silk pla copper"
+    },
+    {
+      "id": "smart-print-silk-pla-glamour",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "Silk PLA Glamour",
+      "hex": "#f2e7dd",
+      "searchText": "smart print pla silk pla glamour"
+    },
+    {
+      "id": "smart-print-silk-pla-gold",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "Silk PLA Gold",
+      "hex": "#dfb236",
+      "searchText": "smart print pla silk pla gold"
+    },
+    {
+      "id": "smart-print-silk-pla-green",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "Silk PLA Green",
+      "hex": "#51e60f",
+      "searchText": "smart print pla silk pla green"
+    },
+    {
+      "id": "smart-print-silk-pla-purple",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "Silk PLA Purple",
+      "hex": "#9272d4",
+      "searchText": "smart print pla silk pla purple"
+    },
+    {
+      "id": "smart-print-silk-pla-silver",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "Silk PLA Silver",
+      "hex": "#b3b6b5",
+      "searchText": "smart print pla silk pla silver"
+    },
+    {
+      "id": "smart-print-silk-pla-white",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "Silk PLA White",
+      "hex": "#d6d8d3",
+      "searchText": "smart print pla silk pla white"
+    },
+    {
+      "id": "smart-print-silk-pla-yellow",
+      "brand": "Smart Print",
+      "material": "PLA",
+      "name": "Silk PLA Yellow",
+      "hex": "#d3e003",
+      "searchText": "smart print pla silk pla yellow"
+    },
+    {
+      "id": "smart-print-tpu-black",
+      "brand": "Smart Print",
+      "material": "TPU",
+      "name": "TPU Black",
+      "hex": "#1a1a1a",
+      "searchText": "smart print tpu tpu black"
+    },
+    {
+      "id": "smart-print-tpu-blue",
+      "brand": "Smart Print",
+      "material": "TPU",
+      "name": "TPU Blue",
+      "hex": "#0253d9",
+      "searchText": "smart print tpu tpu blue"
+    },
+    {
+      "id": "smart-print-tpu-gray",
+      "brand": "Smart Print",
+      "material": "TPU",
+      "name": "TPU Gray",
+      "hex": "#707778",
+      "searchText": "smart print tpu tpu gray"
+    },
+    {
+      "id": "smart-print-tpu-green",
+      "brand": "Smart Print",
+      "material": "TPU",
+      "name": "TPU Green",
+      "hex": "#18e60c",
+      "searchText": "smart print tpu tpu green"
+    },
+    {
+      "id": "smart-print-tpu-orange",
+      "brand": "Smart Print",
+      "material": "TPU",
+      "name": "TPU Orange",
+      "hex": "#fe8525",
+      "searchText": "smart print tpu tpu orange"
+    },
+    {
+      "id": "smart-print-tpu-red",
+      "brand": "Smart Print",
+      "material": "TPU",
+      "name": "TPU Red",
+      "hex": "#cb0918",
+      "searchText": "smart print tpu tpu red"
+    },
+    {
+      "id": "smart-print-tpu-white",
+      "brand": "Smart Print",
+      "material": "TPU",
+      "name": "TPU White",
+      "hex": "#ddded5",
+      "searchText": "smart print tpu tpu white"
+    },
+    {
+      "id": "smart-print-tpu-yellow",
+      "brand": "Smart Print",
+      "material": "TPU",
+      "name": "TPU Yellow",
+      "hex": "#c4e303",
+      "searchText": "smart print tpu tpu yellow"
     },
     {
       "id": "soleyin-basic-petg-black",
