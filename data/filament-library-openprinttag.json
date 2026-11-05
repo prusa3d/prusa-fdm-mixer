@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-11-04T04:22:25.577Z",
-  "entryCount": 13828,
+  "lastSynced": "2026-11-05T04:23:06.806Z",
+  "entryCount": 14086,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -62,6 +62,118 @@
       "searchText": "3d fuel abs pro abs, snow white"
     },
     {
+      "id": "3d-fuel-pro-asa-natural",
+      "brand": "3D Fuel",
+      "material": "ASA",
+      "name": "Pro ASA, Natural",
+      "hex": "#dfdfd3",
+      "searchText": "3d fuel asa pro asa, natural"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-cf10-midnight-black",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG-CF10, Midnight Black",
+      "hex": "#000000",
+      "searchText": "3d fuel pctg pro pctg-cf10, midnight black"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-gf10-industrial-gray",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG-GF10, Industrial Gray",
+      "hex": "#91a0b6",
+      "searchText": "3d fuel pctg pro pctg-gf10, industrial gray"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-gf10-midnight-black",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG-GF10, Midnight Black",
+      "hex": "#000000",
+      "searchText": "3d fuel pctg pro pctg-gf10, midnight black"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-gf10-natural",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG-GF10, Natural",
+      "hex": "#dfdfd3",
+      "searchText": "3d fuel pctg pro pctg-gf10, natural"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-gf10-olive-green",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG-GF10, Olive Green",
+      "hex": "#4d5d4c",
+      "searchText": "3d fuel pctg pro pctg-gf10, olive green"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-gf10-snow-white",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG-GF10, Snow White",
+      "hex": "#efefef",
+      "searchText": "3d fuel pctg pro pctg-gf10, snow white"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-gf10-toolbox-gunmetal-blue",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG-GF10, Toolbox Gunmetal Blue",
+      "hex": "#375172",
+      "searchText": "3d fuel pctg pro pctg-gf10, toolbox gunmetal blue"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-gf10-toolbox-orange",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG-GF10, Toolbox Orange",
+      "hex": "#f07821",
+      "searchText": "3d fuel pctg pro pctg-gf10, toolbox orange"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-gf10-toolbox-red",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG-GF10, Toolbox Red",
+      "hex": "#f04b2a",
+      "searchText": "3d fuel pctg pro pctg-gf10, toolbox red"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-gf10-toolbox-yellow",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG-GF10, Toolbox Yellow",
+      "hex": "#f3c432",
+      "searchText": "3d fuel pctg pro pctg-gf10, toolbox yellow"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-aquamarine-blue",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Aquamarine Blue",
+      "hex": "#2a4552",
+      "searchText": "3d fuel pctg pro pctg, aquamarine blue"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-bitcoin-orange",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Bitcoin Orange",
+      "hex": "#f4a925",
+      "searchText": "3d fuel pctg pro pctg, bitcoin orange"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-bone-white",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Bone White",
+      "hex": "#e3e0d3",
+      "searchText": "3d fuel pctg pro pctg, bone white"
+    },
+    {
       "id": "3d-fuel-pro-pctg-brightest-white",
       "brand": "3D Fuel",
       "material": "PCTG",
@@ -76,6 +188,14 @@
       "name": "Pro PCTG, Bubblegum Pink",
       "hex": "#f4a0b1",
       "searchText": "3d fuel pctg pro pctg, bubblegum pink"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-caribbean-blue",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Caribbean Blue",
+      "hex": "#0099e6",
+      "searchText": "3d fuel pctg pro pctg, caribbean blue"
     },
     {
       "id": "3d-fuel-pro-pctg-charcoal-gray",
@@ -102,6 +222,14 @@
       "searchText": "3d fuel pctg pro pctg, cobalt blue"
     },
     {
+      "id": "3d-fuel-pro-pctg-coyote-brown",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Coyote Brown",
+      "hex": "#8c7547",
+      "searchText": "3d fuel pctg pro pctg, coyote brown"
+    },
+    {
       "id": "3d-fuel-pro-pctg-daffodil-yellow",
       "brand": "3D Fuel",
       "material": "PCTG",
@@ -118,6 +246,30 @@
       "searchText": "3d fuel pctg pro pctg, desert tan"
     },
     {
+      "id": "3d-fuel-pro-pctg-electric-pink",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Electric Pink",
+      "hex": "#d93382",
+      "searchText": "3d fuel pctg pro pctg, electric pink"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-electric-teal",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Electric Teal",
+      "hex": "#4cc0c7",
+      "searchText": "3d fuel pctg pro pctg, electric teal"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-fde-v2",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, FDE V2",
+      "hex": "#7b6b57",
+      "searchText": "3d fuel pctg pro pctg, fde v2"
+    },
+    {
       "id": "3d-fuel-pro-pctg-fire-engine-red",
       "brand": "3D Fuel",
       "material": "PCTG",
@@ -132,6 +284,22 @@
       "name": "Pro PCTG, Flat Dark Earth",
       "hex": "#b38f6e",
       "searchText": "3d fuel pctg pro pctg, flat dark earth"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-fluorescent-orange",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Fluorescent Orange",
+      "hex": "#ff8133",
+      "searchText": "3d fuel pctg pro pctg, fluorescent orange"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-galaxy-black",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Galaxy Black",
+      "hex": "#070908",
+      "searchText": "3d fuel pctg pro pctg, galaxy black"
     },
     {
       "id": "3d-fuel-pro-pctg-grape-purple",
@@ -164,6 +332,14 @@
       "name": "Pro PCTG, Iron Red",
       "hex": "#98282f",
       "searchText": "3d fuel pctg pro pctg, iron red"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-lime-green",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Lime Green",
+      "hex": "#5cfc60",
+      "searchText": "3d fuel pctg pro pctg, lime green"
     },
     {
       "id": "3d-fuel-pro-pctg-lulzbot-green",
@@ -222,6 +398,14 @@
       "searchText": "3d fuel pctg pro pctg, natural"
     },
     {
+      "id": "3d-fuel-pro-pctg-navy-blue",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Navy Blue",
+      "hex": "#072e4e",
+      "searchText": "3d fuel pctg pro pctg, navy blue"
+    },
+    {
       "id": "3d-fuel-pro-pctg-ocean-blue",
       "brand": "3D Fuel",
       "material": "PCTG",
@@ -238,6 +422,14 @@
       "searchText": "3d fuel pctg pro pctg, olive green"
     },
     {
+      "id": "3d-fuel-pro-pctg-royal-plum",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Royal Plum",
+      "hex": "#743063",
+      "searchText": "3d fuel pctg pro pctg, royal plum"
+    },
+    {
       "id": "3d-fuel-pro-pctg-snow-white",
       "brand": "3D Fuel",
       "material": "PCTG",
@@ -252,6 +444,190 @@
       "name": "Pro PCTG, Tangerine Orange",
       "hex": "#ff8133",
       "searchText": "3d fuel pctg pro pctg, tangerine orange"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-toolbox-blue",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Toolbox Blue",
+      "hex": "#295ad9",
+      "searchText": "3d fuel pctg pro pctg, toolbox blue"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-toolbox-forest-green",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Toolbox Forest Green",
+      "hex": "#2c5234",
+      "searchText": "3d fuel pctg pro pctg, toolbox forest green"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-toolbox-green",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Toolbox Green",
+      "hex": "#ccda46",
+      "searchText": "3d fuel pctg pro pctg, toolbox green"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-toolbox-gunmetal-blue",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Toolbox Gunmetal Blue",
+      "hex": "#375172",
+      "searchText": "3d fuel pctg pro pctg, toolbox gunmetal blue"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-toolbox-jig-blue",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Toolbox Jig Blue",
+      "hex": "#1f79e5",
+      "searchText": "3d fuel pctg pro pctg, toolbox jig blue"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-toolbox-lime",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Toolbox Lime",
+      "hex": "#78d64b",
+      "searchText": "3d fuel pctg pro pctg, toolbox lime"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-toolbox-orange",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Toolbox Orange",
+      "hex": "#f07821",
+      "searchText": "3d fuel pctg pro pctg, toolbox orange"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-toolbox-red",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Toolbox Red",
+      "hex": "#f04b2a",
+      "searchText": "3d fuel pctg pro pctg, toolbox red"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-toolbox-teal",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Toolbox Teal",
+      "hex": "#058b8c",
+      "searchText": "3d fuel pctg pro pctg, toolbox teal"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-toolbox-yellow",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Toolbox Yellow",
+      "hex": "#f3c432",
+      "searchText": "3d fuel pctg pro pctg, toolbox yellow"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-translucent-black",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Translucent Black",
+      "hex": "#0f0f0f",
+      "searchText": "3d fuel pctg pro pctg, translucent black"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-translucent-cyan",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Translucent Cyan",
+      "hex": "#0099e6",
+      "searchText": "3d fuel pctg pro pctg, translucent cyan"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-translucent-magenta",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Translucent Magenta",
+      "hex": "#e71280",
+      "searchText": "3d fuel pctg pro pctg, translucent magenta"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-translucent-white",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Translucent White",
+      "hex": "#efefef",
+      "searchText": "3d fuel pctg pro pctg, translucent white"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-translucent-yellow",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Translucent Yellow",
+      "hex": "#fadb24",
+      "searchText": "3d fuel pctg pro pctg, translucent yellow"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-transparent-atomic-purple",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Transparent Atomic Purple",
+      "hex": "#992f9f",
+      "searchText": "3d fuel pctg pro pctg, transparent atomic purple"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-transparent-ice-blue",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Transparent Ice Blue",
+      "hex": "#41b6e6",
+      "searchText": "3d fuel pctg pro pctg, transparent ice blue"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-transparent-lime-green",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Transparent Lime Green",
+      "hex": "#7fc61b",
+      "searchText": "3d fuel pctg pro pctg, transparent lime green"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-transparent-ruby-red",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Transparent Ruby Red",
+      "hex": "#862633",
+      "searchText": "3d fuel pctg pro pctg, transparent ruby red"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-transparent-signal-orange",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Transparent Signal Orange",
+      "hex": "#f55928",
+      "searchText": "3d fuel pctg pro pctg, transparent signal orange"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-transparent-smoke-black",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Transparent Smoke Black",
+      "hex": "#232323",
+      "searchText": "3d fuel pctg pro pctg, transparent smoke black"
+    },
+    {
+      "id": "3d-fuel-pro-pctg-transparent-ultramarine-blue",
+      "brand": "3D Fuel",
+      "material": "PCTG",
+      "name": "Pro PCTG, Transparent Ultramarine Blue",
+      "hex": "#0a2ca5",
+      "searchText": "3d fuel pctg pro pctg, transparent ultramarine blue"
+    },
+    {
+      "id": "3d-fuel-pet-cf-black",
+      "brand": "3D Fuel",
+      "material": "PET",
+      "name": "PET-CF, Black",
+      "hex": "#1d1d1d",
+      "searchText": "3d fuel pet pet-cf, black"
     },
     {
       "id": "3d-fuel-pro-petg-brightest-white",
@@ -302,6 +678,14 @@
       "searchText": "3d fuel petg pro petg, harvest gold"
     },
     {
+      "id": "3d-fuel-pro-petg-industrial-gray",
+      "brand": "3D Fuel",
+      "material": "PETG",
+      "name": "Pro PETG, Industrial Gray",
+      "hex": "#91a0b6",
+      "searchText": "3d fuel petg pro petg, industrial gray"
+    },
+    {
       "id": "3d-fuel-pro-petg-lulzbot-green",
       "brand": "3D Fuel",
       "material": "PETG",
@@ -350,7 +734,23 @@
       "searchText": "3d fuel petg pro petg, snow white"
     },
     {
-      "id": "3d-fuel-silk-pla-silky-black-hills-gold",
+      "id": "3d-fuel-protosthetics-petg-natural",
+      "brand": "3D Fuel",
+      "material": "PETG",
+      "name": "Protosthetics PETG, Natural",
+      "hex": "#dfdfd3",
+      "searchText": "3d fuel petg protosthetics petg, natural"
+    },
+    {
+      "id": "3d-fuel-entwined-hemp-natural",
+      "brand": "3D Fuel",
+      "material": "PLA",
+      "name": "Entwined Hemp, Natural",
+      "hex": "#dfdfd3",
+      "searchText": "3d fuel pla entwined hemp, natural"
+    },
+    {
+      "id": "3d-fuel-silk-pla-plus-silky-black-hills-gold",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Silk PLA+, Silky Black Hills Gold",
@@ -358,7 +758,7 @@
       "searchText": "3d fuel pla silk pla+, silky black hills gold"
     },
     {
-      "id": "3d-fuel-silk-pla-silky-goldenrod",
+      "id": "3d-fuel-silk-pla-plus-silky-goldenrod",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Silk PLA+, Silky Goldenrod",
@@ -366,7 +766,7 @@
       "searchText": "3d fuel pla silk pla+, silky goldenrod"
     },
     {
-      "id": "3d-fuel-silk-pla-silky-royal-navy-blue",
+      "id": "3d-fuel-silk-pla-plus-silky-royal-navy-blue",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Silk PLA+, Silky Royal Navy Blue",
@@ -374,7 +774,7 @@
       "searchText": "3d fuel pla silk pla+, silky royal navy blue"
     },
     {
-      "id": "3d-fuel-silk-pla-silky-silverbell",
+      "id": "3d-fuel-silk-pla-plus-silky-silverbell",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Silk PLA+, Silky Silverbell",
@@ -382,7 +782,7 @@
       "searchText": "3d fuel pla silk pla+, silky silverbell"
     },
     {
-      "id": "3d-fuel-silk-pla-silky-vine-leaf-green",
+      "id": "3d-fuel-silk-pla-plus-silky-vine-leaf-green",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Silk PLA+, Silky Vine Leaf Green",
@@ -390,7 +790,7 @@
       "searchText": "3d fuel pla silk pla+, silky vine leaf green"
     },
     {
-      "id": "3d-fuel-standard-pla-aquamarine",
+      "id": "3d-fuel-standard-pla-plus-aquamarine",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Aquamarine",
@@ -398,7 +798,7 @@
       "searchText": "3d fuel pla standard pla+, aquamarine"
     },
     {
-      "id": "3d-fuel-standard-pla-autumn-orange",
+      "id": "3d-fuel-standard-pla-plus-autumn-orange",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Autumn Orange",
@@ -406,7 +806,7 @@
       "searchText": "3d fuel pla standard pla+, autumn orange"
     },
     {
-      "id": "3d-fuel-standard-pla-bone-white",
+      "id": "3d-fuel-standard-pla-plus-bone-white",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Bone White",
@@ -414,7 +814,7 @@
       "searchText": "3d fuel pla standard pla+, bone white"
     },
     {
-      "id": "3d-fuel-standard-pla-brightest-white",
+      "id": "3d-fuel-standard-pla-plus-brightest-white",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Brightest White",
@@ -422,7 +822,7 @@
       "searchText": "3d fuel pla standard pla+, brightest white"
     },
     {
-      "id": "3d-fuel-standard-pla-bubblegum-pink",
+      "id": "3d-fuel-standard-pla-plus-bubblegum-pink",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Bubblegum Pink",
@@ -430,7 +830,7 @@
       "searchText": "3d fuel pla standard pla+, bubblegum pink"
     },
     {
-      "id": "3d-fuel-standard-pla-caribbean-blue",
+      "id": "3d-fuel-standard-pla-plus-caribbean-blue",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Caribbean Blue",
@@ -438,7 +838,7 @@
       "searchText": "3d fuel pla standard pla+, caribbean blue"
     },
     {
-      "id": "3d-fuel-standard-pla-castle-gray",
+      "id": "3d-fuel-standard-pla-plus-castle-gray",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Castle Gray",
@@ -446,7 +846,7 @@
       "searchText": "3d fuel pla standard pla+, castle gray"
     },
     {
-      "id": "3d-fuel-standard-pla-charcoal-gray",
+      "id": "3d-fuel-standard-pla-plus-charcoal-gray",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Charcoal Gray",
@@ -454,7 +854,7 @@
       "searchText": "3d fuel pla standard pla+, charcoal gray"
     },
     {
-      "id": "3d-fuel-standard-pla-chocolate-brown",
+      "id": "3d-fuel-standard-pla-plus-chocolate-brown",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Chocolate Brown",
@@ -462,7 +862,7 @@
       "searchText": "3d fuel pla standard pla+, chocolate brown"
     },
     {
-      "id": "3d-fuel-standard-pla-cobalt-blue",
+      "id": "3d-fuel-standard-pla-plus-cobalt-blue",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Cobalt Blue",
@@ -470,7 +870,7 @@
       "searchText": "3d fuel pla standard pla+, cobalt blue"
     },
     {
-      "id": "3d-fuel-standard-pla-daffodil-yellow",
+      "id": "3d-fuel-standard-pla-plus-daffodil-yellow",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Daffodil Yellow",
@@ -478,7 +878,7 @@
       "searchText": "3d fuel pla standard pla+, daffodil yellow"
     },
     {
-      "id": "3d-fuel-standard-pla-desert-tan",
+      "id": "3d-fuel-standard-pla-plus-desert-tan",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Desert Tan",
@@ -486,7 +886,7 @@
       "searchText": "3d fuel pla standard pla+, desert tan"
     },
     {
-      "id": "3d-fuel-standard-pla-electric-blue",
+      "id": "3d-fuel-standard-pla-plus-electric-blue",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Electric Blue",
@@ -494,7 +894,7 @@
       "searchText": "3d fuel pla standard pla+, electric blue"
     },
     {
-      "id": "3d-fuel-standard-pla-fire-engine-red",
+      "id": "3d-fuel-standard-pla-plus-fire-engine-red",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Fire Engine Red",
@@ -502,7 +902,7 @@
       "searchText": "3d fuel pla standard pla+, fire engine red"
     },
     {
-      "id": "3d-fuel-standard-pla-fjord-blue",
+      "id": "3d-fuel-standard-pla-plus-fjord-blue",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Fjord Blue",
@@ -510,7 +910,7 @@
       "searchText": "3d fuel pla standard pla+, fjord blue"
     },
     {
-      "id": "3d-fuel-standard-pla-flat-dark-earth",
+      "id": "3d-fuel-standard-pla-plus-flat-dark-earth",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Flat Dark Earth",
@@ -518,7 +918,7 @@
       "searchText": "3d fuel pla standard pla+, flat dark earth"
     },
     {
-      "id": "3d-fuel-standard-pla-fluorescent-green",
+      "id": "3d-fuel-standard-pla-plus-fluorescent-green",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Fluorescent Green",
@@ -526,7 +926,7 @@
       "searchText": "3d fuel pla standard pla+, fluorescent green"
     },
     {
-      "id": "3d-fuel-standard-pla-fluorescent-orange",
+      "id": "3d-fuel-standard-pla-plus-fluorescent-orange",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Fluorescent Orange",
@@ -534,7 +934,7 @@
       "searchText": "3d fuel pla standard pla+, fluorescent orange"
     },
     {
-      "id": "3d-fuel-standard-pla-fluorescent-yellow",
+      "id": "3d-fuel-standard-pla-plus-fluorescent-yellow",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Fluorescent Yellow",
@@ -542,7 +942,7 @@
       "searchText": "3d fuel pla standard pla+, fluorescent yellow"
     },
     {
-      "id": "3d-fuel-standard-pla-forest-green",
+      "id": "3d-fuel-standard-pla-plus-forest-green",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Forest Green",
@@ -550,7 +950,7 @@
       "searchText": "3d fuel pla standard pla+, forest green"
     },
     {
-      "id": "3d-fuel-standard-pla-grape-purple",
+      "id": "3d-fuel-standard-pla-plus-grape-purple",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Grape Purple",
@@ -558,7 +958,7 @@
       "searchText": "3d fuel pla standard pla+, grape purple"
     },
     {
-      "id": "3d-fuel-standard-pla-grass-green",
+      "id": "3d-fuel-standard-pla-plus-grass-green",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Grass Green",
@@ -566,7 +966,7 @@
       "searchText": "3d fuel pla standard pla+, grass green"
     },
     {
-      "id": "3d-fuel-standard-pla-harvest-gold",
+      "id": "3d-fuel-standard-pla-plus-harvest-gold",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Harvest Gold",
@@ -574,7 +974,7 @@
       "searchText": "3d fuel pla standard pla+, harvest gold"
     },
     {
-      "id": "3d-fuel-standard-pla-industrial-gray",
+      "id": "3d-fuel-standard-pla-plus-industrial-gray",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Industrial Gray",
@@ -582,7 +982,7 @@
       "searchText": "3d fuel pla standard pla+, industrial gray"
     },
     {
-      "id": "3d-fuel-standard-pla-iron-red",
+      "id": "3d-fuel-standard-pla-plus-iron-red",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Iron Red",
@@ -590,7 +990,7 @@
       "searchText": "3d fuel pla standard pla+, iron red"
     },
     {
-      "id": "3d-fuel-standard-pla-island-fuchsia",
+      "id": "3d-fuel-standard-pla-plus-island-fuchsia",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Island Fuchsia",
@@ -598,7 +998,7 @@
       "searchText": "3d fuel pla standard pla+, island fuchsia"
     },
     {
-      "id": "3d-fuel-standard-pla-lulzbot-green",
+      "id": "3d-fuel-standard-pla-plus-lulzbot-green",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, LulzBot® Green",
@@ -606,7 +1006,7 @@
       "searchText": "3d fuel pla standard pla+, lulzbot® green"
     },
     {
-      "id": "3d-fuel-standard-pla-metallic-copper",
+      "id": "3d-fuel-standard-pla-plus-metallic-copper",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Metallic Copper",
@@ -614,7 +1014,7 @@
       "searchText": "3d fuel pla standard pla+, metallic copper"
     },
     {
-      "id": "3d-fuel-standard-pla-metallic-gold",
+      "id": "3d-fuel-standard-pla-plus-metallic-gold",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Metallic Gold",
@@ -622,7 +1022,7 @@
       "searchText": "3d fuel pla standard pla+, metallic gold"
     },
     {
-      "id": "3d-fuel-standard-pla-metallic-silver",
+      "id": "3d-fuel-standard-pla-plus-metallic-silver",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Metallic Silver",
@@ -630,7 +1030,7 @@
       "searchText": "3d fuel pla standard pla+, metallic silver"
     },
     {
-      "id": "3d-fuel-standard-pla-midnight-black",
+      "id": "3d-fuel-standard-pla-plus-midnight-black",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Midnight Black",
@@ -638,7 +1038,7 @@
       "searchText": "3d fuel pla standard pla+, midnight black"
     },
     {
-      "id": "3d-fuel-standard-pla-natural",
+      "id": "3d-fuel-standard-pla-plus-natural",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Natural",
@@ -646,7 +1046,7 @@
       "searchText": "3d fuel pla standard pla+, natural"
     },
     {
-      "id": "3d-fuel-standard-pla-ocean-blue",
+      "id": "3d-fuel-standard-pla-plus-ocean-blue",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Ocean Blue",
@@ -654,7 +1054,7 @@
       "searchText": "3d fuel pla standard pla+, ocean blue"
     },
     {
-      "id": "3d-fuel-standard-pla-olive-green",
+      "id": "3d-fuel-standard-pla-plus-olive-green",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Olive Green",
@@ -662,7 +1062,7 @@
       "searchText": "3d fuel pla standard pla+, olive green"
     },
     {
-      "id": "3d-fuel-standard-pla-pistachio-green",
+      "id": "3d-fuel-standard-pla-plus-pistachio-green",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Pistachio Green",
@@ -670,7 +1070,7 @@
       "searchText": "3d fuel pla standard pla+, pistachio green"
     },
     {
-      "id": "3d-fuel-standard-pla-snow-white",
+      "id": "3d-fuel-standard-pla-plus-snow-white",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Snow White",
@@ -678,7 +1078,7 @@
       "searchText": "3d fuel pla standard pla+, snow white"
     },
     {
-      "id": "3d-fuel-standard-pla-tangerine-orange",
+      "id": "3d-fuel-standard-pla-plus-tangerine-orange",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Tangerine Orange",
@@ -686,7 +1086,7 @@
       "searchText": "3d fuel pla standard pla+, tangerine orange"
     },
     {
-      "id": "3d-fuel-standard-pla-warm-bisque",
+      "id": "3d-fuel-standard-pla-plus-warm-bisque",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Standard PLA+, Warm Bisque",
@@ -694,7 +1094,7 @@
       "searchText": "3d fuel pla standard pla+, warm bisque"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-almond",
+      "id": "3d-fuel-tough-pro-pla-plus-almond",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Almond",
@@ -702,7 +1102,7 @@
       "searchText": "3d fuel pla tough pro pla+, almond"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-aquamarine",
+      "id": "3d-fuel-tough-pro-pla-plus-aquamarine",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Aquamarine",
@@ -710,7 +1110,15 @@
       "searchText": "3d fuel pla tough pro pla+, aquamarine"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-autumn-orange",
+      "id": "3d-fuel-tough-pro-pla-athens-blue",
+      "brand": "3D Fuel",
+      "material": "PLA",
+      "name": "Tough Pro PLA+, Athens Blue",
+      "hex": "#0072ce",
+      "searchText": "3d fuel pla tough pro pla+, athens blue"
+    },
+    {
+      "id": "3d-fuel-tough-pro-pla-plus-autumn-orange",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Autumn Orange",
@@ -718,7 +1126,7 @@
       "searchText": "3d fuel pla tough pro pla+, autumn orange"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-bone-white",
+      "id": "3d-fuel-tough-pro-pla-plus-bone-white",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Bone White",
@@ -726,7 +1134,7 @@
       "searchText": "3d fuel pla tough pro pla+, bone white"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-brightest-white",
+      "id": "3d-fuel-tough-pro-pla-plus-brightest-white",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Brightest White",
@@ -734,7 +1142,7 @@
       "searchText": "3d fuel pla tough pro pla+, brightest white"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-bubblegum-pink",
+      "id": "3d-fuel-tough-pro-pla-plus-bubblegum-pink",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Bubblegum Pink",
@@ -742,7 +1150,7 @@
       "searchText": "3d fuel pla tough pro pla+, bubblegum pink"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-caribbean-blue",
+      "id": "3d-fuel-tough-pro-pla-plus-caribbean-blue",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Caribbean Blue",
@@ -750,7 +1158,7 @@
       "searchText": "3d fuel pla tough pro pla+, caribbean blue"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-castle-gray",
+      "id": "3d-fuel-tough-pro-pla-plus-castle-gray",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Castle Gray",
@@ -758,7 +1166,7 @@
       "searchText": "3d fuel pla tough pro pla+, castle gray"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-charcoal-gray",
+      "id": "3d-fuel-tough-pro-pla-plus-charcoal-gray",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Charcoal Gray",
@@ -766,7 +1174,7 @@
       "searchText": "3d fuel pla tough pro pla+, charcoal gray"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-chocolate-brown",
+      "id": "3d-fuel-tough-pro-pla-plus-chocolate-brown",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Chocolate Brown",
@@ -774,7 +1182,7 @@
       "searchText": "3d fuel pla tough pro pla+, chocolate brown"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-cobalt-blue",
+      "id": "3d-fuel-tough-pro-pla-plus-cobalt-blue",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Cobalt Blue",
@@ -782,7 +1190,15 @@
       "searchText": "3d fuel pla tough pro pla+, cobalt blue"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-daffodil-yellow",
+      "id": "3d-fuel-tough-pro-pla-coyote-brown",
+      "brand": "3D Fuel",
+      "material": "PLA",
+      "name": "Tough Pro PLA+, Coyote Brown",
+      "hex": "#8c7547",
+      "searchText": "3d fuel pla tough pro pla+, coyote brown"
+    },
+    {
+      "id": "3d-fuel-tough-pro-pla-plus-daffodil-yellow",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Daffodil Yellow",
@@ -790,7 +1206,7 @@
       "searchText": "3d fuel pla tough pro pla+, daffodil yellow"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-desert-tan",
+      "id": "3d-fuel-tough-pro-pla-plus-desert-tan",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Desert Tan",
@@ -798,7 +1214,7 @@
       "searchText": "3d fuel pla tough pro pla+, desert tan"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-electric-blue",
+      "id": "3d-fuel-tough-pro-pla-plus-electric-blue",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Electric Blue",
@@ -806,7 +1222,7 @@
       "searchText": "3d fuel pla tough pro pla+, electric blue"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-fire-engine-red",
+      "id": "3d-fuel-tough-pro-pla-plus-fire-engine-red",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Fire Engine Red",
@@ -814,7 +1230,7 @@
       "searchText": "3d fuel pla tough pro pla+, fire engine red"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-fjord-blue",
+      "id": "3d-fuel-tough-pro-pla-plus-fjord-blue",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Fjord Blue",
@@ -822,7 +1238,7 @@
       "searchText": "3d fuel pla tough pro pla+, fjord blue"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-flat-dark-earth",
+      "id": "3d-fuel-tough-pro-pla-plus-flat-dark-earth",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Flat Dark Earth",
@@ -830,7 +1246,7 @@
       "searchText": "3d fuel pla tough pro pla+, flat dark earth"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-fluorescent-green",
+      "id": "3d-fuel-tough-pro-pla-plus-fluorescent-green",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Fluorescent Green",
@@ -838,7 +1254,7 @@
       "searchText": "3d fuel pla tough pro pla+, fluorescent green"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-fluorescent-orange",
+      "id": "3d-fuel-tough-pro-pla-plus-fluorescent-orange",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Fluorescent Orange",
@@ -846,7 +1262,7 @@
       "searchText": "3d fuel pla tough pro pla+, fluorescent orange"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-fluorescent-yellow",
+      "id": "3d-fuel-tough-pro-pla-plus-fluorescent-yellow",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Fluorescent Yellow",
@@ -854,7 +1270,7 @@
       "searchText": "3d fuel pla tough pro pla+, fluorescent yellow"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-forest-green",
+      "id": "3d-fuel-tough-pro-pla-plus-forest-green",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Forest Green",
@@ -862,7 +1278,7 @@
       "searchText": "3d fuel pla tough pro pla+, forest green"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-grape-purple",
+      "id": "3d-fuel-tough-pro-pla-plus-grape-purple",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Grape Purple",
@@ -870,7 +1286,7 @@
       "searchText": "3d fuel pla tough pro pla+, grape purple"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-grass-green",
+      "id": "3d-fuel-tough-pro-pla-plus-grass-green",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Grass Green",
@@ -878,7 +1294,7 @@
       "searchText": "3d fuel pla tough pro pla+, grass green"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-harvest-gold",
+      "id": "3d-fuel-tough-pro-pla-plus-harvest-gold",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Harvest Gold",
@@ -886,7 +1302,7 @@
       "searchText": "3d fuel pla tough pro pla+, harvest gold"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-industrial-gray",
+      "id": "3d-fuel-tough-pro-pla-plus-industrial-gray",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Industrial Gray",
@@ -894,7 +1310,7 @@
       "searchText": "3d fuel pla tough pro pla+, industrial gray"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-iron-red",
+      "id": "3d-fuel-tough-pro-pla-plus-iron-red",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Iron Red",
@@ -902,7 +1318,7 @@
       "searchText": "3d fuel pla tough pro pla+, iron red"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-island-fuchsia",
+      "id": "3d-fuel-tough-pro-pla-plus-island-fuchsia",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Island Fuchsia",
@@ -910,7 +1326,7 @@
       "searchText": "3d fuel pla tough pro pla+, island fuchsia"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-lulzbot-green",
+      "id": "3d-fuel-tough-pro-pla-plus-lulzbot-green",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, LulzBot Green",
@@ -918,7 +1334,7 @@
       "searchText": "3d fuel pla tough pro pla+, lulzbot green"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-metallic-copper",
+      "id": "3d-fuel-tough-pro-pla-plus-metallic-copper",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Metallic Copper",
@@ -926,7 +1342,7 @@
       "searchText": "3d fuel pla tough pro pla+, metallic copper"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-metallic-gold",
+      "id": "3d-fuel-tough-pro-pla-plus-metallic-gold",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Metallic Gold",
@@ -934,7 +1350,7 @@
       "searchText": "3d fuel pla tough pro pla+, metallic gold"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-metallic-silver",
+      "id": "3d-fuel-tough-pro-pla-plus-metallic-silver",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Metallic Silver",
@@ -942,7 +1358,7 @@
       "searchText": "3d fuel pla tough pro pla+, metallic silver"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-midnight-black",
+      "id": "3d-fuel-tough-pro-pla-plus-midnight-black",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Midnight Black",
@@ -950,7 +1366,7 @@
       "searchText": "3d fuel pla tough pro pla+, midnight black"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-natural",
+      "id": "3d-fuel-tough-pro-pla-plus-natural",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Natural",
@@ -958,7 +1374,7 @@
       "searchText": "3d fuel pla tough pro pla+, natural"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-ocean-blue",
+      "id": "3d-fuel-tough-pro-pla-plus-ocean-blue",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Ocean Blue",
@@ -966,7 +1382,7 @@
       "searchText": "3d fuel pla tough pro pla+, ocean blue"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-olive-green",
+      "id": "3d-fuel-tough-pro-pla-plus-olive-green",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Olive Green",
@@ -974,7 +1390,7 @@
       "searchText": "3d fuel pla tough pro pla+, olive green"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-pistachio-green",
+      "id": "3d-fuel-tough-pro-pla-plus-pistachio-green",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Pistachio Green",
@@ -982,7 +1398,7 @@
       "searchText": "3d fuel pla tough pro pla+, pistachio green"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-snow-white",
+      "id": "3d-fuel-tough-pro-pla-plus-snow-white",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Snow White",
@@ -990,7 +1406,7 @@
       "searchText": "3d fuel pla tough pro pla+, snow white"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-tangerine-orange",
+      "id": "3d-fuel-tough-pro-pla-plus-tangerine-orange",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Tangerine Orange",
@@ -998,7 +1414,7 @@
       "searchText": "3d fuel pla tough pro pla+, tangerine orange"
     },
     {
-      "id": "3d-fuel-tough-pro-pla-warm-bisque",
+      "id": "3d-fuel-tough-pro-pla-plus-warm-bisque",
       "brand": "3D Fuel",
       "material": "PLA",
       "name": "Tough Pro PLA+, Warm Bisque",
@@ -17242,7 +17658,7 @@
       "brand": "Buddy3D",
       "material": "PLA",
       "name": "PLA Blue",
-      "hex": "#0099e6",
+      "hex": "#0a2989",
       "searchText": "buddy3d pla pla blue"
     },
     {
@@ -17338,7 +17754,7 @@
       "brand": "Buddy3D",
       "material": "PLA",
       "name": "PLA Red",
-      "hex": "#ff0505",
+      "hex": "#ff0000",
       "searchText": "buddy3d pla pla red"
     },
     {
@@ -33542,6 +33958,14 @@
       "searchText": "extrudr abs durapro abs blue | ral 5003"
     },
     {
+      "id": "extrudr-durapro-abs-cf-black-ral-9017",
+      "brand": "extrudr",
+      "material": "ABS",
+      "name": "DuraPro ABS CF black | RAL 9017",
+      "hex": "#000000",
+      "searchText": "extrudr abs durapro abs cf black | ral 9017"
+    },
+    {
       "id": "extrudr-durapro-abs-grey-ral-7044",
       "brand": "extrudr",
       "material": "ABS",
@@ -33554,7 +33978,7 @@
       "brand": "extrudr",
       "material": "ABS",
       "name": "DuraPro ABS metallic | RAL 9023",
-      "hex": "#63646b",
+      "hex": "#b2b8b8",
       "searchText": "extrudr abs durapro abs metallic | ral 9023"
     },
     {
@@ -33614,6 +34038,14 @@
       "searchText": "extrudr asa durapro asa blue | ral 5003"
     },
     {
+      "id": "extrudr-durapro-asa-cf-black-ral-9017",
+      "brand": "extrudr",
+      "material": "ASA",
+      "name": "DuraPro ASA CF black | RAL 9017",
+      "hex": "#000000",
+      "searchText": "extrudr asa durapro asa cf black | ral 9017"
+    },
+    {
       "id": "extrudr-durapro-asa-dark-silver-ral-7047",
       "brand": "extrudr",
       "material": "ASA",
@@ -33628,6 +34060,78 @@
       "name": "DuraPro ASA emerald green | RAL 6001",
       "hex": "#317c2e",
       "searchText": "extrudr asa durapro asa emerald green | ral 6001"
+    },
+    {
+      "id": "extrudr-durapro-asa-gf-anthracite-ral-7016",
+      "brand": "extrudr",
+      "material": "ASA",
+      "name": "DuraPro ASA GF anthracite | RAL 7016",
+      "hex": "#55555e",
+      "searchText": "extrudr asa durapro asa gf anthracite | ral 7016"
+    },
+    {
+      "id": "extrudr-durapro-asa-gf-black-ral-9017",
+      "brand": "extrudr",
+      "material": "ASA",
+      "name": "DuraPro ASA GF black | RAL 9017",
+      "hex": "#000000",
+      "searchText": "extrudr asa durapro asa gf black | ral 9017"
+    },
+    {
+      "id": "extrudr-durapro-asa-gf-blue-ral-5003",
+      "brand": "extrudr",
+      "material": "ASA",
+      "name": "DuraPro ASA GF blue | RAL 5003",
+      "hex": "#0353ba",
+      "searchText": "extrudr asa durapro asa gf blue | ral 5003"
+    },
+    {
+      "id": "extrudr-durapro-asa-gf-dark-silver-ral-7047",
+      "brand": "extrudr",
+      "material": "ASA",
+      "name": "DuraPro ASA GF dark silver | RAL 7047",
+      "hex": "#c8c8c8",
+      "searchText": "extrudr asa durapro asa gf dark silver | ral 7047"
+    },
+    {
+      "id": "extrudr-durapro-asa-gf-nature-ral-1013",
+      "brand": "extrudr",
+      "material": "ASA",
+      "name": "DuraPro ASA GF nature | RAL 1013",
+      "hex": "#efe8d8",
+      "searchText": "extrudr asa durapro asa gf nature | ral 1013"
+    },
+    {
+      "id": "extrudr-durapro-asa-gf-neon-green-ral-6038",
+      "brand": "extrudr",
+      "material": "ASA",
+      "name": "DuraPro ASA GF neon green | RAL 6038",
+      "hex": "#9aed51",
+      "searchText": "extrudr asa durapro asa gf neon green | ral 6038"
+    },
+    {
+      "id": "extrudr-durapro-asa-gf-neon-orange-ral-2005",
+      "brand": "extrudr",
+      "material": "ASA",
+      "name": "DuraPro ASA GF neon orange | RAL 2005",
+      "hex": "#f67405",
+      "searchText": "extrudr asa durapro asa gf neon orange | ral 2005"
+    },
+    {
+      "id": "extrudr-durapro-asa-gf-neon-yellow-ral-1026",
+      "brand": "extrudr",
+      "material": "ASA",
+      "name": "DuraPro ASA GF neon yellow | RAL 1026",
+      "hex": "#fffb00",
+      "searchText": "extrudr asa durapro asa gf neon yellow | ral 1026"
+    },
+    {
+      "id": "extrudr-durapro-asa-gf-red-ral-3001",
+      "brand": "extrudr",
+      "material": "ASA",
+      "name": "DuraPro ASA GF red | RAL 3001",
+      "hex": "#e03f26",
+      "searchText": "extrudr asa durapro asa gf red | ral 3001"
     },
     {
       "id": "extrudr-durapro-asa-grey-ral-7044",
@@ -33658,7 +34162,7 @@
       "brand": "extrudr",
       "material": "ASA",
       "name": "DuraPro ASA neon green | RAL 6038",
-      "hex": "#69ee00",
+      "hex": "#9aed51",
       "searchText": "extrudr asa durapro asa neon green | ral 6038"
     },
     {
@@ -33684,6 +34188,14 @@
       "name": "DuraPro ASA red | RAL 3001",
       "hex": "#d33d3d",
       "searchText": "extrudr asa durapro asa red | ral 3001"
+    },
+    {
+      "id": "extrudr-durapro-asa-silver-ral-9006",
+      "brand": "extrudr",
+      "material": "ASA",
+      "name": "DuraPro ASA silver | RAL 9006",
+      "hex": "#a8b0bd",
+      "searchText": "extrudr asa durapro asa silver | ral 9006"
     },
     {
       "id": "extrudr-durapro-asa-white-ral-9003",
@@ -33734,7 +34246,135 @@
       "searchText": "extrudr pa12 durapro pa12 white | ral 9003"
     },
     {
-      "id": "extrudr-durapro-pcpbt-black-ral-9017",
+      "id": "extrudr-durapro-pa6-cf-black-ral-9017",
+      "brand": "extrudr",
+      "material": "PA6",
+      "name": "DuraPro PA6 CF black | RAL 9017",
+      "hex": "#000000",
+      "searchText": "extrudr pa6 durapro pa6 cf black | ral 9017"
+    },
+    {
+      "id": "extrudr-durapro-pa6-gf-anthracite-ral-7016",
+      "brand": "extrudr",
+      "material": "PA6",
+      "name": "DuraPro PA6 GF anthracite | RAL 7016",
+      "hex": "#55555e",
+      "searchText": "extrudr pa6 durapro pa6 gf anthracite | ral 7016"
+    },
+    {
+      "id": "extrudr-durapro-pa6-gf-black-ral-9017",
+      "brand": "extrudr",
+      "material": "PA6",
+      "name": "DuraPro PA6 GF black | RAL 9017",
+      "hex": "#000000",
+      "searchText": "extrudr pa6 durapro pa6 gf black | ral 9017"
+    },
+    {
+      "id": "extrudr-durapro-pa6-gf-nature-ral-1013",
+      "brand": "extrudr",
+      "material": "PA6",
+      "name": "DuraPro PA6 GF nature | RAL 1013",
+      "hex": "#efe8d8",
+      "searchText": "extrudr pa6 durapro pa6 gf nature | ral 1013"
+    },
+    {
+      "id": "extrudr-durapro-pa6-gf-neon-green-ral-6038",
+      "brand": "extrudr",
+      "material": "PA6",
+      "name": "DuraPro PA6 GF neon green | RAL 6038",
+      "hex": "#9aed51",
+      "searchText": "extrudr pa6 durapro pa6 gf neon green | ral 6038"
+    },
+    {
+      "id": "extrudr-durapro-pa6-gf-neon-orange-ral-2005",
+      "brand": "extrudr",
+      "material": "PA6",
+      "name": "DuraPro PA6 GF neon orange | RAL 2005",
+      "hex": "#f67405",
+      "searchText": "extrudr pa6 durapro pa6 gf neon orange | ral 2005"
+    },
+    {
+      "id": "extrudr-durapro-pa6-gf-neon-yellow-ral-1026",
+      "brand": "extrudr",
+      "material": "PA6",
+      "name": "DuraPro PA6 GF neon yellow | RAL 1026",
+      "hex": "#fffb00",
+      "searchText": "extrudr pa6 durapro pa6 gf neon yellow | ral 1026"
+    },
+    {
+      "id": "extrudr-durapro-pa6-gf-silver-ral-9006",
+      "brand": "extrudr",
+      "material": "PA6",
+      "name": "DuraPro PA6 GF silver | RAL 9006",
+      "hex": "#a8b0bd",
+      "searchText": "extrudr pa6 durapro pa6 gf silver | ral 9006"
+    },
+    {
+      "id": "extrudr-durapro-pa6-gf-white-ral-9003",
+      "brand": "extrudr",
+      "material": "PA6",
+      "name": "DuraPro PA6 GF white | RAL 9003",
+      "hex": "#ffffff",
+      "searchText": "extrudr pa6 durapro pa6 gf white | ral 9003"
+    },
+    {
+      "id": "extrudr-durapro-pc-fr-v0-anthracite-ral-7016",
+      "brand": "extrudr",
+      "material": "PC",
+      "name": "DuraPro PC FR V0 anthracite | RAL 7016",
+      "hex": "#55555e",
+      "searchText": "extrudr pc durapro pc fr v0 anthracite | ral 7016"
+    },
+    {
+      "id": "extrudr-durapro-pc-fr-v0-black-ral-9017",
+      "brand": "extrudr",
+      "material": "PC",
+      "name": "DuraPro PC FR V0 black | RAL 9017",
+      "hex": "#000000",
+      "searchText": "extrudr pc durapro pc fr v0 black | ral 9017"
+    },
+    {
+      "id": "extrudr-durapro-pc-fr-v0-blue-ral-5003",
+      "brand": "extrudr",
+      "material": "PC",
+      "name": "DuraPro PC FR V0 blue | RAL 5003",
+      "hex": "#0353ba",
+      "searchText": "extrudr pc durapro pc fr v0 blue | ral 5003"
+    },
+    {
+      "id": "extrudr-durapro-pc-fr-v0-hellfire-red-ral-3024",
+      "brand": "extrudr",
+      "material": "PC",
+      "name": "DuraPro PC FR V0 hellfire red | RAL 3024",
+      "hex": "#ce5d4c",
+      "searchText": "extrudr pc durapro pc fr v0 hellfire red | ral 3024"
+    },
+    {
+      "id": "extrudr-durapro-pc-fr-v0-nature-ral-1013",
+      "brand": "extrudr",
+      "material": "PC",
+      "name": "DuraPro PC FR V0 nature | RAL 1013",
+      "hex": "#efe8d8",
+      "searchText": "extrudr pc durapro pc fr v0 nature | ral 1013"
+    },
+    {
+      "id": "extrudr-durapro-pc-fr-v0-silver-ral-9006",
+      "brand": "extrudr",
+      "material": "PC",
+      "name": "DuraPro PC FR V0 silver | RAL 9006",
+      "hex": "#a8b0bd",
+      "searchText": "extrudr pc durapro pc fr v0 silver | ral 9006"
+    },
+    {
+      "id": "extrudr-durapro-pc-pbt-anthracite-ral-7016",
+      "brand": "extrudr",
+      "material": "PC",
+      "name": "DuraPro PC/PBT anthracite | RAL 7016",
+      "hex": "#55555e",
+      "searchText": "extrudr pc durapro pc/pbt anthracite | ral 7016"
+    },
+    {
+      "id": "extrudr-durapro-pc-pbt-black-ral-9017",
       "brand": "extrudr",
       "material": "PC",
       "name": "DuraPro PC/PBT black | RAL 9017",
@@ -33742,7 +34382,63 @@
       "searchText": "extrudr pc durapro pc/pbt black | ral 9017"
     },
     {
-      "id": "extrudr-durapro-pcpbt-white-ral-9003",
+      "id": "extrudr-durapro-pc-pbt-cf-black-ral-9017",
+      "brand": "extrudr",
+      "material": "PC",
+      "name": "DuraPro PC/PBT CF black | RAL 9017",
+      "hex": "#000000",
+      "searchText": "extrudr pc durapro pc/pbt cf black | ral 9017"
+    },
+    {
+      "id": "extrudr-durapro-pc-pbt-nature-ral-1013",
+      "brand": "extrudr",
+      "material": "PC",
+      "name": "DuraPro PC/PBT nature | RAL 1013",
+      "hex": "#efe8d8",
+      "searchText": "extrudr pc durapro pc/pbt nature | ral 1013"
+    },
+    {
+      "id": "extrudr-durapro-pc-pbt-navy-blue-ral-5003",
+      "brand": "extrudr",
+      "material": "PC",
+      "name": "DuraPro PC/PBT navy blue | RAL 5003",
+      "hex": "#0353ba",
+      "searchText": "extrudr pc durapro pc/pbt navy blue | ral 5003"
+    },
+    {
+      "id": "extrudr-durapro-pc-pbt-neon-green-ral-6038",
+      "brand": "extrudr",
+      "material": "PC",
+      "name": "DuraPro PC/PBT neon green | RAL 6038",
+      "hex": "#9aed51",
+      "searchText": "extrudr pc durapro pc/pbt neon green | ral 6038"
+    },
+    {
+      "id": "extrudr-durapro-pc-pbt-neon-orange-ral-2005",
+      "brand": "extrudr",
+      "material": "PC",
+      "name": "DuraPro PC/PBT neon orange | RAL 2005",
+      "hex": "#f67405",
+      "searchText": "extrudr pc durapro pc/pbt neon orange | ral 2005"
+    },
+    {
+      "id": "extrudr-durapro-pc-pbt-neon-yellow-ral-1026",
+      "brand": "extrudr",
+      "material": "PC",
+      "name": "DuraPro PC/PBT neon yellow | RAL 1026",
+      "hex": "#fffb00",
+      "searchText": "extrudr pc durapro pc/pbt neon yellow | ral 1026"
+    },
+    {
+      "id": "extrudr-durapro-pc-pbt-red-ral-3001",
+      "brand": "extrudr",
+      "material": "PC",
+      "name": "DuraPro PC/PBT red | RAL 3001",
+      "hex": "#e03f26",
+      "searchText": "extrudr pc durapro pc/pbt red | ral 3001"
+    },
+    {
+      "id": "extrudr-durapro-pc-pbt-white-ral-9003",
       "brand": "extrudr",
       "material": "PC",
       "name": "DuraPro PC/PBT white | RAL 9003",
@@ -33826,7 +34522,7 @@
       "brand": "extrudr",
       "material": "PETG",
       "name": "PETG anthracite | RAL 7016",
-      "hex": "#2c2c2c",
+      "hex": "#292824",
       "searchText": "extrudr petg petg anthracite | ral 7016"
     },
     {
@@ -34078,6 +34774,102 @@
       "searchText": "extrudr petg petg yellow | ral 1023"
     },
     {
+      "id": "extrudr-xpetg-cf-black-ral-9017",
+      "brand": "extrudr",
+      "material": "PETG",
+      "name": "XPETG CF black | RAL 9017",
+      "hex": "#000000",
+      "searchText": "extrudr petg xpetg cf black | ral 9017"
+    },
+    {
+      "id": "extrudr-xpetg-matt-anthracite-ral-7016",
+      "brand": "extrudr",
+      "material": "PETG",
+      "name": "XPETG MATT anthracite | RAL 7016",
+      "hex": "#55555e",
+      "searchText": "extrudr petg xpetg matt anthracite | ral 7016"
+    },
+    {
+      "id": "extrudr-xpetg-matt-black-ral-9017",
+      "brand": "extrudr",
+      "material": "PETG",
+      "name": "XPETG MATT black | RAL 9017",
+      "hex": "#000000",
+      "searchText": "extrudr petg xpetg matt black | ral 9017"
+    },
+    {
+      "id": "extrudr-xpetg-matt-blue-ral-5003",
+      "brand": "extrudr",
+      "material": "PETG",
+      "name": "XPETG MATT blue | RAL 5003",
+      "hex": "#0353ba",
+      "searchText": "extrudr petg xpetg matt blue | ral 5003"
+    },
+    {
+      "id": "extrudr-xpetg-matt-metallic-ral-9023",
+      "brand": "extrudr",
+      "material": "PETG",
+      "name": "XPETG MATT metallic | RAL 9023",
+      "hex": "#6a6c6e",
+      "searchText": "extrudr petg xpetg matt metallic | ral 9023"
+    },
+    {
+      "id": "extrudr-xpetg-matt-military-green-ral-6003",
+      "brand": "extrudr",
+      "material": "PETG",
+      "name": "XPETG MATT military green | RAL 6003",
+      "hex": "#4c645b",
+      "searchText": "extrudr petg xpetg matt military green | ral 6003"
+    },
+    {
+      "id": "extrudr-xpetg-matt-orange-ral-2009",
+      "brand": "extrudr",
+      "material": "PETG",
+      "name": "XPETG MATT orange | RAL 2009",
+      "hex": "#ff9a14",
+      "searchText": "extrudr petg xpetg matt orange | ral 2009"
+    },
+    {
+      "id": "extrudr-xpetg-matt-red-ral-3001",
+      "brand": "extrudr",
+      "material": "PETG",
+      "name": "XPETG MATT red | RAL 3001",
+      "hex": "#e03f26",
+      "searchText": "extrudr petg xpetg matt red | ral 3001"
+    },
+    {
+      "id": "extrudr-xpetg-matt-white-ral-9003",
+      "brand": "extrudr",
+      "material": "PETG",
+      "name": "XPETG MATT white | RAL 9003",
+      "hex": "#ffffff",
+      "searchText": "extrudr petg xpetg matt white | ral 9003"
+    },
+    {
+      "id": "extrudr-xpetg-rec-black-ral-9017",
+      "brand": "extrudr",
+      "material": "PETG",
+      "name": "XPETG REC black | RAL 9017",
+      "hex": "#000000",
+      "searchText": "extrudr petg xpetg rec black | ral 9017"
+    },
+    {
+      "id": "extrudr-xpetg-rec-transparent",
+      "brand": "extrudr",
+      "material": "PETG",
+      "name": "XPETG REC transparent",
+      "hex": "#e4e7e5",
+      "searchText": "extrudr petg xpetg rec transparent"
+    },
+    {
+      "id": "extrudr-xpetg-rec-white-ral-9003",
+      "brand": "extrudr",
+      "material": "PETG",
+      "name": "XPETG REC white | RAL 9003",
+      "hex": "#ffffff",
+      "searchText": "extrudr petg xpetg rec white | ral 9003"
+    },
+    {
       "id": "extrudr-biofusion-arctic-white-ral-9003",
       "brand": "extrudr",
       "material": "PLA",
@@ -34214,6 +35006,14 @@
       "searchText": "extrudr pla greentec pro black | ral 9017"
     },
     {
+      "id": "extrudr-greentec-pro-cf-black-ral-9017",
+      "brand": "extrudr",
+      "material": "PLA",
+      "name": "GreenTEC Pro CF black | RAL 9017",
+      "hex": "#000000",
+      "searchText": "extrudr pla greentec pro cf black | ral 9017"
+    },
+    {
       "id": "extrudr-greentec-pro-nature-ral-1013",
       "brand": "extrudr",
       "material": "PLA",
@@ -34278,6 +35078,14 @@
       "searchText": "extrudr pla pla basic black | ral 9017"
     },
     {
+      "id": "extrudr-pla-basic-cf-black-ral-9017",
+      "brand": "extrudr",
+      "material": "PLA",
+      "name": "PLA Basic CF black | RAL 9017",
+      "hex": "#000000",
+      "searchText": "extrudr pla pla basic cf black | ral 9017"
+    },
+    {
       "id": "extrudr-pla-basic-cmyk-lithocyan-ral-6027",
       "brand": "extrudr",
       "material": "PLA",
@@ -34332,6 +35140,182 @@
       "name": "PLA Basic white | RAL 9003",
       "hex": "#ffffff",
       "searchText": "extrudr pla pla basic white | ral 9003"
+    },
+    {
+      "id": "extrudr-pla-hs-anthracite-ral-7016",
+      "brand": "extrudr",
+      "material": "PLA",
+      "name": "PLA HS anthracite | RAL 7016",
+      "hex": "#55555e",
+      "searchText": "extrudr pla pla hs anthracite | ral 7016"
+    },
+    {
+      "id": "extrudr-pla-hs-black-ral-9017",
+      "brand": "extrudr",
+      "material": "PLA",
+      "name": "PLA HS black | RAL 9017",
+      "hex": "#000000",
+      "searchText": "extrudr pla pla hs black | ral 9017"
+    },
+    {
+      "id": "extrudr-pla-hs-brown-ral-8007",
+      "brand": "extrudr",
+      "material": "PLA",
+      "name": "PLA HS brown | RAL 8007",
+      "hex": "#a47c48",
+      "searchText": "extrudr pla pla hs brown | ral 8007"
+    },
+    {
+      "id": "extrudr-pla-hs-grey-ral-7044",
+      "brand": "extrudr",
+      "material": "PLA",
+      "name": "PLA HS grey | RAL 7044",
+      "hex": "#c5c5bf",
+      "searchText": "extrudr pla pla hs grey | ral 7044"
+    },
+    {
+      "id": "extrudr-pla-hs-hellfire-red-ral-3024",
+      "brand": "extrudr",
+      "material": "PLA",
+      "name": "PLA HS hellfire red | RAL 3024",
+      "hex": "#ce5d4c",
+      "searchText": "extrudr pla pla hs hellfire red | ral 3024"
+    },
+    {
+      "id": "extrudr-pla-hs-light-blue-ral-5012",
+      "brand": "extrudr",
+      "material": "PLA",
+      "name": "PLA HS light blue | RAL 5012",
+      "hex": "#2e56f1",
+      "searchText": "extrudr pla pla hs light blue | ral 5012"
+    },
+    {
+      "id": "extrudr-pla-hs-metallic-ral-9023",
+      "brand": "extrudr",
+      "material": "PLA",
+      "name": "PLA HS metallic | RAL 9023",
+      "hex": "#6a6c6e",
+      "searchText": "extrudr pla pla hs metallic | ral 9023"
+    },
+    {
+      "id": "extrudr-pla-hs-military-beige-ral-1001",
+      "brand": "extrudr",
+      "material": "PLA",
+      "name": "PLA HS military beige | RAL 1001",
+      "hex": "#d4b6a3",
+      "searchText": "extrudr pla pla hs military beige | ral 1001"
+    },
+    {
+      "id": "extrudr-pla-hs-military-dark-green-ral-6009",
+      "brand": "extrudr",
+      "material": "PLA",
+      "name": "PLA HS military dark green | RAL 6009",
+      "hex": "#26392f",
+      "searchText": "extrudr pla pla hs military dark green | ral 6009"
+    },
+    {
+      "id": "extrudr-pla-hs-military-green-ral-6003",
+      "brand": "extrudr",
+      "material": "PLA",
+      "name": "PLA HS military green | RAL 6003",
+      "hex": "#4c645b",
+      "searchText": "extrudr pla pla hs military green | ral 6003"
+    },
+    {
+      "id": "extrudr-pla-hs-navy-blue-ral-5003",
+      "brand": "extrudr",
+      "material": "PLA",
+      "name": "PLA HS navy blue | RAL 5003",
+      "hex": "#0353ba",
+      "searchText": "extrudr pla pla hs navy blue | ral 5003"
+    },
+    {
+      "id": "extrudr-pla-hs-neon-green-ral-6038",
+      "brand": "extrudr",
+      "material": "PLA",
+      "name": "PLA HS neon green | RAL 6038",
+      "hex": "#9aed51",
+      "searchText": "extrudr pla pla hs neon green | ral 6038"
+    },
+    {
+      "id": "extrudr-pla-hs-neon-orange-ral-2005",
+      "brand": "extrudr",
+      "material": "PLA",
+      "name": "PLA HS neon orange | RAL 2005",
+      "hex": "#f67405",
+      "searchText": "extrudr pla pla hs neon orange | ral 2005"
+    },
+    {
+      "id": "extrudr-pla-hs-neon-yellow-ral-1026",
+      "brand": "extrudr",
+      "material": "PLA",
+      "name": "PLA HS neon yellow | RAL 1026",
+      "hex": "#fffb00",
+      "searchText": "extrudr pla pla hs neon yellow | ral 1026"
+    },
+    {
+      "id": "extrudr-pla-hs-orange-ral-2009",
+      "brand": "extrudr",
+      "material": "PLA",
+      "name": "PLA HS orange | RAL 2009",
+      "hex": "#ff9a14",
+      "searchText": "extrudr pla pla hs orange | ral 2009"
+    },
+    {
+      "id": "extrudr-pla-hs-pastel-blue-ral-240-80-20",
+      "brand": "extrudr",
+      "material": "PLA",
+      "name": "PLA HS pastel blue | RAL 240 80 20",
+      "hex": "#9ec3dd",
+      "searchText": "extrudr pla pla hs pastel blue | ral 240 80 20"
+    },
+    {
+      "id": "extrudr-pla-hs-pastel-green-ral-160-80-25",
+      "brand": "extrudr",
+      "material": "PLA",
+      "name": "PLA HS pastel green | RAL 160 80 25",
+      "hex": "#95d2b8",
+      "searchText": "extrudr pla pla hs pastel green | ral 160 80 25"
+    },
+    {
+      "id": "extrudr-pla-hs-red-ral-3001",
+      "brand": "extrudr",
+      "material": "PLA",
+      "name": "PLA HS red | RAL 3001",
+      "hex": "#e03f26",
+      "searchText": "extrudr pla pla hs red | ral 3001"
+    },
+    {
+      "id": "extrudr-pla-hs-silver-ral-9006",
+      "brand": "extrudr",
+      "material": "PLA",
+      "name": "PLA HS silver | RAL 9006",
+      "hex": "#a8b0bd",
+      "searchText": "extrudr pla pla hs silver | ral 9006"
+    },
+    {
+      "id": "extrudr-pla-hs-turquoise-ral-5018",
+      "brand": "extrudr",
+      "material": "PLA",
+      "name": "PLA HS turquoise | RAL 5018",
+      "hex": "#3292b2",
+      "searchText": "extrudr pla pla hs turquoise | ral 5018"
+    },
+    {
+      "id": "extrudr-pla-hs-white-ral-9003",
+      "brand": "extrudr",
+      "material": "PLA",
+      "name": "PLA HS white | RAL 9003",
+      "hex": "#ffffff",
+      "searchText": "extrudr pla pla hs white | ral 9003"
+    },
+    {
+      "id": "extrudr-pla-hs-yellow-ral-1023",
+      "brand": "extrudr",
+      "material": "PLA",
+      "name": "PLA HS yellow | RAL 1023",
+      "hex": "#ffd342",
+      "searchText": "extrudr pla pla hs yellow | ral 1023"
     },
     {
       "id": "extrudr-pla-nx2-matt",
@@ -34422,6 +35406,14 @@
       "searchText": "extrudr pla pla nx2 matt military beige | ral 1001"
     },
     {
+      "id": "extrudr-pla-nx2-matt-military-dark-green-ral-6009",
+      "brand": "extrudr",
+      "material": "PLA",
+      "name": "PLA NX2 MATT military dark green | RAL 6009",
+      "hex": "#26392f",
+      "searchText": "extrudr pla pla nx2 matt military dark green | ral 6009"
+    },
+    {
       "id": "extrudr-pla-nx2-matt-military-green-ral-6003",
       "brand": "extrudr",
       "material": "PLA",
@@ -34444,6 +35436,14 @@
       "name": "PLA NX2 MATT neon orange | RAL 2005",
       "hex": "#f67405",
       "searchText": "extrudr pla pla nx2 matt neon orange | ral 2005"
+    },
+    {
+      "id": "extrudr-pla-nx2-matt-neon-yellow-ral-1026",
+      "brand": "extrudr",
+      "material": "PLA",
+      "name": "PLA NX2 MATT neon yellow | RAL 1026",
+      "hex": "#e4ff33",
+      "searchText": "extrudr pla pla nx2 matt neon yellow | ral 1026"
     },
     {
       "id": "extrudr-pla-nx2-matt-orange-ral-2009",
@@ -34502,6 +35502,22 @@
       "searchText": "extrudr pla pla nx2 matt yellow | ral 1023"
     },
     {
+      "id": "extrudr-pla-tough-black-ral-9017",
+      "brand": "extrudr",
+      "material": "PLA",
+      "name": "PLA Tough black | RAL 9017",
+      "hex": "#000000",
+      "searchText": "extrudr pla pla tough black | ral 9017"
+    },
+    {
+      "id": "extrudr-pla-tough-white-ral-9003",
+      "brand": "extrudr",
+      "material": "PLA",
+      "name": "PLA Tough white | RAL 9003",
+      "hex": "#ffffff",
+      "searchText": "extrudr pla pla tough white | ral 9003"
+    },
+    {
       "id": "extrudr-wood-dark-wood-ral-8007",
       "brand": "extrudr",
       "material": "PLA",
@@ -34532,6 +35548,22 @@
       "name": "FLEX Hard CF black | RAL 9017",
       "hex": "#000000",
       "searchText": "extrudr tpu flex hard cf black | ral 9017"
+    },
+    {
+      "id": "extrudr-flex-hard-pro-black-ral-9017",
+      "brand": "extrudr",
+      "material": "TPU",
+      "name": "FLEX Hard Pro black | RAL 9017",
+      "hex": "#000000",
+      "searchText": "extrudr tpu flex hard pro black | ral 9017"
+    },
+    {
+      "id": "extrudr-flex-hard-pro-white-ral-9003",
+      "brand": "extrudr",
+      "material": "TPU",
+      "name": "FLEX Hard Pro white | RAL 9003",
+      "hex": "#ffffff",
+      "searchText": "extrudr tpu flex hard pro white | ral 9003"
     },
     {
       "id": "extrudr-flex-hard-transparent",
@@ -34582,6 +35614,54 @@
       "searchText": "extrudr tpu flex medium hellfire red | ral 3024"
     },
     {
+      "id": "extrudr-flex-medium-matt-anthracite-ral-7016",
+      "brand": "extrudr",
+      "material": "TPU",
+      "name": "FLEX Medium MATT anthracite | RAL 7016",
+      "hex": "#55555e",
+      "searchText": "extrudr tpu flex medium matt anthracite | ral 7016"
+    },
+    {
+      "id": "extrudr-flex-medium-matt-black-ral-9017",
+      "brand": "extrudr",
+      "material": "TPU",
+      "name": "FLEX Medium MATT black | RAL 9017",
+      "hex": "#000000",
+      "searchText": "extrudr tpu flex medium matt black | ral 9017"
+    },
+    {
+      "id": "extrudr-flex-medium-matt-navy-blue-ral-5003",
+      "brand": "extrudr",
+      "material": "TPU",
+      "name": "FLEX Medium MATT navy blue | RAL 5003",
+      "hex": "#0353ba",
+      "searchText": "extrudr tpu flex medium matt navy blue | ral 5003"
+    },
+    {
+      "id": "extrudr-flex-medium-matt-red-ral-3001",
+      "brand": "extrudr",
+      "material": "TPU",
+      "name": "FLEX Medium MATT red | RAL 3001",
+      "hex": "#e03f26",
+      "searchText": "extrudr tpu flex medium matt red | ral 3001"
+    },
+    {
+      "id": "extrudr-flex-medium-matt-silver-ral-9006",
+      "brand": "extrudr",
+      "material": "TPU",
+      "name": "FLEX Medium MATT silver | RAL 9006",
+      "hex": "#a8b0bd",
+      "searchText": "extrudr tpu flex medium matt silver | ral 9006"
+    },
+    {
+      "id": "extrudr-flex-medium-matt-white-ral-9003",
+      "brand": "extrudr",
+      "material": "TPU",
+      "name": "FLEX Medium MATT white | RAL 9003",
+      "hex": "#ffffff",
+      "searchText": "extrudr tpu flex medium matt white | ral 9003"
+    },
+    {
       "id": "extrudr-flex-medium-navy-blue-ral-5003",
       "brand": "extrudr",
       "material": "TPU",
@@ -34594,7 +35674,7 @@
       "brand": "extrudr",
       "material": "TPU",
       "name": "FLEX Medium neon green | RAL 6038",
-      "hex": "#69ee00",
+      "hex": "#9aed51",
       "searchText": "extrudr tpu flex medium neon green | ral 6038"
     },
     {
@@ -77862,12 +78942,28 @@
       "searchText": "prusament asa asa signal white"
     },
     {
+      "id": "prusament-pa11-black",
+      "brand": "Prusament",
+      "material": "PA11",
+      "name": "PA11 Black",
+      "hex": "#181511",
+      "searchText": "prusament pa11 pa11 black"
+    },
+    {
       "id": "prusament-pa11-carbon-fiber-black",
       "brand": "Prusament",
       "material": "PA11",
       "name": "PA11 Carbon Fiber Black",
       "hex": "#292929",
       "searchText": "prusament pa11 pa11 carbon fiber black"
+    },
+    {
+      "id": "prusament-pa11-grey",
+      "brand": "Prusament",
+      "material": "PA11",
+      "name": "PA11 Grey",
+      "hex": "#d3d3d3",
+      "searchText": "prusament pa11 pa11 grey"
     },
     {
       "id": "prusament-pa11-natural",
@@ -78268,6 +79364,14 @@
       "name": "PLA Azure Blue",
       "hex": "#008fbe",
       "searchText": "prusament pla pla azure blue"
+    },
+    {
+      "id": "prusament-pla-blend-coppercabana",
+      "brand": "Prusament",
+      "material": "PLA",
+      "name": "PLA Blend Coppercabana",
+      "hex": "#ae7f69",
+      "searchText": "prusament pla pla blend coppercabana"
     },
     {
       "id": "prusament-pla-blend-lime-green",
@@ -106294,6 +107398,926 @@
       "searchText": "tinmorry tpu tpu 95a yellow"
     },
     {
+      "id": "tm3d-abs-black",
+      "brand": "TM3D",
+      "material": "ABS",
+      "name": "ABS - Black",
+      "hex": "#313132",
+      "searchText": "tm3d abs abs - black"
+    },
+    {
+      "id": "tm3d-abs-blue",
+      "brand": "TM3D",
+      "material": "ABS",
+      "name": "ABS - Blue",
+      "hex": "#005b8d",
+      "searchText": "tm3d abs abs - blue"
+    },
+    {
+      "id": "tm3d-abs-chocolate-brown",
+      "brand": "TM3D",
+      "material": "ABS",
+      "name": "ABS - Chocolate Brown",
+      "hex": "#543f33",
+      "searchText": "tm3d abs abs - chocolate brown"
+    },
+    {
+      "id": "tm3d-abs-clover-green",
+      "brand": "TM3D",
+      "material": "ABS",
+      "name": "ABS - Clover Green",
+      "hex": "#086c43",
+      "searchText": "tm3d abs abs - clover green"
+    },
+    {
+      "id": "tm3d-abs-cream",
+      "brand": "TM3D",
+      "material": "ABS",
+      "name": "ABS - Cream",
+      "hex": "#e8ded0",
+      "searchText": "tm3d abs abs - cream"
+    },
+    {
+      "id": "tm3d-abs-dark-red",
+      "brand": "TM3D",
+      "material": "ABS",
+      "name": "ABS - Dark Red",
+      "hex": "#a13a2e",
+      "searchText": "tm3d abs abs - dark red"
+    },
+    {
+      "id": "tm3d-abs-green",
+      "brand": "TM3D",
+      "material": "ABS",
+      "name": "ABS - Green",
+      "hex": "#1e8658",
+      "searchText": "tm3d abs abs - green"
+    },
+    {
+      "id": "tm3d-abs-iron-grey",
+      "brand": "TM3D",
+      "material": "ABS",
+      "name": "ABS - Iron Grey",
+      "hex": "#51585b",
+      "searchText": "tm3d abs abs - iron grey"
+    },
+    {
+      "id": "tm3d-abs-jade-green",
+      "brand": "TM3D",
+      "material": "ABS",
+      "name": "ABS - Jade Green",
+      "hex": "#88aea8",
+      "searchText": "tm3d abs abs - jade green"
+    },
+    {
+      "id": "tm3d-abs-light-blue",
+      "brand": "TM3D",
+      "material": "ABS",
+      "name": "ABS - Light Blue",
+      "hex": "#5bb3cc",
+      "searchText": "tm3d abs abs - light blue"
+    },
+    {
+      "id": "tm3d-abs-light-pink",
+      "brand": "TM3D",
+      "material": "ABS",
+      "name": "ABS - Light Pink",
+      "hex": "#e08dad",
+      "searchText": "tm3d abs abs - light pink"
+    },
+    {
+      "id": "tm3d-abs-mimosa-yellow",
+      "brand": "TM3D",
+      "material": "ABS",
+      "name": "ABS - Mimosa Yellow",
+      "hex": "#ddc335",
+      "searchText": "tm3d abs abs - mimosa yellow"
+    },
+    {
+      "id": "tm3d-abs-natural",
+      "brand": "TM3D",
+      "material": "ABS",
+      "name": "ABS - Natural",
+      "hex": "#e5dec4",
+      "searchText": "tm3d abs abs - natural"
+    },
+    {
+      "id": "tm3d-abs-orange",
+      "brand": "TM3D",
+      "material": "ABS",
+      "name": "ABS - Orange",
+      "hex": "#ce5924",
+      "searchText": "tm3d abs abs - orange"
+    },
+    {
+      "id": "tm3d-abs-pearl-gold",
+      "brand": "TM3D",
+      "material": "ABS",
+      "name": "ABS - Pearl Gold",
+      "hex": "#8d7049",
+      "searchText": "tm3d abs abs - pearl gold"
+    },
+    {
+      "id": "tm3d-abs-pink",
+      "brand": "TM3D",
+      "material": "ABS",
+      "name": "ABS - Pink",
+      "hex": "#bb4c7c",
+      "searchText": "tm3d abs abs - pink"
+    },
+    {
+      "id": "tm3d-abs-red",
+      "brand": "TM3D",
+      "material": "ABS",
+      "name": "ABS - Red",
+      "hex": "#b7231e",
+      "searchText": "tm3d abs abs - red"
+    },
+    {
+      "id": "tm3d-abs-silver",
+      "brand": "TM3D",
+      "material": "ABS",
+      "name": "ABS - Silver",
+      "hex": "#8b8c93",
+      "searchText": "tm3d abs abs - silver"
+    },
+    {
+      "id": "tm3d-abs-sky-blue",
+      "brand": "TM3D",
+      "material": "ABS",
+      "name": "ABS - Sky Blue",
+      "hex": "#0085b3",
+      "searchText": "tm3d abs abs - sky blue"
+    },
+    {
+      "id": "tm3d-abs-ultra-green",
+      "brand": "TM3D",
+      "material": "ABS",
+      "name": "ABS - Ultra Green",
+      "hex": "#7db848",
+      "searchText": "tm3d abs abs - ultra green"
+    },
+    {
+      "id": "tm3d-abs-violet",
+      "brand": "TM3D",
+      "material": "ABS",
+      "name": "ABS - Violet",
+      "hex": "#6c5184",
+      "searchText": "tm3d abs abs - violet"
+    },
+    {
+      "id": "tm3d-abs-white",
+      "brand": "TM3D",
+      "material": "ABS",
+      "name": "ABS - White",
+      "hex": "#e6e5ea",
+      "searchText": "tm3d abs abs - white"
+    },
+    {
+      "id": "tm3d-abs-yellow",
+      "brand": "TM3D",
+      "material": "ABS",
+      "name": "ABS - Yellow",
+      "hex": "#cc9a00",
+      "searchText": "tm3d abs abs - yellow"
+    },
+    {
+      "id": "tm3d-abs-yellow-gold",
+      "brand": "TM3D",
+      "material": "ABS",
+      "name": "ABS - Yellow Gold",
+      "hex": "#dd9e26",
+      "searchText": "tm3d abs abs - yellow gold"
+    },
+    {
+      "id": "tm3d-asa-basil-green",
+      "brand": "TM3D",
+      "material": "ASA",
+      "name": "ASA - Basil Green",
+      "hex": "#566436",
+      "searchText": "tm3d asa asa - basil green"
+    },
+    {
+      "id": "tm3d-asa-black",
+      "brand": "TM3D",
+      "material": "ASA",
+      "name": "ASA - Black",
+      "hex": "#313132",
+      "searchText": "tm3d asa asa - black"
+    },
+    {
+      "id": "tm3d-asa-dark-grey",
+      "brand": "TM3D",
+      "material": "ASA",
+      "name": "ASA - Dark Grey",
+      "hex": "#5d5d5c",
+      "searchText": "tm3d asa asa - dark grey"
+    },
+    {
+      "id": "tm3d-asa-light-grey",
+      "brand": "TM3D",
+      "material": "ASA",
+      "name": "ASA - Light Grey",
+      "hex": "#c3c4c1",
+      "searchText": "tm3d asa asa - light grey"
+    },
+    {
+      "id": "tm3d-asa-white",
+      "brand": "TM3D",
+      "material": "ASA",
+      "name": "ASA - White",
+      "hex": "#e6e5ea",
+      "searchText": "tm3d asa asa - white"
+    },
+    {
+      "id": "tm3d-hips-natural",
+      "brand": "TM3D",
+      "material": "HIPS",
+      "name": "HIPS - Natural",
+      "hex": "#e6e5ea",
+      "searchText": "tm3d hips hips - natural"
+    },
+    {
+      "id": "tm3d-hips-traffic-black",
+      "brand": "TM3D",
+      "material": "HIPS",
+      "name": "HIPS - Traffic Black",
+      "hex": "#313132",
+      "searchText": "tm3d hips hips - traffic black"
+    },
+    {
+      "id": "tm3d-hips-white",
+      "brand": "TM3D",
+      "material": "HIPS",
+      "name": "HIPS - White",
+      "hex": "#e6e5ea",
+      "searchText": "tm3d hips hips - white"
+    },
+    {
+      "id": "tm3d-polycarbonaat-pc-natural",
+      "brand": "TM3D",
+      "material": "PC",
+      "name": "Polycarbonaat (PC) - Natural",
+      "hex": "#e6e5ea",
+      "searchText": "tm3d pc polycarbonaat (pc) - natural"
+    },
+    {
+      "id": "tm3d-peek-natural",
+      "brand": "TM3D",
+      "material": "PEEK",
+      "name": "PEEK - Natural",
+      "hex": "#afa07e",
+      "searchText": "tm3d peek peek - natural"
+    },
+    {
+      "id": "tm3d-pei-natural",
+      "brand": "TM3D",
+      "material": "PEI",
+      "name": "PEI - Natural",
+      "hex": "#afa07e",
+      "searchText": "tm3d pei pei - natural"
+    },
+    {
+      "id": "tm3d-petg-black",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Black",
+      "hex": "#3e3e3f",
+      "searchText": "tm3d petg petg - black"
+    },
+    {
+      "id": "tm3d-petg-blue",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Blue",
+      "hex": "#006793",
+      "searchText": "tm3d petg petg - blue"
+    },
+    {
+      "id": "tm3d-petg-brass",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Brass",
+      "hex": "#727663",
+      "searchText": "tm3d petg petg - brass"
+    },
+    {
+      "id": "tm3d-petg-bronze",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Bronze",
+      "hex": "#735747",
+      "searchText": "tm3d petg petg - bronze"
+    },
+    {
+      "id": "tm3d-petg-chocolate-brown",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Chocolate Brown",
+      "hex": "#524038",
+      "searchText": "tm3d petg petg - chocolate brown"
+    },
+    {
+      "id": "tm3d-petg-clover-green",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Clover Green",
+      "hex": "#086c43",
+      "searchText": "tm3d petg petg - clover green"
+    },
+    {
+      "id": "tm3d-petg-cream",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Cream",
+      "hex": "#e3ded2",
+      "searchText": "tm3d petg petg - cream"
+    },
+    {
+      "id": "tm3d-petg-fluorescent-orange",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Fluorescent Orange",
+      "hex": "#cf452e",
+      "searchText": "tm3d petg petg - fluorescent orange"
+    },
+    {
+      "id": "tm3d-petg-green",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Green",
+      "hex": "#1e8658",
+      "searchText": "tm3d petg petg - green"
+    },
+    {
+      "id": "tm3d-petg-iron-grey",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Iron Grey",
+      "hex": "#51585b",
+      "searchText": "tm3d petg petg - iron grey"
+    },
+    {
+      "id": "tm3d-petg-light-blue",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Light Blue",
+      "hex": "#52b2c3",
+      "searchText": "tm3d petg petg - light blue"
+    },
+    {
+      "id": "tm3d-petg-light-grey",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Light Grey",
+      "hex": "#c3c4c1",
+      "searchText": "tm3d petg petg - light grey"
+    },
+    {
+      "id": "tm3d-petg-light-pink",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Light Pink",
+      "hex": "#e0929e",
+      "searchText": "tm3d petg petg - light pink"
+    },
+    {
+      "id": "tm3d-petg-mimosa-yellow",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Mimosa Yellow",
+      "hex": "#d9ca4a",
+      "searchText": "tm3d petg petg - mimosa yellow"
+    },
+    {
+      "id": "tm3d-petg-orange",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Orange",
+      "hex": "#e1642f",
+      "searchText": "tm3d petg petg - orange"
+    },
+    {
+      "id": "tm3d-petg-red",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Red",
+      "hex": "#ca4240",
+      "searchText": "tm3d petg petg - red"
+    },
+    {
+      "id": "tm3d-petg-shifting-blue",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Shifting Blue",
+      "hex": "#54606e",
+      "searchText": "tm3d petg petg - shifting blue"
+    },
+    {
+      "id": "tm3d-petg-silver",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Silver",
+      "hex": "#8b8c93",
+      "searchText": "tm3d petg petg - silver"
+    },
+    {
+      "id": "tm3d-petg-sky-blue",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Sky Blue",
+      "hex": "#0099c4",
+      "searchText": "tm3d petg petg - sky blue"
+    },
+    {
+      "id": "tm3d-petg-smokey-black",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Smokey Black",
+      "hex": "#090909",
+      "searchText": "tm3d petg petg - smokey black"
+    },
+    {
+      "id": "tm3d-petg-transparent",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Transparent",
+      "hex": "#ffffff",
+      "searchText": "tm3d petg petg - transparent"
+    },
+    {
+      "id": "tm3d-petg-transparent-blue",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Transparent Blue",
+      "hex": "#4f74a4",
+      "searchText": "tm3d petg petg - transparent blue"
+    },
+    {
+      "id": "tm3d-petg-transparent-green",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Transparent Green",
+      "hex": "#679c58",
+      "searchText": "tm3d petg petg - transparent green"
+    },
+    {
+      "id": "tm3d-petg-transparent-magenta",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Transparent Magenta",
+      "hex": "#ad9aab",
+      "searchText": "tm3d petg petg - transparent magenta"
+    },
+    {
+      "id": "tm3d-petg-transparent-orange",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Transparent Orange",
+      "hex": "#dc5a4a",
+      "searchText": "tm3d petg petg - transparent orange"
+    },
+    {
+      "id": "tm3d-petg-transparent-red",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Transparent Red",
+      "hex": "#a13a2e",
+      "searchText": "tm3d petg petg - transparent red"
+    },
+    {
+      "id": "tm3d-petg-transparent-yellow",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Transparent Yellow",
+      "hex": "#a0ad18",
+      "searchText": "tm3d petg petg - transparent yellow"
+    },
+    {
+      "id": "tm3d-petg-ultra-green",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Ultra Green",
+      "hex": "#7db848",
+      "searchText": "tm3d petg petg - ultra green"
+    },
+    {
+      "id": "tm3d-petg-ultramarine-blue",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Ultramarine Blue",
+      "hex": "#345a9a",
+      "searchText": "tm3d petg petg - ultramarine blue"
+    },
+    {
+      "id": "tm3d-petg-violet",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Violet",
+      "hex": "#6f508a",
+      "searchText": "tm3d petg petg - violet"
+    },
+    {
+      "id": "tm3d-petg-white",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - White",
+      "hex": "#dfdee9",
+      "searchText": "tm3d petg petg - white"
+    },
+    {
+      "id": "tm3d-petg-yellow",
+      "brand": "TM3D",
+      "material": "PETG",
+      "name": "PETG - Yellow",
+      "hex": "#ddac2c",
+      "searchText": "tm3d petg petg - yellow"
+    },
+    {
+      "id": "tm3d-pla-wood",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA - Wood",
+      "hex": "#f7e1b8",
+      "searchText": "tm3d pla pla - wood"
+    },
+    {
+      "id": "tm3d-pla-antimicrobial-black",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Antimicrobial - Black",
+      "hex": "#313132",
+      "searchText": "tm3d pla pla antimicrobial - black"
+    },
+    {
+      "id": "tm3d-pla-antimicrobial-blue",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Antimicrobial - Blue",
+      "hex": "#005b8d",
+      "searchText": "tm3d pla pla antimicrobial - blue"
+    },
+    {
+      "id": "tm3d-pla-antimicrobial-grey",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Antimicrobial - Grey",
+      "hex": "#5d5d5c",
+      "searchText": "tm3d pla pla antimicrobial - grey"
+    },
+    {
+      "id": "tm3d-pla-antimicrobial-red",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Antimicrobial - Red",
+      "hex": "#b7231e",
+      "searchText": "tm3d pla pla antimicrobial - red"
+    },
+    {
+      "id": "tm3d-pla-antimicrobial-white",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Antimicrobial - White",
+      "hex": "#e6e5ea",
+      "searchText": "tm3d pla pla antimicrobial - white"
+    },
+    {
+      "id": "tm3d-pla-flex-black",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA FLEX - Black",
+      "hex": "#313132",
+      "searchText": "tm3d pla pla flex - black"
+    },
+    {
+      "id": "tm3d-pla-flex-blue",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA FLEX - Blue",
+      "hex": "#005b8d",
+      "searchText": "tm3d pla pla flex - blue"
+    },
+    {
+      "id": "tm3d-pla-flex-green",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA FLEX - Green",
+      "hex": "#1e8658",
+      "searchText": "tm3d pla pla flex - green"
+    },
+    {
+      "id": "tm3d-pla-flex-red",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA FLEX - Red",
+      "hex": "#a13a2e",
+      "searchText": "tm3d pla pla flex - red"
+    },
+    {
+      "id": "tm3d-pla-flex-terracotta",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA FLEX - Terracotta",
+      "hex": "#924129",
+      "searchText": "tm3d pla pla flex - terracotta"
+    },
+    {
+      "id": "tm3d-pla-flex-white",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA FLEX - White",
+      "hex": "#e6e5ea",
+      "searchText": "tm3d pla pla flex - white"
+    },
+    {
+      "id": "tm3d-pla-galaxy-20-black",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Galaxy 2.0 - Black",
+      "hex": "#313132",
+      "searchText": "tm3d pla pla galaxy 2.0 - black"
+    },
+    {
+      "id": "tm3d-pla-mat-black",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Mat - Black",
+      "hex": "#313132",
+      "searchText": "tm3d pla pla mat - black"
+    },
+    {
+      "id": "tm3d-pla-mat-blue",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Mat - Blue",
+      "hex": "#005b8d",
+      "searchText": "tm3d pla pla mat - blue"
+    },
+    {
+      "id": "tm3d-pla-mat-chocolate-brown",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Mat - Chocolate Brown",
+      "hex": "#543f33",
+      "searchText": "tm3d pla pla mat - chocolate brown"
+    },
+    {
+      "id": "tm3d-pla-mat-green",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Mat - Green",
+      "hex": "#1e8658",
+      "searchText": "tm3d pla pla mat - green"
+    },
+    {
+      "id": "tm3d-pla-mat-grey-olive",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Mat - Grey Olive",
+      "hex": "#575043",
+      "searchText": "tm3d pla pla mat - grey olive"
+    },
+    {
+      "id": "tm3d-pla-mat-jade-green",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Mat - Jade Green",
+      "hex": "#88aea8",
+      "searchText": "tm3d pla pla mat - jade green"
+    },
+    {
+      "id": "tm3d-pla-mat-moss-grey",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Mat - Moss Grey",
+      "hex": "#585649",
+      "searchText": "tm3d pla pla mat - moss grey"
+    },
+    {
+      "id": "tm3d-pla-mat-mouse-grey",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Mat - Mouse Grey",
+      "hex": "#5d5d5c",
+      "searchText": "tm3d pla pla mat - mouse grey"
+    },
+    {
+      "id": "tm3d-pla-mat-ocher-brown",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Mat - Ocher Brown",
+      "hex": "#9b6130",
+      "searchText": "tm3d pla pla mat - ocher brown"
+    },
+    {
+      "id": "tm3d-pla-mat-purple",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Mat - Purple",
+      "hex": "#84679c",
+      "searchText": "tm3d pla pla mat - purple"
+    },
+    {
+      "id": "tm3d-pla-mat-red",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Mat - Red",
+      "hex": "#b7231e",
+      "searchText": "tm3d pla pla mat - red"
+    },
+    {
+      "id": "tm3d-pla-mat-squirrel-grey",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Mat - Squirrel Grey",
+      "hex": "#4f575b",
+      "searchText": "tm3d pla pla mat - squirrel grey"
+    },
+    {
+      "id": "tm3d-pla-mat-terracotta",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Mat - Terracotta",
+      "hex": "#924129",
+      "searchText": "tm3d pla pla mat - terracotta"
+    },
+    {
+      "id": "tm3d-pla-mat-white",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Mat - White",
+      "hex": "#e6e5ea",
+      "searchText": "tm3d pla pla mat - white"
+    },
+    {
+      "id": "tm3d-pla-silk-black",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Silk+ Black",
+      "hex": "#313132",
+      "searchText": "tm3d pla pla silk+ black"
+    },
+    {
+      "id": "tm3d-pla-silk-blue",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Silk+ Blue",
+      "hex": "#005b8d",
+      "searchText": "tm3d pla pla silk+ blue"
+    },
+    {
+      "id": "tm3d-pla-silk-bronze",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Silk+ Bronze",
+      "hex": "#775640",
+      "searchText": "tm3d pla pla silk+ bronze"
+    },
+    {
+      "id": "tm3d-pla-silk-candy-red",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Silk+ Candy Red",
+      "hex": "#a13a2e",
+      "searchText": "tm3d pla pla silk+ candy red"
+    },
+    {
+      "id": "tm3d-pla-silk-gold",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Silk+ Gold",
+      "hex": "#dd9e26",
+      "searchText": "tm3d pla pla silk+ gold"
+    },
+    {
+      "id": "tm3d-pla-silk-green",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Silk+ Green",
+      "hex": "#1e8658",
+      "searchText": "tm3d pla pla silk+ green"
+    },
+    {
+      "id": "tm3d-pla-silk-pink",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Silk+ Pink",
+      "hex": "#bb4c7c",
+      "searchText": "tm3d pla pla silk+ pink"
+    },
+    {
+      "id": "tm3d-pla-silk-silver",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Silk+ Silver",
+      "hex": "#8b8c93",
+      "searchText": "tm3d pla pla silk+ silver"
+    },
+    {
+      "id": "tm3d-pla-silk-white",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Silk+ White",
+      "hex": "#e6e5ea",
+      "searchText": "tm3d pla pla silk+ white"
+    },
+    {
+      "id": "tm3d-pla-silk-yellow",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Silk+ Yellow",
+      "hex": "#cc9a00",
+      "searchText": "tm3d pla pla silk+ yellow"
+    },
+    {
+      "id": "tm3d-pla-tough-blue",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Tough - Blue",
+      "hex": "#005b8d",
+      "searchText": "tm3d pla pla tough - blue"
+    },
+    {
+      "id": "tm3d-pla-tough-green",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Tough - Green",
+      "hex": "#1e8658",
+      "searchText": "tm3d pla pla tough - green"
+    },
+    {
+      "id": "tm3d-pla-tough-red",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Tough - Red",
+      "hex": "#b7231e",
+      "searchText": "tm3d pla pla tough - red"
+    },
+    {
+      "id": "tm3d-pla-tough-signal-white",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Tough - Signal White",
+      "hex": "#e6e5ea",
+      "searchText": "tm3d pla pla tough - signal white"
+    },
+    {
+      "id": "tm3d-pla-tough-traffic-black",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Tough - Traffic Black",
+      "hex": "#313132",
+      "searchText": "tm3d pla pla tough - traffic black"
+    },
+    {
+      "id": "tm3d-pla-transparent-black",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Transparent - Black",
+      "hex": "#313132",
+      "searchText": "tm3d pla pla transparent - black"
+    },
+    {
+      "id": "tm3d-pla-transparent-blue",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Transparent - Blue",
+      "hex": "#005b8d",
+      "searchText": "tm3d pla pla transparent - blue"
+    },
+    {
+      "id": "tm3d-pla-transparent-green",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Transparent - Green",
+      "hex": "#1e8658",
+      "searchText": "tm3d pla pla transparent - green"
+    },
+    {
+      "id": "tm3d-pla-transparent-orange",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Transparent - Orange",
+      "hex": "#ce5924",
+      "searchText": "tm3d pla pla transparent - orange"
+    },
+    {
+      "id": "tm3d-pla-transparent-red",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Transparent - Red",
+      "hex": "#b7231e",
+      "searchText": "tm3d pla pla transparent - red"
+    },
+    {
+      "id": "tm3d-pla-transparent-yellow",
+      "brand": "TM3D",
+      "material": "PLA",
+      "name": "PLA Transparent - Yellow",
+      "hex": "#cc9a00",
+      "searchText": "tm3d pla pla transparent - yellow"
+    },
+    {
       "id": "tm3d-pla-basin-green",
       "brand": "TM3D",
       "material": "PLA",
@@ -106588,6 +108612,46 @@
       "name": "PLA-Yellow Gold",
       "hex": "#dd9e26",
       "searchText": "tm3d pla pla-yellow gold"
+    },
+    {
+      "id": "tm3d-pva-natural",
+      "brand": "TM3D",
+      "material": "PVA",
+      "name": "PVA - Natural",
+      "hex": "#afa07e",
+      "searchText": "tm3d pva pva - natural"
+    },
+    {
+      "id": "tm3d-tpu-blue",
+      "brand": "TM3D",
+      "material": "TPU",
+      "name": "TPU - Blue",
+      "hex": "#005b8d",
+      "searchText": "tm3d tpu tpu - blue"
+    },
+    {
+      "id": "tm3d-tpu-signal-white",
+      "brand": "TM3D",
+      "material": "TPU",
+      "name": "TPU - Signal White",
+      "hex": "#e6e5ea",
+      "searchText": "tm3d tpu tpu - signal white"
+    },
+    {
+      "id": "tm3d-tpu-traffic-black",
+      "brand": "TM3D",
+      "material": "TPU",
+      "name": "TPU - Traffic Black",
+      "hex": "#313132",
+      "searchText": "tm3d tpu tpu - traffic black"
+    },
+    {
+      "id": "tm3d-tpu-traffic-red",
+      "brand": "TM3D",
+      "material": "TPU",
+      "name": "TPU - Traffic Red",
+      "hex": "#b7231e",
+      "searchText": "tm3d tpu tpu - traffic red"
     },
     {
       "id": "verbatim-abs-aluminium-grey",
