@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-11-09T04:24:42.316Z",
-  "entryCount": 14086,
+  "lastSynced": "2026-11-10T04:22:43.788Z",
+  "entryCount": 14087,
   "entries": [
     {
       "id": "3d-fuel-pro-abs-brightest-white",
@@ -78876,6 +78876,14 @@
       "name": "ASA Jet Black",
       "hex": "#292824",
       "searchText": "prusament asa asa jet black"
+    },
+    {
+      "id": "prusament-asa-light-grey",
+      "brand": "Prusament",
+      "material": "ASA",
+      "name": "ASA Light Grey",
+      "hex": "#d4d1cf",
+      "searchText": "prusament asa asa light grey"
     },
     {
       "id": "prusament-asa-lipstick-red",
