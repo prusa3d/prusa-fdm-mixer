@@ -2,9 +2,1289 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-11-10T04:22:43.788Z",
-  "entryCount": 14087,
+  "lastSynced": "2026-11-11T04:23:20.676Z",
+  "entryCount": 14622,
   "entries": [
+    {
+      "id": "123-3d-abs-bruin",
+      "brand": "123-3D",
+      "material": "ABS",
+      "name": "ABS Bruin",
+      "hex": "#422d00",
+      "searchText": "123-3d abs abs bruin"
+    },
+    {
+      "id": "123-3d-abs-donkergrijs",
+      "brand": "123-3D",
+      "material": "ABS",
+      "name": "ABS Donkergrijs",
+      "hex": "#75787b",
+      "searchText": "123-3d abs abs donkergrijs"
+    },
+    {
+      "id": "123-3d-abs-geel",
+      "brand": "123-3D",
+      "material": "ABS",
+      "name": "ABS Geel",
+      "hex": "#ffff00",
+      "searchText": "123-3d abs abs geel"
+    },
+    {
+      "id": "123-3d-abs-grijs",
+      "brand": "123-3D",
+      "material": "ABS",
+      "name": "ABS Grijs",
+      "hex": "#4f4f4f",
+      "searchText": "123-3d abs abs grijs"
+    },
+    {
+      "id": "123-3d-abs-groen",
+      "brand": "123-3D",
+      "material": "ABS",
+      "name": "ABS Groen",
+      "hex": "#14525f",
+      "searchText": "123-3d abs abs groen"
+    },
+    {
+      "id": "123-3d-abs-hemelsblauw",
+      "brand": "123-3D",
+      "material": "ABS",
+      "name": "ABS Hemelsblauw",
+      "hex": "#0080ff",
+      "searchText": "123-3d abs abs hemelsblauw"
+    },
+    {
+      "id": "123-3d-abs-neutraal",
+      "brand": "123-3D",
+      "material": "ABS",
+      "name": "ABS Neutraal",
+      "hex": "#ffffff",
+      "searchText": "123-3d abs abs neutraal"
+    },
+    {
+      "id": "123-3d-abs-oranje",
+      "brand": "123-3D",
+      "material": "ABS",
+      "name": "ABS Oranje",
+      "hex": "#f99201",
+      "searchText": "123-3d abs abs oranje"
+    },
+    {
+      "id": "123-3d-abs-rood",
+      "brand": "123-3D",
+      "material": "ABS",
+      "name": "ABS Rood",
+      "hex": "#ff0000",
+      "searchText": "123-3d abs abs rood"
+    },
+    {
+      "id": "123-3d-abs-wit",
+      "brand": "123-3D",
+      "material": "ABS",
+      "name": "ABS Wit",
+      "hex": "#ffffff",
+      "searchText": "123-3d abs abs wit"
+    },
+    {
+      "id": "123-3d-abs-zwart",
+      "brand": "123-3D",
+      "material": "ABS",
+      "name": "ABS Zwart",
+      "hex": "#000000",
+      "searchText": "123-3d abs abs zwart"
+    },
+    {
+      "id": "123-3d-pc-abs-fr-v0-wit",
+      "brand": "123-3D",
+      "material": "ABS",
+      "name": "PC-ABS FR V0 Wit",
+      "hex": "#ffffff",
+      "searchText": "123-3d abs pc-abs fr v0 wit"
+    },
+    {
+      "id": "123-3d-pc-abs-fr-v0-zwart",
+      "brand": "123-3D",
+      "material": "ABS",
+      "name": "PC-ABS FR V0 Zwart",
+      "hex": "#000000",
+      "searchText": "123-3d abs pc-abs fr v0 zwart"
+    },
+    {
+      "id": "123-3d-petg-antraciet",
+      "brand": "123-3D",
+      "material": "PETG",
+      "name": "PETG Antraciet",
+      "hex": "#293133",
+      "searchText": "123-3d petg petg antraciet"
+    },
+    {
+      "id": "123-3d-petg-cf10-zwart",
+      "brand": "123-3D",
+      "material": "PETG",
+      "name": "PETG CF10 Zwart",
+      "hex": "#000000",
+      "searchText": "123-3d petg petg cf10 zwart"
+    },
+    {
+      "id": "123-3d-petg-groen",
+      "brand": "123-3D",
+      "material": "PETG",
+      "name": "PETG Groen",
+      "hex": "#14525f",
+      "searchText": "123-3d petg petg groen"
+    },
+    {
+      "id": "123-3d-petg-hemelsblauw",
+      "brand": "123-3D",
+      "material": "PETG",
+      "name": "PETG Hemelsblauw",
+      "hex": "#0080ff",
+      "searchText": "123-3d petg petg hemelsblauw"
+    },
+    {
+      "id": "123-3d-petg-mat-beige",
+      "brand": "123-3D",
+      "material": "PETG",
+      "name": "PETG Mat Beige",
+      "hex": "#f4e0b8",
+      "searchText": "123-3d petg petg mat beige"
+    },
+    {
+      "id": "123-3d-petg-mat-blauw",
+      "brand": "123-3D",
+      "material": "PETG",
+      "name": "PETG Mat Blauw",
+      "hex": "#051585",
+      "searchText": "123-3d petg petg mat blauw"
+    },
+    {
+      "id": "123-3d-petg-mat-bruin",
+      "brand": "123-3D",
+      "material": "PETG",
+      "name": "PETG Mat Bruin",
+      "hex": "#422d00",
+      "searchText": "123-3d petg petg mat bruin"
+    },
+    {
+      "id": "123-3d-petg-mat-grijs",
+      "brand": "123-3D",
+      "material": "PETG",
+      "name": "PETG Mat Grijs",
+      "hex": "#4f4f4f",
+      "searchText": "123-3d petg petg mat grijs"
+    },
+    {
+      "id": "123-3d-petg-mat-groen",
+      "brand": "123-3D",
+      "material": "PETG",
+      "name": "PETG Mat Groen",
+      "hex": "#14525f",
+      "searchText": "123-3d petg petg mat groen"
+    },
+    {
+      "id": "123-3d-petg-mat-oranje",
+      "brand": "123-3D",
+      "material": "PETG",
+      "name": "PETG Mat Oranje",
+      "hex": "#f99201",
+      "searchText": "123-3d petg petg mat oranje"
+    },
+    {
+      "id": "123-3d-petg-mat-rood",
+      "brand": "123-3D",
+      "material": "PETG",
+      "name": "PETG Mat Rood",
+      "hex": "#ff0000",
+      "searchText": "123-3d petg petg mat rood"
+    },
+    {
+      "id": "123-3d-petg-mat-wit",
+      "brand": "123-3D",
+      "material": "PETG",
+      "name": "PETG Mat Wit",
+      "hex": "#ffffff",
+      "searchText": "123-3d petg petg mat wit"
+    },
+    {
+      "id": "123-3d-petg-mat-zand",
+      "brand": "123-3D",
+      "material": "PETG",
+      "name": "PETG Mat Zand",
+      "hex": "#f9f0dd",
+      "searchText": "123-3d petg petg mat zand"
+    },
+    {
+      "id": "123-3d-petg-mat-zwart",
+      "brand": "123-3D",
+      "material": "PETG",
+      "name": "PETG Mat Zwart",
+      "hex": "#000000",
+      "searchText": "123-3d petg petg mat zwart"
+    },
+    {
+      "id": "123-3d-petg-oranje",
+      "brand": "123-3D",
+      "material": "PETG",
+      "name": "PETG Oranje",
+      "hex": "#ff9920",
+      "searchText": "123-3d petg petg oranje"
+    },
+    {
+      "id": "123-3d-petg-rood",
+      "brand": "123-3D",
+      "material": "PETG",
+      "name": "PETG Rood",
+      "hex": "#ff0000",
+      "searchText": "123-3d petg petg rood"
+    },
+    {
+      "id": "123-3d-petg-transparant",
+      "brand": "123-3D",
+      "material": "PETG",
+      "name": "PETG Transparant",
+      "hex": "#ffffff",
+      "searchText": "123-3d petg petg transparant"
+    },
+    {
+      "id": "123-3d-petg-transparant-blauw",
+      "brand": "123-3D",
+      "material": "PETG",
+      "name": "PETG Transparant Blauw",
+      "hex": "#05158f",
+      "searchText": "123-3d petg petg transparant blauw"
+    },
+    {
+      "id": "123-3d-petg-transparant-geel",
+      "brand": "123-3D",
+      "material": "PETG",
+      "name": "PETG Transparant Geel",
+      "hex": "#f99201",
+      "searchText": "123-3d petg petg transparant geel"
+    },
+    {
+      "id": "123-3d-petg-transparant-rood",
+      "brand": "123-3D",
+      "material": "PETG",
+      "name": "PETG Transparant Rood",
+      "hex": "#ff0000",
+      "searchText": "123-3d petg petg transparant rood"
+    },
+    {
+      "id": "123-3d-petg-wit",
+      "brand": "123-3D",
+      "material": "PETG",
+      "name": "PETG Wit",
+      "hex": "#ffffff",
+      "searchText": "123-3d petg petg wit"
+    },
+    {
+      "id": "123-3d-petg-zwart",
+      "brand": "123-3D",
+      "material": "PETG",
+      "name": "PETG Zwart",
+      "hex": "#000000",
+      "searchText": "123-3d petg petg zwart"
+    },
+    {
+      "id": "123-3d-pla-aardbei-roze",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Aardbei Roze",
+      "hex": "#fc5a8d",
+      "searchText": "123-3d pla pla aardbei roze"
+    },
+    {
+      "id": "123-3d-pla-antibacterieel-wit",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Antibacterieel Wit",
+      "hex": "#ffffff",
+      "searchText": "123-3d pla pla antibacterieel wit"
+    },
+    {
+      "id": "123-3d-pla-antibacterieel-zwart",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Antibacterieel Zwart",
+      "hex": "#000000",
+      "searchText": "123-3d pla pla antibacterieel zwart"
+    },
+    {
+      "id": "123-3d-pla-beige",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Beige",
+      "hex": "#f4e0b8",
+      "searchText": "123-3d pla pla beige"
+    },
+    {
+      "id": "123-3d-pla-bio-algen-groen",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Bio Algen Groen",
+      "hex": "#008000",
+      "searchText": "123-3d pla pla bio algen groen"
+    },
+    {
+      "id": "123-3d-pla-bio-algen-lichtbruin",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Bio Algen Lichtbruin",
+      "hex": "#f3e7ab",
+      "searchText": "123-3d pla pla bio algen lichtbruin"
+    },
+    {
+      "id": "123-3d-pla-bio-blond-bier",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Bio Blond Bier",
+      "hex": "#e19800",
+      "searchText": "123-3d pla pla bio blond bier"
+    },
+    {
+      "id": "123-3d-pla-bio-donker-bier",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Bio Donker Bier",
+      "hex": "#ffd277",
+      "searchText": "123-3d pla pla bio donker bier"
+    },
+    {
+      "id": "123-3d-pla-bio-hennepvezel-bruingroen",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Bio Hennepvezel Bruingroen",
+      "hex": "#d4a525",
+      "searchText": "123-3d pla pla bio hennepvezel bruingroen"
+    },
+    {
+      "id": "123-3d-pla-bio-hout-ebben",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Bio Hout Ebben",
+      "hex": "#131010",
+      "searchText": "123-3d pla pla bio hout ebben"
+    },
+    {
+      "id": "123-3d-pla-bio-hout-eiken",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Bio Hout Eiken",
+      "hex": "#968b76",
+      "searchText": "123-3d pla pla bio hout eiken"
+    },
+    {
+      "id": "123-3d-pla-bio-hout-lichtbruin",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Bio Hout Lichtbruin",
+      "hex": "#9d8568",
+      "searchText": "123-3d pla pla bio hout lichtbruin"
+    },
+    {
+      "id": "123-3d-pla-bio-linnen-bruin",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Bio Linnen Bruin",
+      "hex": "#422d00",
+      "searchText": "123-3d pla pla bio linnen bruin"
+    },
+    {
+      "id": "123-3d-pla-bruin",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Bruin",
+      "hex": "#422d00",
+      "searchText": "123-3d pla pla bruin"
+    },
+    {
+      "id": "123-3d-pla-cf10-zwart",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA CF10 Zwart",
+      "hex": "#000000",
+      "searchText": "123-3d pla pla cf10 zwart"
+    },
+    {
+      "id": "123-3d-pla-creme-wit",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Creme Wit",
+      "hex": "#f9f0dd",
+      "searchText": "123-3d pla pla creme wit"
+    },
+    {
+      "id": "123-3d-pla-donkerblauw",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Donkerblauw",
+      "hex": "#05158f",
+      "searchText": "123-3d pla pla donkerblauw"
+    },
+    {
+      "id": "123-3d-pla-fel-roze",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Fel Roze",
+      "hex": "#e4187d",
+      "searchText": "123-3d pla pla fel roze"
+    },
+    {
+      "id": "123-3d-pla-geel",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Geel",
+      "hex": "#ffff00",
+      "searchText": "123-3d pla pla geel"
+    },
+    {
+      "id": "123-3d-pla-glitter-antiek-goud",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Glitter Antiek Goud",
+      "hex": "#d4af37",
+      "searchText": "123-3d pla pla glitter antiek goud"
+    },
+    {
+      "id": "123-3d-pla-glitter-antraciet",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Glitter Antraciet",
+      "hex": "#293133",
+      "searchText": "123-3d pla pla glitter antraciet"
+    },
+    {
+      "id": "123-3d-pla-glitter-blauw",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Glitter Blauw",
+      "hex": "#05158f",
+      "searchText": "123-3d pla pla glitter blauw"
+    },
+    {
+      "id": "123-3d-pla-glitter-champagne-goud",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Glitter Champagne Goud",
+      "hex": "#e8d5b7",
+      "searchText": "123-3d pla pla glitter champagne goud"
+    },
+    {
+      "id": "123-3d-pla-glitter-goud",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Glitter Goud",
+      "hex": "#aa9220",
+      "searchText": "123-3d pla pla glitter goud"
+    },
+    {
+      "id": "123-3d-pla-glitter-groen",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Glitter Groen",
+      "hex": "#14525f",
+      "searchText": "123-3d pla pla glitter groen"
+    },
+    {
+      "id": "123-3d-pla-glitter-rood",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Glitter Rood",
+      "hex": "#9c3c2f",
+      "searchText": "123-3d pla pla glitter rood"
+    },
+    {
+      "id": "123-3d-pla-glitter-zilver",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Glitter Zilver",
+      "hex": "#747576",
+      "searchText": "123-3d pla pla glitter zilver"
+    },
+    {
+      "id": "123-3d-pla-glow-in-the-dark-groen",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Glow in the Dark Groen",
+      "hex": "#e2deb1",
+      "searchText": "123-3d pla pla glow in the dark groen"
+    },
+    {
+      "id": "123-3d-pla-goud",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Goud",
+      "hex": "#aa9220",
+      "searchText": "123-3d pla pla goud"
+    },
+    {
+      "id": "123-3d-pla-grijs",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Grijs",
+      "hex": "#4f4f4f",
+      "searchText": "123-3d pla pla grijs"
+    },
+    {
+      "id": "123-3d-pla-groen",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Groen",
+      "hex": "#14525f",
+      "searchText": "123-3d pla pla groen"
+    },
+    {
+      "id": "123-3d-pla-hemelsblauw",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Hemelsblauw",
+      "hex": "#0080ff",
+      "searchText": "123-3d pla pla hemelsblauw"
+    },
+    {
+      "id": "123-3d-pla-high-speed-wit",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA High Speed Wit",
+      "hex": "#ffffff",
+      "searchText": "123-3d pla pla high speed wit"
+    },
+    {
+      "id": "123-3d-pla-high-speed-zwart",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA High Speed Zwart",
+      "hex": "#000000",
+      "searchText": "123-3d pla pla high speed zwart"
+    },
+    {
+      "id": "123-3d-pla-kameleon-geel-groen",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Kameleon Geel - Groen",
+      "hex": "#ffff00",
+      "searchText": "123-3d pla pla kameleon geel - groen"
+    },
+    {
+      "id": "123-3d-pla-kameleon-geelgroen-paars",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Kameleon Geelgroen - Paars",
+      "hex": "#80ff00",
+      "searchText": "123-3d pla pla kameleon geelgroen - paars"
+    },
+    {
+      "id": "123-3d-pla-kameleon-goud-paars",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Kameleon Goud - Paars",
+      "hex": "#f0d200",
+      "searchText": "123-3d pla pla kameleon goud - paars"
+    },
+    {
+      "id": "123-3d-pla-kameleon-groen-blauw",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Kameleon Groen - Blauw",
+      "hex": "#008000",
+      "searchText": "123-3d pla pla kameleon groen - blauw"
+    },
+    {
+      "id": "123-3d-pla-kameleon-groen-roze",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Kameleon Groen - Roze",
+      "hex": "#008000",
+      "searchText": "123-3d pla pla kameleon groen - roze"
+    },
+    {
+      "id": "123-3d-pla-kameleon-paars-groen",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Kameleon Paars - Groen",
+      "hex": "#8000ff",
+      "searchText": "123-3d pla pla kameleon paars - groen"
+    },
+    {
+      "id": "123-3d-pla-kameleon-paars-roze",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Kameleon Paars - Roze",
+      "hex": "#8000ff",
+      "searchText": "123-3d pla pla kameleon paars - roze"
+    },
+    {
+      "id": "123-3d-pla-kameleon-rood-blauw",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Kameleon Rood - Blauw",
+      "hex": "#ff0000",
+      "searchText": "123-3d pla pla kameleon rood - blauw"
+    },
+    {
+      "id": "123-3d-pla-kameleon-rood-geel",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Kameleon Rood - Geel",
+      "hex": "#ff0000",
+      "searchText": "123-3d pla pla kameleon rood - geel"
+    },
+    {
+      "id": "123-3d-pla-kameleon-rood-groen",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Kameleon Rood - Groen",
+      "hex": "#ff0000",
+      "searchText": "123-3d pla pla kameleon rood - groen"
+    },
+    {
+      "id": "123-3d-pla-kameleon-roze-blauw",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Kameleon Roze - Blauw",
+      "hex": "#ff80ff",
+      "searchText": "123-3d pla pla kameleon roze - blauw"
+    },
+    {
+      "id": "123-3d-pla-kameleon-roze-geelgroen",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Kameleon Roze - Geelgroen",
+      "hex": "#ff80ff",
+      "searchText": "123-3d pla pla kameleon roze - geelgroen"
+    },
+    {
+      "id": "123-3d-pla-kameleon-roze-goud",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Kameleon Roze - Goud",
+      "hex": "#ff80ff",
+      "searchText": "123-3d pla pla kameleon roze - goud"
+    },
+    {
+      "id": "123-3d-pla-kameleon-zwart-rood",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Kameleon Zwart - Rood",
+      "hex": "#000000",
+      "searchText": "123-3d pla pla kameleon zwart - rood"
+    },
+    {
+      "id": "123-3d-pla-khaki-grijs",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Khaki Grijs",
+      "hex": "#6a5f31",
+      "searchText": "123-3d pla pla khaki grijs"
+    },
+    {
+      "id": "123-3d-pla-lichtgewicht-blauw",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Lichtgewicht Blauw",
+      "hex": "#05156f",
+      "searchText": "123-3d pla pla lichtgewicht blauw"
+    },
+    {
+      "id": "123-3d-pla-lichtgewicht-donkergrijs",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Lichtgewicht Donkergrijs",
+      "hex": "#75787b",
+      "searchText": "123-3d pla pla lichtgewicht donkergrijs"
+    },
+    {
+      "id": "123-3d-pla-lichtgewicht-lichtgrijs",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Lichtgewicht Lichtgrijs",
+      "hex": "#c7c7c7",
+      "searchText": "123-3d pla pla lichtgewicht lichtgrijs"
+    },
+    {
+      "id": "123-3d-pla-lichtgewicht-oranje",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Lichtgewicht Oranje",
+      "hex": "#f99201",
+      "searchText": "123-3d pla pla lichtgewicht oranje"
+    },
+    {
+      "id": "123-3d-pla-lichtgewicht-rood",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Lichtgewicht Rood",
+      "hex": "#e02a25",
+      "searchText": "123-3d pla pla lichtgewicht rood"
+    },
+    {
+      "id": "123-3d-pla-lichtgewicht-zwart",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Lichtgewicht Zwart",
+      "hex": "#000000",
+      "searchText": "123-3d pla pla lichtgewicht zwart"
+    },
+    {
+      "id": "123-3d-pla-lichtgrijs",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Lichtgrijs",
+      "hex": "#c7c7c7",
+      "searchText": "123-3d pla pla lichtgrijs"
+    },
+    {
+      "id": "123-3d-pla-limoengroen",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Limoengroen",
+      "hex": "#ccff00",
+      "searchText": "123-3d pla pla limoengroen"
+    },
+    {
+      "id": "123-3d-pla-magenta",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Magenta",
+      "hex": "#ff00ff",
+      "searchText": "123-3d pla pla magenta"
+    },
+    {
+      "id": "123-3d-pla-marmer-grijs",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Marmer Grijs",
+      "hex": "#c7c7c7",
+      "searchText": "123-3d pla pla marmer grijs"
+    },
+    {
+      "id": "123-3d-pla-marmer-wit",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Marmer Wit",
+      "hex": "#eaeaea",
+      "searchText": "123-3d pla pla marmer wit"
+    },
+    {
+      "id": "123-3d-pla-mat-blauw",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Mat Blauw",
+      "hex": "#004db3",
+      "searchText": "123-3d pla pla mat blauw"
+    },
+    {
+      "id": "123-3d-pla-mat-donkergrijs",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Mat Donkergrijs",
+      "hex": "#75787b",
+      "searchText": "123-3d pla pla mat donkergrijs"
+    },
+    {
+      "id": "123-3d-pla-mat-geel",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Mat Geel",
+      "hex": "#ffff00",
+      "searchText": "123-3d pla pla mat geel"
+    },
+    {
+      "id": "123-3d-pla-mat-limoengroen",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Mat Limoengroen",
+      "hex": "#ccff00",
+      "searchText": "123-3d pla pla mat limoengroen"
+    },
+    {
+      "id": "123-3d-pla-mat-oranje",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Mat Oranje",
+      "hex": "#f99201",
+      "searchText": "123-3d pla pla mat oranje"
+    },
+    {
+      "id": "123-3d-pla-mat-rood",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Mat Rood",
+      "hex": "#9c3c2f",
+      "searchText": "123-3d pla pla mat rood"
+    },
+    {
+      "id": "123-3d-pla-mat-wit",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Mat Wit",
+      "hex": "#ffffff",
+      "searchText": "123-3d pla pla mat wit"
+    },
+    {
+      "id": "123-3d-pla-mat-zwart",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Mat Zwart",
+      "hex": "#000000",
+      "searchText": "123-3d pla pla mat zwart"
+    },
+    {
+      "id": "123-3d-pla-neutraal",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Neutraal",
+      "hex": "#fdfdf5",
+      "searchText": "123-3d pla pla neutraal"
+    },
+    {
+      "id": "123-3d-pla-oranje",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Oranje",
+      "hex": "#f99201",
+      "searchText": "123-3d pla pla oranje"
+    },
+    {
+      "id": "123-3d-pla-paars",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Paars",
+      "hex": "#4e028d",
+      "searchText": "123-3d pla pla paars"
+    },
+    {
+      "id": "123-3d-pla-pastel-blauw",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Pastel Blauw",
+      "hex": "#a3d8e1",
+      "searchText": "123-3d pla pla pastel blauw"
+    },
+    {
+      "id": "123-3d-pla-pastel-geel",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Pastel Geel",
+      "hex": "#ffff00",
+      "searchText": "123-3d pla pla pastel geel"
+    },
+    {
+      "id": "123-3d-pla-pastel-groen",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Pastel Groen",
+      "hex": "#d3f6ed",
+      "searchText": "123-3d pla pla pastel groen"
+    },
+    {
+      "id": "123-3d-pla-pastel-ijsblauw",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Pastel Ijsblauw",
+      "hex": "#a3d8e1",
+      "searchText": "123-3d pla pla pastel ijsblauw"
+    },
+    {
+      "id": "123-3d-pla-pastel-lichtroze",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Pastel Lichtroze",
+      "hex": "#ffcfd7",
+      "searchText": "123-3d pla pla pastel lichtroze"
+    },
+    {
+      "id": "123-3d-pla-pastel-oranje",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Pastel Oranje",
+      "hex": "#fcd0b4",
+      "searchText": "123-3d pla pla pastel oranje"
+    },
+    {
+      "id": "123-3d-pla-pastel-rood",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Pastel Rood",
+      "hex": "#e02a25",
+      "searchText": "123-3d pla pla pastel rood"
+    },
+    {
+      "id": "123-3d-pla-pastel-roze",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Pastel Roze",
+      "hex": "#f6dddd",
+      "searchText": "123-3d pla pla pastel roze"
+    },
+    {
+      "id": "123-3d-pla-pastel-zalm",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Pastel Zalm",
+      "hex": "#f8cac7",
+      "searchText": "123-3d pla pla pastel zalm"
+    },
+    {
+      "id": "123-3d-pla-pro-donkergrijs",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Pro Donkergrijs",
+      "hex": "#75787b",
+      "searchText": "123-3d pla pla pro donkergrijs"
+    },
+    {
+      "id": "123-3d-pla-pro-geel",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Pro Geel",
+      "hex": "#ffff00",
+      "searchText": "123-3d pla pla pro geel"
+    },
+    {
+      "id": "123-3d-pla-pro-lichtgrijs",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Pro Lichtgrijs",
+      "hex": "#c7c7c7",
+      "searchText": "123-3d pla pla pro lichtgrijs"
+    },
+    {
+      "id": "123-3d-pla-pro-rood",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Pro Rood",
+      "hex": "#e02a25",
+      "searchText": "123-3d pla pla pro rood"
+    },
+    {
+      "id": "123-3d-pla-pro-sneeuwwit",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Pro Sneeuwwit",
+      "hex": "#ffffff",
+      "searchText": "123-3d pla pla pro sneeuwwit"
+    },
+    {
+      "id": "123-3d-pla-pro-wit",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Pro Wit",
+      "hex": "#ffffff",
+      "searchText": "123-3d pla pla pro wit"
+    },
+    {
+      "id": "123-3d-pla-pro-zilver",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Pro Zilver",
+      "hex": "#747576",
+      "searchText": "123-3d pla pla pro zilver"
+    },
+    {
+      "id": "123-3d-pla-pro-zwart",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Pro Zwart",
+      "hex": "#000000",
+      "searchText": "123-3d pla pla pro zwart"
+    },
+    {
+      "id": "123-3d-pla-rood",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Rood",
+      "hex": "#e02a25",
+      "searchText": "123-3d pla pla rood"
+    },
+    {
+      "id": "123-3d-pla-satijn-blauw",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Satijn Blauw",
+      "hex": "#05158f",
+      "searchText": "123-3d pla pla satijn blauw"
+    },
+    {
+      "id": "123-3d-pla-satijn-brons",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Satijn Brons",
+      "hex": "#6c4d39",
+      "searchText": "123-3d pla pla satijn brons"
+    },
+    {
+      "id": "123-3d-pla-satijn-donkergroen",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Satijn Donkergroen",
+      "hex": "#14525f",
+      "searchText": "123-3d pla pla satijn donkergroen"
+    },
+    {
+      "id": "123-3d-pla-satijn-geel",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Satijn Geel",
+      "hex": "#ffff00",
+      "searchText": "123-3d pla pla satijn geel"
+    },
+    {
+      "id": "123-3d-pla-satijn-goud",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Satijn Goud",
+      "hex": "#aa9220",
+      "searchText": "123-3d pla pla satijn goud"
+    },
+    {
+      "id": "123-3d-pla-satijn-grijs",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Satijn Grijs",
+      "hex": "#4f4f4f",
+      "searchText": "123-3d pla pla satijn grijs"
+    },
+    {
+      "id": "123-3d-pla-satijn-koper",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Satijn Koper",
+      "hex": "#ae6b23",
+      "searchText": "123-3d pla pla satijn koper"
+    },
+    {
+      "id": "123-3d-pla-satijn-lichtblauw",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Satijn Lichtblauw",
+      "hex": "#3abbde",
+      "searchText": "123-3d pla pla satijn lichtblauw"
+    },
+    {
+      "id": "123-3d-pla-satijn-limoengroen",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Satijn Limoengroen",
+      "hex": "#ccff00",
+      "searchText": "123-3d pla pla satijn limoengroen"
+    },
+    {
+      "id": "123-3d-pla-satijn-paars",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Satijn Paars",
+      "hex": "#4c2e78",
+      "searchText": "123-3d pla pla satijn paars"
+    },
+    {
+      "id": "123-3d-pla-satijn-regenboog-blauw-groen-grijs",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Satijn Regenboog Blauw - Groen - Grijs",
+      "hex": "#00ffff",
+      "searchText": "123-3d pla pla satijn regenboog blauw - groen - grijs"
+    },
+    {
+      "id": "123-3d-pla-satijn-regenboog-bruin-geel",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Satijn Regenboog Bruin - Geel",
+      "hex": "#804000",
+      "searchText": "123-3d pla pla satijn regenboog bruin - geel"
+    },
+    {
+      "id": "123-3d-pla-satijn-regenboog-bruin-grijs",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Satijn Regenboog Bruin - Grijs",
+      "hex": "#804000",
+      "searchText": "123-3d pla pla satijn regenboog bruin - grijs"
+    },
+    {
+      "id": "123-3d-pla-satijn-regenboog-groen-blauw",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Satijn Regenboog Groen - Blauw",
+      "hex": "#00ffff",
+      "searchText": "123-3d pla pla satijn regenboog groen - blauw"
+    },
+    {
+      "id": "123-3d-pla-satijn-regenboog-rood-grijs",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Satijn Regenboog Rood - Grijs",
+      "hex": "#ff0000",
+      "searchText": "123-3d pla pla satijn regenboog rood - grijs"
+    },
+    {
+      "id": "123-3d-pla-satijn-regenboog-rood-oranje",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Satijn Regenboog Rood - Oranje",
+      "hex": "#ff0000",
+      "searchText": "123-3d pla pla satijn regenboog rood - oranje"
+    },
+    {
+      "id": "123-3d-pla-satijn-rood",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Satijn Rood",
+      "hex": "#e02a25",
+      "searchText": "123-3d pla pla satijn rood"
+    },
+    {
+      "id": "123-3d-pla-satijn-roze",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Satijn Roze",
+      "hex": "#e4187d",
+      "searchText": "123-3d pla pla satijn roze"
+    },
+    {
+      "id": "123-3d-pla-satijn-wit",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Satijn Wit",
+      "hex": "#ffffff",
+      "searchText": "123-3d pla pla satijn wit"
+    },
+    {
+      "id": "123-3d-pla-satijn-zilver",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Satijn Zilver",
+      "hex": "#747576",
+      "searchText": "123-3d pla pla satijn zilver"
+    },
+    {
+      "id": "123-3d-pla-sneeuwwit",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Sneeuwwit",
+      "hex": "#ffffff",
+      "searchText": "123-3d pla pla sneeuwwit"
+    },
+    {
+      "id": "123-3d-pla-thermoactive-rood",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Thermoactive Rood",
+      "hex": "#e02a25",
+      "searchText": "123-3d pla pla thermoactive rood"
+    },
+    {
+      "id": "123-3d-pla-tough-donkergrijs",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Tough Donkergrijs",
+      "hex": "#75787b",
+      "searchText": "123-3d pla pla tough donkergrijs"
+    },
+    {
+      "id": "123-3d-pla-tough-wit",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Tough Wit",
+      "hex": "#ffffff",
+      "searchText": "123-3d pla pla tough wit"
+    },
+    {
+      "id": "123-3d-pla-tough-zwart",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Tough Zwart",
+      "hex": "#000000",
+      "searchText": "123-3d pla pla tough zwart"
+    },
+    {
+      "id": "123-3d-pla-transparant-blauw",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Transparant Blauw",
+      "hex": "#0080ff",
+      "searchText": "123-3d pla pla transparant blauw"
+    },
+    {
+      "id": "123-3d-pla-transparant-geel",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Transparant Geel",
+      "hex": "#e6cb1e",
+      "searchText": "123-3d pla pla transparant geel"
+    },
+    {
+      "id": "123-3d-pla-transparant-groen",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Transparant Groen",
+      "hex": "#ccff00",
+      "searchText": "123-3d pla pla transparant groen"
+    },
+    {
+      "id": "123-3d-pla-transparant-oranje",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Transparant Oranje",
+      "hex": "#f99201",
+      "searchText": "123-3d pla pla transparant oranje"
+    },
+    {
+      "id": "123-3d-pla-transparant-rood",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Transparant Rood",
+      "hex": "#e02a25",
+      "searchText": "123-3d pla pla transparant rood"
+    },
+    {
+      "id": "123-3d-pla-transparant-roze",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Transparant Roze",
+      "hex": "#e4187d",
+      "searchText": "123-3d pla pla transparant roze"
+    },
+    {
+      "id": "123-3d-pla-wit",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Wit",
+      "hex": "#ffffff",
+      "searchText": "123-3d pla pla wit"
+    },
+    {
+      "id": "123-3d-pla-zilver",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Zilver",
+      "hex": "#747576",
+      "searchText": "123-3d pla pla zilver"
+    },
+    {
+      "id": "123-3d-pla-zwart",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Zwart",
+      "hex": "#000000",
+      "searchText": "123-3d pla pla zwart"
+    },
+    {
+      "id": "123-3d-pla-zwavelgeel",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA Zwavelgeel",
+      "hex": "#f9f568",
+      "searchText": "123-3d pla pla zwavelgeel"
+    },
+    {
+      "id": "123-3d-pla-fr-zwart",
+      "brand": "123-3D",
+      "material": "PLA",
+      "name": "PLA-FR Zwart",
+      "hex": "#000000",
+      "searchText": "123-3d pla pla-fr zwart"
+    },
     {
       "id": "3d-fuel-pro-abs-brightest-white",
       "brand": "3D Fuel",
@@ -1718,6 +2998,38 @@
       "searchText": "3djake abs abs brown"
     },
     {
+      "id": "3djake-abs-cf-black",
+      "brand": "3DJAKE",
+      "material": "ABS",
+      "name": "ABS CF Black",
+      "hex": "#292824",
+      "searchText": "3djake abs abs cf black"
+    },
+    {
+      "id": "3djake-abs-cf-dark-blue",
+      "brand": "3DJAKE",
+      "material": "ABS",
+      "name": "ABS CF Dark Blue",
+      "hex": "#0353ba",
+      "searchText": "3djake abs abs cf dark blue"
+    },
+    {
+      "id": "3djake-abs-cf-dark-grey",
+      "brand": "3DJAKE",
+      "material": "ABS",
+      "name": "ABS CF Dark Grey",
+      "hex": "#3f4647",
+      "searchText": "3djake abs abs cf dark grey"
+    },
+    {
+      "id": "3djake-abs-cf-red",
+      "brand": "3DJAKE",
+      "material": "ABS",
+      "name": "ABS CF Red",
+      "hex": "#c1121c",
+      "searchText": "3djake abs abs cf red"
+    },
+    {
       "id": "3djake-abs-dark-blue",
       "brand": "3DJAKE",
       "material": "ABS",
@@ -1838,6 +3150,14 @@
       "searchText": "3djake abs abs purple"
     },
     {
+      "id": "3djake-abs-red",
+      "brand": "3DJAKE",
+      "material": "ABS",
+      "name": "ABS Red",
+      "hex": "#c1121c",
+      "searchText": "3djake abs abs red"
+    },
+    {
       "id": "3djake-abs-silver",
       "brand": "3DJAKE",
       "material": "ABS",
@@ -1868,6 +3188,38 @@
       "name": "ASA Black",
       "hex": "#292824",
       "searchText": "3djake asa asa black"
+    },
+    {
+      "id": "3djake-asa-cf-black",
+      "brand": "3DJAKE",
+      "material": "ASA",
+      "name": "ASA CF Black",
+      "hex": "#292824",
+      "searchText": "3djake asa asa cf black"
+    },
+    {
+      "id": "3djake-asa-cf-dark-blue",
+      "brand": "3DJAKE",
+      "material": "ASA",
+      "name": "ASA CF Dark Blue",
+      "hex": "#0353ba",
+      "searchText": "3djake asa asa cf dark blue"
+    },
+    {
+      "id": "3djake-asa-cf-dark-grey",
+      "brand": "3DJAKE",
+      "material": "ASA",
+      "name": "ASA CF Dark Grey",
+      "hex": "#3f4647",
+      "searchText": "3djake asa asa cf dark grey"
+    },
+    {
+      "id": "3djake-asa-cf-red",
+      "brand": "3DJAKE",
+      "material": "ASA",
+      "name": "ASA CF Red",
+      "hex": "#ec0000",
+      "searchText": "3djake asa asa cf red"
     },
     {
       "id": "3djake-asa-dark-blue",
@@ -1918,20 +3270,20 @@
       "searchText": "3djake asa asa light grey"
     },
     {
+      "id": "3djake-asa-neon-pink",
+      "brand": "3DJAKE",
+      "material": "ASA",
+      "name": "ASA Neon Pink",
+      "hex": "#ff3670",
+      "searchText": "3djake asa asa neon pink"
+    },
+    {
       "id": "3djake-asa-orange",
       "brand": "3DJAKE",
       "material": "ASA",
       "name": "ASA Orange",
       "hex": "#f55928",
       "searchText": "3djake asa asa orange"
-    },
-    {
-      "id": "3djake-asa-purple",
-      "brand": "3DJAKE",
-      "material": "ASA",
-      "name": "ASA Purple",
-      "hex": "#a368bb",
-      "searchText": "3djake asa asa purple"
     },
     {
       "id": "3djake-asa-red",
@@ -1948,6 +3300,14 @@
       "name": "ASA Silver",
       "hex": "#808080",
       "searchText": "3djake asa asa silver"
+    },
+    {
+      "id": "3djake-asa-violet",
+      "brand": "3DJAKE",
+      "material": "ASA",
+      "name": "ASA Violet",
+      "hex": "#a368bb",
+      "searchText": "3djake asa asa violet"
     },
     {
       "id": "3djake-asa-white",
@@ -1968,82 +3328,82 @@
     {
       "id": "3djake-nicebio-black",
       "brand": "3DJAKE",
-      "material": "niceBIO",
+      "material": "BIO",
       "name": "niceBIO Black",
       "hex": "#292824",
-      "searchText": "3djake nicebio nicebio black"
+      "searchText": "3djake bio nicebio black"
     },
     {
       "id": "3djake-nicebio-dark-blue",
       "brand": "3DJAKE",
-      "material": "niceBIO",
+      "material": "BIO",
       "name": "niceBIO Dark Blue",
       "hex": "#0353ba",
-      "searchText": "3djake nicebio nicebio dark blue"
+      "searchText": "3djake bio nicebio dark blue"
     },
     {
       "id": "3djake-nicebio-dark-grey",
       "brand": "3DJAKE",
-      "material": "niceBIO",
+      "material": "BIO",
       "name": "niceBIO Dark Grey",
       "hex": "#6a6c6e",
-      "searchText": "3djake nicebio nicebio dark grey"
+      "searchText": "3djake bio nicebio dark grey"
     },
     {
       "id": "3djake-nicebio-light-blue",
       "brand": "3DJAKE",
-      "material": "niceBIO",
+      "material": "BIO",
       "name": "niceBIO Light Blue",
       "hex": "#40b6e4",
-      "searchText": "3djake nicebio nicebio light blue"
+      "searchText": "3djake bio nicebio light blue"
     },
     {
       "id": "3djake-nicebio-light-green",
       "brand": "3DJAKE",
-      "material": "niceBIO",
+      "material": "BIO",
       "name": "niceBIO Light Green",
       "hex": "#58c91b",
-      "searchText": "3djake nicebio nicebio light green"
+      "searchText": "3djake bio nicebio light green"
     },
     {
       "id": "3djake-nicebio-light-grey",
       "brand": "3DJAKE",
-      "material": "niceBIO",
+      "material": "BIO",
       "name": "niceBIO Light Grey",
       "hex": "#d6d7d8",
-      "searchText": "3djake nicebio nicebio light grey"
+      "searchText": "3djake bio nicebio light grey"
     },
     {
       "id": "3djake-nicebio-orange",
       "brand": "3DJAKE",
-      "material": "niceBIO",
+      "material": "BIO",
       "name": "niceBIO Orange",
       "hex": "#ff8e24",
-      "searchText": "3djake nicebio nicebio orange"
+      "searchText": "3djake bio nicebio orange"
     },
     {
       "id": "3djake-nicebio-red",
       "brand": "3DJAKE",
-      "material": "niceBIO",
+      "material": "BIO",
       "name": "niceBIO Red",
       "hex": "#f14147",
-      "searchText": "3djake nicebio nicebio red"
+      "searchText": "3djake bio nicebio red"
     },
     {
       "id": "3djake-nicebio-silver",
       "brand": "3DJAKE",
-      "material": "niceBIO",
+      "material": "BIO",
       "name": "niceBIO Silver",
       "hex": "#808080",
-      "searchText": "3djake nicebio nicebio silver"
+      "searchText": "3djake bio nicebio silver"
     },
     {
       "id": "3djake-nicebio-white",
       "brand": "3DJAKE",
-      "material": "niceBIO",
+      "material": "BIO",
       "name": "niceBIO White",
       "hex": "#f2efe9",
-      "searchText": "3djake nicebio nicebio white"
+      "searchText": "3djake bio nicebio white"
     },
     {
       "id": "3djake-pctg-black",
@@ -2188,6 +3548,38 @@
       "name": "easyPETG Brown",
       "hex": "#4f3638",
       "searchText": "3djake petg easypetg brown"
+    },
+    {
+      "id": "3djake-easypetg-cf-black",
+      "brand": "3DJAKE",
+      "material": "PETG",
+      "name": "easyPETG CF Black",
+      "hex": "#292824",
+      "searchText": "3djake petg easypetg cf black"
+    },
+    {
+      "id": "3djake-easypetg-cf-dark-blue",
+      "brand": "3DJAKE",
+      "material": "PETG",
+      "name": "easyPETG CF Dark Blue",
+      "hex": "#2941bd",
+      "searchText": "3djake petg easypetg cf dark blue"
+    },
+    {
+      "id": "3djake-easypetg-cf-dark-grey",
+      "brand": "3DJAKE",
+      "material": "PETG",
+      "name": "easyPETG CF Dark Grey",
+      "hex": "#3f4647",
+      "searchText": "3djake petg easypetg cf dark grey"
+    },
+    {
+      "id": "3djake-easypetg-cf-red",
+      "brand": "3DJAKE",
+      "material": "PETG",
+      "name": "easyPETG CF Red",
+      "hex": "#e72f1d",
+      "searchText": "3djake petg easypetg cf red"
     },
     {
       "id": "3djake-easypetg-dark-blue",
@@ -2566,14 +3958,6 @@
       "searchText": "3djake petg easypetg yellow"
     },
     {
-      "id": "3djake-petg-dark-grey",
-      "brand": "3DJAKE",
-      "material": "PETG",
-      "name": "PETG Dark Grey",
-      "hex": "#88899d",
-      "searchText": "3djake petg petg dark grey"
-    },
-    {
       "id": "3djake-ecopla-pastel-green",
       "brand": "3DJAKE",
       "material": "PLA",
@@ -2604,6 +3988,38 @@
       "name": "ecoPLA Brown",
       "hex": "#452f25",
       "searchText": "3djake pla ecopla brown"
+    },
+    {
+      "id": "3djake-ecopla-cf-black",
+      "brand": "3DJAKE",
+      "material": "PLA",
+      "name": "ecoPLA CF Black",
+      "hex": "#24292a",
+      "searchText": "3djake pla ecopla cf black"
+    },
+    {
+      "id": "3djake-ecopla-cf-dark-blue",
+      "brand": "3DJAKE",
+      "material": "PLA",
+      "name": "ecoPLA CF Dark Blue",
+      "hex": "#1f2761",
+      "searchText": "3djake pla ecopla cf dark blue"
+    },
+    {
+      "id": "3djake-ecopla-cf-dark-grey",
+      "brand": "3DJAKE",
+      "material": "PLA",
+      "name": "ecoPLA CF Dark Grey",
+      "hex": "#4a4949",
+      "searchText": "3djake pla ecopla cf dark grey"
+    },
+    {
+      "id": "3djake-ecopla-cf-red",
+      "brand": "3DJAKE",
+      "material": "PLA",
+      "name": "ecoPLA CF Red",
+      "hex": "#d32e1a",
+      "searchText": "3djake pla ecopla cf red"
     },
     {
       "id": "3djake-ecopla-cmyk-cyan",
@@ -2746,7 +4162,7 @@
       "brand": "3DJAKE",
       "material": "PLA",
       "name": "ecoPLA Pastel Pink",
-      "hex": "#ffdbdf",
+      "hex": "#f6abd7",
       "searchText": "3djake pla ecopla pastel pink"
     },
     {
@@ -2786,7 +4202,7 @@
       "brand": "3DJAKE",
       "material": "PLA",
       "name": "ecoPLA Silk Blue",
-      "hex": "#346ce3",
+      "hex": "#5feff9",
       "searchText": "3djake pla ecopla silk blue"
     },
     {
@@ -2978,7 +4394,7 @@
       "brand": "3DJAKE",
       "material": "PLA",
       "name": "mattePLA Brown",
-      "hex": "#774b3f",
+      "hex": "#a45b27",
       "searchText": "3djake pla mattepla brown"
     },
     {
@@ -6542,12 +7958,140 @@
       "searchText": "add:north tpu tpu pro matte 95a white"
     },
     {
+      "id": "alzament-abs-black",
+      "brand": "Alzament",
+      "material": "ABS",
+      "name": "ABS Black",
+      "hex": "#000000",
+      "searchText": "alzament abs abs black"
+    },
+    {
+      "id": "alzament-abs-blue",
+      "brand": "Alzament",
+      "material": "ABS",
+      "name": "ABS Blue",
+      "hex": "#0353ba",
+      "searchText": "alzament abs abs blue"
+    },
+    {
+      "id": "alzament-abs-gold",
+      "brand": "Alzament",
+      "material": "ABS",
+      "name": "ABS Gold",
+      "hex": "#f6c500",
+      "searchText": "alzament abs abs gold"
+    },
+    {
+      "id": "alzament-abs-gray",
+      "brand": "Alzament",
+      "material": "ABS",
+      "name": "ABS Gray",
+      "hex": "#75787b",
+      "searchText": "alzament abs abs gray"
+    },
+    {
+      "id": "alzament-abs-red",
+      "brand": "Alzament",
+      "material": "ABS",
+      "name": "ABS Red",
+      "hex": "#ec0000",
+      "searchText": "alzament abs abs red"
+    },
+    {
+      "id": "alzament-abs-silver",
+      "brand": "Alzament",
+      "material": "ABS",
+      "name": "ABS Silver",
+      "hex": "#818fa0",
+      "searchText": "alzament abs abs silver"
+    },
+    {
+      "id": "alzament-abs-white",
+      "brand": "Alzament",
+      "material": "ABS",
+      "name": "ABS White",
+      "hex": "#ffffff",
+      "searchText": "alzament abs abs white"
+    },
+    {
+      "id": "alzament-asa-black",
+      "brand": "Alzament",
+      "material": "ASA",
+      "name": "ASA Black",
+      "hex": "#000000",
+      "searchText": "alzament asa asa black"
+    },
+    {
+      "id": "alzament-asa-blue",
+      "brand": "Alzament",
+      "material": "ASA",
+      "name": "ASA Blue",
+      "hex": "#0353ba",
+      "searchText": "alzament asa asa blue"
+    },
+    {
+      "id": "alzament-asa-green",
+      "brand": "Alzament",
+      "material": "ASA",
+      "name": "ASA Green",
+      "hex": "#00c26b",
+      "searchText": "alzament asa asa green"
+    },
+    {
+      "id": "alzament-asa-grey",
+      "brand": "Alzament",
+      "material": "ASA",
+      "name": "ASA Grey",
+      "hex": "#75787b",
+      "searchText": "alzament asa asa grey"
+    },
+    {
+      "id": "alzament-asa-red",
+      "brand": "Alzament",
+      "material": "ASA",
+      "name": "ASA Red",
+      "hex": "#ec0000",
+      "searchText": "alzament asa asa red"
+    },
+    {
+      "id": "alzament-asa-white",
+      "brand": "Alzament",
+      "material": "ASA",
+      "name": "ASA White",
+      "hex": "#ffffff",
+      "searchText": "alzament asa asa white"
+    },
+    {
+      "id": "alzament-petg-black",
+      "brand": "Alzament",
+      "material": "PETG",
+      "name": "PETG Black",
+      "hex": "#000000",
+      "searchText": "alzament petg petg black"
+    },
+    {
+      "id": "alzament-petg-blue",
+      "brand": "Alzament",
+      "material": "PETG",
+      "name": "PETG Blue",
+      "hex": "#0353ba",
+      "searchText": "alzament petg petg blue"
+    },
+    {
       "id": "alzament-petg-gold",
       "brand": "Alzament",
       "material": "PETG",
       "name": "PETG Gold",
       "hex": "#ddb95d",
       "searchText": "alzament petg petg gold"
+    },
+    {
+      "id": "alzament-petg-hyper-black",
+      "brand": "Alzament",
+      "material": "PETG",
+      "name": "PETG Hyper Black",
+      "hex": "#000000",
+      "searchText": "alzament petg petg hyper black"
     },
     {
       "id": "alzament-petg-hyper-blue",
@@ -6574,6 +8118,38 @@
       "searchText": "alzament petg petg hyper red"
     },
     {
+      "id": "alzament-petg-hyper-silver",
+      "brand": "Alzament",
+      "material": "PETG",
+      "name": "PETG Hyper Silver",
+      "hex": "#818fa0",
+      "searchText": "alzament petg petg hyper silver"
+    },
+    {
+      "id": "alzament-petg-hyper-white",
+      "brand": "Alzament",
+      "material": "PETG",
+      "name": "PETG Hyper White",
+      "hex": "#ffffff",
+      "searchText": "alzament petg petg hyper white"
+    },
+    {
+      "id": "alzament-petg-red",
+      "brand": "Alzament",
+      "material": "PETG",
+      "name": "PETG Red",
+      "hex": "#ec0000",
+      "searchText": "alzament petg petg red"
+    },
+    {
+      "id": "alzament-petg-silver",
+      "brand": "Alzament",
+      "material": "PETG",
+      "name": "PETG Silver",
+      "hex": "#818fa0",
+      "searchText": "alzament petg petg silver"
+    },
+    {
       "id": "alzament-petg-white",
       "brand": "Alzament",
       "material": "PETG",
@@ -6582,7 +8158,15 @@
       "searchText": "alzament petg petg white"
     },
     {
-      "id": "alzament-hyper-pla-black",
+      "id": "alzament-petg-cf-black",
+      "brand": "Alzament",
+      "material": "PETG",
+      "name": "PETG-CF Black",
+      "hex": "#000000",
+      "searchText": "alzament petg petg-cf black"
+    },
+    {
+      "id": "alzament-hyper-pla-plus-black",
       "brand": "Alzament",
       "material": "PLA",
       "name": "Hyper PLA+ Black",
@@ -6590,7 +8174,7 @@
       "searchText": "alzament pla hyper pla+ black"
     },
     {
-      "id": "alzament-hyper-pla-blue",
+      "id": "alzament-hyper-pla-plus-blue",
       "brand": "Alzament",
       "material": "PLA",
       "name": "Hyper PLA+ Blue",
@@ -6598,7 +8182,7 @@
       "searchText": "alzament pla hyper pla+ blue"
     },
     {
-      "id": "alzament-hyper-pla-red",
+      "id": "alzament-hyper-pla-plus-red",
       "brand": "Alzament",
       "material": "PLA",
       "name": "Hyper PLA+ Red",
@@ -6606,7 +8190,7 @@
       "searchText": "alzament pla hyper pla+ red"
     },
     {
-      "id": "alzament-hyper-pla-white",
+      "id": "alzament-hyper-pla-plus-white",
       "brand": "Alzament",
       "material": "PLA",
       "name": "Hyper PLA+ White",
@@ -6614,12 +8198,20 @@
       "searchText": "alzament pla hyper pla+ white"
     },
     {
-      "id": "alzament-hyper-pla-yellow",
+      "id": "alzament-hyper-pla-plus-yellow",
       "brand": "Alzament",
       "material": "PLA",
       "name": "Hyper PLA+ Yellow",
       "hex": "#fbf942",
       "searchText": "alzament pla hyper pla+ yellow"
+    },
+    {
+      "id": "alzament-pla-basic-beige",
+      "brand": "Alzament",
+      "material": "PLA",
+      "name": "PLA Basic Beige",
+      "hex": "#c2ab72",
+      "searchText": "alzament pla pla basic beige"
     },
     {
       "id": "alzament-pla-basic-black",
@@ -6638,6 +8230,54 @@
       "searchText": "alzament pla pla basic blue"
     },
     {
+      "id": "alzament-pla-basic-brown",
+      "brand": "Alzament",
+      "material": "PLA",
+      "name": "PLA Basic Brown",
+      "hex": "#785f53",
+      "searchText": "alzament pla pla basic brown"
+    },
+    {
+      "id": "alzament-pla-basic-fire-engine-red",
+      "brand": "Alzament",
+      "material": "PLA",
+      "name": "PLA Basic Fire Engine Red",
+      "hex": "#e9301e",
+      "searchText": "alzament pla pla basic fire engine red"
+    },
+    {
+      "id": "alzament-pla-basic-gold",
+      "brand": "Alzament",
+      "material": "PLA",
+      "name": "PLA Basic Gold",
+      "hex": "#f6c500",
+      "searchText": "alzament pla pla basic gold"
+    },
+    {
+      "id": "alzament-pla-basic-gray",
+      "brand": "Alzament",
+      "material": "PLA",
+      "name": "PLA Basic Gray",
+      "hex": "#75787b",
+      "searchText": "alzament pla pla basic gray"
+    },
+    {
+      "id": "alzament-pla-basic-green",
+      "brand": "Alzament",
+      "material": "PLA",
+      "name": "PLA Basic Green",
+      "hex": "#00c26b",
+      "searchText": "alzament pla pla basic green"
+    },
+    {
+      "id": "alzament-pla-basic-lava-red",
+      "brand": "Alzament",
+      "material": "PLA",
+      "name": "PLA Basic Lava Red",
+      "hex": "#ff2c29",
+      "searchText": "alzament pla pla basic lava red"
+    },
+    {
       "id": "alzament-pla-basic-mint-green",
       "brand": "Alzament",
       "material": "PLA",
@@ -6650,16 +8290,40 @@
       "brand": "Alzament",
       "material": "PLA",
       "name": "PLA Basic Purple",
-      "hex": "#9f47bc",
+      "hex": "#db3fa9",
       "searchText": "alzament pla pla basic purple"
     },
     {
-      "id": "alzament-pla-basic-red",
+      "id": "alzament-pla-basic-rose",
       "brand": "Alzament",
       "material": "PLA",
-      "name": "PLA Basic Red",
-      "hex": "#ff2c29",
-      "searchText": "alzament pla pla basic red"
+      "name": "PLA Basic Rose",
+      "hex": "#d8988c",
+      "searchText": "alzament pla pla basic rose"
+    },
+    {
+      "id": "alzament-pla-basic-silver",
+      "brand": "Alzament",
+      "material": "PLA",
+      "name": "PLA Basic Silver",
+      "hex": "#818fa0",
+      "searchText": "alzament pla pla basic silver"
+    },
+    {
+      "id": "alzament-pla-basic-sky-blue",
+      "brand": "Alzament",
+      "material": "PLA",
+      "name": "PLA Basic Sky Blue",
+      "hex": "#5eb7d4",
+      "searchText": "alzament pla pla basic sky blue"
+    },
+    {
+      "id": "alzament-pla-basic-transparent",
+      "brand": "Alzament",
+      "material": "PLA",
+      "name": "PLA Basic Transparent",
+      "hex": "#e6e6e6",
+      "searchText": "alzament pla pla basic transparent"
     },
     {
       "id": "alzament-pla-basic-white",
@@ -6676,6 +8340,62 @@
       "name": "PLA Basic Yellow",
       "hex": "#fbf942",
       "searchText": "alzament pla pla basic yellow"
+    },
+    {
+      "id": "alzament-pla-galaxy-army-green",
+      "brand": "Alzament",
+      "material": "PLA",
+      "name": "PLA Galaxy Army Green",
+      "hex": "#466037",
+      "searchText": "alzament pla pla galaxy army green"
+    },
+    {
+      "id": "alzament-pla-galaxy-black",
+      "brand": "Alzament",
+      "material": "PLA",
+      "name": "PLA Galaxy Black",
+      "hex": "#000000",
+      "searchText": "alzament pla pla galaxy black"
+    },
+    {
+      "id": "alzament-pla-galaxy-brown",
+      "brand": "Alzament",
+      "material": "PLA",
+      "name": "PLA Galaxy Brown",
+      "hex": "#785f53",
+      "searchText": "alzament pla pla galaxy brown"
+    },
+    {
+      "id": "alzament-pla-galaxy-green",
+      "brand": "Alzament",
+      "material": "PLA",
+      "name": "PLA Galaxy Green",
+      "hex": "#00c26b",
+      "searchText": "alzament pla pla galaxy green"
+    },
+    {
+      "id": "alzament-pla-galaxy-opal-green",
+      "brand": "Alzament",
+      "material": "PLA",
+      "name": "PLA Galaxy Opal Green",
+      "hex": "#00c26b",
+      "searchText": "alzament pla pla galaxy opal green"
+    },
+    {
+      "id": "alzament-pla-galaxy-red",
+      "brand": "Alzament",
+      "material": "PLA",
+      "name": "PLA Galaxy Red",
+      "hex": "#ec0000",
+      "searchText": "alzament pla pla galaxy red"
+    },
+    {
+      "id": "alzament-pla-galaxy-silver",
+      "brand": "Alzament",
+      "material": "PLA",
+      "name": "PLA Galaxy Silver",
+      "hex": "#818fa0",
+      "searchText": "alzament pla pla galaxy silver"
     },
     {
       "id": "alzament-pla-matte-black",
@@ -6700,6 +8420,14 @@
       "name": "PLA Matte Green",
       "hex": "#adebb3",
       "searchText": "alzament pla pla matte green"
+    },
+    {
+      "id": "alzament-pla-matte-orange",
+      "brand": "Alzament",
+      "material": "PLA",
+      "name": "PLA Matte Orange",
+      "hex": "#ff9a40",
+      "searchText": "alzament pla pla matte orange"
     },
     {
       "id": "alzament-pla-matte-pink",
@@ -6750,12 +8478,36 @@
       "searchText": "alzament pla pla silk blue"
     },
     {
-      "id": "alzament-pla-silk-red",
+      "id": "alzament-pla-silk-dual-colour-red-gold",
       "brand": "Alzament",
       "material": "PLA",
-      "name": "PLA Silk Red",
+      "name": "PLA Silk Dual colour Red-Gold",
+      "hex": "#f6c500",
+      "searchText": "alzament pla pla silk dual colour red-gold"
+    },
+    {
+      "id": "alzament-pla-silk-gold",
+      "brand": "Alzament",
+      "material": "PLA",
+      "name": "PLA Silk Gold",
+      "hex": "#f6c500",
+      "searchText": "alzament pla pla silk gold"
+    },
+    {
+      "id": "alzament-pla-silk-pink",
+      "brand": "Alzament",
+      "material": "PLA",
+      "name": "PLA Silk Pink",
       "hex": "#fc496d",
-      "searchText": "alzament pla pla silk red"
+      "searchText": "alzament pla pla silk pink"
+    },
+    {
+      "id": "alzament-pla-silk-red-copper",
+      "brand": "Alzament",
+      "material": "PLA",
+      "name": "PLA Silk Red Copper",
+      "hex": "#a24016",
+      "searchText": "alzament pla pla silk red copper"
     },
     {
       "id": "alzament-pla-silk-royal-blue",
@@ -6766,12 +8518,124 @@
       "searchText": "alzament pla pla silk royal blue"
     },
     {
+      "id": "alzament-pla-silk-silver",
+      "brand": "Alzament",
+      "material": "PLA",
+      "name": "PLA Silk Silver",
+      "hex": "#818fa0",
+      "searchText": "alzament pla pla silk silver"
+    },
+    {
       "id": "alzament-pla-silk-white",
       "brand": "Alzament",
       "material": "PLA",
       "name": "PLA Silk White",
       "hex": "#efefef",
       "searchText": "alzament pla pla silk white"
+    },
+    {
+      "id": "alzament-pla-cf-black",
+      "brand": "Alzament",
+      "material": "PLA",
+      "name": "PLA-CF Black",
+      "hex": "#000000",
+      "searchText": "alzament pla pla-cf black"
+    },
+    {
+      "id": "alzament-pla-plus-black",
+      "brand": "Alzament",
+      "material": "PLA",
+      "name": "PLA+ Black",
+      "hex": "#000000",
+      "searchText": "alzament pla pla+ black"
+    },
+    {
+      "id": "alzament-pla-plus-blue",
+      "brand": "Alzament",
+      "material": "PLA",
+      "name": "PLA+ Blue",
+      "hex": "#0353ba",
+      "searchText": "alzament pla pla+ blue"
+    },
+    {
+      "id": "alzament-pla-plus-red",
+      "brand": "Alzament",
+      "material": "PLA",
+      "name": "PLA+ Red",
+      "hex": "#ec0000",
+      "searchText": "alzament pla pla+ red"
+    },
+    {
+      "id": "alzament-pla-plus-white",
+      "brand": "Alzament",
+      "material": "PLA",
+      "name": "PLA+ White",
+      "hex": "#ffffff",
+      "searchText": "alzament pla pla+ white"
+    },
+    {
+      "id": "alzament-pla-plus-yellow",
+      "brand": "Alzament",
+      "material": "PLA",
+      "name": "PLA+ Yellow",
+      "hex": "#fbf942",
+      "searchText": "alzament pla pla+ yellow"
+    },
+    {
+      "id": "alzament-tpu-95a-black",
+      "brand": "Alzament",
+      "material": "TPU",
+      "name": "TPU 95A Black",
+      "hex": "#000000",
+      "searchText": "alzament tpu tpu 95a black"
+    },
+    {
+      "id": "alzament-tpu-95a-blue",
+      "brand": "Alzament",
+      "material": "TPU",
+      "name": "TPU 95A Blue",
+      "hex": "#0353ba",
+      "searchText": "alzament tpu tpu 95a blue"
+    },
+    {
+      "id": "alzament-tpu-95a-gray",
+      "brand": "Alzament",
+      "material": "TPU",
+      "name": "TPU 95A Gray",
+      "hex": "#75787b",
+      "searchText": "alzament tpu tpu 95a gray"
+    },
+    {
+      "id": "alzament-tpu-95a-green",
+      "brand": "Alzament",
+      "material": "TPU",
+      "name": "TPU 95A Green",
+      "hex": "#00c26b",
+      "searchText": "alzament tpu tpu 95a green"
+    },
+    {
+      "id": "alzament-tpu-95a-red",
+      "brand": "Alzament",
+      "material": "TPU",
+      "name": "TPU 95A Red",
+      "hex": "#ec0000",
+      "searchText": "alzament tpu tpu 95a red"
+    },
+    {
+      "id": "alzament-tpu-95a-translucent",
+      "brand": "Alzament",
+      "material": "TPU",
+      "name": "TPU 95A Translucent",
+      "hex": "#e6e6e6",
+      "searchText": "alzament tpu tpu 95a translucent"
+    },
+    {
+      "id": "alzament-tpu-95a-white",
+      "brand": "Alzament",
+      "material": "TPU",
+      "name": "TPU 95A White",
+      "hex": "#ffffff",
+      "searchText": "alzament tpu tpu 95a white"
     },
     {
       "id": "amazonbasics-silk-pla-blue",
@@ -32878,6 +34742,30 @@
       "searchText": "esun tpu tpu-lw white"
     },
     {
+      "id": "eumakers-pa-nylon-carbon-fiber",
+      "brand": "EUMAKERS",
+      "material": "PACF",
+      "name": "PA Nylon Carbon Fiber",
+      "hex": "#292824",
+      "searchText": "eumakers pacf pa nylon carbon fiber"
+    },
+    {
+      "id": "eumakers-pa-nylon-glass-fiber-black",
+      "brand": "EUMAKERS",
+      "material": "PAGF",
+      "name": "PA Nylon Glass Fiber Black",
+      "hex": "#292824",
+      "searchText": "eumakers pagf pa nylon glass fiber black"
+    },
+    {
+      "id": "eumakers-pa-nylon-glass-fiber-translucent-white",
+      "brand": "EUMAKERS",
+      "material": "PAGF",
+      "name": "PA Nylon Glass Fiber Translucent White",
+      "hex": "#f9f3e5",
+      "searchText": "eumakers pagf pa nylon glass fiber translucent white"
+    },
+    {
       "id": "eumakers-anti-hydrolysis-pla-black",
       "brand": "EUMAKERS",
       "material": "PLA",
@@ -32946,7 +34834,7 @@
       "brand": "EUMAKERS",
       "material": "PLA",
       "name": "PLA Antique Gold",
-      "hex": "#ce8d00",
+      "hex": "#f4ac23",
       "searchText": "eumakers pla pla antique gold"
     },
     {
@@ -32964,6 +34852,14 @@
       "name": "PLA Aquamarine",
       "hex": "#b9dcd2",
       "searchText": "eumakers pla pla aquamarine"
+    },
+    {
+      "id": "eumakers-pla-beige",
+      "brand": "EUMAKERS",
+      "material": "PLA",
+      "name": "PLA Beige",
+      "hex": "#c2ab72",
+      "searchText": "eumakers pla pla beige"
     },
     {
       "id": "eumakers-pla-black",
@@ -33146,7 +35042,7 @@
       "brand": "EUMAKERS",
       "material": "PLA",
       "name": "PLA Evergreen",
-      "hex": "#006f62",
+      "hex": "#0d5c54",
       "searchText": "eumakers pla pla evergreen"
     },
     {
@@ -33242,7 +35138,7 @@
       "brand": "EUMAKERS",
       "material": "PLA",
       "name": "PLA Glossy Violet",
-      "hex": "#713f88",
+      "hex": "#9761b5",
       "searchText": "eumakers pla pla glossy violet"
     },
     {
@@ -33502,6 +35398,14 @@
       "searchText": "eumakers pla pla pastel green"
     },
     {
+      "id": "eumakers-pla-pastel-orange",
+      "brand": "EUMAKERS",
+      "material": "PLA",
+      "name": "PLA Pastel Orange",
+      "hex": "#f5b797",
+      "searchText": "eumakers pla pla pastel orange"
+    },
+    {
       "id": "eumakers-pla-pearl-blue",
       "brand": "EUMAKERS",
       "material": "PLA",
@@ -33626,7 +35530,7 @@
       "brand": "EUMAKERS",
       "material": "PLA",
       "name": "PLA Sky Blue",
-      "hex": "#7fa4b7",
+      "hex": "#1adafb",
       "searchText": "eumakers pla pla sky blue"
     },
     {
@@ -33644,6 +35548,14 @@
       "name": "PLA Straw Yellow",
       "hex": "#f1eb9c",
       "searchText": "eumakers pla pla straw yellow"
+    },
+    {
+      "id": "eumakers-pla-tangerine-orange",
+      "brand": "EUMAKERS",
+      "material": "PLA",
+      "name": "PLA Tangerine Orange",
+      "hex": "#ff9351",
+      "searchText": "eumakers pla pla tangerine orange"
     },
     {
       "id": "eumakers-pla-teal",
@@ -40566,36 +42478,20 @@
       "searchText": "filamentree pla pla-cf black"
     },
     {
-      "id": "filamentworld-abs",
+      "id": "filamentworld-abs-dunkelbraun",
       "brand": "Filamentworld",
       "material": "ABS",
-      "name": "ABS",
-      "hex": "#a2aaad",
-      "searchText": "filamentworld abs abs"
-    },
-    {
-      "id": "filamentworld-abs-black",
-      "brand": "Filamentworld",
-      "material": "ABS",
-      "name": "ABS Black",
-      "hex": "#000000",
-      "searchText": "filamentworld abs abs black"
-    },
-    {
-      "id": "filamentworld-abs-dark-brown",
-      "brand": "Filamentworld",
-      "material": "ABS",
-      "name": "ABS Dark Brown",
+      "name": "ABS Dunkelbraun",
       "hex": "#8b3a3a",
-      "searchText": "filamentworld abs abs dark brown"
+      "searchText": "filamentworld abs abs dunkelbraun"
     },
     {
-      "id": "filamentworld-abs-fire-red",
+      "id": "filamentworld-abs-feuerrot",
       "brand": "Filamentworld",
       "material": "ABS",
-      "name": "ABS Fire Red",
+      "name": "ABS Feuerrot",
       "hex": "#e72f1d",
-      "searchText": "filamentworld abs abs fire red"
+      "searchText": "filamentworld abs abs feuerrot"
     },
     {
       "id": "filamentworld-abs-gold",
@@ -40606,12 +42502,28 @@
       "searchText": "filamentworld abs abs gold"
     },
     {
-      "id": "filamentworld-abs-grass-green",
+      "id": "filamentworld-abs-grasgrun",
       "brand": "Filamentworld",
       "material": "ABS",
-      "name": "ABS Grass Green",
+      "name": "ABS Grasgrün",
       "hex": "#3d9441",
-      "searchText": "filamentworld abs abs grass green"
+      "searchText": "filamentworld abs abs grasgrün"
+    },
+    {
+      "id": "filamentworld-abs-grau",
+      "brand": "Filamentworld",
+      "material": "ABS",
+      "name": "ABS Grau",
+      "hex": "#a2aaad",
+      "searchText": "filamentworld abs abs grau"
+    },
+    {
+      "id": "filamentworld-abs-himmelblau",
+      "brand": "Filamentworld",
+      "material": "ABS",
+      "name": "ABS Himmelblau",
+      "hex": "#2941bd",
+      "searchText": "filamentworld abs abs himmelblau"
     },
     {
       "id": "filamentworld-abs-magenta",
@@ -40622,12 +42534,20 @@
       "searchText": "filamentworld abs abs magenta"
     },
     {
-      "id": "filamentworld-abs-neon-green",
+      "id": "filamentworld-abs-neon-gelb",
       "brand": "Filamentworld",
       "material": "ABS",
-      "name": "ABS Neon Green",
+      "name": "ABS Neon Gelb",
+      "hex": "#fffc6a",
+      "searchText": "filamentworld abs abs neon gelb"
+    },
+    {
+      "id": "filamentworld-abs-neon-grun",
+      "brand": "Filamentworld",
+      "material": "ABS",
+      "name": "ABS Neon Grün",
       "hex": "#62e480",
-      "searchText": "filamentworld abs abs neon green"
+      "searchText": "filamentworld abs abs neon grün"
     },
     {
       "id": "filamentworld-abs-neon-orange",
@@ -40638,14 +42558,6 @@
       "searchText": "filamentworld abs abs neon orange"
     },
     {
-      "id": "filamentworld-abs-neon-yellow",
-      "brand": "Filamentworld",
-      "material": "ABS",
-      "name": "ABS Neon Yellow",
-      "hex": "#fffc6a",
-      "searchText": "filamentworld abs abs neon yellow"
-    },
-    {
       "id": "filamentworld-abs-orange",
       "brand": "Filamentworld",
       "material": "ABS",
@@ -40654,36 +42566,36 @@
       "searchText": "filamentworld abs abs orange"
     },
     {
-      "id": "filamentworld-abs-silver",
+      "id": "filamentworld-abs-schneeweiss",
       "brand": "Filamentworld",
       "material": "ABS",
-      "name": "ABS Silver",
-      "hex": "#9c9d9d",
-      "searchText": "filamentworld abs abs silver"
-    },
-    {
-      "id": "filamentworld-abs-sky-blue",
-      "brand": "Filamentworld",
-      "material": "ABS",
-      "name": "ABS Sky Blue",
-      "hex": "#2941bd",
-      "searchText": "filamentworld abs abs sky blue"
-    },
-    {
-      "id": "filamentworld-abs-snow-white",
-      "brand": "Filamentworld",
-      "material": "ABS",
-      "name": "ABS Snow White",
+      "name": "ABS Schneeweiß",
       "hex": "#f5f5f5",
-      "searchText": "filamentworld abs abs snow white"
+      "searchText": "filamentworld abs abs schneeweiß"
     },
     {
-      "id": "filamentworld-abs-sun-yellow",
+      "id": "filamentworld-abs-schwarz",
       "brand": "Filamentworld",
       "material": "ABS",
-      "name": "ABS Sun Yellow",
+      "name": "ABS Schwarz",
+      "hex": "#000000",
+      "searchText": "filamentworld abs abs schwarz"
+    },
+    {
+      "id": "filamentworld-abs-silber",
+      "brand": "Filamentworld",
+      "material": "ABS",
+      "name": "ABS Silber",
+      "hex": "#9c9d9d",
+      "searchText": "filamentworld abs abs silber"
+    },
+    {
+      "id": "filamentworld-abs-sonnengelb",
+      "brand": "Filamentworld",
+      "material": "ABS",
+      "name": "ABS Sonnengelb",
       "hex": "#f8cc00",
-      "searchText": "filamentworld abs abs sun yellow"
+      "searchText": "filamentworld abs abs sonnengelb"
     },
     {
       "id": "filamentworld-abs-transparent",
@@ -40694,52 +42606,60 @@
       "searchText": "filamentworld abs abs transparent"
     },
     {
-      "id": "filamentworld-petg-black",
+      "id": "filamentworld-petg-feuerrot",
       "brand": "Filamentworld",
       "material": "PETG",
-      "name": "PETG Black",
-      "hex": "#000000",
-      "searchText": "filamentworld petg petg black"
-    },
-    {
-      "id": "filamentworld-petg-crystal-clear",
-      "brand": "Filamentworld",
-      "material": "PETG",
-      "name": "PETG Crystal Clear",
-      "hex": "#dee2da",
-      "searchText": "filamentworld petg petg crystal clear"
-    },
-    {
-      "id": "filamentworld-petg-fire-red",
-      "brand": "Filamentworld",
-      "material": "PETG",
-      "name": "PETG Fire Red",
+      "name": "PETG Feuerrot",
       "hex": "#ec0000",
-      "searchText": "filamentworld petg petg fire red"
+      "searchText": "filamentworld petg petg feuerrot"
     },
     {
-      "id": "filamentworld-petg-grass-green",
+      "id": "filamentworld-petg-gelb",
       "brand": "Filamentworld",
       "material": "PETG",
-      "name": "PETG Grass Green",
+      "name": "PETG Gelb",
+      "hex": "#fbf942",
+      "searchText": "filamentworld petg petg gelb"
+    },
+    {
+      "id": "filamentworld-petg-glasklar",
+      "brand": "Filamentworld",
+      "material": "PETG",
+      "name": "PETG Glasklar",
+      "hex": "#dee2da",
+      "searchText": "filamentworld petg petg glasklar"
+    },
+    {
+      "id": "filamentworld-petg-grasgrun",
+      "brand": "Filamentworld",
+      "material": "PETG",
+      "name": "PETG Grasgrün",
       "hex": "#11784f",
-      "searchText": "filamentworld petg petg grass green"
+      "searchText": "filamentworld petg petg grasgrün"
     },
     {
-      "id": "filamentworld-petg-gray",
+      "id": "filamentworld-petg-grau",
       "brand": "Filamentworld",
       "material": "PETG",
-      "name": "PETG Gray",
+      "name": "PETG Grau",
       "hex": "#9c9d9d",
-      "searchText": "filamentworld petg petg gray"
+      "searchText": "filamentworld petg petg grau"
     },
     {
-      "id": "filamentworld-petg-metallic-blue",
+      "id": "filamentworld-petg-himmelblau",
       "brand": "Filamentworld",
       "material": "PETG",
-      "name": "PETG Metallic Blue",
+      "name": "PETG Himmelblau",
+      "hex": "#0353ba",
+      "searchText": "filamentworld petg petg himmelblau"
+    },
+    {
+      "id": "filamentworld-petg-metallic-blau",
+      "brand": "Filamentworld",
+      "material": "PETG",
+      "name": "PETG Metallic Blau",
       "hex": "#3375a7",
-      "searchText": "filamentworld petg petg metallic blue"
+      "searchText": "filamentworld petg petg metallic blau"
     },
     {
       "id": "filamentworld-petg-metallic-bronze",
@@ -40750,20 +42670,20 @@
       "searchText": "filamentworld petg petg metallic bronze"
     },
     {
-      "id": "filamentworld-petg-metallic-green",
+      "id": "filamentworld-petg-metallic-grun",
       "brand": "Filamentworld",
       "material": "PETG",
-      "name": "PETG Metallic Green",
+      "name": "PETG Metallic Grün",
       "hex": "#446b20",
-      "searchText": "filamentworld petg petg metallic green"
+      "searchText": "filamentworld petg petg metallic grün"
     },
     {
-      "id": "filamentworld-petg-metallic-silver",
+      "id": "filamentworld-petg-metallic-silber",
       "brand": "Filamentworld",
       "material": "PETG",
-      "name": "PETG Metallic Silver",
+      "name": "PETG Metallic Silber",
       "hex": "#bdc8c8",
-      "searchText": "filamentworld petg petg metallic silver"
+      "searchText": "filamentworld petg petg metallic silber"
     },
     {
       "id": "filamentworld-petg-orange",
@@ -40774,124 +42694,116 @@
       "searchText": "filamentworld petg petg orange"
     },
     {
-      "id": "filamentworld-petg-sky-blue",
+      "id": "filamentworld-petg-schneeweiss",
       "brand": "Filamentworld",
       "material": "PETG",
-      "name": "PETG Sky Blue",
-      "hex": "#0353ba",
-      "searchText": "filamentworld petg petg sky blue"
-    },
-    {
-      "id": "filamentworld-petg-snow-white",
-      "brand": "Filamentworld",
-      "material": "PETG",
-      "name": "PETG Snow White",
+      "name": "PETG Schneeweiß",
       "hex": "#f5f5f5",
-      "searchText": "filamentworld petg petg snow white"
+      "searchText": "filamentworld petg petg schneeweiß"
     },
     {
-      "id": "filamentworld-petg-yellow",
+      "id": "filamentworld-petg-schwarz",
       "brand": "Filamentworld",
       "material": "PETG",
-      "name": "PETG Yellow",
-      "hex": "#fbf942",
-      "searchText": "filamentworld petg petg yellow"
+      "name": "PETG Schwarz",
+      "hex": "#000000",
+      "searchText": "filamentworld petg petg schwarz"
     },
     {
-      "id": "filamentworld-basic-pla-dark-blue",
+      "id": "filamentworld-basic-pla-dunkelblau",
       "brand": "Filamentworld",
       "material": "PLA",
-      "name": "Basic PLA Dark Blue",
+      "name": "Basic-PLA Dunkelblau",
       "hex": "#0353ba",
-      "searchText": "filamentworld pla basic pla dark blue"
+      "searchText": "filamentworld pla basic-pla dunkelblau"
+    },
+    {
+      "id": "filamentworld-basic-pla-dunkelgrun",
+      "brand": "Filamentworld",
+      "material": "PLA",
+      "name": "Basic-PLA Dunkelgrün",
+      "hex": "#04a584",
+      "searchText": "filamentworld pla basic-pla dunkelgrün"
     },
     {
       "id": "filamentworld-basic-pla-gold",
       "brand": "Filamentworld",
       "material": "PLA",
-      "name": "Basic PLA Gold",
+      "name": "Basic-PLA Gold",
       "hex": "#a78403",
-      "searchText": "filamentworld pla basic pla gold"
+      "searchText": "filamentworld pla basic-pla gold"
     },
     {
       "id": "filamentworld-basic-pla-orange",
       "brand": "Filamentworld",
       "material": "PLA",
-      "name": "Basic PLA Orange",
+      "name": "Basic-PLA Orange",
       "hex": "#fa8423",
-      "searchText": "filamentworld pla basic pla orange"
+      "searchText": "filamentworld pla basic-pla orange"
     },
     {
-      "id": "filamentworld-basic-pla-pink",
+      "id": "filamentworld-basic-pla-rosa",
       "brand": "Filamentworld",
       "material": "PLA",
-      "name": "Basic PLA Pink",
+      "name": "Basic-PLA Rosa",
       "hex": "#fcafc0",
-      "searchText": "filamentworld pla basic pla pink"
+      "searchText": "filamentworld pla basic-pla rosa"
     },
     {
-      "id": "filamentworld-basic-pla-silver",
+      "id": "filamentworld-basic-pla-silber",
       "brand": "Filamentworld",
       "material": "PLA",
-      "name": "Basic PLA Silver",
+      "name": "Basic-PLA Silber",
       "hex": "#aabccf",
-      "searchText": "filamentworld pla basic pla silver"
+      "searchText": "filamentworld pla basic-pla silber"
     },
     {
       "id": "filamentworld-basic-pla-wintershine-white",
       "brand": "Filamentworld",
       "material": "PLA",
-      "name": "Basic PLA Wintershine White",
+      "name": "Basic-PLA Wintershine White",
       "hex": "#ffffff",
-      "searchText": "filamentworld pla basic pla wintershine white"
+      "searchText": "filamentworld pla basic-pla wintershine white"
     },
     {
       "id": "filamentworld-basic-pla-wondrous-white",
       "brand": "Filamentworld",
       "material": "PLA",
-      "name": "Basic PLA Wondrous White",
+      "name": "Basic-PLA Wondrous White",
       "hex": "#f2efe9",
-      "searchText": "filamentworld pla basic pla wondrous white"
+      "searchText": "filamentworld pla basic-pla wondrous white"
     },
     {
-      "id": "filamentworld-basic-pla-dark-green",
+      "id": "filamentworld-pla-anthrazitgrau",
       "brand": "Filamentworld",
       "material": "PLA",
-      "name": "Basic-PLA Dark Green",
-      "hex": "#04a584",
-      "searchText": "filamentworld pla basic-pla dark green"
-    },
-    {
-      "id": "filamentworld-pla-anthracite-gray",
-      "brand": "Filamentworld",
-      "material": "PLA",
-      "name": "PLA anthracite gray",
+      "name": "PLA Anthrazitgrau",
       "hex": "#5a696c",
-      "searchText": "filamentworld pla pla anthracite gray"
+      "searchText": "filamentworld pla pla anthrazitgrau"
     },
     {
-      "id": "filamentworld-pla-black",
+      "id": "filamentworld-pla-dunkelbraun",
       "brand": "Filamentworld",
       "material": "PLA",
-      "name": "PLA Black",
-      "hex": "#000000",
-      "searchText": "filamentworld pla pla black"
-    },
-    {
-      "id": "filamentworld-pla-dark-brown",
-      "brand": "Filamentworld",
-      "material": "PLA",
-      "name": "PLA Dark Brown",
+      "name": "PLA Dunkelbraun",
       "hex": "#6e4325",
-      "searchText": "filamentworld pla pla dark brown"
+      "searchText": "filamentworld pla pla dunkelbraun"
     },
     {
-      "id": "filamentworld-pla-fire-red",
+      "id": "filamentworld-pla-eco-recycling-schwarz",
       "brand": "Filamentworld",
       "material": "PLA",
-      "name": "PLA Fire Red",
+      "name": "PLA ECO Recycling Schwarz",
+      "hex": "#020303",
+      "searchText": "filamentworld pla pla eco recycling schwarz"
+    },
+    {
+      "id": "filamentworld-pla-feuerrot",
+      "brand": "Filamentworld",
+      "material": "PLA",
+      "name": "PLA Feuerrot",
       "hex": "#ec0000",
-      "searchText": "filamentworld pla pla fire red"
+      "searchText": "filamentworld pla pla feuerrot"
     },
     {
       "id": "filamentworld-pla-gold",
@@ -40902,28 +42814,36 @@
       "searchText": "filamentworld pla pla gold"
     },
     {
-      "id": "filamentworld-pla-grass-green",
+      "id": "filamentworld-pla-grasgrun",
       "brand": "Filamentworld",
       "material": "PLA",
-      "name": "PLA Grass Green",
+      "name": "PLA Grasgrün",
       "hex": "#06924d",
-      "searchText": "filamentworld pla pla grass green"
+      "searchText": "filamentworld pla pla grasgrün"
     },
     {
-      "id": "filamentworld-pla-gray",
+      "id": "filamentworld-pla-grau",
       "brand": "Filamentworld",
       "material": "PLA",
-      "name": "PLA Gray",
+      "name": "PLA Grau",
       "hex": "#c4bcb3",
-      "searchText": "filamentworld pla pla gray"
+      "searchText": "filamentworld pla pla grau"
     },
     {
-      "id": "filamentworld-pla-light-gray",
+      "id": "filamentworld-pla-himmelblau",
       "brand": "Filamentworld",
       "material": "PLA",
-      "name": "PLA Light Gray",
+      "name": "PLA Himmelblau",
+      "hex": "#0078bf",
+      "searchText": "filamentworld pla pla himmelblau"
+    },
+    {
+      "id": "filamentworld-pla-lichtgrau",
+      "brand": "Filamentworld",
+      "material": "PLA",
+      "name": "PLA Lichtgrau",
       "hex": "#f5f5f5",
-      "searchText": "filamentworld pla pla light gray"
+      "searchText": "filamentworld pla pla lichtgrau"
     },
     {
       "id": "filamentworld-pla-magenta",
@@ -40934,60 +42854,68 @@
       "searchText": "filamentworld pla pla magenta"
     },
     {
-      "id": "filamentworld-pla-matt-black",
+      "id": "filamentworld-pla-marine-blau-navy",
       "brand": "Filamentworld",
       "material": "PLA",
-      "name": "PLA MATT Black",
-      "hex": "#292824",
-      "searchText": "filamentworld pla pla matt black"
-    },
-    {
-      "id": "filamentworld-pla-matt-blue",
-      "brand": "Filamentworld",
-      "material": "PLA",
-      "name": "PLA MATT Blue",
-      "hex": "#40b6e4",
-      "searchText": "filamentworld pla pla matt blue"
-    },
-    {
-      "id": "filamentworld-pla-matt-gray",
-      "brand": "Filamentworld",
-      "material": "PLA",
-      "name": "PLA MATT Gray",
-      "hex": "#a9a8a0",
-      "searchText": "filamentworld pla pla matt gray"
-    },
-    {
-      "id": "filamentworld-pla-matt-red",
-      "brand": "Filamentworld",
-      "material": "PLA",
-      "name": "PLA MATT Red",
-      "hex": "#ce5d4c",
-      "searchText": "filamentworld pla pla matt red"
-    },
-    {
-      "id": "filamentworld-pla-matt-white",
-      "brand": "Filamentworld",
-      "material": "PLA",
-      "name": "PLA MATT White",
-      "hex": "#f5f5f5",
-      "searchText": "filamentworld pla pla matt white"
-    },
-    {
-      "id": "filamentworld-pla-navy-blue-navy",
-      "brand": "Filamentworld",
-      "material": "PLA",
-      "name": "PLA Navy Blue / Navy",
+      "name": "PLA Marine Blau / Navy",
       "hex": "#0066d9",
-      "searchText": "filamentworld pla pla navy blue / navy"
+      "searchText": "filamentworld pla pla marine blau / navy"
     },
     {
-      "id": "filamentworld-pla-neon-green",
+      "id": "filamentworld-pla-matt-blau",
       "brand": "Filamentworld",
       "material": "PLA",
-      "name": "PLA Neon Green",
+      "name": "PLA MATT Blau",
+      "hex": "#40b6e4",
+      "searchText": "filamentworld pla pla matt blau"
+    },
+    {
+      "id": "filamentworld-pla-matt-grau",
+      "brand": "Filamentworld",
+      "material": "PLA",
+      "name": "PLA MATT Grau",
+      "hex": "#a9a8a0",
+      "searchText": "filamentworld pla pla matt grau"
+    },
+    {
+      "id": "filamentworld-pla-matt-rot",
+      "brand": "Filamentworld",
+      "material": "PLA",
+      "name": "PLA MATT Rot",
+      "hex": "#ce5d4c",
+      "searchText": "filamentworld pla pla matt rot"
+    },
+    {
+      "id": "filamentworld-pla-matt-schwarz",
+      "brand": "Filamentworld",
+      "material": "PLA",
+      "name": "PLA MATT Schwarz",
+      "hex": "#292824",
+      "searchText": "filamentworld pla pla matt schwarz"
+    },
+    {
+      "id": "filamentworld-pla-matt-weiss",
+      "brand": "Filamentworld",
+      "material": "PLA",
+      "name": "PLA MATT Weiß",
+      "hex": "#f5f5f5",
+      "searchText": "filamentworld pla pla matt weiß"
+    },
+    {
+      "id": "filamentworld-pla-neon-gelb",
+      "brand": "Filamentworld",
+      "material": "PLA",
+      "name": "PLA Neon Gelb",
+      "hex": "#e2ff4d",
+      "searchText": "filamentworld pla pla neon gelb"
+    },
+    {
+      "id": "filamentworld-pla-neon-grun",
+      "brand": "Filamentworld",
+      "material": "PLA",
+      "name": "PLA Neon Grün",
       "hex": "#62e480",
-      "searchText": "filamentworld pla pla neon green"
+      "searchText": "filamentworld pla pla neon grün"
     },
     {
       "id": "filamentworld-pla-neon-orange",
@@ -40998,14 +42926,6 @@
       "searchText": "filamentworld pla pla neon orange"
     },
     {
-      "id": "filamentworld-pla-neon-yellow",
-      "brand": "Filamentworld",
-      "material": "PLA",
-      "name": "PLA Neon Yellow",
-      "hex": "#e2ff4d",
-      "searchText": "filamentworld pla pla neon yellow"
-    },
-    {
       "id": "filamentworld-pla-orange",
       "brand": "Filamentworld",
       "material": "PLA",
@@ -41014,84 +42934,140 @@
       "searchText": "filamentworld pla pla orange"
     },
     {
-      "id": "filamentworld-pla-plus-black",
+      "id": "filamentworld-pla-plus-blau",
       "brand": "Filamentworld",
       "material": "PLA",
-      "name": "PLA PLUS Black",
-      "hex": "#000000",
-      "searchText": "filamentworld pla pla plus black"
-    },
-    {
-      "id": "filamentworld-pla-plus-blue",
-      "brand": "Filamentworld",
-      "material": "PLA",
-      "name": "PLA PLUS Blue",
+      "name": "PLA PLUS Blau",
       "hex": "#0378d0",
-      "searchText": "filamentworld pla pla plus blue"
+      "searchText": "filamentworld pla pla plus blau"
     },
     {
-      "id": "filamentworld-pla-plus-gray",
+      "id": "filamentworld-pla-plus-grau",
       "brand": "Filamentworld",
       "material": "PLA",
-      "name": "PLA PLUS Gray",
+      "name": "PLA PLUS Grau",
       "hex": "#bdc8c8",
-      "searchText": "filamentworld pla pla plus gray"
+      "searchText": "filamentworld pla pla plus grau"
     },
     {
-      "id": "filamentworld-pla-plus-green",
+      "id": "filamentworld-pla-plus-grun",
       "brand": "Filamentworld",
       "material": "PLA",
-      "name": "PLA PLUS Green",
+      "name": "PLA PLUS Grün",
       "hex": "#70fa00",
-      "searchText": "filamentworld pla pla plus green"
+      "searchText": "filamentworld pla pla plus grün"
     },
     {
-      "id": "filamentworld-pla-plus-natural",
+      "id": "filamentworld-pla-plus-natur",
       "brand": "Filamentworld",
       "material": "PLA",
-      "name": "PLA PLUS Natural",
+      "name": "PLA PLUS Natur",
       "hex": "#f2ece9",
-      "searchText": "filamentworld pla pla plus natural"
+      "searchText": "filamentworld pla pla plus natur"
     },
     {
-      "id": "filamentworld-pla-plus-red",
+      "id": "filamentworld-pla-plus-rot",
       "brand": "Filamentworld",
       "material": "PLA",
-      "name": "PLA PLUS Red",
+      "name": "PLA PLUS Rot",
       "hex": "#ec0000",
-      "searchText": "filamentworld pla pla plus red"
+      "searchText": "filamentworld pla pla plus rot"
     },
     {
-      "id": "filamentworld-pla-plus-white",
+      "id": "filamentworld-pla-plus-schwarz",
       "brand": "Filamentworld",
       "material": "PLA",
-      "name": "PLA PLUS White",
+      "name": "PLA PLUS Schwarz",
+      "hex": "#000000",
+      "searchText": "filamentworld pla pla plus schwarz"
+    },
+    {
+      "id": "filamentworld-pla-plus-weiss",
+      "brand": "Filamentworld",
+      "material": "PLA",
+      "name": "PLA PLUS Weiß",
       "hex": "#f5f5f5",
-      "searchText": "filamentworld pla pla plus white"
+      "searchText": "filamentworld pla pla plus weiß"
     },
     {
-      "id": "filamentworld-pla-silk-black",
+      "id": "filamentworld-pla-refill-blau",
       "brand": "Filamentworld",
       "material": "PLA",
-      "name": "PLA SILK Black",
-      "hex": "#3e413f",
-      "searchText": "filamentworld pla pla silk black"
+      "name": "PLA Refill Blau",
+      "hex": "#509aff",
+      "searchText": "filamentworld pla pla refill blau"
     },
     {
-      "id": "filamentworld-pla-silk-copper",
+      "id": "filamentworld-pla-refill-gelb",
       "brand": "Filamentworld",
       "material": "PLA",
-      "name": "PLA SILK Copper",
-      "hex": "#e87a27",
-      "searchText": "filamentworld pla pla silk copper"
+      "name": "PLA Refill Gelb",
+      "hex": "#ffe802",
+      "searchText": "filamentworld pla pla refill gelb"
     },
     {
-      "id": "filamentworld-pla-silk-dark-blue",
+      "id": "filamentworld-pla-refill-grau",
       "brand": "Filamentworld",
       "material": "PLA",
-      "name": "PLA SILK Dark Blue",
+      "name": "PLA Refill Grau",
+      "hex": "#808e93",
+      "searchText": "filamentworld pla pla refill grau"
+    },
+    {
+      "id": "filamentworld-pla-refill-rot",
+      "brand": "Filamentworld",
+      "material": "PLA",
+      "name": "PLA Refill Rot",
+      "hex": "#e9301e",
+      "searchText": "filamentworld pla pla refill rot"
+    },
+    {
+      "id": "filamentworld-pla-refill-schwarz",
+      "brand": "Filamentworld",
+      "material": "PLA",
+      "name": "PLA Refill Schwarz",
+      "hex": "#020303",
+      "searchText": "filamentworld pla pla refill schwarz"
+    },
+    {
+      "id": "filamentworld-pla-refill-weiss",
+      "brand": "Filamentworld",
+      "material": "PLA",
+      "name": "PLA Refill Weiß",
+      "hex": "#fffefa",
+      "searchText": "filamentworld pla pla refill weiß"
+    },
+    {
+      "id": "filamentworld-pla-schneeweiss",
+      "brand": "Filamentworld",
+      "material": "PLA",
+      "name": "PLA Schneeweiß",
+      "hex": "#f5f5f5",
+      "searchText": "filamentworld pla pla schneeweiß"
+    },
+    {
+      "id": "filamentworld-pla-schwarz",
+      "brand": "Filamentworld",
+      "material": "PLA",
+      "name": "PLA Schwarz",
+      "hex": "#000000",
+      "searchText": "filamentworld pla pla schwarz"
+    },
+    {
+      "id": "filamentworld-pla-silber",
+      "brand": "Filamentworld",
+      "material": "PLA",
+      "name": "PLA Silber",
+      "hex": "#9c9d9d",
+      "searchText": "filamentworld pla pla silber"
+    },
+    {
+      "id": "filamentworld-pla-silk-dunkelblau",
+      "brand": "Filamentworld",
+      "material": "PLA",
+      "name": "PLA SILK Dunkelblau",
       "hex": "#0353ba",
-      "searchText": "filamentworld pla pla silk dark blue"
+      "searchText": "filamentworld pla pla silk dunkelblau"
     },
     {
       "id": "filamentworld-pla-silk-gold",
@@ -41102,68 +43078,60 @@
       "searchText": "filamentworld pla pla silk gold"
     },
     {
-      "id": "filamentworld-pla-silk-purple",
+      "id": "filamentworld-pla-silk-kupfer",
       "brand": "Filamentworld",
       "material": "PLA",
-      "name": "PLA SILK Purple",
-      "hex": "#7894f2",
-      "searchText": "filamentworld pla pla silk purple"
+      "name": "PLA SILK Kupfer",
+      "hex": "#e87a27",
+      "searchText": "filamentworld pla pla silk kupfer"
     },
     {
-      "id": "filamentworld-pla-silk-red",
+      "id": "filamentworld-pla-silk-rot",
       "brand": "Filamentworld",
       "material": "PLA",
-      "name": "PLA SILK Red",
+      "name": "PLA SILK Rot",
       "hex": "#f14147",
-      "searchText": "filamentworld pla pla silk red"
+      "searchText": "filamentworld pla pla silk rot"
     },
     {
-      "id": "filamentworld-pla-silk-silver-grey",
+      "id": "filamentworld-pla-silk-schwarz",
       "brand": "Filamentworld",
       "material": "PLA",
-      "name": "PLA SILK Silver Grey",
+      "name": "PLA SILK Schwarz",
+      "hex": "#3e413f",
+      "searchText": "filamentworld pla pla silk schwarz"
+    },
+    {
+      "id": "filamentworld-pla-silk-silbergrau",
+      "brand": "Filamentworld",
+      "material": "PLA",
+      "name": "PLA SILK Silbergrau",
       "hex": "#a8b0bd",
-      "searchText": "filamentworld pla pla silk silver grey"
+      "searchText": "filamentworld pla pla silk silbergrau"
     },
     {
-      "id": "filamentworld-pla-silk-white",
+      "id": "filamentworld-pla-silk-violett",
       "brand": "Filamentworld",
       "material": "PLA",
-      "name": "PLA SILK White",
+      "name": "PLA SILK Violett",
+      "hex": "#7894f2",
+      "searchText": "filamentworld pla pla silk violett"
+    },
+    {
+      "id": "filamentworld-pla-silk-weiss",
+      "brand": "Filamentworld",
+      "material": "PLA",
+      "name": "PLA SILK Weiß",
       "hex": "#f5f5f5",
-      "searchText": "filamentworld pla pla silk white"
+      "searchText": "filamentworld pla pla silk weiß"
     },
     {
-      "id": "filamentworld-pla-silver",
+      "id": "filamentworld-pla-sonnengelb",
       "brand": "Filamentworld",
       "material": "PLA",
-      "name": "PLA Silver",
-      "hex": "#9c9d9d",
-      "searchText": "filamentworld pla pla silver"
-    },
-    {
-      "id": "filamentworld-pla-sky-blue",
-      "brand": "Filamentworld",
-      "material": "PLA",
-      "name": "PLA Sky Blue",
-      "hex": "#0078bf",
-      "searchText": "filamentworld pla pla sky blue"
-    },
-    {
-      "id": "filamentworld-pla-snow-white",
-      "brand": "Filamentworld",
-      "material": "PLA",
-      "name": "PLA Snow White",
-      "hex": "#f5f5f5",
-      "searchText": "filamentworld pla pla snow white"
-    },
-    {
-      "id": "filamentworld-pla-sun-yellow",
-      "brand": "Filamentworld",
-      "material": "PLA",
-      "name": "PLA Sun Yellow",
+      "name": "PLA Sonnengelb",
       "hex": "#f8cc00",
-      "searchText": "filamentworld pla pla sun yellow"
+      "searchText": "filamentworld pla pla sonnengelb"
     },
     {
       "id": "filamentworld-pla-transparent",
@@ -41478,6 +43446,14 @@
       "searchText": "filatech abs abs white"
     },
     {
+      "id": "filatech-filacarbon-abs-black",
+      "brand": "Filatech",
+      "material": "ABS",
+      "name": "FilaCarbon-ABS Black",
+      "hex": "#000000",
+      "searchText": "filatech abs filacarbon-abs black"
+    },
+    {
       "id": "filatech-hyper-abs-black",
       "brand": "Filatech",
       "material": "ABS",
@@ -41532,6 +43508,334 @@
       "name": "Hyper ABS White",
       "hex": "#ffffff",
       "searchText": "filatech abs hyper abs white"
+    },
+    {
+      "id": "filatech-filatough-natural-white",
+      "brand": "Filatech",
+      "material": "FILATOU",
+      "name": "FilaTough Natural White",
+      "hex": "#f2efe9",
+      "searchText": "filatech filatou filatough natural white"
+    },
+    {
+      "id": "filatech-filatough-yellow-luminous",
+      "brand": "Filatech",
+      "material": "FILATOU",
+      "name": "FilaTough Yellow (Luminous)",
+      "hex": "#fbf942",
+      "searchText": "filatech filatou filatough yellow (luminous)"
+    },
+    {
+      "id": "filatech-hips-black",
+      "brand": "Filatech",
+      "material": "HIPS",
+      "name": "HIPS Black",
+      "hex": "#000000",
+      "searchText": "filatech hips hips black"
+    },
+    {
+      "id": "filatech-hips-dark-green-luminous",
+      "brand": "Filatech",
+      "material": "HIPS",
+      "name": "HIPS Dark Green (Luminous)",
+      "hex": "#06b100",
+      "searchText": "filatech hips hips dark green (luminous)"
+    },
+    {
+      "id": "filatech-hips-dark-orange-luminous",
+      "brand": "Filatech",
+      "material": "HIPS",
+      "name": "HIPS Dark Orange (Luminous)",
+      "hex": "#ff8e24",
+      "searchText": "filatech hips hips dark orange (luminous)"
+    },
+    {
+      "id": "filatech-hips-dark-red-luminous",
+      "brand": "Filatech",
+      "material": "HIPS",
+      "name": "HIPS Dark Red (Luminous)",
+      "hex": "#bb1e10",
+      "searchText": "filatech hips hips dark red (luminous)"
+    },
+    {
+      "id": "filatech-hips-dark-yellow-luminous",
+      "brand": "Filatech",
+      "material": "HIPS",
+      "name": "HIPS Dark Yellow (Luminous)",
+      "hex": "#fadb24",
+      "searchText": "filatech hips hips dark yellow (luminous)"
+    },
+    {
+      "id": "filatech-hips-natural",
+      "brand": "Filatech",
+      "material": "HIPS",
+      "name": "HIPS Natural",
+      "hex": "#dfdfd3",
+      "searchText": "filatech hips hips natural"
+    },
+    {
+      "id": "filatech-hips-white",
+      "brand": "Filatech",
+      "material": "HIPS",
+      "name": "HIPS White",
+      "hex": "#efefef",
+      "searchText": "filatech hips hips white"
+    },
+    {
+      "id": "filatech-pa-black",
+      "brand": "Filatech",
+      "material": "PA6",
+      "name": "PA Black",
+      "hex": "#000000",
+      "searchText": "filatech pa6 pa black"
+    },
+    {
+      "id": "filatech-pa-natural",
+      "brand": "Filatech",
+      "material": "PA6",
+      "name": "PA Natural",
+      "hex": "#dfdfd3",
+      "searchText": "filatech pa6 pa natural"
+    },
+    {
+      "id": "filatech-pa-red-luminous",
+      "brand": "Filatech",
+      "material": "PA6",
+      "name": "PA Red (Luminous)",
+      "hex": "#e03f26",
+      "searchText": "filatech pa6 pa red (luminous)"
+    },
+    {
+      "id": "filatech-pa-white",
+      "brand": "Filatech",
+      "material": "PA6",
+      "name": "PA White",
+      "hex": "#efefef",
+      "searchText": "filatech pa6 pa white"
+    },
+    {
+      "id": "filatech-pa-yellow-luminous",
+      "brand": "Filatech",
+      "material": "PA6",
+      "name": "PA Yellow (Luminous)",
+      "hex": "#fbf942",
+      "searchText": "filatech pa6 pa yellow (luminous)"
+    },
+    {
+      "id": "filatech-pc-black",
+      "brand": "Filatech",
+      "material": "PC",
+      "name": "PC Black",
+      "hex": "#000000",
+      "searchText": "filatech pc pc black"
+    },
+    {
+      "id": "filatech-pc-natural-clear",
+      "brand": "Filatech",
+      "material": "PC",
+      "name": "PC Natural Clear",
+      "hex": "#dfdfd3",
+      "searchText": "filatech pc pc natural clear"
+    },
+    {
+      "id": "filatech-pc-red",
+      "brand": "Filatech",
+      "material": "PC",
+      "name": "PC Red",
+      "hex": "#e9301e",
+      "searchText": "filatech pc pc red"
+    },
+    {
+      "id": "filatech-pc-white",
+      "brand": "Filatech",
+      "material": "PC",
+      "name": "PC White",
+      "hex": "#efefef",
+      "searchText": "filatech pc pc white"
+    },
+    {
+      "id": "filatech-pc-yellow",
+      "brand": "Filatech",
+      "material": "PC",
+      "name": "PC Yellow",
+      "hex": "#fadb24",
+      "searchText": "filatech pc pc yellow"
+    },
+    {
+      "id": "filatech-hyper-petg-black",
+      "brand": "Filatech",
+      "material": "PETG",
+      "name": "Hyper PETG Black",
+      "hex": "#000000",
+      "searchText": "filatech petg hyper petg black"
+    },
+    {
+      "id": "filatech-hyper-petg-natural-clear",
+      "brand": "Filatech",
+      "material": "PETG",
+      "name": "Hyper PETG Natural Clear",
+      "hex": "#dfdfd3",
+      "searchText": "filatech petg hyper petg natural clear"
+    },
+    {
+      "id": "filatech-hyper-petg-white",
+      "brand": "Filatech",
+      "material": "PETG",
+      "name": "Hyper PETG White",
+      "hex": "#efefef",
+      "searchText": "filatech petg hyper petg white"
+    },
+    {
+      "id": "filatech-petg-black",
+      "brand": "Filatech",
+      "material": "PETG",
+      "name": "PETG Black",
+      "hex": "#000000",
+      "searchText": "filatech petg petg black"
+    },
+    {
+      "id": "filatech-petg-choco-brown",
+      "brand": "Filatech",
+      "material": "PETG",
+      "name": "PETG Choco Brown",
+      "hex": "#a45b27",
+      "searchText": "filatech petg petg choco brown"
+    },
+    {
+      "id": "filatech-petg-dark-blue",
+      "brand": "Filatech",
+      "material": "PETG",
+      "name": "PETG Dark Blue",
+      "hex": "#183681",
+      "searchText": "filatech petg petg dark blue"
+    },
+    {
+      "id": "filatech-petg-dark-metallic-grey",
+      "brand": "Filatech",
+      "material": "PETG",
+      "name": "PETG Dark Metallic Grey",
+      "hex": "#595959",
+      "searchText": "filatech petg petg dark metallic grey"
+    },
+    {
+      "id": "filatech-petg-dark-orange-luminous",
+      "brand": "Filatech",
+      "material": "PETG",
+      "name": "PETG Dark Orange (Luminous)",
+      "hex": "#ff8e24",
+      "searchText": "filatech petg petg dark orange (luminous)"
+    },
+    {
+      "id": "filatech-petg-dark-red-luminous",
+      "brand": "Filatech",
+      "material": "PETG",
+      "name": "PETG Dark Red (Luminous)",
+      "hex": "#bb1e10",
+      "searchText": "filatech petg petg dark red (luminous)"
+    },
+    {
+      "id": "filatech-petg-dark-yellow-luminous",
+      "brand": "Filatech",
+      "material": "PETG",
+      "name": "PETG Dark Yellow (Luminous)",
+      "hex": "#fadb24",
+      "searchText": "filatech petg petg dark yellow (luminous)"
+    },
+    {
+      "id": "filatech-petg-gold",
+      "brand": "Filatech",
+      "material": "PETG",
+      "name": "PETG Gold",
+      "hex": "#c7b768",
+      "searchText": "filatech petg petg gold"
+    },
+    {
+      "id": "filatech-petg-natural-clear",
+      "brand": "Filatech",
+      "material": "PETG",
+      "name": "PETG Natural Clear",
+      "hex": "#dfdfd3",
+      "searchText": "filatech petg petg natural clear"
+    },
+    {
+      "id": "filatech-petg-silver",
+      "brand": "Filatech",
+      "material": "PETG",
+      "name": "PETG Silver",
+      "hex": "#949597",
+      "searchText": "filatech petg petg silver"
+    },
+    {
+      "id": "filatech-petg-white",
+      "brand": "Filatech",
+      "material": "PETG",
+      "name": "PETG White",
+      "hex": "#efefef",
+      "searchText": "filatech petg petg white"
+    },
+    {
+      "id": "filatech-petg-yellow",
+      "brand": "Filatech",
+      "material": "PETG",
+      "name": "PETG Yellow",
+      "hex": "#fadb24",
+      "searchText": "filatech petg petg yellow"
+    },
+    {
+      "id": "filatech-filapla-black",
+      "brand": "Filatech",
+      "material": "PLA",
+      "name": "FilaPLA Black",
+      "hex": "#000000",
+      "searchText": "filatech pla filapla black"
+    },
+    {
+      "id": "filatech-filapla-green",
+      "brand": "Filatech",
+      "material": "PLA",
+      "name": "FilaPLA Green",
+      "hex": "#00c26b",
+      "searchText": "filatech pla filapla green"
+    },
+    {
+      "id": "filatech-filapla-light-brown",
+      "brand": "Filatech",
+      "material": "PLA",
+      "name": "FilaPLA Light Brown",
+      "hex": "#e1a870",
+      "searchText": "filatech pla filapla light brown"
+    },
+    {
+      "id": "filatech-filapla-natural-white",
+      "brand": "Filatech",
+      "material": "PLA",
+      "name": "FilaPLA Natural White",
+      "hex": "#f2efe9",
+      "searchText": "filatech pla filapla natural white"
+    },
+    {
+      "id": "filatech-filapla-silver",
+      "brand": "Filatech",
+      "material": "PLA",
+      "name": "FilaPLA Silver",
+      "hex": "#949597",
+      "searchText": "filatech pla filapla silver"
+    },
+    {
+      "id": "filatech-filapla-white",
+      "brand": "Filatech",
+      "material": "PLA",
+      "name": "FilaPLA White",
+      "hex": "#efefef",
+      "searchText": "filatech pla filapla white"
+    },
+    {
+      "id": "filatech-filapla-yellow",
+      "brand": "Filatech",
+      "material": "PLA",
+      "name": "FilaPLA Yellow",
+      "hex": "#fadb24",
+      "searchText": "filatech pla filapla yellow"
     },
     {
       "id": "filatech-hyper-pla-black",
@@ -41612,6 +43916,14 @@
       "name": "PLA Black",
       "hex": "#000000",
       "searchText": "filatech pla pla black"
+    },
+    {
+      "id": "filatech-pla-blue",
+      "brand": "Filatech",
+      "material": "PLA",
+      "name": "PLA Blue",
+      "hex": "#0066d9",
+      "searchText": "filatech pla pla blue"
     },
     {
       "id": "filatech-pla-choco-brown",
@@ -41718,6 +44030,14 @@
       "searchText": "filatech pla pla red (luminous)"
     },
     {
+      "id": "filatech-pla-silver",
+      "brand": "Filatech",
+      "material": "PLA",
+      "name": "PLA Silver",
+      "hex": "#949597",
+      "searchText": "filatech pla pla silver"
+    },
+    {
       "id": "filatech-pla-snow-white",
       "brand": "Filatech",
       "material": "PLA",
@@ -41732,6 +44052,14 @@
       "name": "PLA Terracotta Brown",
       "hex": "#c37c4f",
       "searchText": "filatech pla pla terracotta brown"
+    },
+    {
+      "id": "filatech-pla-yellow",
+      "brand": "Filatech",
+      "material": "PLA",
+      "name": "PLA Yellow",
+      "hex": "#fadb24",
+      "searchText": "filatech pla pla yellow"
     },
     {
       "id": "filatech-pla-yellow-fluorescent",
@@ -41750,7 +44078,15 @@
       "searchText": "filatech pla pla yellow (luminous)"
     },
     {
-      "id": "filatech-pla-blue",
+      "id": "filatech-pla-plus-black",
+      "brand": "Filatech",
+      "material": "PLA",
+      "name": "PLA+ Black",
+      "hex": "#000000",
+      "searchText": "filatech pla pla+ black"
+    },
+    {
+      "id": "filatech-pla-plus-blue",
       "brand": "Filatech",
       "material": "PLA",
       "name": "PLA+ Blue",
@@ -41758,7 +44094,7 @@
       "searchText": "filatech pla pla+ blue"
     },
     {
-      "id": "filatech-pla-orange-luminous",
+      "id": "filatech-pla-plus-orange-luminous",
       "brand": "Filatech",
       "material": "PLA",
       "name": "PLA+ Orange (Luminous)",
@@ -41766,7 +44102,7 @@
       "searchText": "filatech pla pla+ orange (luminous)"
     },
     {
-      "id": "filatech-pla-silver",
+      "id": "filatech-pla-plus-silver",
       "brand": "Filatech",
       "material": "PLA",
       "name": "PLA+ Silver",
@@ -41774,7 +44110,7 @@
       "searchText": "filatech pla pla+ silver"
     },
     {
-      "id": "filatech-pla-white",
+      "id": "filatech-pla-plus-white",
       "brand": "Filatech",
       "material": "PLA",
       "name": "PLA+ White",
@@ -41782,12 +44118,292 @@
       "searchText": "filatech pla pla+ white"
     },
     {
-      "id": "filatech-pla-yellow",
+      "id": "filatech-pla-plus-yellow",
       "brand": "Filatech",
       "material": "PLA",
       "name": "PLA+ Yellow",
       "hex": "#fadb24",
       "searchText": "filatech pla pla+ yellow"
+    },
+    {
+      "id": "filatech-wood-pla-dark-ash",
+      "brand": "Filatech",
+      "material": "PLA",
+      "name": "Wood-PLA Dark Ash",
+      "hex": "#684a43",
+      "searchText": "filatech pla wood-pla dark ash"
+    },
+    {
+      "id": "filatech-wood-pla-mahogany",
+      "brand": "Filatech",
+      "material": "PLA",
+      "name": "Wood-PLA Mahogany",
+      "hex": "#8a5a46",
+      "searchText": "filatech pla wood-pla mahogany"
+    },
+    {
+      "id": "filatech-wood-pla-natural-wood",
+      "brand": "Filatech",
+      "material": "PLA",
+      "name": "Wood-PLA Natural Wood",
+      "hex": "#c6aa76",
+      "searchText": "filatech pla wood-pla natural wood"
+    },
+    {
+      "id": "filatech-filaflexible30-black",
+      "brand": "Filatech",
+      "material": "TPC",
+      "name": "FilaFlexible30 Black",
+      "hex": "#000000",
+      "searchText": "filatech tpc filaflexible30 black"
+    },
+    {
+      "id": "filatech-filaflexible30-natural-white",
+      "brand": "Filatech",
+      "material": "TPC",
+      "name": "FilaFlexible30 Natural White",
+      "hex": "#f2efe9",
+      "searchText": "filatech tpc filaflexible30 natural white"
+    },
+    {
+      "id": "filatech-filaflexible30-red",
+      "brand": "Filatech",
+      "material": "TPC",
+      "name": "FilaFlexible30 Red",
+      "hex": "#e9301e",
+      "searchText": "filatech tpc filaflexible30 red"
+    },
+    {
+      "id": "filatech-filaflexible30-yellow",
+      "brand": "Filatech",
+      "material": "TPC",
+      "name": "FilaFlexible30 Yellow",
+      "hex": "#fadb24",
+      "searchText": "filatech tpc filaflexible30 yellow"
+    },
+    {
+      "id": "filatech-filaflexible40-black",
+      "brand": "Filatech",
+      "material": "TPC",
+      "name": "FilaFlexible40 Black",
+      "hex": "#000000",
+      "searchText": "filatech tpc filaflexible40 black"
+    },
+    {
+      "id": "filatech-filaflexible40-blue",
+      "brand": "Filatech",
+      "material": "TPC",
+      "name": "FilaFlexible40 Blue",
+      "hex": "#0066d9",
+      "searchText": "filatech tpc filaflexible40 blue"
+    },
+    {
+      "id": "filatech-filaflexible40-natural-white",
+      "brand": "Filatech",
+      "material": "TPC",
+      "name": "FilaFlexible40 Natural White",
+      "hex": "#f2efe9",
+      "searchText": "filatech tpc filaflexible40 natural white"
+    },
+    {
+      "id": "filatech-filaflexible40-red",
+      "brand": "Filatech",
+      "material": "TPC",
+      "name": "FilaFlexible40 Red",
+      "hex": "#e9301e",
+      "searchText": "filatech tpc filaflexible40 red"
+    },
+    {
+      "id": "filatech-filaflexible40-royal-blue",
+      "brand": "Filatech",
+      "material": "TPC",
+      "name": "FilaFlexible40 Royal Blue",
+      "hex": "#1154cf",
+      "searchText": "filatech tpc filaflexible40 royal blue"
+    },
+    {
+      "id": "filatech-filaflexible40-white",
+      "brand": "Filatech",
+      "material": "TPC",
+      "name": "FilaFlexible40 White",
+      "hex": "#efefef",
+      "searchText": "filatech tpc filaflexible40 white"
+    },
+    {
+      "id": "filatech-filaflexible40-yellow",
+      "brand": "Filatech",
+      "material": "TPC",
+      "name": "FilaFlexible40 Yellow",
+      "hex": "#fadb24",
+      "searchText": "filatech tpc filaflexible40 yellow"
+    },
+    {
+      "id": "filatech-filaflexible55-black",
+      "brand": "Filatech",
+      "material": "TPC",
+      "name": "FilaFlexible55 Black",
+      "hex": "#000000",
+      "searchText": "filatech tpc filaflexible55 black"
+    },
+    {
+      "id": "filatech-filaflexible55-blue",
+      "brand": "Filatech",
+      "material": "TPC",
+      "name": "FilaFlexible55 Blue",
+      "hex": "#0066d9",
+      "searchText": "filatech tpc filaflexible55 blue"
+    },
+    {
+      "id": "filatech-filaflexible55-dark-brown",
+      "brand": "Filatech",
+      "material": "TPC",
+      "name": "FilaFlexible55 Dark Brown",
+      "hex": "#684a43",
+      "searchText": "filatech tpc filaflexible55 dark brown"
+    },
+    {
+      "id": "filatech-filaflexible55-light-green",
+      "brand": "Filatech",
+      "material": "TPC",
+      "name": "FilaFlexible55 Light Green",
+      "hex": "#a0fd62",
+      "searchText": "filatech tpc filaflexible55 light green"
+    },
+    {
+      "id": "filatech-filaflexible55-natural-white",
+      "brand": "Filatech",
+      "material": "TPC",
+      "name": "FilaFlexible55 Natural White",
+      "hex": "#f2efe9",
+      "searchText": "filatech tpc filaflexible55 natural white"
+    },
+    {
+      "id": "filatech-filaflexible55-red",
+      "brand": "Filatech",
+      "material": "TPC",
+      "name": "FilaFlexible55 Red",
+      "hex": "#e9301e",
+      "searchText": "filatech tpc filaflexible55 red"
+    },
+    {
+      "id": "filatech-filaflexible55-silver",
+      "brand": "Filatech",
+      "material": "TPC",
+      "name": "FilaFlexible55 Silver",
+      "hex": "#949597",
+      "searchText": "filatech tpc filaflexible55 silver"
+    },
+    {
+      "id": "filatech-filaflexible55-yellow-luminous",
+      "brand": "Filatech",
+      "material": "TPC",
+      "name": "FilaFlexible55 Yellow (Luminous)",
+      "hex": "#fbf942",
+      "searchText": "filatech tpc filaflexible55 yellow (luminous)"
+    },
+    {
+      "id": "filatech-tpe-grey",
+      "brand": "Filatech",
+      "material": "TPE",
+      "name": "TPE Grey",
+      "hex": "#d6d7d8",
+      "searchText": "filatech tpe tpe grey"
+    },
+    {
+      "id": "filatech-tpe-orange",
+      "brand": "Filatech",
+      "material": "TPE",
+      "name": "TPE Orange",
+      "hex": "#ff9a40",
+      "searchText": "filatech tpe tpe orange"
+    },
+    {
+      "id": "filatech-tpe-red",
+      "brand": "Filatech",
+      "material": "TPE",
+      "name": "TPE Red",
+      "hex": "#e9301e",
+      "searchText": "filatech tpe tpe red"
+    },
+    {
+      "id": "filatech-tpe-silver",
+      "brand": "Filatech",
+      "material": "TPE",
+      "name": "TPE Silver",
+      "hex": "#949597",
+      "searchText": "filatech tpe tpe silver"
+    },
+    {
+      "id": "filatech-tpe-yellow",
+      "brand": "Filatech",
+      "material": "TPE",
+      "name": "TPE Yellow",
+      "hex": "#fadb24",
+      "searchText": "filatech tpe tpe yellow"
+    },
+    {
+      "id": "filatech-tpu-black",
+      "brand": "Filatech",
+      "material": "TPU",
+      "name": "TPU Black",
+      "hex": "#000000",
+      "searchText": "filatech tpu tpu black"
+    },
+    {
+      "id": "filatech-tpu-orange",
+      "brand": "Filatech",
+      "material": "TPU",
+      "name": "TPU Orange",
+      "hex": "#ff9a40",
+      "searchText": "filatech tpu tpu orange"
+    },
+    {
+      "id": "filatech-tpu-red",
+      "brand": "Filatech",
+      "material": "TPU",
+      "name": "TPU Red",
+      "hex": "#e9301e",
+      "searchText": "filatech tpu tpu red"
+    },
+    {
+      "id": "filatech-tpu-white",
+      "brand": "Filatech",
+      "material": "TPU",
+      "name": "TPU White",
+      "hex": "#efefef",
+      "searchText": "filatech tpu tpu white"
+    },
+    {
+      "id": "filatech-tpu-yellow",
+      "brand": "Filatech",
+      "material": "TPU",
+      "name": "TPU Yellow",
+      "hex": "#fadb24",
+      "searchText": "filatech tpu tpu yellow"
+    },
+    {
+      "id": "filatech-tpu-plus-black",
+      "brand": "Filatech",
+      "material": "TPU",
+      "name": "TPU+ Black",
+      "hex": "#000000",
+      "searchText": "filatech tpu tpu+ black"
+    },
+    {
+      "id": "filatech-tpu-plus-white",
+      "brand": "Filatech",
+      "material": "TPU",
+      "name": "TPU+ White",
+      "hex": "#efefef",
+      "searchText": "filatech tpu tpu+ white"
+    },
+    {
+      "id": "filatech-tpu-plus-yellow-luminous",
+      "brand": "Filatech",
+      "material": "TPU",
+      "name": "TPU+ Yellow (Luminous)",
+      "hex": "#fbf942",
+      "searchText": "filatech tpu tpu+ yellow (luminous)"
     },
     {
       "id": "filkemp-petg-black",
@@ -44516,6 +47132,206 @@
       "name": "Silk PLA White",
       "hex": "#ffffff",
       "searchText": "flashforge pla silk pla white"
+    },
+    {
+      "id": "forgely-performance-pla-black",
+      "brand": "Forgely",
+      "material": "PLA",
+      "name": "Performance PLA — Black",
+      "hex": "#020303",
+      "searchText": "forgely pla performance pla — black"
+    },
+    {
+      "id": "forgely-performance-pla-blue",
+      "brand": "Forgely",
+      "material": "PLA",
+      "name": "Performance PLA — Blue",
+      "hex": "#509aff",
+      "searchText": "forgely pla performance pla — blue"
+    },
+    {
+      "id": "forgely-performance-pla-brown",
+      "brand": "Forgely",
+      "material": "PLA",
+      "name": "Performance PLA — Brown",
+      "hex": "#785f53",
+      "searchText": "forgely pla performance pla — brown"
+    },
+    {
+      "id": "forgely-performance-pla-cherry-red",
+      "brand": "Forgely",
+      "material": "PLA",
+      "name": "Performance PLA — Cherry Red",
+      "hex": "#ff0039",
+      "searchText": "forgely pla performance pla — cherry red"
+    },
+    {
+      "id": "forgely-performance-pla-cloud-blue",
+      "brand": "Forgely",
+      "material": "PLA",
+      "name": "Performance PLA — Cloud Blue",
+      "hex": "#b6daeb",
+      "searchText": "forgely pla performance pla — cloud blue"
+    },
+    {
+      "id": "forgely-performance-pla-copper",
+      "brand": "Forgely",
+      "material": "PLA",
+      "name": "Performance PLA — Copper",
+      "hex": "#bb8330",
+      "searchText": "forgely pla performance pla — copper"
+    },
+    {
+      "id": "forgely-performance-pla-hot-pink",
+      "brand": "Forgely",
+      "material": "PLA",
+      "name": "Performance PLA — Hot Pink",
+      "hex": "#f2659e",
+      "searchText": "forgely pla performance pla — hot pink"
+    },
+    {
+      "id": "forgely-performance-pla-light-emerald-green",
+      "brand": "Forgely",
+      "material": "PLA",
+      "name": "Performance PLA — Light Emerald Green",
+      "hex": "#8fc57a",
+      "searchText": "forgely pla performance pla — light emerald green"
+    },
+    {
+      "id": "forgely-performance-pla-lilac",
+      "brand": "Forgely",
+      "material": "PLA",
+      "name": "Performance PLA — Lilac",
+      "hex": "#b967cd",
+      "searchText": "forgely pla performance pla — lilac"
+    },
+    {
+      "id": "forgely-performance-pla-moss-brown",
+      "brand": "Forgely",
+      "material": "PLA",
+      "name": "Performance PLA — Moss Brown",
+      "hex": "#44371b",
+      "searchText": "forgely pla performance pla — moss brown"
+    },
+    {
+      "id": "forgely-performance-pla-orange",
+      "brand": "Forgely",
+      "material": "PLA",
+      "name": "Performance PLA — Orange",
+      "hex": "#ff9a40",
+      "searchText": "forgely pla performance pla — orange"
+    },
+    {
+      "id": "forgely-performance-pla-red",
+      "brand": "Forgely",
+      "material": "PLA",
+      "name": "Performance PLA — Red",
+      "hex": "#e9301e",
+      "searchText": "forgely pla performance pla — red"
+    },
+    {
+      "id": "forgely-performance-pla-silver",
+      "brand": "Forgely",
+      "material": "PLA",
+      "name": "Performance PLA — Silver",
+      "hex": "#818fa0",
+      "searchText": "forgely pla performance pla — silver"
+    },
+    {
+      "id": "forgely-performance-pla-taupe",
+      "brand": "Forgely",
+      "material": "PLA",
+      "name": "Performance PLA — Taupe",
+      "hex": "#40382d",
+      "searchText": "forgely pla performance pla — taupe"
+    },
+    {
+      "id": "forgely-performance-pla-terracotta",
+      "brand": "Forgely",
+      "material": "PLA",
+      "name": "Performance PLA — Terracotta",
+      "hex": "#ed5c3e",
+      "searchText": "forgely pla performance pla — terracotta"
+    },
+    {
+      "id": "forgely-performance-pla-toxic-green",
+      "brand": "Forgely",
+      "material": "PLA",
+      "name": "Performance PLA — Toxic Green",
+      "hex": "#7ad313",
+      "searchText": "forgely pla performance pla — toxic green"
+    },
+    {
+      "id": "forgely-performance-pla-translucent-blue",
+      "brand": "Forgely",
+      "material": "PLA",
+      "name": "Performance PLA — Translucent Blue",
+      "hex": "#509aff",
+      "searchText": "forgely pla performance pla — translucent blue"
+    },
+    {
+      "id": "forgely-performance-pla-translucent-dark-green",
+      "brand": "Forgely",
+      "material": "PLA",
+      "name": "Performance PLA — Translucent Dark Green",
+      "hex": "#13484d",
+      "searchText": "forgely pla performance pla — translucent dark green"
+    },
+    {
+      "id": "forgely-performance-pla-translucent-plum",
+      "brand": "Forgely",
+      "material": "PLA",
+      "name": "Performance PLA — Translucent Plum",
+      "hex": "#480d0f",
+      "searchText": "forgely pla performance pla — translucent plum"
+    },
+    {
+      "id": "forgely-performance-pla-translucent-red",
+      "brand": "Forgely",
+      "material": "PLA",
+      "name": "Performance PLA — Translucent Red",
+      "hex": "#e9301e",
+      "searchText": "forgely pla performance pla — translucent red"
+    },
+    {
+      "id": "forgely-performance-pla-translucent-teal",
+      "brand": "Forgely",
+      "material": "PLA",
+      "name": "Performance PLA — Translucent Teal",
+      "hex": "#0094a4",
+      "searchText": "forgely pla performance pla — translucent teal"
+    },
+    {
+      "id": "forgely-performance-pla-translucent-yellow",
+      "brand": "Forgely",
+      "material": "PLA",
+      "name": "Performance PLA — Translucent Yellow",
+      "hex": "#ffe802",
+      "searchText": "forgely pla performance pla — translucent yellow"
+    },
+    {
+      "id": "forgely-performance-pla-transparent",
+      "brand": "Forgely",
+      "material": "PLA",
+      "name": "Performance PLA — Transparent",
+      "hex": "#eef3f5",
+      "searchText": "forgely pla performance pla — transparent"
+    },
+    {
+      "id": "forgely-performance-pla-white",
+      "brand": "Forgely",
+      "material": "PLA",
+      "name": "Performance PLA — White",
+      "hex": "#fffefa",
+      "searchText": "forgely pla performance pla — white"
+    },
+    {
+      "id": "forgely-performance-pla-yellow",
+      "brand": "Forgely",
+      "material": "PLA",
+      "name": "Performance PLA — Yellow",
+      "hex": "#ffe802",
+      "searchText": "forgely pla performance pla — yellow"
     },
     {
       "id": "formfutura-abspro-black",
@@ -62836,6 +65652,1190 @@
       "name": "UltraPLA Yellow",
       "hex": "#f9e352",
       "searchText": "noctuo pla ultrapla yellow"
+    },
+    {
+      "id": "nth-grillon-abs-amarillo",
+      "brand": "NTH Grillon",
+      "material": "ABS",
+      "name": "ABS Amarillo",
+      "hex": "#ffe802",
+      "searchText": "nth grillon abs abs amarillo"
+    },
+    {
+      "id": "nth-grillon-abs-azul",
+      "brand": "NTH Grillon",
+      "material": "ABS",
+      "name": "ABS Azul",
+      "hex": "#509aff",
+      "searchText": "nth grillon abs abs azul"
+    },
+    {
+      "id": "nth-grillon-abs-blanco",
+      "brand": "NTH Grillon",
+      "material": "ABS",
+      "name": "ABS Blanco",
+      "hex": "#fffefa",
+      "searchText": "nth grillon abs abs blanco"
+    },
+    {
+      "id": "nth-grillon-abs-bronce",
+      "brand": "NTH Grillon",
+      "material": "ABS",
+      "name": "ABS Bronce",
+      "hex": "#ae6725",
+      "searchText": "nth grillon abs abs bronce"
+    },
+    {
+      "id": "nth-grillon-abs-celeste",
+      "brand": "NTH Grillon",
+      "material": "ABS",
+      "name": "ABS Celeste",
+      "hex": "#3abbde",
+      "searchText": "nth grillon abs abs celeste"
+    },
+    {
+      "id": "nth-grillon-abs-cobre",
+      "brand": "NTH Grillon",
+      "material": "ABS",
+      "name": "ABS Cobre",
+      "hex": "#bb8330",
+      "searchText": "nth grillon abs abs cobre"
+    },
+    {
+      "id": "nth-grillon-abs-fucsia",
+      "brand": "NTH Grillon",
+      "material": "ABS",
+      "name": "ABS Fucsia",
+      "hex": "#ed6498",
+      "searchText": "nth grillon abs abs fucsia"
+    },
+    {
+      "id": "nth-grillon-abs-gris-plata",
+      "brand": "NTH Grillon",
+      "material": "ABS",
+      "name": "ABS Gris Plata",
+      "hex": "#bcbabb",
+      "searchText": "nth grillon abs abs gris plata"
+    },
+    {
+      "id": "nth-grillon-abs-naranja-fluo",
+      "brand": "NTH Grillon",
+      "material": "ABS",
+      "name": "ABS Naranja Flúo",
+      "hex": "#ff6700",
+      "searchText": "nth grillon abs abs naranja flúo"
+    },
+    {
+      "id": "nth-grillon-abs-natural",
+      "brand": "NTH Grillon",
+      "material": "ABS",
+      "name": "ABS Natural",
+      "hex": "#f9fddd",
+      "searchText": "nth grillon abs abs natural"
+    },
+    {
+      "id": "nth-grillon-abs-negro",
+      "brand": "NTH Grillon",
+      "material": "ABS",
+      "name": "ABS Negro",
+      "hex": "#020303",
+      "searchText": "nth grillon abs abs negro"
+    },
+    {
+      "id": "nth-grillon-abs-rojo",
+      "brand": "NTH Grillon",
+      "material": "ABS",
+      "name": "ABS Rojo",
+      "hex": "#e9301e",
+      "searchText": "nth grillon abs abs rojo"
+    },
+    {
+      "id": "nth-grillon-abs-rosa",
+      "brand": "NTH Grillon",
+      "material": "ABS",
+      "name": "ABS Rosa",
+      "hex": "#ffa3c6",
+      "searchText": "nth grillon abs abs rosa"
+    },
+    {
+      "id": "nth-grillon-abs-turquesa",
+      "brand": "NTH Grillon",
+      "material": "ABS",
+      "name": "ABS Turquesa",
+      "hex": "#058b8c",
+      "searchText": "nth grillon abs abs turquesa"
+    },
+    {
+      "id": "nth-grillon-abs-verde",
+      "brand": "NTH Grillon",
+      "material": "ABS",
+      "name": "ABS Verde",
+      "hex": "#00c26b",
+      "searchText": "nth grillon abs abs verde"
+    },
+    {
+      "id": "nth-grillon-abs-violeta",
+      "brand": "NTH Grillon",
+      "material": "ABS",
+      "name": "ABS Violeta",
+      "hex": "#d0006f",
+      "searchText": "nth grillon abs abs violeta"
+    },
+    {
+      "id": "nth-grillon-hips-azul",
+      "brand": "NTH Grillon",
+      "material": "HIPS",
+      "name": "HIPS Azul",
+      "hex": "#509aff",
+      "searchText": "nth grillon hips hips azul"
+    },
+    {
+      "id": "nth-grillon-hips-blanco",
+      "brand": "NTH Grillon",
+      "material": "HIPS",
+      "name": "HIPS Blanco",
+      "hex": "#fffefa",
+      "searchText": "nth grillon hips hips blanco"
+    },
+    {
+      "id": "nth-grillon-hips-natural",
+      "brand": "NTH Grillon",
+      "material": "HIPS",
+      "name": "HIPS Natural",
+      "hex": "#f9fddd",
+      "searchText": "nth grillon hips hips natural"
+    },
+    {
+      "id": "nth-grillon-hips-negro",
+      "brand": "NTH Grillon",
+      "material": "HIPS",
+      "name": "HIPS Negro",
+      "hex": "#020303",
+      "searchText": "nth grillon hips hips negro"
+    },
+    {
+      "id": "nth-grillon-hips-rojo",
+      "brand": "NTH Grillon",
+      "material": "HIPS",
+      "name": "HIPS Rojo",
+      "hex": "#e9301e",
+      "searchText": "nth grillon hips hips rojo"
+    },
+    {
+      "id": "nth-grillon-hips-verde",
+      "brand": "NTH Grillon",
+      "material": "HIPS",
+      "name": "HIPS Verde",
+      "hex": "#00c26b",
+      "searchText": "nth grillon hips hips verde"
+    },
+    {
+      "id": "nth-grillon-nylon-12-azul",
+      "brand": "NTH Grillon",
+      "material": "PA12",
+      "name": "Nylon 12 Azul",
+      "hex": "#509aff",
+      "searchText": "nth grillon pa12 nylon 12 azul"
+    },
+    {
+      "id": "nth-grillon-nylon-12-blanco",
+      "brand": "NTH Grillon",
+      "material": "PA12",
+      "name": "Nylon 12 Blanco",
+      "hex": "#fffefa",
+      "searchText": "nth grillon pa12 nylon 12 blanco"
+    },
+    {
+      "id": "nth-grillon-nylon-12-natural",
+      "brand": "NTH Grillon",
+      "material": "PA12",
+      "name": "Nylon 12 Natural",
+      "hex": "#f9fddd",
+      "searchText": "nth grillon pa12 nylon 12 natural"
+    },
+    {
+      "id": "nth-grillon-nylon-12-negro",
+      "brand": "NTH Grillon",
+      "material": "PA12",
+      "name": "Nylon 12 Negro",
+      "hex": "#020303",
+      "searchText": "nth grillon pa12 nylon 12 negro"
+    },
+    {
+      "id": "nth-grillon-nylon-12-titanio",
+      "brand": "NTH Grillon",
+      "material": "PA12",
+      "name": "Nylon 12 Titanio",
+      "hex": "#878681",
+      "searchText": "nth grillon pa12 nylon 12 titanio"
+    },
+    {
+      "id": "nth-grillon-nylon-6-blanco",
+      "brand": "NTH Grillon",
+      "material": "PA6",
+      "name": "Nylon 6 Blanco",
+      "hex": "#fffefa",
+      "searchText": "nth grillon pa6 nylon 6 blanco"
+    },
+    {
+      "id": "nth-grillon-nylon-6-naranja-fluo",
+      "brand": "NTH Grillon",
+      "material": "PA6",
+      "name": "Nylon 6 Naranja Flúo",
+      "hex": "#ff6700",
+      "searchText": "nth grillon pa6 nylon 6 naranja flúo"
+    },
+    {
+      "id": "nth-grillon-nylon-6-natural",
+      "brand": "NTH Grillon",
+      "material": "PA6",
+      "name": "Nylon 6 Natural",
+      "hex": "#f9fddd",
+      "searchText": "nth grillon pa6 nylon 6 natural"
+    },
+    {
+      "id": "nth-grillon-nylon-6-negro",
+      "brand": "NTH Grillon",
+      "material": "PA6",
+      "name": "Nylon 6 Negro",
+      "hex": "#020303",
+      "searchText": "nth grillon pa6 nylon 6 negro"
+    },
+    {
+      "id": "nth-grillon-nylon-6-optico",
+      "brand": "NTH Grillon",
+      "material": "PA6",
+      "name": "Nylon 6 Óptico",
+      "hex": "#e6e6e6",
+      "searchText": "nth grillon pa6 nylon 6 óptico"
+    },
+    {
+      "id": "nth-grillon-nylon-6-verde-fluo",
+      "brand": "NTH Grillon",
+      "material": "PA6",
+      "name": "Nylon 6 Verde Flúo",
+      "hex": "#7fff00",
+      "searchText": "nth grillon pa6 nylon 6 verde flúo"
+    },
+    {
+      "id": "nth-grillon-petg-amarillo",
+      "brand": "NTH Grillon",
+      "material": "PETG",
+      "name": "PETG Amarillo",
+      "hex": "#ffe802",
+      "searchText": "nth grillon petg petg amarillo"
+    },
+    {
+      "id": "nth-grillon-petg-ambar",
+      "brand": "NTH Grillon",
+      "material": "PETG",
+      "name": "PETG Ámbar",
+      "hex": "#ffbf00",
+      "searchText": "nth grillon petg petg ámbar"
+    },
+    {
+      "id": "nth-grillon-petg-azul",
+      "brand": "NTH Grillon",
+      "material": "PETG",
+      "name": "PETG Azul",
+      "hex": "#509aff",
+      "searchText": "nth grillon petg petg azul"
+    },
+    {
+      "id": "nth-grillon-petg-blanco",
+      "brand": "NTH Grillon",
+      "material": "PETG",
+      "name": "PETG Blanco",
+      "hex": "#fffefa",
+      "searchText": "nth grillon petg petg blanco"
+    },
+    {
+      "id": "nth-grillon-petg-chocolate",
+      "brand": "NTH Grillon",
+      "material": "PETG",
+      "name": "PETG Chocolate",
+      "hex": "#57361c",
+      "searchText": "nth grillon petg petg chocolate"
+    },
+    {
+      "id": "nth-grillon-petg-gris-acero",
+      "brand": "NTH Grillon",
+      "material": "PETG",
+      "name": "PETG Gris Acero",
+      "hex": "#71797e",
+      "searchText": "nth grillon petg petg gris acero"
+    },
+    {
+      "id": "nth-grillon-petg-gris-plata",
+      "brand": "NTH Grillon",
+      "material": "PETG",
+      "name": "PETG Gris Plata",
+      "hex": "#bcbabb",
+      "searchText": "nth grillon petg petg gris plata"
+    },
+    {
+      "id": "nth-grillon-petg-naranja-praga",
+      "brand": "NTH Grillon",
+      "material": "PETG",
+      "name": "PETG Naranja Praga",
+      "hex": "#e2711d",
+      "searchText": "nth grillon petg petg naranja praga"
+    },
+    {
+      "id": "nth-grillon-petg-natural",
+      "brand": "NTH Grillon",
+      "material": "PETG",
+      "name": "PETG Natural",
+      "hex": "#f9fddd",
+      "searchText": "nth grillon petg petg natural"
+    },
+    {
+      "id": "nth-grillon-petg-negro",
+      "brand": "NTH Grillon",
+      "material": "PETG",
+      "name": "PETG Negro",
+      "hex": "#020303",
+      "searchText": "nth grillon petg petg negro"
+    },
+    {
+      "id": "nth-grillon-petg-nova",
+      "brand": "NTH Grillon",
+      "material": "PETG",
+      "name": "PETG Nova",
+      "hex": "#6a1b9a",
+      "searchText": "nth grillon petg petg nova"
+    },
+    {
+      "id": "nth-grillon-petg-rojo",
+      "brand": "NTH Grillon",
+      "material": "PETG",
+      "name": "PETG Rojo",
+      "hex": "#e9301e",
+      "searchText": "nth grillon petg petg rojo"
+    },
+    {
+      "id": "nth-grillon-petg-verde",
+      "brand": "NTH Grillon",
+      "material": "PETG",
+      "name": "PETG Verde",
+      "hex": "#00c26b",
+      "searchText": "nth grillon petg petg verde"
+    },
+    {
+      "id": "nth-grillon-pla-870-blanco",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA 870 Blanco",
+      "hex": "#fffefa",
+      "searchText": "nth grillon pla pla 870 blanco"
+    },
+    {
+      "id": "nth-grillon-pla-870-bordo",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA 870 Bordó",
+      "hex": "#8e0422",
+      "searchText": "nth grillon pla pla 870 bordó"
+    },
+    {
+      "id": "nth-grillon-pla-870-gris-plata",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA 870 Gris Plata",
+      "hex": "#bcbabb",
+      "searchText": "nth grillon pla pla 870 gris plata"
+    },
+    {
+      "id": "nth-grillon-pla-870-natural",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA 870 Natural",
+      "hex": "#f9fddd",
+      "searchText": "nth grillon pla pla 870 natural"
+    },
+    {
+      "id": "nth-grillon-pla-870-negro",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA 870 Negro",
+      "hex": "#020303",
+      "searchText": "nth grillon pla pla 870 negro"
+    },
+    {
+      "id": "nth-grillon-pla-870-turquesa",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA 870 Turquesa",
+      "hex": "#058b8c",
+      "searchText": "nth grillon pla pla 870 turquesa"
+    },
+    {
+      "id": "nth-grillon-pla-astra-calipso",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Astra Calipso",
+      "hex": "#058b8c",
+      "searchText": "nth grillon pla pla astra calipso"
+    },
+    {
+      "id": "nth-grillon-pla-astra-dark",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Astra Dark",
+      "hex": "#020303",
+      "searchText": "nth grillon pla pla astra dark"
+    },
+    {
+      "id": "nth-grillon-pla-astra-jade",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Astra Jade",
+      "hex": "#00554e",
+      "searchText": "nth grillon pla pla astra jade"
+    },
+    {
+      "id": "nth-grillon-pla-astra-nebula",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Astra Nebula",
+      "hex": "#a100eb",
+      "searchText": "nth grillon pla pla astra nebula"
+    },
+    {
+      "id": "nth-grillon-pla-astra-noche",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Astra Noche",
+      "hex": "#509aff",
+      "searchText": "nth grillon pla pla astra noche"
+    },
+    {
+      "id": "nth-grillon-pla-astra-roby",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Astra Roby",
+      "hex": "#e9301e",
+      "searchText": "nth grillon pla pla astra roby"
+    },
+    {
+      "id": "nth-grillon-pla-boutique-acqua",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Boutique Acqua",
+      "hex": "#2cc9d1",
+      "searchText": "nth grillon pla pla boutique acqua"
+    },
+    {
+      "id": "nth-grillon-pla-boutique-arena",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Boutique Arena",
+      "hex": "#e8d96a",
+      "searchText": "nth grillon pla pla boutique arena"
+    },
+    {
+      "id": "nth-grillon-pla-boutique-carbon",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Boutique Carbón",
+      "hex": "#3a3a3a",
+      "searchText": "nth grillon pla pla boutique carbón"
+    },
+    {
+      "id": "nth-grillon-pla-boutique-caribe",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Boutique Caribe",
+      "hex": "#1fa8c9",
+      "searchText": "nth grillon pla pla boutique caribe"
+    },
+    {
+      "id": "nth-grillon-pla-boutique-chocolate",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Boutique Chocolate",
+      "hex": "#57361c",
+      "searchText": "nth grillon pla pla boutique chocolate"
+    },
+    {
+      "id": "nth-grillon-pla-boutique-crema-del-cielo",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Boutique Crema del Cielo",
+      "hex": "#3ec6e0",
+      "searchText": "nth grillon pla pla boutique crema del cielo"
+    },
+    {
+      "id": "nth-grillon-pla-boutique-dulce-de-leche",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Boutique Dulce de Leche",
+      "hex": "#8b5e3c",
+      "searchText": "nth grillon pla pla boutique dulce de leche"
+    },
+    {
+      "id": "nth-grillon-pla-boutique-esmeralda",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Boutique Esmeralda",
+      "hex": "#44ca6b",
+      "searchText": "nth grillon pla pla boutique esmeralda"
+    },
+    {
+      "id": "nth-grillon-pla-boutique-frutilla",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Boutique Frutilla",
+      "hex": "#d6007f",
+      "searchText": "nth grillon pla pla boutique frutilla"
+    },
+    {
+      "id": "nth-grillon-pla-boutique-lavanda",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Boutique Lavanda",
+      "hex": "#d696ee",
+      "searchText": "nth grillon pla pla boutique lavanda"
+    },
+    {
+      "id": "nth-grillon-pla-boutique-perla",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Boutique Perla",
+      "hex": "#f3f6e4",
+      "searchText": "nth grillon pla pla boutique perla"
+    },
+    {
+      "id": "nth-grillon-pla-boutique-perla-frio",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Boutique Perla Frío",
+      "hex": "#f3f2ec",
+      "searchText": "nth grillon pla pla boutique perla frío"
+    },
+    {
+      "id": "nth-grillon-pla-boutique-rubi",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Boutique Rubí",
+      "hex": "#9b111e",
+      "searchText": "nth grillon pla pla boutique rubí"
+    },
+    {
+      "id": "nth-grillon-pla-boutique-salmon",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Boutique Salmón",
+      "hex": "#fa8072",
+      "searchText": "nth grillon pla pla boutique salmón"
+    },
+    {
+      "id": "nth-grillon-pla-boutique-verde-aviador",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Boutique Verde Aviador",
+      "hex": "#2f4f3e",
+      "searchText": "nth grillon pla pla boutique verde aviador"
+    },
+    {
+      "id": "nth-grillon-pla-boutique-zafiro",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Boutique Zafiro",
+      "hex": "#002cff",
+      "searchText": "nth grillon pla pla boutique zafiro"
+    },
+    {
+      "id": "nth-grillon-pla-fast-amarillo",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Fast Amarillo",
+      "hex": "#ffe802",
+      "searchText": "nth grillon pla pla fast amarillo"
+    },
+    {
+      "id": "nth-grillon-pla-fast-amarillo-fluo",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Fast Amarillo Flúo",
+      "hex": "#dfff00",
+      "searchText": "nth grillon pla pla fast amarillo flúo"
+    },
+    {
+      "id": "nth-grillon-pla-fast-azul",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Fast Azul",
+      "hex": "#509aff",
+      "searchText": "nth grillon pla pla fast azul"
+    },
+    {
+      "id": "nth-grillon-pla-fast-blanco",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Fast Blanco",
+      "hex": "#fffefa",
+      "searchText": "nth grillon pla pla fast blanco"
+    },
+    {
+      "id": "nth-grillon-pla-fast-bordo",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Fast Bordó",
+      "hex": "#8e0422",
+      "searchText": "nth grillon pla pla fast bordó"
+    },
+    {
+      "id": "nth-grillon-pla-fast-bronce",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Fast Bronce",
+      "hex": "#ae6725",
+      "searchText": "nth grillon pla pla fast bronce"
+    },
+    {
+      "id": "nth-grillon-pla-fast-carpincho",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Fast Carpincho",
+      "hex": "#8b6b3a",
+      "searchText": "nth grillon pla pla fast carpincho"
+    },
+    {
+      "id": "nth-grillon-pla-fast-celeste",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Fast Celeste",
+      "hex": "#3abbde",
+      "searchText": "nth grillon pla pla fast celeste"
+    },
+    {
+      "id": "nth-grillon-pla-fast-cobre",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Fast Cobre",
+      "hex": "#bb8330",
+      "searchText": "nth grillon pla pla fast cobre"
+    },
+    {
+      "id": "nth-grillon-pla-fast-dorado",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Fast Dorado",
+      "hex": "#d4af37",
+      "searchText": "nth grillon pla pla fast dorado"
+    },
+    {
+      "id": "nth-grillon-pla-fast-fucsia",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Fast Fucsia",
+      "hex": "#ed6498",
+      "searchText": "nth grillon pla pla fast fucsia"
+    },
+    {
+      "id": "nth-grillon-pla-fast-gris-espacial",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Fast Gris Espacial",
+      "hex": "#63646b",
+      "searchText": "nth grillon pla pla fast gris espacial"
+    },
+    {
+      "id": "nth-grillon-pla-fast-gris-plata",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Fast Gris Plata",
+      "hex": "#bcbabb",
+      "searchText": "nth grillon pla pla fast gris plata"
+    },
+    {
+      "id": "nth-grillon-pla-fast-magenta",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Fast Magenta",
+      "hex": "#ff0086",
+      "searchText": "nth grillon pla pla fast magenta"
+    },
+    {
+      "id": "nth-grillon-pla-fast-naranja",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Fast Naranja",
+      "hex": "#ff9a40",
+      "searchText": "nth grillon pla pla fast naranja"
+    },
+    {
+      "id": "nth-grillon-pla-fast-naranja-fluo",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Fast Naranja Flúo",
+      "hex": "#ff6700",
+      "searchText": "nth grillon pla pla fast naranja flúo"
+    },
+    {
+      "id": "nth-grillon-pla-fast-natural",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Fast Natural",
+      "hex": "#f9fddd",
+      "searchText": "nth grillon pla pla fast natural"
+    },
+    {
+      "id": "nth-grillon-pla-fast-negro",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Fast Negro",
+      "hex": "#020303",
+      "searchText": "nth grillon pla pla fast negro"
+    },
+    {
+      "id": "nth-grillon-pla-fast-piel",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Fast Piel",
+      "hex": "#f1c27d",
+      "searchText": "nth grillon pla pla fast piel"
+    },
+    {
+      "id": "nth-grillon-pla-fast-piel-162",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Fast Piel 162",
+      "hex": "#ebc8af",
+      "searchText": "nth grillon pla pla fast piel 162"
+    },
+    {
+      "id": "nth-grillon-pla-fast-piel-720",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Fast Piel 720",
+      "hex": "#e6b98a",
+      "searchText": "nth grillon pla pla fast piel 720"
+    },
+    {
+      "id": "nth-grillon-pla-fast-rojo",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Fast Rojo",
+      "hex": "#e9301e",
+      "searchText": "nth grillon pla pla fast rojo"
+    },
+    {
+      "id": "nth-grillon-pla-fast-rosa",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Fast Rosa",
+      "hex": "#ffa3c6",
+      "searchText": "nth grillon pla pla fast rosa"
+    },
+    {
+      "id": "nth-grillon-pla-fast-turquesa",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Fast Turquesa",
+      "hex": "#058b8c",
+      "searchText": "nth grillon pla pla fast turquesa"
+    },
+    {
+      "id": "nth-grillon-pla-fast-verde",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Fast Verde",
+      "hex": "#00c26b",
+      "searchText": "nth grillon pla pla fast verde"
+    },
+    {
+      "id": "nth-grillon-pla-fast-verde-fluo",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Fast Verde Flúo",
+      "hex": "#7fff00",
+      "searchText": "nth grillon pla pla fast verde flúo"
+    },
+    {
+      "id": "nth-grillon-pla-fast-verde-manzana",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Fast Verde Manzana",
+      "hex": "#b9e972",
+      "searchText": "nth grillon pla pla fast verde manzana"
+    },
+    {
+      "id": "nth-grillon-pla-fast-violeta",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Fast Violeta",
+      "hex": "#d0006f",
+      "searchText": "nth grillon pla pla fast violeta"
+    },
+    {
+      "id": "nth-grillon-pla-hyper-azul",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Hyper Azul",
+      "hex": "#509aff",
+      "searchText": "nth grillon pla pla hyper azul"
+    },
+    {
+      "id": "nth-grillon-pla-hyper-blanco",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Hyper Blanco",
+      "hex": "#fffefa",
+      "searchText": "nth grillon pla pla hyper blanco"
+    },
+    {
+      "id": "nth-grillon-pla-hyper-bordo",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Hyper Bordó",
+      "hex": "#8e0422",
+      "searchText": "nth grillon pla pla hyper bordó"
+    },
+    {
+      "id": "nth-grillon-pla-hyper-bronce",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Hyper Bronce",
+      "hex": "#ae6725",
+      "searchText": "nth grillon pla pla hyper bronce"
+    },
+    {
+      "id": "nth-grillon-pla-hyper-gris-plata",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Hyper Gris Plata",
+      "hex": "#bcbabb",
+      "searchText": "nth grillon pla pla hyper gris plata"
+    },
+    {
+      "id": "nth-grillon-pla-hyper-naranja-uv-glow",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Hyper Naranja UV Glow",
+      "hex": "#ff8c00",
+      "searchText": "nth grillon pla pla hyper naranja uv glow"
+    },
+    {
+      "id": "nth-grillon-pla-hyper-negro",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Hyper Negro",
+      "hex": "#020303",
+      "searchText": "nth grillon pla pla hyper negro"
+    },
+    {
+      "id": "nth-grillon-pla-hyper-rojo",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Hyper Rojo",
+      "hex": "#e9301e",
+      "searchText": "nth grillon pla pla hyper rojo"
+    },
+    {
+      "id": "nth-grillon-pla-hyper-turquesa",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Hyper Turquesa",
+      "hex": "#058b8c",
+      "searchText": "nth grillon pla pla hyper turquesa"
+    },
+    {
+      "id": "nth-grillon-pla-hyper-verde-uv-glow",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Hyper Verde UV Glow",
+      "hex": "#39ff14",
+      "searchText": "nth grillon pla pla hyper verde uv glow"
+    },
+    {
+      "id": "nth-grillon-pla-silk-azabache",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Silk Azabache",
+      "hex": "#232323",
+      "searchText": "nth grillon pla pla silk azabache"
+    },
+    {
+      "id": "nth-grillon-pla-silk-azul",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Silk Azul",
+      "hex": "#509aff",
+      "searchText": "nth grillon pla pla silk azul"
+    },
+    {
+      "id": "nth-grillon-pla-silk-blanco-perla",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Silk Blanco Perla",
+      "hex": "#e2dedb",
+      "searchText": "nth grillon pla pla silk blanco perla"
+    },
+    {
+      "id": "nth-grillon-pla-silk-cobre",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Silk Cobre",
+      "hex": "#bb8330",
+      "searchText": "nth grillon pla pla silk cobre"
+    },
+    {
+      "id": "nth-grillon-pla-silk-dorado",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Silk Dorado",
+      "hex": "#c7b768",
+      "searchText": "nth grillon pla pla silk dorado"
+    },
+    {
+      "id": "nth-grillon-pla-silk-platino",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Silk Platino",
+      "hex": "#ebeced",
+      "searchText": "nth grillon pla pla silk platino"
+    },
+    {
+      "id": "nth-grillon-pla-silk-tutti-frutti",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Silk Tutti Frutti",
+      "hex": "#ff0086",
+      "searchText": "nth grillon pla pla silk tutti frutti"
+    },
+    {
+      "id": "nth-grillon-pla-silk-verde",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Silk Verde",
+      "hex": "#00c26b",
+      "searchText": "nth grillon pla pla silk verde"
+    },
+    {
+      "id": "nth-grillon-pla-wood-caoba",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Wood Caoba",
+      "hex": "#8a5a46",
+      "searchText": "nth grillon pla pla wood caoba"
+    },
+    {
+      "id": "nth-grillon-pla-wood-cerezo",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Wood Cerezo",
+      "hex": "#ad7032",
+      "searchText": "nth grillon pla pla wood cerezo"
+    },
+    {
+      "id": "nth-grillon-pla-wood-nogal",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Wood Nogal",
+      "hex": "#5b4c49",
+      "searchText": "nth grillon pla pla wood nogal"
+    },
+    {
+      "id": "nth-grillon-pla-wood-pino",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Wood Pino",
+      "hex": "#c8a165",
+      "searchText": "nth grillon pla pla wood pino"
+    },
+    {
+      "id": "nth-grillon-pla-zeta-amarillo",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Zeta Amarillo",
+      "hex": "#ffe802",
+      "searchText": "nth grillon pla pla zeta amarillo"
+    },
+    {
+      "id": "nth-grillon-pla-zeta-azabache",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Zeta Azabache",
+      "hex": "#232323",
+      "searchText": "nth grillon pla pla zeta azabache"
+    },
+    {
+      "id": "nth-grillon-pla-zeta-azul",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Zeta Azul",
+      "hex": "#509aff",
+      "searchText": "nth grillon pla pla zeta azul"
+    },
+    {
+      "id": "nth-grillon-pla-zeta-cristal",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Zeta Cristal",
+      "hex": "#ffffff",
+      "searchText": "nth grillon pla pla zeta cristal"
+    },
+    {
+      "id": "nth-grillon-pla-zeta-rojo",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Zeta Rojo",
+      "hex": "#e9301e",
+      "searchText": "nth grillon pla pla zeta rojo"
+    },
+    {
+      "id": "nth-grillon-pla-zeta-turquesa",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Zeta Turquesa",
+      "hex": "#058b8c",
+      "searchText": "nth grillon pla pla zeta turquesa"
+    },
+    {
+      "id": "nth-grillon-pla-zeta-verde",
+      "brand": "NTH Grillon",
+      "material": "PLA",
+      "name": "PLA Zeta Verde",
+      "hex": "#00c26b",
+      "searchText": "nth grillon pla pla zeta verde"
+    },
+    {
+      "id": "nth-grillon-acetal-blanco",
+      "brand": "NTH Grillon",
+      "material": "POM",
+      "name": "Acetal Blanco",
+      "hex": "#fffefa",
+      "searchText": "nth grillon pom acetal blanco"
+    },
+    {
+      "id": "nth-grillon-acetal-gris-acero",
+      "brand": "NTH Grillon",
+      "material": "POM",
+      "name": "Acetal Gris Acero",
+      "hex": "#71797e",
+      "searchText": "nth grillon pom acetal gris acero"
+    },
+    {
+      "id": "nth-grillon-acetal-gris-plata",
+      "brand": "NTH Grillon",
+      "material": "POM",
+      "name": "Acetal Gris Plata",
+      "hex": "#bcbabb",
+      "searchText": "nth grillon pom acetal gris plata"
+    },
+    {
+      "id": "nth-grillon-acetal-negro",
+      "brand": "NTH Grillon",
+      "material": "POM",
+      "name": "Acetal Negro",
+      "hex": "#020303",
+      "searchText": "nth grillon pom acetal negro"
+    },
+    {
+      "id": "nth-grillon-acetal-rojo",
+      "brand": "NTH Grillon",
+      "material": "POM",
+      "name": "Acetal Rojo",
+      "hex": "#e9301e",
+      "searchText": "nth grillon pom acetal rojo"
+    },
+    {
+      "id": "nth-grillon-pp-t-amarillo",
+      "brand": "NTH Grillon",
+      "material": "PP",
+      "name": "PP-T Amarillo",
+      "hex": "#ffe802",
+      "searchText": "nth grillon pp pp-t amarillo"
+    },
+    {
+      "id": "nth-grillon-pp-t-azul",
+      "brand": "NTH Grillon",
+      "material": "PP",
+      "name": "PP-T Azul",
+      "hex": "#509aff",
+      "searchText": "nth grillon pp pp-t azul"
+    },
+    {
+      "id": "nth-grillon-pp-t-natural",
+      "brand": "NTH Grillon",
+      "material": "PP",
+      "name": "PP-T Natural",
+      "hex": "#f9fddd",
+      "searchText": "nth grillon pp pp-t natural"
+    },
+    {
+      "id": "nth-grillon-pp-t-verde",
+      "brand": "NTH Grillon",
+      "material": "PP",
+      "name": "PP-T Verde",
+      "hex": "#00c26b",
+      "searchText": "nth grillon pp pp-t verde"
+    },
+    {
+      "id": "nth-grillon-pva-soluble-natural",
+      "brand": "NTH Grillon",
+      "material": "PVA",
+      "name": "PVA Soluble Natural",
+      "hex": "#f9fddd",
+      "searchText": "nth grillon pva pva soluble natural"
+    },
+    {
+      "id": "nth-grillon-simpliflex-blanco",
+      "brand": "NTH Grillon",
+      "material": "TPU",
+      "name": "Simpliflex Blanco",
+      "hex": "#fffefa",
+      "searchText": "nth grillon tpu simpliflex blanco"
+    },
+    {
+      "id": "nth-grillon-simpliflex-celeste",
+      "brand": "NTH Grillon",
+      "material": "TPU",
+      "name": "Simpliflex Celeste",
+      "hex": "#3abbde",
+      "searchText": "nth grillon tpu simpliflex celeste"
+    },
+    {
+      "id": "nth-grillon-simpliflex-naranja",
+      "brand": "NTH Grillon",
+      "material": "TPU",
+      "name": "Simpliflex Naranja",
+      "hex": "#ff9a40",
+      "searchText": "nth grillon tpu simpliflex naranja"
+    },
+    {
+      "id": "nth-grillon-simpliflex-natural",
+      "brand": "NTH Grillon",
+      "material": "TPU",
+      "name": "Simpliflex Natural",
+      "hex": "#f9fddd",
+      "searchText": "nth grillon tpu simpliflex natural"
+    },
+    {
+      "id": "nth-grillon-simpliflex-negro",
+      "brand": "NTH Grillon",
+      "material": "TPU",
+      "name": "Simpliflex Negro",
+      "hex": "#020303",
+      "searchText": "nth grillon tpu simpliflex negro"
+    },
+    {
+      "id": "nth-grillon-simpliflex-nova",
+      "brand": "NTH Grillon",
+      "material": "TPU",
+      "name": "Simpliflex Nova",
+      "hex": "#6a1b9a",
+      "searchText": "nth grillon tpu simpliflex nova"
+    },
+    {
+      "id": "nth-grillon-simpliflex-verde",
+      "brand": "NTH Grillon",
+      "material": "TPU",
+      "name": "Simpliflex Verde",
+      "hex": "#00c26b",
+      "searchText": "nth grillon tpu simpliflex verde"
     },
     {
       "id": "numakers-abs-apple-red",
@@ -89566,7 +93566,7 @@
       "searchText": "sainsmart pa12 epa12-cf black"
     },
     {
-      "id": "sainsmart-nylon-carbon-fiber-black",
+      "id": "sainsmart-nylon-plus-carbon-fiber-black",
       "brand": "SainSmart",
       "material": "PA6",
       "name": "Nylon+ Carbon Fiber Black",
@@ -89580,6 +93580,62 @@
       "name": "PA6 Nylon White",
       "hex": "#ffffff",
       "searchText": "sainsmart pa6 pa6 nylon white"
+    },
+    {
+      "id": "sainsmart-peba-90a-black",
+      "brand": "SainSmart",
+      "material": "PEBA",
+      "name": "PEBA 90A Black",
+      "hex": "#000000",
+      "searchText": "sainsmart peba peba 90a black"
+    },
+    {
+      "id": "sainsmart-peba-90a-blue",
+      "brand": "SainSmart",
+      "material": "PEBA",
+      "name": "PEBA 90A Blue",
+      "hex": "#2e56f1",
+      "searchText": "sainsmart peba peba 90a blue"
+    },
+    {
+      "id": "sainsmart-peba-90a-grey",
+      "brand": "SainSmart",
+      "material": "PEBA",
+      "name": "PEBA 90A Grey",
+      "hex": "#9f9f9f",
+      "searchText": "sainsmart peba peba 90a grey"
+    },
+    {
+      "id": "sainsmart-peba-90a-orange",
+      "brand": "SainSmart",
+      "material": "PEBA",
+      "name": "PEBA 90A Orange",
+      "hex": "#ff8133",
+      "searchText": "sainsmart peba peba 90a orange"
+    },
+    {
+      "id": "sainsmart-peba-90a-red",
+      "brand": "SainSmart",
+      "material": "PEBA",
+      "name": "PEBA 90A Red",
+      "hex": "#e20010",
+      "searchText": "sainsmart peba peba 90a red"
+    },
+    {
+      "id": "sainsmart-peba-90a-white",
+      "brand": "SainSmart",
+      "material": "PEBA",
+      "name": "PEBA 90A White",
+      "hex": "#ffffff",
+      "searchText": "sainsmart peba peba 90a white"
+    },
+    {
+      "id": "sainsmart-peba-90a-yellow",
+      "brand": "SainSmart",
+      "material": "PEBA",
+      "name": "PEBA 90A Yellow",
+      "hex": "#ffcb47",
+      "searchText": "sainsmart peba peba 90a yellow"
     },
     {
       "id": "sainsmart-black-carbon-fiber-petg",
@@ -89630,6 +93686,14 @@
       "searchText": "sainsmart petg dark brown pro-3 petg"
     },
     {
+      "id": "sainsmart-dark-purple-pro-3-petg",
+      "brand": "SainSmart",
+      "material": "PETG",
+      "name": "Dark Purple PRO-3 PETG",
+      "hex": "#581d80",
+      "searchText": "sainsmart petg dark purple pro-3 petg"
+    },
+    {
       "id": "sainsmart-gt-3-high-speed-petg-glossy-black",
       "brand": "SainSmart",
       "material": "PETG",
@@ -89652,6 +93716,14 @@
       "name": "GT-3 High Speed PETG Glossy White",
       "hex": "#ffffff",
       "searchText": "sainsmart petg gt-3 high speed petg glossy white"
+    },
+    {
+      "id": "sainsmart-hot-pink-pro-3-petg",
+      "brand": "SainSmart",
+      "material": "PETG",
+      "name": "Hot Pink PRO-3 PETG",
+      "hex": "#fc6d8e",
+      "searchText": "sainsmart petg hot pink pro-3 petg"
     },
     {
       "id": "sainsmart-silver-pro-3-petg",
@@ -89742,7 +93814,7 @@
       "searchText": "sainsmart pla gt-3 high flowability flexible pla white"
     },
     {
-      "id": "sainsmart-gt-3-high-speed-glossy-pla-cyan",
+      "id": "sainsmart-gt-3-high-speed-glossy-pla-plus-cyan",
       "brand": "SainSmart",
       "material": "PLA",
       "name": "GT-3 High Speed Glossy PLA+ Cyan",
@@ -89750,7 +93822,7 @@
       "searchText": "sainsmart pla gt-3 high speed glossy pla+ cyan"
     },
     {
-      "id": "sainsmart-gt-3-high-speed-glossy-pla-magenta",
+      "id": "sainsmart-gt-3-high-speed-glossy-pla-plus-magenta",
       "brand": "SainSmart",
       "material": "PLA",
       "name": "GT-3 High Speed Glossy PLA+ Magenta",
@@ -89758,7 +93830,7 @@
       "searchText": "sainsmart pla gt-3 high speed glossy pla+ magenta"
     },
     {
-      "id": "sainsmart-gt-3-high-speed-glossy-pla-silver",
+      "id": "sainsmart-gt-3-high-speed-glossy-pla-plus-silver",
       "brand": "SainSmart",
       "material": "PLA",
       "name": "GT-3 High Speed Glossy PLA+ Silver",
@@ -89766,7 +93838,7 @@
       "searchText": "sainsmart pla gt-3 high speed glossy pla+ silver"
     },
     {
-      "id": "sainsmart-gt-3-high-speed-glossy-pla-yellow",
+      "id": "sainsmart-gt-3-high-speed-glossy-pla-plus-yellow",
       "brand": "SainSmart",
       "material": "PLA",
       "name": "GT-3 High Speed Glossy PLA+ Yellow",
@@ -89862,6 +93934,54 @@
       "searchText": "sainsmart pva natural pva"
     },
     {
+      "id": "sainsmart-natural-water-soluble-pva",
+      "brand": "SainSmart",
+      "material": "PVA",
+      "name": "Natural Water Soluble PVA",
+      "hex": "#dfdfd3",
+      "searchText": "sainsmart pva natural water soluble pva"
+    },
+    {
+      "id": "sainsmart-95a-flexible-tpu-1kg-black",
+      "brand": "SainSmart",
+      "material": "TPU",
+      "name": "95A Flexible TPU 1KG Black",
+      "hex": "#000000",
+      "searchText": "sainsmart tpu 95a flexible tpu 1kg black"
+    },
+    {
+      "id": "sainsmart-95a-flexible-tpu-1kg-blue",
+      "brand": "SainSmart",
+      "material": "TPU",
+      "name": "95A Flexible TPU 1KG Blue",
+      "hex": "#2e56f1",
+      "searchText": "sainsmart tpu 95a flexible tpu 1kg blue"
+    },
+    {
+      "id": "sainsmart-95a-flexible-tpu-1kg-red",
+      "brand": "SainSmart",
+      "material": "TPU",
+      "name": "95A Flexible TPU 1KG Red",
+      "hex": "#e20010",
+      "searchText": "sainsmart tpu 95a flexible tpu 1kg red"
+    },
+    {
+      "id": "sainsmart-95a-flexible-tpu-1kg-white",
+      "brand": "SainSmart",
+      "material": "TPU",
+      "name": "95A Flexible TPU 1KG White",
+      "hex": "#ffffff",
+      "searchText": "sainsmart tpu 95a flexible tpu 1kg white"
+    },
+    {
+      "id": "sainsmart-black-flexible-tpu",
+      "brand": "SainSmart",
+      "material": "TPU",
+      "name": "Black, Flexible TPU",
+      "hex": "#000000",
+      "searchText": "sainsmart tpu black, flexible tpu"
+    },
+    {
       "id": "sainsmart-blue-flexible-tpu",
       "brand": "SainSmart",
       "material": "TPU",
@@ -89870,12 +93990,28 @@
       "searchText": "sainsmart tpu blue, flexible tpu"
     },
     {
+      "id": "sainsmart-caramel-flexible-tpu",
+      "brand": "SainSmart",
+      "material": "TPU",
+      "name": "Caramel, Flexible TPU",
+      "hex": "#a88d5d",
+      "searchText": "sainsmart tpu caramel, flexible tpu"
+    },
+    {
       "id": "sainsmart-clear-flexible-tpu",
       "brand": "SainSmart",
       "material": "TPU",
       "name": "Clear, Flexible TPU",
       "hex": "#e4e7e5",
       "searchText": "sainsmart tpu clear, flexible tpu"
+    },
+    {
+      "id": "sainsmart-emerald-flexible-tpu",
+      "brand": "SainSmart",
+      "material": "TPU",
+      "name": "Emerald, Flexible TPU",
+      "hex": "#0ccf81",
+      "searchText": "sainsmart tpu emerald, flexible tpu"
     },
     {
       "id": "sainsmart-flexible-87a-tpu-transparent",
@@ -90018,7 +94154,7 @@
       "brand": "SainSmart",
       "material": "TPU",
       "name": "GT-3 High-Speed 95A Flexible TPU Yellow",
-      "hex": "#f2de00",
+      "hex": "#efd00b",
       "searchText": "sainsmart tpu gt-3 high-speed 95a flexible tpu yellow"
     },
     {
@@ -90026,7 +94162,7 @@
       "brand": "SainSmart",
       "material": "TPU",
       "name": "Kaoss Purple, Flexible TPU",
-      "hex": "#ae00ff",
+      "hex": "#db3fa9",
       "searchText": "sainsmart tpu kaoss purple, flexible tpu"
     },
     {
@@ -90038,6 +94174,38 @@
       "searchText": "sainsmart tpu liquid luster, flexible tpu"
     },
     {
+      "id": "sainsmart-living-coral-flexible-tpu",
+      "brand": "SainSmart",
+      "material": "TPU",
+      "name": "Living Coral, Flexible TPU",
+      "hex": "#ff854d",
+      "searchText": "sainsmart tpu living coral, flexible tpu"
+    },
+    {
+      "id": "sainsmart-lw-tpu-black",
+      "brand": "SainSmart",
+      "material": "TPU",
+      "name": "LW-TPU Black",
+      "hex": "#000000",
+      "searchText": "sainsmart tpu lw-tpu black"
+    },
+    {
+      "id": "sainsmart-lw-tpu-gray",
+      "brand": "SainSmart",
+      "material": "TPU",
+      "name": "LW-TPU Gray",
+      "hex": "#9f9f9f",
+      "searchText": "sainsmart tpu lw-tpu gray"
+    },
+    {
+      "id": "sainsmart-lw-tpu-white",
+      "brand": "SainSmart",
+      "material": "TPU",
+      "name": "LW-TPU White",
+      "hex": "#ffffff",
+      "searchText": "sainsmart tpu lw-tpu white"
+    },
+    {
       "id": "sainsmart-mango-mojito-flexible-tpu",
       "brand": "SainSmart",
       "material": "TPU",
@@ -90046,12 +94214,84 @@
       "searchText": "sainsmart tpu mango mojito, flexible tpu"
     },
     {
+      "id": "sainsmart-matte-flexible-tpu-95a-beige",
+      "brand": "SainSmart",
+      "material": "TPU",
+      "name": "Matte Flexible TPU 95A Beige",
+      "hex": "#e9d1c1",
+      "searchText": "sainsmart tpu matte flexible tpu 95a beige"
+    },
+    {
       "id": "sainsmart-matte-flexible-tpu-95a-black",
       "brand": "SainSmart",
       "material": "TPU",
       "name": "Matte Flexible TPU 95A Black",
       "hex": "#000000",
       "searchText": "sainsmart tpu matte flexible tpu 95a black"
+    },
+    {
+      "id": "sainsmart-matte-flexible-tpu-95a-blue",
+      "brand": "SainSmart",
+      "material": "TPU",
+      "name": "Matte Flexible TPU 95A Blue",
+      "hex": "#2e56f1",
+      "searchText": "sainsmart tpu matte flexible tpu 95a blue"
+    },
+    {
+      "id": "sainsmart-matte-flexible-tpu-95a-dark-earth",
+      "brand": "SainSmart",
+      "material": "TPU",
+      "name": "Matte Flexible TPU 95A Dark Earth",
+      "hex": "#90785e",
+      "searchText": "sainsmart tpu matte flexible tpu 95a dark earth"
+    },
+    {
+      "id": "sainsmart-matte-flexible-tpu-95a-earth-brown",
+      "brand": "SainSmart",
+      "material": "TPU",
+      "name": "Matte Flexible TPU 95A Earth Brown",
+      "hex": "#7c594a",
+      "searchText": "sainsmart tpu matte flexible tpu 95a earth brown"
+    },
+    {
+      "id": "sainsmart-matte-flexible-tpu-95a-light-brown",
+      "brand": "SainSmart",
+      "material": "TPU",
+      "name": "Matte Flexible TPU 95A Light Brown",
+      "hex": "#876857",
+      "searchText": "sainsmart tpu matte flexible tpu 95a light brown"
+    },
+    {
+      "id": "sainsmart-matte-flexible-tpu-95a-mint-green",
+      "brand": "SainSmart",
+      "material": "TPU",
+      "name": "Matte Flexible TPU 95A Mint Green",
+      "hex": "#adebb3",
+      "searchText": "sainsmart tpu matte flexible tpu 95a mint green"
+    },
+    {
+      "id": "sainsmart-matte-flexible-tpu-95a-navy-blue",
+      "brand": "SainSmart",
+      "material": "TPU",
+      "name": "Matte Flexible TPU 95A Navy Blue",
+      "hex": "#09048e",
+      "searchText": "sainsmart tpu matte flexible tpu 95a navy blue"
+    },
+    {
+      "id": "sainsmart-matte-flexible-tpu-95a-olive-green",
+      "brand": "SainSmart",
+      "material": "TPU",
+      "name": "Matte Flexible TPU 95A Olive Green",
+      "hex": "#857c00",
+      "searchText": "sainsmart tpu matte flexible tpu 95a olive green"
+    },
+    {
+      "id": "sainsmart-matte-flexible-tpu-95a-skin",
+      "brand": "SainSmart",
+      "material": "TPU",
+      "name": "Matte Flexible TPU 95A Skin",
+      "hex": "#fec8a4",
+      "searchText": "sainsmart tpu matte flexible tpu 95a skin"
     },
     {
       "id": "sainsmart-matte-flexible-tpu-95a-white",
@@ -90090,7 +94330,7 @@
       "brand": "SainSmart",
       "material": "TPU",
       "name": "Neon Yellow, Cyberpunk Color TPU",
-      "hex": "#f2de00",
+      "hex": "#efd00b",
       "searchText": "sainsmart tpu neon yellow, cyberpunk color tpu"
     },
     {
@@ -90158,6 +94398,30 @@
       "searchText": "sainsmart tpu pastel yellow 92a flexible tpu"
     },
     {
+      "id": "sainsmart-peach-flexible-tpu",
+      "brand": "SainSmart",
+      "material": "TPU",
+      "name": "Peach, Flexible TPU",
+      "hex": "#ffc3a0",
+      "searchText": "sainsmart tpu peach, flexible tpu"
+    },
+    {
+      "id": "sainsmart-pink-flexible-tpu",
+      "brand": "SainSmart",
+      "material": "TPU",
+      "name": "Pink, Flexible TPU",
+      "hex": "#d55d8c",
+      "searchText": "sainsmart tpu pink, flexible tpu"
+    },
+    {
+      "id": "sainsmart-purple-flexible-tpu",
+      "brand": "SainSmart",
+      "material": "TPU",
+      "name": "Purple, Flexible TPU",
+      "hex": "#db3fa9",
+      "searchText": "sainsmart tpu purple, flexible tpu"
+    },
+    {
       "id": "sainsmart-red-flexible-tpu",
       "brand": "SainSmart",
       "material": "TPU",
@@ -90180,6 +94444,22 @@
       "name": "Small-Spool TPU Flexible Green",
       "hex": "#4dff64",
       "searchText": "sainsmart tpu small-spool tpu flexible green"
+    },
+    {
+      "id": "sainsmart-teal-flexible-tpu",
+      "brand": "SainSmart",
+      "material": "TPU",
+      "name": "Teal, Flexible TPU",
+      "hex": "#15817b",
+      "searchText": "sainsmart tpu teal, flexible tpu"
+    },
+    {
+      "id": "sainsmart-violet-flexible-tpu",
+      "brand": "SainSmart",
+      "material": "TPU",
+      "name": "Violet, Flexible TPU",
+      "hex": "#6000b0",
+      "searchText": "sainsmart tpu violet, flexible tpu"
     },
     {
       "id": "sainsmart-white-flexible-tpu",
