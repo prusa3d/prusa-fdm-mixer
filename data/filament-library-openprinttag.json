@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-11-12T04:23:18.004Z",
-  "entryCount": 14622,
+  "lastSynced": "2026-11-13T04:23:27.216Z",
+  "entryCount": 14624,
   "entries": [
     {
       "id": "123-3d-abs-bruin",
@@ -83054,6 +83054,14 @@
       "searchText": "prusament pei pei 1010 natural"
     },
     {
+      "id": "prusament-pei-1010-space-grade-black",
+      "brand": "Prusament",
+      "material": "PEI",
+      "name": "PEI 1010 Space Grade Black",
+      "hex": "#000000",
+      "searchText": "prusament pei pei 1010 space grade black"
+    },
+    {
       "id": "prusament-petg-anthracite-grey",
       "brand": "Prusament",
       "material": "PETG",
@@ -83108,6 +83116,14 @@
       "name": "PETG Emerald Green",
       "hex": "#115740",
       "searchText": "prusament petg petg emerald green"
+    },
+    {
+      "id": "prusament-petg-esd-black",
+      "brand": "Prusament",
+      "material": "PETG",
+      "name": "PETG ESD Black",
+      "hex": "#000000",
+      "searchText": "prusament petg petg esd black"
     },
     {
       "id": "prusament-petg-jet-black",
