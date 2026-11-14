@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-11-13T04:23:27.216Z",
-  "entryCount": 14624,
+  "lastSynced": "2026-11-14T04:22:30.642Z",
+  "entryCount": 14668,
   "entries": [
     {
       "id": "123-3d-abs-bruin",
@@ -63996,6 +63996,358 @@
       "name": "PLA Silk - Verde Quetzal",
       "hex": "#00b65c",
       "searchText": "méxico makers pla pla silk - verde quetzal"
+    },
+    {
+      "id": "miailuy-petg-army-green",
+      "brand": "Miailuy",
+      "material": "PETG",
+      "name": "PETG Army Green",
+      "hex": "#466037",
+      "searchText": "miailuy petg petg army green"
+    },
+    {
+      "id": "miailuy-petg-black",
+      "brand": "Miailuy",
+      "material": "PETG",
+      "name": "PETG Black",
+      "hex": "#020303",
+      "searchText": "miailuy petg petg black"
+    },
+    {
+      "id": "miailuy-petg-blue",
+      "brand": "Miailuy",
+      "material": "PETG",
+      "name": "PETG Blue",
+      "hex": "#0022ff",
+      "searchText": "miailuy petg petg blue"
+    },
+    {
+      "id": "miailuy-petg-bright-silver",
+      "brand": "Miailuy",
+      "material": "PETG",
+      "name": "PETG Bright Silver",
+      "hex": "#e0e0e0",
+      "searchText": "miailuy petg petg bright silver"
+    },
+    {
+      "id": "miailuy-petg-brown",
+      "brand": "Miailuy",
+      "material": "PETG",
+      "name": "PETG Brown",
+      "hex": "#785f53",
+      "searchText": "miailuy petg petg brown"
+    },
+    {
+      "id": "miailuy-petg-dark-green",
+      "brand": "Miailuy",
+      "material": "PETG",
+      "name": "PETG Dark Green",
+      "hex": "#13484d",
+      "searchText": "miailuy petg petg dark green"
+    },
+    {
+      "id": "miailuy-petg-grass-green",
+      "brand": "Miailuy",
+      "material": "PETG",
+      "name": "PETG Grass Green",
+      "hex": "#3ab916",
+      "searchText": "miailuy petg petg grass green"
+    },
+    {
+      "id": "miailuy-petg-grey",
+      "brand": "Miailuy",
+      "material": "PETG",
+      "name": "PETG Grey",
+      "hex": "#75787b",
+      "searchText": "miailuy petg petg grey"
+    },
+    {
+      "id": "miailuy-petg-orange",
+      "brand": "Miailuy",
+      "material": "PETG",
+      "name": "PETG Orange",
+      "hex": "#ff9a40",
+      "searchText": "miailuy petg petg orange"
+    },
+    {
+      "id": "miailuy-petg-orchid",
+      "brand": "Miailuy",
+      "material": "PETG",
+      "name": "PETG Orchid",
+      "hex": "#52d2bc",
+      "searchText": "miailuy petg petg orchid"
+    },
+    {
+      "id": "miailuy-petg-purple",
+      "brand": "Miailuy",
+      "material": "PETG",
+      "name": "PETG Purple",
+      "hex": "#8d078c",
+      "searchText": "miailuy petg petg purple"
+    },
+    {
+      "id": "miailuy-petg-red",
+      "brand": "Miailuy",
+      "material": "PETG",
+      "name": "PETG Red",
+      "hex": "#e9301e",
+      "searchText": "miailuy petg petg red"
+    },
+    {
+      "id": "miailuy-petg-transparent",
+      "brand": "Miailuy",
+      "material": "PETG",
+      "name": "PETG Transparent",
+      "hex": "#eef3f5",
+      "searchText": "miailuy petg petg transparent"
+    },
+    {
+      "id": "miailuy-petg-white",
+      "brand": "Miailuy",
+      "material": "PETG",
+      "name": "PETG White",
+      "hex": "#fffefa",
+      "searchText": "miailuy petg petg white"
+    },
+    {
+      "id": "miailuy-petg-wood",
+      "brand": "Miailuy",
+      "material": "PETG",
+      "name": "PETG Wood",
+      "hex": "#c19a6b",
+      "searchText": "miailuy petg petg wood"
+    },
+    {
+      "id": "miailuy-pla-plus-army-green",
+      "brand": "Miailuy",
+      "material": "PLA",
+      "name": "PLA+ Army Green",
+      "hex": "#466037",
+      "searchText": "miailuy pla pla+ army green"
+    },
+    {
+      "id": "miailuy-pla-plus-beige",
+      "brand": "Miailuy",
+      "material": "PLA",
+      "name": "PLA+ Beige",
+      "hex": "#e2e4c0",
+      "searchText": "miailuy pla pla+ beige"
+    },
+    {
+      "id": "miailuy-pla-plus-black",
+      "brand": "Miailuy",
+      "material": "PLA",
+      "name": "PLA+ Black",
+      "hex": "#020303",
+      "searchText": "miailuy pla pla+ black"
+    },
+    {
+      "id": "miailuy-pla-plus-blue",
+      "brand": "Miailuy",
+      "material": "PLA",
+      "name": "PLA+ Blue",
+      "hex": "#473fc9",
+      "searchText": "miailuy pla pla+ blue"
+    },
+    {
+      "id": "miailuy-pla-plus-brown",
+      "brand": "Miailuy",
+      "material": "PLA",
+      "name": "PLA+ Brown",
+      "hex": "#785f53",
+      "searchText": "miailuy pla pla+ brown"
+    },
+    {
+      "id": "miailuy-pla-plus-clear",
+      "brand": "Miailuy",
+      "material": "PLA",
+      "name": "PLA+ Clear",
+      "hex": "#e6e6e6",
+      "searchText": "miailuy pla pla+ clear"
+    },
+    {
+      "id": "miailuy-pla-plus-coffee-brown",
+      "brand": "Miailuy",
+      "material": "PLA",
+      "name": "PLA+ Coffee Brown",
+      "hex": "#7c594a",
+      "searchText": "miailuy pla pla+ coffee brown"
+    },
+    {
+      "id": "miailuy-pla-plus-cyan",
+      "brand": "Miailuy",
+      "material": "PLA",
+      "name": "PLA+ Cyan",
+      "hex": "#05a6c7",
+      "searchText": "miailuy pla pla+ cyan"
+    },
+    {
+      "id": "miailuy-pla-plus-green",
+      "brand": "Miailuy",
+      "material": "PLA",
+      "name": "PLA+ Green",
+      "hex": "#00c26b",
+      "searchText": "miailuy pla pla+ green"
+    },
+    {
+      "id": "miailuy-pla-plus-light-brown",
+      "brand": "Miailuy",
+      "material": "PLA",
+      "name": "PLA+ Light Brown",
+      "hex": "#e1a870",
+      "searchText": "miailuy pla pla+ light brown"
+    },
+    {
+      "id": "miailuy-pla-plus-orange",
+      "brand": "Miailuy",
+      "material": "PLA",
+      "name": "PLA+ Orange",
+      "hex": "#ff9a40",
+      "searchText": "miailuy pla pla+ orange"
+    },
+    {
+      "id": "miailuy-pla-plus-pink",
+      "brand": "Miailuy",
+      "material": "PLA",
+      "name": "PLA+ Pink",
+      "hex": "#ffa3c6",
+      "searchText": "miailuy pla pla+ pink"
+    },
+    {
+      "id": "miailuy-pla-plus-purple",
+      "brand": "Miailuy",
+      "material": "PLA",
+      "name": "PLA+ Purple",
+      "hex": "#ba009e",
+      "searchText": "miailuy pla pla+ purple"
+    },
+    {
+      "id": "miailuy-pla-plus-red",
+      "brand": "Miailuy",
+      "material": "PLA",
+      "name": "PLA+ Red",
+      "hex": "#e9301e",
+      "searchText": "miailuy pla pla+ red"
+    },
+    {
+      "id": "miailuy-pla-plus-skin",
+      "brand": "Miailuy",
+      "material": "PLA",
+      "name": "PLA+ Skin",
+      "hex": "#eed1a8",
+      "searchText": "miailuy pla pla+ skin"
+    },
+    {
+      "id": "miailuy-pla-plus-white",
+      "brand": "Miailuy",
+      "material": "PLA",
+      "name": "PLA+ White",
+      "hex": "#fffefa",
+      "searchText": "miailuy pla pla+ white"
+    },
+    {
+      "id": "miailuy-pla-plus-wood",
+      "brand": "Miailuy",
+      "material": "PLA",
+      "name": "PLA+ Wood",
+      "hex": "#c19a6b",
+      "searchText": "miailuy pla pla+ wood"
+    },
+    {
+      "id": "miailuy-pla-plus-yellow",
+      "brand": "Miailuy",
+      "material": "PLA",
+      "name": "PLA+ Yellow",
+      "hex": "#ffe802",
+      "searchText": "miailuy pla pla+ yellow"
+    },
+    {
+      "id": "miailuy-silk-pla-black",
+      "brand": "Miailuy",
+      "material": "PLA",
+      "name": "Silk PLA Black",
+      "hex": "#020303",
+      "searchText": "miailuy pla silk pla black"
+    },
+    {
+      "id": "miailuy-silk-pla-brass",
+      "brand": "Miailuy",
+      "material": "PLA",
+      "name": "Silk PLA Brass",
+      "hex": "#bc911e",
+      "searchText": "miailuy pla silk pla brass"
+    },
+    {
+      "id": "miailuy-silk-pla-christmas-green",
+      "brand": "Miailuy",
+      "material": "PLA",
+      "name": "Silk PLA Christmas Green",
+      "hex": "#165b33",
+      "searchText": "miailuy pla silk pla christmas green"
+    },
+    {
+      "id": "miailuy-silk-pla-orange",
+      "brand": "Miailuy",
+      "material": "PLA",
+      "name": "Silk PLA Orange",
+      "hex": "#ff9a40",
+      "searchText": "miailuy pla silk pla orange"
+    },
+    {
+      "id": "miailuy-silk-pla-pink",
+      "brand": "Miailuy",
+      "material": "PLA",
+      "name": "Silk PLA Pink",
+      "hex": "#ffa3c6",
+      "searchText": "miailuy pla silk pla pink"
+    },
+    {
+      "id": "miailuy-silk-pla-purple",
+      "brand": "Miailuy",
+      "material": "PLA",
+      "name": "Silk PLA Purple",
+      "hex": "#a100eb",
+      "searchText": "miailuy pla silk pla purple"
+    },
+    {
+      "id": "miailuy-silk-pla-red",
+      "brand": "Miailuy",
+      "material": "PLA",
+      "name": "Silk PLA Red",
+      "hex": "#e9301e",
+      "searchText": "miailuy pla silk pla red"
+    },
+    {
+      "id": "miailuy-silk-pla-silver",
+      "brand": "Miailuy",
+      "material": "PLA",
+      "name": "Silk PLA Silver",
+      "hex": "#818fa0",
+      "searchText": "miailuy pla silk pla silver"
+    },
+    {
+      "id": "miailuy-silk-pla-skin",
+      "brand": "Miailuy",
+      "material": "PLA",
+      "name": "Silk PLA Skin",
+      "hex": "#f3e2d7",
+      "searchText": "miailuy pla silk pla skin"
+    },
+    {
+      "id": "miailuy-silk-pla-white",
+      "brand": "Miailuy",
+      "material": "PLA",
+      "name": "Silk PLA White",
+      "hex": "#fffefa",
+      "searchText": "miailuy pla silk pla white"
+    },
+    {
+      "id": "miailuy-silk-pla-yellow",
+      "brand": "Miailuy",
+      "material": "PLA",
+      "name": "Silk PLA Yellow",
+      "hex": "#ffe802",
+      "searchText": "miailuy pla silk pla yellow"
     },
     {
       "id": "mosaic-abs-white",
