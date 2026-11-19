@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-11-18T04:23:13.713Z",
-  "entryCount": 14668,
+  "lastSynced": "2026-11-19T04:23:41.976Z",
+  "entryCount": 14708,
   "entries": [
     {
       "id": "123-3d-abs-bruin",
@@ -7052,6 +7052,326 @@
       "name": "3DXSTAT ESD-Flex TPU [90A] Black",
       "hex": "#000000",
       "searchText": "3dxtech tpu 3dxstat esd-flex tpu [90a] black"
+    },
+    {
+      "id": "abaflex-asa-black",
+      "brand": "ABAFLEX",
+      "material": "ASA",
+      "name": "ASA Black",
+      "hex": "#000000",
+      "searchText": "abaflex asa asa black"
+    },
+    {
+      "id": "abaflex-asa-brown-ral-8017",
+      "brand": "ABAFLEX",
+      "material": "ASA",
+      "name": "ASA Brown RAL 8017",
+      "hex": "#45322e",
+      "searchText": "abaflex asa asa brown ral 8017"
+    },
+    {
+      "id": "abaflex-asa-gray",
+      "brand": "ABAFLEX",
+      "material": "ASA",
+      "name": "ASA Gray",
+      "hex": "#808080",
+      "searchText": "abaflex asa asa gray"
+    },
+    {
+      "id": "abaflex-asa-silver-ral-9006",
+      "brand": "ABAFLEX",
+      "material": "ASA",
+      "name": "ASA Silver RAL 9006",
+      "hex": "#a5a5a5",
+      "searchText": "abaflex asa asa silver ral 9006"
+    },
+    {
+      "id": "abaflex-asa-white",
+      "brand": "ABAFLEX",
+      "material": "ASA",
+      "name": "ASA White",
+      "hex": "#ffffff",
+      "searchText": "abaflex asa asa white"
+    },
+    {
+      "id": "abaflex-petg-plus-army-green",
+      "brand": "ABAFLEX",
+      "material": "PETG",
+      "name": "PETG+ Army Green",
+      "hex": "#4b5320",
+      "searchText": "abaflex petg petg+ army green"
+    },
+    {
+      "id": "abaflex-petg-plus-black",
+      "brand": "ABAFLEX",
+      "material": "PETG",
+      "name": "PETG+ Black",
+      "hex": "#000000",
+      "searchText": "abaflex petg petg+ black"
+    },
+    {
+      "id": "abaflex-petg-plus-blue",
+      "brand": "ABAFLEX",
+      "material": "PETG",
+      "name": "PETG+ Blue",
+      "hex": "#1f5fd1",
+      "searchText": "abaflex petg petg+ blue"
+    },
+    {
+      "id": "abaflex-petg-plus-cf-anthracite",
+      "brand": "ABAFLEX",
+      "material": "PETG",
+      "name": "PETG+ CF Anthracite",
+      "hex": "#383e42",
+      "searchText": "abaflex petg petg+ cf anthracite"
+    },
+    {
+      "id": "abaflex-petg-plus-cf-black",
+      "brand": "ABAFLEX",
+      "material": "PETG",
+      "name": "PETG+ CF Black",
+      "hex": "#000000",
+      "searchText": "abaflex petg petg+ cf black"
+    },
+    {
+      "id": "abaflex-petg-plus-cf-dark-brown",
+      "brand": "ABAFLEX",
+      "material": "PETG",
+      "name": "PETG+ CF Dark Brown",
+      "hex": "#4a2e1f",
+      "searchText": "abaflex petg petg+ cf dark brown"
+    },
+    {
+      "id": "abaflex-petg-plus-cf-olive-green",
+      "brand": "ABAFLEX",
+      "material": "PETG",
+      "name": "PETG+ CF Olive Green",
+      "hex": "#6b7b3a",
+      "searchText": "abaflex petg petg+ cf olive green"
+    },
+    {
+      "id": "abaflex-petg-plus-cf-petrol-blue",
+      "brand": "ABAFLEX",
+      "material": "PETG",
+      "name": "PETG+ CF Petrol Blue",
+      "hex": "#1d5c73",
+      "searchText": "abaflex petg petg+ cf petrol blue"
+    },
+    {
+      "id": "abaflex-petg-plus-cf-transparent",
+      "brand": "ABAFLEX",
+      "material": "PETG",
+      "name": "PETG+ CF Transparent",
+      "hex": "#3a3a3a",
+      "searchText": "abaflex petg petg+ cf transparent"
+    },
+    {
+      "id": "abaflex-petg-plus-dark-blue",
+      "brand": "ABAFLEX",
+      "material": "PETG",
+      "name": "PETG+ Dark Blue",
+      "hex": "#12274f",
+      "searchText": "abaflex petg petg+ dark blue"
+    },
+    {
+      "id": "abaflex-petg-plus-dark-brown",
+      "brand": "ABAFLEX",
+      "material": "PETG",
+      "name": "PETG+ Dark Brown",
+      "hex": "#4a2e1f",
+      "searchText": "abaflex petg petg+ dark brown"
+    },
+    {
+      "id": "abaflex-petg-plus-dark-gray",
+      "brand": "ABAFLEX",
+      "material": "PETG",
+      "name": "PETG+ Dark Gray",
+      "hex": "#4d4d4d",
+      "searchText": "abaflex petg petg+ dark gray"
+    },
+    {
+      "id": "abaflex-petg-plus-gray",
+      "brand": "ABAFLEX",
+      "material": "PETG",
+      "name": "PETG+ Gray",
+      "hex": "#808080",
+      "searchText": "abaflex petg petg+ gray"
+    },
+    {
+      "id": "abaflex-petg-plus-green",
+      "brand": "ABAFLEX",
+      "material": "PETG",
+      "name": "PETG+ Green",
+      "hex": "#2e9e4b",
+      "searchText": "abaflex petg petg+ green"
+    },
+    {
+      "id": "abaflex-petg-plus-green-ral-6018",
+      "brand": "ABAFLEX",
+      "material": "PETG",
+      "name": "PETG+ Green RAL 6018",
+      "hex": "#57a639",
+      "searchText": "abaflex petg petg+ green ral 6018"
+    },
+    {
+      "id": "abaflex-petg-plus-neon-green",
+      "brand": "ABAFLEX",
+      "material": "PETG",
+      "name": "PETG+ Neon Green",
+      "hex": "#39ff14",
+      "searchText": "abaflex petg petg+ neon green"
+    },
+    {
+      "id": "abaflex-petg-plus-opaque-white",
+      "brand": "ABAFLEX",
+      "material": "PETG",
+      "name": "PETG+ Opaque White",
+      "hex": "#ffffff",
+      "searchText": "abaflex petg petg+ opaque white"
+    },
+    {
+      "id": "abaflex-petg-plus-orange",
+      "brand": "ABAFLEX",
+      "material": "PETG",
+      "name": "PETG+ Orange",
+      "hex": "#ff7a00",
+      "searchText": "abaflex petg petg+ orange"
+    },
+    {
+      "id": "abaflex-petg-plus-pink-transparent",
+      "brand": "ABAFLEX",
+      "material": "PETG",
+      "name": "PETG+ Pink Transparent",
+      "hex": "#ff5a80",
+      "searchText": "abaflex petg petg+ pink transparent"
+    },
+    {
+      "id": "abaflex-petg-plus-poison-yellow",
+      "brand": "ABAFLEX",
+      "material": "PETG",
+      "name": "PETG+ Poison Yellow",
+      "hex": "#c8ff00",
+      "searchText": "abaflex petg petg+ poison yellow"
+    },
+    {
+      "id": "abaflex-petg-plus-red-ral-3020",
+      "brand": "ABAFLEX",
+      "material": "PETG",
+      "name": "PETG+ Red RAL 3020",
+      "hex": "#cc0605",
+      "searchText": "abaflex petg petg+ red ral 3020"
+    },
+    {
+      "id": "abaflex-petg-plus-transparent",
+      "brand": "ABAFLEX",
+      "material": "PETG",
+      "name": "PETG+ Transparent",
+      "hex": "#ffffff",
+      "searchText": "abaflex petg petg+ transparent"
+    },
+    {
+      "id": "abaflex-petg-plus-uv-dark-gray",
+      "brand": "ABAFLEX",
+      "material": "PETG",
+      "name": "PETG+ UV Dark Gray",
+      "hex": "#4d4d4d",
+      "searchText": "abaflex petg petg+ uv dark gray"
+    },
+    {
+      "id": "abaflex-petg-plus-violet-mystic",
+      "brand": "ABAFLEX",
+      "material": "PETG",
+      "name": "PETG+ Violet Mystic",
+      "hex": "#6a3fa0",
+      "searchText": "abaflex petg petg+ violet mystic"
+    },
+    {
+      "id": "abaflex-petg-plus-white",
+      "brand": "ABAFLEX",
+      "material": "PETG",
+      "name": "PETG+ White",
+      "hex": "#ffffff",
+      "searchText": "abaflex petg petg+ white"
+    },
+    {
+      "id": "abaflex-petg-plus-yellow",
+      "brand": "ABAFLEX",
+      "material": "PETG",
+      "name": "PETG+ Yellow",
+      "hex": "#f5d90a",
+      "searchText": "abaflex petg petg+ yellow"
+    },
+    {
+      "id": "abaflex-petg-plus-yellow-signal-transparent",
+      "brand": "ABAFLEX",
+      "material": "PETG",
+      "name": "PETG+ Yellow Signal Transparent",
+      "hex": "#dfee00",
+      "searchText": "abaflex petg petg+ yellow signal transparent"
+    },
+    {
+      "id": "abaflex-pla-black",
+      "brand": "ABAFLEX",
+      "material": "PLA",
+      "name": "PLA Black",
+      "hex": "#000000",
+      "searchText": "abaflex pla pla black"
+    },
+    {
+      "id": "abaflex-pla-blue",
+      "brand": "ABAFLEX",
+      "material": "PLA",
+      "name": "PLA Blue",
+      "hex": "#1f5fd1",
+      "searchText": "abaflex pla pla blue"
+    },
+    {
+      "id": "abaflex-pla-gray",
+      "brand": "ABAFLEX",
+      "material": "PLA",
+      "name": "PLA Gray",
+      "hex": "#808080",
+      "searchText": "abaflex pla pla gray"
+    },
+    {
+      "id": "abaflex-pla-green",
+      "brand": "ABAFLEX",
+      "material": "PLA",
+      "name": "PLA Green",
+      "hex": "#2e9e4b",
+      "searchText": "abaflex pla pla green"
+    },
+    {
+      "id": "abaflex-pla-marble-white",
+      "brand": "ABAFLEX",
+      "material": "PLA",
+      "name": "PLA Marble White",
+      "hex": "#e9e7e2",
+      "searchText": "abaflex pla pla marble white"
+    },
+    {
+      "id": "abaflex-pla-natural",
+      "brand": "ABAFLEX",
+      "material": "PLA",
+      "name": "PLA Natural",
+      "hex": "#e8dcc0",
+      "searchText": "abaflex pla pla natural"
+    },
+    {
+      "id": "abaflex-pla-red",
+      "brand": "ABAFLEX",
+      "material": "PLA",
+      "name": "PLA Red",
+      "hex": "#d01f1f",
+      "searchText": "abaflex pla pla red"
+    },
+    {
+      "id": "abaflex-pla-white",
+      "brand": "ABAFLEX",
+      "material": "PLA",
+      "name": "PLA White",
+      "hex": "#ffffff",
+      "searchText": "abaflex pla pla white"
     },
     {
       "id": "addnorth-rabs-black",
