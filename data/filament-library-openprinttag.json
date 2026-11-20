@@ -2,8 +2,8 @@
   "version": 1,
   "source": "openprinttag",
   "sourceUrl": "https://github.com/OpenPrintTag/openprinttag-database",
-  "lastSynced": "2026-11-19T04:23:41.976Z",
-  "entryCount": 14708,
+  "lastSynced": "2026-11-20T04:24:01.521Z",
+  "entryCount": 14857,
   "entries": [
     {
       "id": "123-3d-abs-bruin",
@@ -8988,6 +8988,598 @@
       "name": "SILK PLA Silver",
       "hex": "#c9d0d4",
       "searchText": "amazonbasics pla silk pla silver"
+    },
+    {
+      "id": "ambrosia-asa-black",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Black",
+      "hex": "#3a353c",
+      "searchText": "ambrosia filament asa asa black"
+    },
+    {
+      "id": "ambrosia-asa-bloody-murder-blood-orange",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Bloody Murder (Blood Orange)",
+      "hex": "#c1261a",
+      "searchText": "ambrosia filament asa asa bloody murder (blood orange)"
+    },
+    {
+      "id": "ambrosia-asa-burnt-orange",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Burnt Orange",
+      "hex": "#f92e08",
+      "searchText": "ambrosia filament asa asa burnt orange"
+    },
+    {
+      "id": "ambrosia-asa-camo-green",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Camo Green",
+      "hex": "#514f1b",
+      "searchText": "ambrosia filament asa asa camo green"
+    },
+    {
+      "id": "ambrosia-asa-camo-olive-drab",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Camo Olive Drab",
+      "hex": "#988334",
+      "searchText": "ambrosia filament asa asa camo olive drab"
+    },
+    {
+      "id": "ambrosia-asa-cardovan",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Cardovan",
+      "hex": "#632531",
+      "searchText": "ambrosia filament asa asa cardovan"
+    },
+    {
+      "id": "ambrosia-asa-creamsicle",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Creamsicle",
+      "hex": "#f59744",
+      "searchText": "ambrosia filament asa asa creamsicle"
+    },
+    {
+      "id": "ambrosia-asa-faded-desert-brown-fde",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Faded Desert Brown FDE",
+      "hex": "#9c876c",
+      "searchText": "ambrosia filament asa asa faded desert brown fde"
+    },
+    {
+      "id": "ambrosia-asa-fluorescent-neon-green",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Fluorescent Neon Green",
+      "hex": "#5ed60e",
+      "searchText": "ambrosia filament asa asa fluorescent neon green"
+    },
+    {
+      "id": "ambrosia-asa-galactic-armored-turtle-green-w-gold-sparkle",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Galactic Armored Turtle Green (w/ Gold Sparkle)",
+      "hex": "#02804c",
+      "searchText": "ambrosia filament asa asa galactic armored turtle green (w/ gold sparkle)"
+    },
+    {
+      "id": "ambrosia-asa-galactic-black",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Galactic Black",
+      "hex": "#332e34",
+      "searchText": "ambrosia filament asa asa galactic black"
+    },
+    {
+      "id": "ambrosia-asa-galactic-burnt-orange-w-gold-sparkle",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Galactic Burnt Orange (w/ Gold Sparkle)",
+      "hex": "#df2b10",
+      "searchText": "ambrosia filament asa asa galactic burnt orange (w/ gold sparkle)"
+    },
+    {
+      "id": "ambrosia-asa-galactic-grape",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Galactic Grape",
+      "hex": "#af3f8d",
+      "searchText": "ambrosia filament asa asa galactic grape"
+    },
+    {
+      "id": "ambrosia-asa-galactic-green",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Galactic Green",
+      "hex": "#6ed579",
+      "searchText": "ambrosia filament asa asa galactic green"
+    },
+    {
+      "id": "ambrosia-asa-galactic-grey",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Galactic Grey",
+      "hex": "#807981",
+      "searchText": "ambrosia filament asa asa galactic grey"
+    },
+    {
+      "id": "ambrosia-asa-galactic-holiday-green-green-w-red-sparkle",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Galactic Holiday Green (Green w/ Red Sparkle)",
+      "hex": "#a5b007",
+      "searchText": "ambrosia filament asa asa galactic holiday green (green w/ red sparkle)"
+    },
+    {
+      "id": "ambrosia-asa-galactic-holiday-red-red-w-green-sparkle",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Galactic Holiday Red (Red w/ Green Sparkle)",
+      "hex": "#f4463a",
+      "searchText": "ambrosia filament asa asa galactic holiday red (red w/ green sparkle)"
+    },
+    {
+      "id": "ambrosia-asa-galactic-hot-pink",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Galactic Hot Pink",
+      "hex": "#f94b8c",
+      "searchText": "ambrosia filament asa asa galactic hot pink"
+    },
+    {
+      "id": "ambrosia-asa-galactic-midnight-meteorite",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Galactic Midnight Meteorite",
+      "hex": "#3f2e79",
+      "searchText": "ambrosia filament asa asa galactic midnight meteorite"
+    },
+    {
+      "id": "ambrosia-asa-galactic-pink",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Galactic Pink",
+      "hex": "#fc75c1",
+      "searchText": "ambrosia filament asa asa galactic pink"
+    },
+    {
+      "id": "ambrosia-asa-galactic-planetary-blue",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Galactic Planetary Blue",
+      "hex": "#35aae6",
+      "searchText": "ambrosia filament asa asa galactic planetary blue"
+    },
+    {
+      "id": "ambrosia-asa-galactic-quadra-teal",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Galactic Quadra Teal",
+      "hex": "#38a5c1",
+      "searchText": "ambrosia filament asa asa galactic quadra teal"
+    },
+    {
+      "id": "ambrosia-asa-galactic-santas-robe-red-w-silver-sparkle",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Galactic Santa's Robe (Red w/ Silver Sparkle)",
+      "hex": "#e82321",
+      "searchText": "ambrosia filament asa asa galactic santa's robe (red w/ silver sparkle)"
+    },
+    {
+      "id": "ambrosia-asa-galactic-stardust",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Galactic Stardust",
+      "hex": "#956eb6",
+      "searchText": "ambrosia filament asa asa galactic stardust"
+    },
+    {
+      "id": "ambrosia-asa-galactic-super-blue",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Galactic Super Blue",
+      "hex": "#4472eb",
+      "searchText": "ambrosia filament asa asa galactic super blue"
+    },
+    {
+      "id": "ambrosia-asa-galactic-super-red",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Galactic Super Red",
+      "hex": "#f9524a",
+      "searchText": "ambrosia filament asa asa galactic super red"
+    },
+    {
+      "id": "ambrosia-asa-galactic-supernova-black",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Galactic Supernova Black",
+      "hex": "#333037",
+      "searchText": "ambrosia filament asa asa galactic supernova black"
+    },
+    {
+      "id": "ambrosia-asa-galactic-voron-red",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Galactic Voron Red",
+      "hex": "#af2125",
+      "searchText": "ambrosia filament asa asa galactic voron red"
+    },
+    {
+      "id": "ambrosia-asa-galactic-yellow",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Galactic Yellow",
+      "hex": "#bdb409",
+      "searchText": "ambrosia filament asa asa galactic yellow"
+    },
+    {
+      "id": "ambrosia-asa-grape",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Grape",
+      "hex": "#c23e9f",
+      "searchText": "ambrosia filament asa asa grape"
+    },
+    {
+      "id": "ambrosia-asa-grey",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Grey",
+      "hex": "#8c928d",
+      "searchText": "ambrosia filament asa asa grey"
+    },
+    {
+      "id": "ambrosia-asa-hot-pink",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Hot Pink",
+      "hex": "#d42359",
+      "searchText": "ambrosia filament asa asa hot pink"
+    },
+    {
+      "id": "ambrosia-asa-midnight-purple",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Midnight Purple",
+      "hex": "#312b7c",
+      "searchText": "ambrosia filament asa asa midnight purple"
+    },
+    {
+      "id": "ambrosia-asa-quadra-teal",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Quadra Teal",
+      "hex": "#05acc4",
+      "searchText": "ambrosia filament asa asa quadra teal"
+    },
+    {
+      "id": "ambrosia-asa-super-blue",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Super Blue",
+      "hex": "#233cb5",
+      "searchText": "ambrosia filament asa asa super blue"
+    },
+    {
+      "id": "ambrosia-asa-super-grey",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Super Grey",
+      "hex": "#484a44",
+      "searchText": "ambrosia filament asa asa super grey"
+    },
+    {
+      "id": "ambrosia-asa-terracotta",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Terracotta",
+      "hex": "#974f2d",
+      "searchText": "ambrosia filament asa asa terracotta"
+    },
+    {
+      "id": "ambrosia-asa-terrestrial-blue",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Terrestrial Blue",
+      "hex": "#29a5ec",
+      "searchText": "ambrosia filament asa asa terrestrial blue"
+    },
+    {
+      "id": "ambrosia-asa-voron-red",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Voron Red",
+      "hex": "#d0222b",
+      "searchText": "ambrosia filament asa asa voron red"
+    },
+    {
+      "id": "ambrosia-asa-west-green",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA West Green",
+      "hex": "#8ebf4c",
+      "searchText": "ambrosia filament asa asa west green"
+    },
+    {
+      "id": "ambrosia-asa-white",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA White",
+      "hex": "#d1c9bc",
+      "searchText": "ambrosia filament asa asa white"
+    },
+    {
+      "id": "ambrosia-asa-yellow",
+      "brand": "Ambrosia Filament",
+      "material": "ASA",
+      "name": "ASA Yellow",
+      "hex": "#fdaa09",
+      "searchText": "ambrosia filament asa asa yellow"
+    },
+    {
+      "id": "ambrosia-pla-black",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA Black",
+      "hex": "#2e292e",
+      "searchText": "ambrosia filament pla pla black"
+    },
+    {
+      "id": "ambrosia-pla-bloody-murder-blood-orange",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA Bloody Murder (Blood Orange)",
+      "hex": "#c1261a",
+      "searchText": "ambrosia filament pla pla bloody murder (blood orange)"
+    },
+    {
+      "id": "ambrosia-pla-blue",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA Blue",
+      "hex": "#2953c9",
+      "searchText": "ambrosia filament pla pla blue"
+    },
+    {
+      "id": "ambrosia-pla-burnt-orange",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA Burnt Orange",
+      "hex": "#f92e08",
+      "searchText": "ambrosia filament pla pla burnt orange"
+    },
+    {
+      "id": "ambrosia-pla-camo-green",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA Camo Green",
+      "hex": "#514f1b",
+      "searchText": "ambrosia filament pla pla camo green"
+    },
+    {
+      "id": "ambrosia-pla-camo-olive-drab",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA Camo Olive Drab",
+      "hex": "#988334",
+      "searchText": "ambrosia filament pla pla camo olive drab"
+    },
+    {
+      "id": "ambrosia-pla-cardovan",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA Cardovan",
+      "hex": "#622229",
+      "searchText": "ambrosia filament pla pla cardovan"
+    },
+    {
+      "id": "ambrosia-pla-creamsicle",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA Creamsicle",
+      "hex": "#f59744",
+      "searchText": "ambrosia filament pla pla creamsicle"
+    },
+    {
+      "id": "ambrosia-pla-faded-desert-brown-fde",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA Faded Desert Brown FDE",
+      "hex": "#9c876c",
+      "searchText": "ambrosia filament pla pla faded desert brown fde"
+    },
+    {
+      "id": "ambrosia-pla-fluorescent-neon-green",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA Fluorescent Neon Green",
+      "hex": "#5ed60e",
+      "searchText": "ambrosia filament pla pla fluorescent neon green"
+    },
+    {
+      "id": "ambrosia-pla-grape",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA Grape",
+      "hex": "#aa1275",
+      "searchText": "ambrosia filament pla pla grape"
+    },
+    {
+      "id": "ambrosia-pla-green",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA Green",
+      "hex": "#79b33c",
+      "searchText": "ambrosia filament pla pla green"
+    },
+    {
+      "id": "ambrosia-pla-grey",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA Grey",
+      "hex": "#42505a",
+      "searchText": "ambrosia filament pla pla grey"
+    },
+    {
+      "id": "ambrosia-pla-hot-pink",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA Hot Pink",
+      "hex": "#d42359",
+      "searchText": "ambrosia filament pla pla hot pink"
+    },
+    {
+      "id": "ambrosia-pla-kb3d-orange",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA KB3D Orange",
+      "hex": "#ffa358",
+      "searchText": "ambrosia filament pla pla kb3d orange"
+    },
+    {
+      "id": "ambrosia-pla-midnight-purple",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA Midnight Purple",
+      "hex": "#312b7c",
+      "searchText": "ambrosia filament pla pla midnight purple"
+    },
+    {
+      "id": "ambrosia-pla-orange",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA Orange",
+      "hex": "#fb6a05",
+      "searchText": "ambrosia filament pla pla orange"
+    },
+    {
+      "id": "ambrosia-pla-pink",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA Pink",
+      "hex": "#d880b4",
+      "searchText": "ambrosia filament pla pla pink"
+    },
+    {
+      "id": "ambrosia-pla-purple",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA Purple",
+      "hex": "#7844a3",
+      "searchText": "ambrosia filament pla pla purple"
+    },
+    {
+      "id": "ambrosia-pla-quadra-teal",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA Quadra Teal",
+      "hex": "#05acc4",
+      "searchText": "ambrosia filament pla pla quadra teal"
+    },
+    {
+      "id": "ambrosia-pla-red",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA Red",
+      "hex": "#da2414",
+      "searchText": "ambrosia filament pla pla red"
+    },
+    {
+      "id": "ambrosia-pla-soft-lavender-matte",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA Soft Lavender Matte",
+      "hex": "#c1a4cd",
+      "searchText": "ambrosia filament pla pla soft lavender matte"
+    },
+    {
+      "id": "ambrosia-pla-soft-turquoise-matte",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA Soft Turquoise Matte",
+      "hex": "#679eb6",
+      "searchText": "ambrosia filament pla pla soft turquoise matte"
+    },
+    {
+      "id": "ambrosia-pla-super-blue",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA Super Blue",
+      "hex": "#0e37ab",
+      "searchText": "ambrosia filament pla pla super blue"
+    },
+    {
+      "id": "ambrosia-pla-super-grey",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA Super Grey",
+      "hex": "#484a44",
+      "searchText": "ambrosia filament pla pla super grey"
+    },
+    {
+      "id": "ambrosia-pla-terracotta",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA Terracotta",
+      "hex": "#974f2d",
+      "searchText": "ambrosia filament pla pla terracotta"
+    },
+    {
+      "id": "ambrosia-pla-terrestrial-blue",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA Terrestrial Blue",
+      "hex": "#0d81c3",
+      "searchText": "ambrosia filament pla pla terrestrial blue"
+    },
+    {
+      "id": "ambrosia-pla-velvet-black-matte",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA Velvet Black (Matte)",
+      "hex": "#282429",
+      "searchText": "ambrosia filament pla pla velvet black (matte)"
+    },
+    {
+      "id": "ambrosia-pla-voron-red",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA Voron Red",
+      "hex": "#e80820",
+      "searchText": "ambrosia filament pla pla voron red"
+    },
+    {
+      "id": "ambrosia-pla-west-green",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA West Green",
+      "hex": "#5fd12f",
+      "searchText": "ambrosia filament pla pla west green"
+    },
+    {
+      "id": "ambrosia-pla-white",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA White",
+      "hex": "#d1c9bc",
+      "searchText": "ambrosia filament pla pla white"
+    },
+    {
+      "id": "ambrosia-pla-yellow",
+      "brand": "Ambrosia Filament",
+      "material": "PLA",
+      "name": "PLA Yellow",
+      "hex": "#e9a723",
+      "searchText": "ambrosia filament pla pla yellow"
     },
     {
       "id": "american-filament-army-green-af-pctg",
@@ -52918,6 +53510,110 @@
       "searchText": "fusion filaments pla silk/satin pla wine 2.0"
     },
     {
+      "id": "geeetech-abs-apple-green",
+      "brand": "Geeetech",
+      "material": "ABS",
+      "name": "ABS+ Apple Green",
+      "hex": "#b4dc59",
+      "searchText": "geeetech abs abs+ apple green"
+    },
+    {
+      "id": "geeetech-abs-black",
+      "brand": "Geeetech",
+      "material": "ABS",
+      "name": "ABS+ Black",
+      "hex": "#282828",
+      "searchText": "geeetech abs abs+ black"
+    },
+    {
+      "id": "geeetech-abs-blue",
+      "brand": "Geeetech",
+      "material": "ABS",
+      "name": "ABS+ Blue",
+      "hex": "#1248bd",
+      "searchText": "geeetech abs abs+ blue"
+    },
+    {
+      "id": "geeetech-abs-green",
+      "brand": "Geeetech",
+      "material": "ABS",
+      "name": "ABS+ Green",
+      "hex": "#25a736",
+      "searchText": "geeetech abs abs+ green"
+    },
+    {
+      "id": "geeetech-abs-grey",
+      "brand": "Geeetech",
+      "material": "ABS",
+      "name": "ABS+ Grey",
+      "hex": "#8a8694",
+      "searchText": "geeetech abs abs+ grey"
+    },
+    {
+      "id": "geeetech-abs-orange",
+      "brand": "Geeetech",
+      "material": "ABS",
+      "name": "ABS+ Orange",
+      "hex": "#f7ac2e",
+      "searchText": "geeetech abs abs+ orange"
+    },
+    {
+      "id": "geeetech-abs-purple",
+      "brand": "Geeetech",
+      "material": "ABS",
+      "name": "ABS+ Purple",
+      "hex": "#a33ed2",
+      "searchText": "geeetech abs abs+ purple"
+    },
+    {
+      "id": "geeetech-abs-red",
+      "brand": "Geeetech",
+      "material": "ABS",
+      "name": "ABS+ Red",
+      "hex": "#dc2c29",
+      "searchText": "geeetech abs abs+ red"
+    },
+    {
+      "id": "geeetech-abs-silver",
+      "brand": "Geeetech",
+      "material": "ABS",
+      "name": "ABS+ Silver",
+      "hex": "#9da0af",
+      "searchText": "geeetech abs abs+ silver"
+    },
+    {
+      "id": "geeetech-abs-skin",
+      "brand": "Geeetech",
+      "material": "ABS",
+      "name": "ABS+ Skin",
+      "hex": "#f8c0a4",
+      "searchText": "geeetech abs abs+ skin"
+    },
+    {
+      "id": "geeetech-abs-water-blue",
+      "brand": "Geeetech",
+      "material": "ABS",
+      "name": "ABS+ Water Blue",
+      "hex": "#20a1f5",
+      "searchText": "geeetech abs abs+ water blue"
+    },
+    {
+      "id": "geeetech-abs-white",
+      "brand": "Geeetech",
+      "material": "ABS",
+      "name": "ABS+ White",
+      "hex": "#dddddf",
+      "searchText": "geeetech abs abs+ white"
+    },
+    {
+      "id": "geeetech-abs-yellow",
+      "brand": "Geeetech",
+      "material": "ABS",
+      "name": "ABS+ Yellow",
+      "hex": "#e8cc23",
+      "searchText": "geeetech abs abs+ yellow"
+    },
+    {
       "id": "geeetech-upgrade-abs-black",
       "brand": "Geeetech",
       "material": "ABS",
@@ -52932,6 +53628,86 @@
       "name": "Upgrade ABS Blue",
       "hex": "#2e56f1",
       "searchText": "geeetech abs upgrade abs blue"
+    },
+    {
+      "id": "geeetech-asa-black",
+      "brand": "Geeetech",
+      "material": "ASA",
+      "name": "ASA Black",
+      "hex": "#242424",
+      "searchText": "geeetech asa asa black"
+    },
+    {
+      "id": "geeetech-asa-blue",
+      "brand": "Geeetech",
+      "material": "ASA",
+      "name": "ASA Blue",
+      "hex": "#4973d8",
+      "searchText": "geeetech asa asa blue"
+    },
+    {
+      "id": "geeetech-asa-green",
+      "brand": "Geeetech",
+      "material": "ASA",
+      "name": "ASA Green",
+      "hex": "#43cb73",
+      "searchText": "geeetech asa asa green"
+    },
+    {
+      "id": "geeetech-asa-grey",
+      "brand": "Geeetech",
+      "material": "ASA",
+      "name": "ASA Grey",
+      "hex": "#626571",
+      "searchText": "geeetech asa asa grey"
+    },
+    {
+      "id": "geeetech-asa-orange",
+      "brand": "Geeetech",
+      "material": "ASA",
+      "name": "ASA Orange",
+      "hex": "#ea8f4e",
+      "searchText": "geeetech asa asa orange"
+    },
+    {
+      "id": "geeetech-asa-purple",
+      "brand": "Geeetech",
+      "material": "ASA",
+      "name": "ASA Purple",
+      "hex": "#7a45c6",
+      "searchText": "geeetech asa asa purple"
+    },
+    {
+      "id": "geeetech-asa-white",
+      "brand": "Geeetech",
+      "material": "ASA",
+      "name": "ASA White",
+      "hex": "#e6e5e3",
+      "searchText": "geeetech asa asa white"
+    },
+    {
+      "id": "geeetech-petg-apple-green",
+      "brand": "Geeetech",
+      "material": "PETG",
+      "name": "PETG Apple Green",
+      "hex": "#aacd25",
+      "searchText": "geeetech petg petg apple green"
+    },
+    {
+      "id": "geeetech-petg-army-green",
+      "brand": "Geeetech",
+      "material": "PETG",
+      "name": "PETG Army Green",
+      "hex": "#2b452e",
+      "searchText": "geeetech petg petg army green"
+    },
+    {
+      "id": "geeetech-petg-beige",
+      "brand": "Geeetech",
+      "material": "PETG",
+      "name": "PETG Beige",
+      "hex": "#b9a279",
+      "searchText": "geeetech petg petg beige"
     },
     {
       "id": "geeetech-petg-black",
@@ -52974,6 +53750,78 @@
       "searchText": "geeetech petg petg green"
     },
     {
+      "id": "geeetech-petg-metal-blue",
+      "brand": "Geeetech",
+      "material": "PETG",
+      "name": "PETG Metal Blue",
+      "hex": "#6aa6be",
+      "searchText": "geeetech petg petg metal blue"
+    },
+    {
+      "id": "geeetech-petg-metal-brown",
+      "brand": "Geeetech",
+      "material": "PETG",
+      "name": "PETG Metal Brown",
+      "hex": "#c6a971",
+      "searchText": "geeetech petg petg metal brown"
+    },
+    {
+      "id": "geeetech-petg-metal-gold",
+      "brand": "Geeetech",
+      "material": "PETG",
+      "name": "PETG Metal Gold",
+      "hex": "#9d8149",
+      "searchText": "geeetech petg petg metal gold"
+    },
+    {
+      "id": "geeetech-petg-metal-green",
+      "brand": "Geeetech",
+      "material": "PETG",
+      "name": "PETG Metal Green",
+      "hex": "#72a66b",
+      "searchText": "geeetech petg petg metal green"
+    },
+    {
+      "id": "geeetech-petg-metal-pink",
+      "brand": "Geeetech",
+      "material": "PETG",
+      "name": "PETG Metal Pink",
+      "hex": "#c50426",
+      "searchText": "geeetech petg petg metal pink"
+    },
+    {
+      "id": "geeetech-petg-metal-purple",
+      "brand": "Geeetech",
+      "material": "PETG",
+      "name": "PETG Metal Purple",
+      "hex": "#b18acc",
+      "searchText": "geeetech petg petg metal purple"
+    },
+    {
+      "id": "geeetech-petg-metal-rose-gold",
+      "brand": "Geeetech",
+      "material": "PETG",
+      "name": "PETG Metal Rose Gold",
+      "hex": "#b28c66",
+      "searchText": "geeetech petg petg metal rose gold"
+    },
+    {
+      "id": "geeetech-petg-metal-silver",
+      "brand": "Geeetech",
+      "material": "PETG",
+      "name": "PETG Metal Silver",
+      "hex": "#85868a",
+      "searchText": "geeetech petg petg metal silver"
+    },
+    {
+      "id": "geeetech-petg-olive-green",
+      "brand": "Geeetech",
+      "material": "PETG",
+      "name": "PETG Olive Green",
+      "hex": "#65a30d",
+      "searchText": "geeetech petg petg olive green"
+    },
+    {
       "id": "geeetech-petg-orange",
       "brand": "Geeetech",
       "material": "PETG",
@@ -52998,6 +53846,14 @@
       "searchText": "geeetech petg petg purple"
     },
     {
+      "id": "geeetech-petg-red",
+      "brand": "Geeetech",
+      "material": "PETG",
+      "name": "PETG Red",
+      "hex": "#c31f2c",
+      "searchText": "geeetech petg petg red"
+    },
+    {
       "id": "geeetech-petg-silver",
       "brand": "Geeetech",
       "material": "PETG",
@@ -53006,12 +53862,84 @@
       "searchText": "geeetech petg petg silver"
     },
     {
+      "id": "geeetech-petg-skin",
+      "brand": "Geeetech",
+      "material": "PETG",
+      "name": "PETG Skin",
+      "hex": "#c19482",
+      "searchText": "geeetech petg petg skin"
+    },
+    {
       "id": "geeetech-petg-transparent",
       "brand": "Geeetech",
       "material": "PETG",
       "name": "PETG Transparent",
       "hex": "#e4e7e5",
       "searchText": "geeetech petg petg transparent"
+    },
+    {
+      "id": "geeetech-petg-transparent-blue",
+      "brand": "Geeetech",
+      "material": "PETG",
+      "name": "PETG Transparent Blue",
+      "hex": "#55a2ec",
+      "searchText": "geeetech petg petg transparent blue"
+    },
+    {
+      "id": "geeetech-petg-transparent-emerald-green",
+      "brand": "Geeetech",
+      "material": "PETG",
+      "name": "PETG Transparent Emerald Green",
+      "hex": "#168237",
+      "searchText": "geeetech petg petg transparent emerald green"
+    },
+    {
+      "id": "geeetech-petg-transparent-grey",
+      "brand": "Geeetech",
+      "material": "PETG",
+      "name": "PETG Transparent Grey",
+      "hex": "#9ca3af",
+      "searchText": "geeetech petg petg transparent grey"
+    },
+    {
+      "id": "geeetech-petg-transparent-orange",
+      "brand": "Geeetech",
+      "material": "PETG",
+      "name": "PETG Transparent Orange",
+      "hex": "#fa4422",
+      "searchText": "geeetech petg petg transparent orange"
+    },
+    {
+      "id": "geeetech-petg-transparent-pink",
+      "brand": "Geeetech",
+      "material": "PETG",
+      "name": "PETG Transparent Pink",
+      "hex": "#ebada8",
+      "searchText": "geeetech petg petg transparent pink"
+    },
+    {
+      "id": "geeetech-petg-transparent-purple",
+      "brand": "Geeetech",
+      "material": "PETG",
+      "name": "PETG Transparent Purple",
+      "hex": "#b98ddb",
+      "searchText": "geeetech petg petg transparent purple"
+    },
+    {
+      "id": "geeetech-petg-transparent-red",
+      "brand": "Geeetech",
+      "material": "PETG",
+      "name": "PETG Transparent Red",
+      "hex": "#ef483a",
+      "searchText": "geeetech petg petg transparent red"
+    },
+    {
+      "id": "geeetech-petg-water-blue",
+      "brand": "Geeetech",
+      "material": "PETG",
+      "name": "PETG Water Blue",
+      "hex": "#219bc9",
+      "searchText": "geeetech petg petg water blue"
     },
     {
       "id": "geeetech-petg-white",
@@ -53228,6 +54156,14 @@
       "name": "PLA Purple",
       "hex": "#8846ae",
       "searchText": "geeetech pla pla purple"
+    },
+    {
+      "id": "geeetech-pla-red",
+      "brand": "Geeetech",
+      "material": "PLA",
+      "name": "PLA Red",
+      "hex": "#da2f33",
+      "searchText": "geeetech pla pla red"
     },
     {
       "id": "geeetech-pla-transparent",
@@ -53468,6 +54404,94 @@
       "name": "TPU Clear",
       "hex": "#e4e7e5",
       "searchText": "geeetech tpu tpu clear"
+    },
+    {
+      "id": "geeetech-tpu-green",
+      "brand": "Geeetech",
+      "material": "TPU",
+      "name": "TPU Green",
+      "hex": "#5deb1f",
+      "searchText": "geeetech tpu tpu green"
+    },
+    {
+      "id": "geeetech-tpu-silver",
+      "brand": "Geeetech",
+      "material": "TPU",
+      "name": "TPU Silver",
+      "hex": "#626669",
+      "searchText": "geeetech tpu tpu silver"
+    },
+    {
+      "id": "geeetech-tpu-transparent-blue",
+      "brand": "Geeetech",
+      "material": "TPU",
+      "name": "TPU Transparent Blue",
+      "hex": "#0c277e",
+      "searchText": "geeetech tpu tpu transparent blue"
+    },
+    {
+      "id": "geeetech-tpu-transparent-brown",
+      "brand": "Geeetech",
+      "material": "TPU",
+      "name": "TPU Transparent Brown",
+      "hex": "#543118",
+      "searchText": "geeetech tpu tpu transparent brown"
+    },
+    {
+      "id": "geeetech-tpu-transparent-green",
+      "brand": "Geeetech",
+      "material": "TPU",
+      "name": "TPU Transparent Green",
+      "hex": "#10b90a",
+      "searchText": "geeetech tpu tpu transparent green"
+    },
+    {
+      "id": "geeetech-tpu-transparent-orange",
+      "brand": "Geeetech",
+      "material": "TPU",
+      "name": "TPU Transparent Orange",
+      "hex": "#bd330b",
+      "searchText": "geeetech tpu tpu transparent orange"
+    },
+    {
+      "id": "geeetech-tpu-transparent-pink",
+      "brand": "Geeetech",
+      "material": "TPU",
+      "name": "TPU Transparent Pink",
+      "hex": "#a7257b",
+      "searchText": "geeetech tpu tpu transparent pink"
+    },
+    {
+      "id": "geeetech-tpu-transparent-purple",
+      "brand": "Geeetech",
+      "material": "TPU",
+      "name": "TPU Transparent Purple",
+      "hex": "#ce09ad",
+      "searchText": "geeetech tpu tpu transparent purple"
+    },
+    {
+      "id": "geeetech-tpu-transparent-red",
+      "brand": "Geeetech",
+      "material": "TPU",
+      "name": "TPU Transparent Red",
+      "hex": "#9f171a",
+      "searchText": "geeetech tpu tpu transparent red"
+    },
+    {
+      "id": "geeetech-tpu-transparent-yellow",
+      "brand": "Geeetech",
+      "material": "TPU",
+      "name": "TPU Transparent Yellow",
+      "hex": "#b8b90c",
+      "searchText": "geeetech tpu tpu transparent yellow"
+    },
+    {
+      "id": "geeetech-tpu-yellow",
+      "brand": "Geeetech",
+      "material": "TPU",
+      "name": "TPU Yellow",
+      "hex": "#d7e002",
+      "searchText": "geeetech tpu tpu yellow"
     },
     {
       "id": "gizmo-dorks-abs-beige",
@@ -65734,12 +66758,100 @@
       "searchText": "nobufil petg petg yellow"
     },
     {
+      "id": "nobufil-pla-black",
+      "brand": "Nobufil",
+      "material": "PLA",
+      "name": "PLA Black",
+      "hex": "#000000",
+      "searchText": "nobufil pla pla black"
+    },
+    {
+      "id": "nobufil-pla-white",
+      "brand": "Nobufil",
+      "material": "PLA",
+      "name": "PLA White",
+      "hex": "#ffffff",
+      "searchText": "nobufil pla pla white"
+    },
+    {
+      "id": "nobufil-plax-astro-black",
+      "brand": "Nobufil",
+      "material": "PLA",
+      "name": "PLAx Astro Black",
+      "hex": "#000000",
+      "searchText": "nobufil pla plax astro black"
+    },
+    {
+      "id": "nobufil-plax-cf-anthracite",
+      "brand": "Nobufil",
+      "material": "PLA",
+      "name": "PLAx CF Anthracite",
+      "hex": "#44494b",
+      "searchText": "nobufil pla plax cf anthracite"
+    },
+    {
       "id": "nobufil-plax-cf-black",
       "brand": "Nobufil",
       "material": "PLA",
       "name": "PLAx CF Black",
       "hex": "#000000",
       "searchText": "nobufil pla plax cf black"
+    },
+    {
+      "id": "nobufil-plax-gf-white",
+      "brand": "Nobufil",
+      "material": "PLA",
+      "name": "PLAx GF White",
+      "hex": "#ffffff",
+      "searchText": "nobufil pla plax gf white"
+    },
+    {
+      "id": "nobufil-plax-lw-classic-grey",
+      "brand": "Nobufil",
+      "material": "PLA",
+      "name": "PLAx LW Classic Grey",
+      "hex": "#c6c0af",
+      "searchText": "nobufil pla plax lw classic grey"
+    },
+    {
+      "id": "nobufil-plax-lw-natural",
+      "brand": "Nobufil",
+      "material": "PLA",
+      "name": "PLAx LW Natural",
+      "hex": "#e7cf8d",
+      "searchText": "nobufil pla plax lw natural"
+    },
+    {
+      "id": "nobufil-plax-lw-white",
+      "brand": "Nobufil",
+      "material": "PLA",
+      "name": "PLAx LW White",
+      "hex": "#cfc4a8",
+      "searchText": "nobufil pla plax lw white"
+    },
+    {
+      "id": "nobufil-plax-matt-artist-grey",
+      "brand": "Nobufil",
+      "material": "PLA",
+      "name": "PLAx Matt Artist Grey",
+      "hex": "#a0a6a1",
+      "searchText": "nobufil pla plax matt artist grey"
+    },
+    {
+      "id": "nobufil-plax-matt-black",
+      "brand": "Nobufil",
+      "material": "PLA",
+      "name": "PLAx Matt Black",
+      "hex": "#000000",
+      "searchText": "nobufil pla plax matt black"
+    },
+    {
+      "id": "nobufil-plax-matt-white",
+      "brand": "Nobufil",
+      "material": "PLA",
+      "name": "PLAx Matt White",
+      "hex": "#ffffff",
+      "searchText": "nobufil pla plax matt white"
     },
     {
       "id": "noctuo-abs-black",
@@ -115964,6 +117076,86 @@
       "name": "PP White",
       "hex": "#f5f5f5",
       "searchText": "winkle pp pp white"
+    },
+    {
+      "id": "yxpolyer-asa-brown-beige",
+      "brand": "YXPOLYER",
+      "material": "ASA",
+      "name": "ASA Brown Beige",
+      "hex": "#967759",
+      "searchText": "yxpolyer asa asa brown beige"
+    },
+    {
+      "id": "yxpolyer-asa-grey-beige",
+      "brand": "YXPOLYER",
+      "material": "ASA",
+      "name": "ASA Grey Beige",
+      "hex": "#948b7f",
+      "searchText": "yxpolyer asa asa grey beige"
+    },
+    {
+      "id": "yxpolyer-asa-lavender-purple",
+      "brand": "YXPOLYER",
+      "material": "ASA",
+      "name": "ASA Lavender Purple",
+      "hex": "#9c89bd",
+      "searchText": "yxpolyer asa asa lavender purple"
+    },
+    {
+      "id": "yxpolyer-asa-lemon-yellow",
+      "brand": "YXPOLYER",
+      "material": "ASA",
+      "name": "ASA Lemon Yellow",
+      "hex": "#c8b75b",
+      "searchText": "yxpolyer asa asa lemon yellow"
+    },
+    {
+      "id": "yxpolyer-asa-light-ivory",
+      "brand": "YXPOLYER",
+      "material": "ASA",
+      "name": "ASA Light Ivory",
+      "hex": "#d4c9ba",
+      "searchText": "yxpolyer asa asa light ivory"
+    },
+    {
+      "id": "yxpolyer-asa-mint-green",
+      "brand": "YXPOLYER",
+      "material": "ASA",
+      "name": "ASA Mint Green",
+      "hex": "#8dd0cd",
+      "searchText": "yxpolyer asa asa mint green"
+    },
+    {
+      "id": "yxpolyer-asa-misty-blue",
+      "brand": "YXPOLYER",
+      "material": "ASA",
+      "name": "ASA Misty Blue",
+      "hex": "#5e88a9",
+      "searchText": "yxpolyer asa asa misty blue"
+    },
+    {
+      "id": "yxpolyer-asa-olive-green",
+      "brand": "YXPOLYER",
+      "material": "ASA",
+      "name": "ASA Olive Green",
+      "hex": "#474e3a",
+      "searchText": "yxpolyer asa asa olive green"
+    },
+    {
+      "id": "yxpolyer-asa-purple",
+      "brand": "YXPOLYER",
+      "material": "ASA",
+      "name": "ASA Purple",
+      "hex": "#735aa5",
+      "searchText": "yxpolyer asa asa purple"
+    },
+    {
+      "id": "yxpolyer-asa-sand-yellow",
+      "brand": "YXPOLYER",
+      "material": "ASA",
+      "name": "ASA Sand Yellow",
+      "hex": "#c8bb85",
+      "searchText": "yxpolyer asa asa sand yellow"
     },
     {
       "id": "ziro-3d-carbon-fiber-pla-black",
